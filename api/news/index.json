@@ -1,0 +1,1289 @@
+{
+  "page": 1,
+  "value": [
+    {
+      "path": "_news/2021-05-25-microsoft-uses-gpt-3-to-add-ai-features-to-power-apps.md",
+      "title": "Microsoft uses GPT-3 to add AI features to Power Apps",
+      "excerpt": "Microsoft says it's bringing OpenAI's language model, GPT-3, to its Power Apps platform for the purpose of generating formulas.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/25/microsoft-uses-gpt-3-to-add-ai-features-to-power-apps/",
+      "originalUrl": "https://venturebeat.com/2021/05/25/microsoft-uses-gpt-3-to-add-ai-features-to-power-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/25/microsoft-uses-gpt-3-to-add-ai-features-to-power-apps/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/25/microsoft-uses-gpt-3-to-add-ai-features-to-power-apps/amp/",
+      "publishedDateTime": "2021-05-25T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-power-automate-and-power-apps-get-new-tools-and-insights.md",
+      "title": "Power Automate and Power Apps get new tools and insights",
+      "excerpt": "A new process mining capability for Power Automate enables paves the path for automation insights, while new professional development tools lead the way for Power Apps in the Power Platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/power-automate-and-power-apps-get-new-tools-and-insights/",
+      "originalUrl": "https://www.neowin.net/news/power-automate-and-power-apps-get-new-tools-and-insights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2021/05/1621941219_power_apps_and_power_automate_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-power-apps-portals-introducing-power-virtual-agents-integration-using-chatbot-component-public-preview.md",
+      "title": "Power Apps portals: Introducing Power Virtual Agents integration using “Chatbot” component (public preview)",
+      "excerpt": "Power Apps portals allows you to add a Power Virtual Agents chatbot to answer questions posted by a visitor on your portal page. A chatbot (bot) configured with different topics, and trigger phrases, can automatically respond to questions posted by a visitor in a chat conversation.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-portals-introducing-power-virtual-agents-integration-using-chatbot-component-public-preview/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-portals-introducing-power-virtual-agents-integration-using-chatbot-component-public-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Portals"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-introducing-power-apps-ideas-ai-powered-assistance-now-helps-anyone-create-apps-using-natural-language.md",
+      "title": "Introducing Power Apps Ideas: AI-powered assistance now helps anyone create apps using natural language",
+      "excerpt": "The ultimate low-code app building experience is one where you describe in plain language what you want an app to do, and in an instant that app is created for you.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/introducing-power-apps-ideas-ai-powered-assistance-now-helps-anyone-create-apps-using-natural-language/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/introducing-power-apps-ideas-ai-powered-assistance-now-helps-anyone-create-apps-using-natural-language/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T00:55:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-power-fx-coming-to-model-driven-power-apps-dataverse-and-more.md",
+      "title": "Power Fx coming to Model-driven Power Apps, Dataverse, and more",
+      "excerpt": "Announcing Power Fx integration with Model-driven Power Apps commanding and Dataverse calculated columns and rollups.  We have also partnered with Acumatica to evaluate how Power Fx can be leveraged with the low code/no code experience they offer to their customers.  And finally we have an update on",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/power-fx-coming-to-model-driven-power-apps-dataverse-and-more/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/power-fx-coming-to-model-driven-power-apps-dataverse-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T00:50:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_news/2021-05-24-three-new-power-apps-solutions-to-enhance-information-discovery-and-create-more-inclusive-organizations.md",
+      "title": "Three new Power Apps Solutions to enhance information discovery and create more inclusive organizations",
+      "excerpt": "We are excited to announce the preview release of three new Power Apps Solutions on Dataverse for Teams: Profile+, Boards, and Perspectives. These apps are an addition to the series of extendable sample apps such as Employee Ideas, Inspections, Issue Reporting, Bulletins, and Milestones. These template",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/enhance-information-discovery-and-create-more-inclusive-organizations-with-three-new-power-apps-solutions/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/enhance-information-discovery-and-create-more-inclusive-organizations-with-three-new-power-apps-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-24T15:41:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_news/2021-05-23-spanish-business-apps-summit-june-4th-and-5th.md",
+      "title": "Spanish Business Apps Summit June 4th and 5th",
+      "excerpt": "The Spanish Business Apps Summit is the collaboration of Power Platform and Dynamics community members, Microsoft Staff, 65 Community Speakers and local user groups to offer two days of bilingual Spanish content. https://bizzsummit.es/",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/spanish-business-apps-summit-june-4th-and-5th/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/spanish-business-apps-summit-june-4th-and-5th/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-23T02:45:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_news/2021-05-21-add-your-canvas-apps-to-microsoft-teams.md",
+      "title": "Add your canvas apps to Microsoft Teams",
+      "excerpt": "In Nov&#8217;19, we introduced a way to add your canvas apps to Microsoft Teams. Since we added this capability, we&#8217;ve seen several of you take advantage of it to bring personal productivity apps to Teams. Starting this week, we&#8217;re simplifying this experience further by eliminating the need",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/add-your-canvas-apps-to-microsoft-teams/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/add-your-canvas-apps-to-microsoft-teams/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2021/05/side-panel.png",
+          "width": 2786,
+          "height": 1718,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-21T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Canvas apps",
+        "Teams integration"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-general-availability-of-the-sap-erp-connector.md",
+      "title": "General availability of the SAP ERP connector",
+      "excerpt": "We are announcing the general availability of the SAP ERP connector for Power Apps and Power Automate. We also plan to release an ODATA connector as well.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/general-availability-of-the-sap-erp-connector/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/general-availability-of-the-sap-erp-connector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-18T03:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_news/2021-05-08-2021-power-apps-demo-extravaganza-open-for-submission-may-10.md",
+      "title": "2021 Power Apps demo extravaganza open for submission May 10",
+      "excerpt": " &#8220;Demo Extravaganza&#8221; is an incredibly fun community event where the contributors submits samples,  community votes on which samples they want to see more of and have the top three authors show how their sample were built, best practices employed and challenges they overcame!\r\n\r\nIf you want",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/2021-power-apps-demo-extravaganza-open-for-submission-may-10/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/2021-power-apps-demo-extravaganza-open-for-submission-may-10/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-08T01:55:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-portals-support-for-power-apps-cli-public-preview.md",
+      "title": "Portals support for Power Apps CLI (public preview)",
+      "excerpt": "Power Apps CLI tooling is the first step toward a comprehensive application life-cycle management (ALM) story where the enterprise developers and ISVs can create, build, debug, and publish their extensions and customizations quickly and efficiently. More information: What is Microsoft Power Apps CLI?\r\n\r\nWith",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/portals-support-for-power-apps-cli-public-preview/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/portals-support-for-power-apps-cli-public-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-05T00:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Portals"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-microsoft-fleshes-out-power-apps.md",
+      "title": "Microsoft fleshes out Power Apps",
+      "excerpt": "Cloud-hosted low-code development platform adds custom pages, organization-wide app sharing, and an app designer for building model-driven apps from tables, charts, forms, and other components.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3617869/microsoft-fleshes-out-power-apps.html",
+      "originalUrl": "https://www.infoworld.com/article/3617869/microsoft-fleshes-out-power-apps.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/02/electrical_tower_structure_lines_connections_network_power_electricity_by_shane_rounce_cc0_via_unsplash_2400x1600-100788531-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3617869/microsoft-fleshes-out-power-apps.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3617869/microsoft-fleshes-out-power-apps.amp.html",
+      "publishedDateTime": "2021-05-04T17:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-increased-alternate-key-limits.md",
+      "title": "Increased Alternate Key Limits",
+      "excerpt": "Dataverse is increasing the limits for Alternate Keys (previously known as Entity Keys). Prior to this change, each table was limited to 5 alternate keys. ",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/increased-alternate-key-limits/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/increased-alternate-key-limits/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-04T03:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-better-together-introducing-custom-pages-and-the-modern-app-designer.md",
+      "title": "Better together: introducing Custom Pages and the Modern App Designer",
+      "excerpt": "Today at the Microsoft Business Applications Summit, we&#8217;re showing off a big step forward for the unification of the platform. Bring the full flexibility of the Power Apps canvas &#8211; from unlimited UX control to hundreds of data sources &#8211; directly into model-driven applications as a custom",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/better-together-introducing-custom-pages-and-the-modern-app-designer/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/better-together-introducing-custom-pages-and-the-modern-app-designer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2021/05/2021-05-04_10h27_54.png",
+          "width": 1897,
+          "height": 967,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-04T03:00:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-how-to-run-a-manufacturing-facility-using-the-one-microsoft-cloud.md",
+      "title": "How to Run a Manufacturing Facility Using the One Microsoft Cloud",
+      "excerpt": "A manufacturing plant using Microsoft Power Platform to solve machine monitoring and servicing. ",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/how-to-run-a-manufacturing-facility-using-the-one-microsoft-cloud/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/how-to-run-a-manufacturing-facility-using-the-one-microsoft-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2021/04/manufacturing_demo.png",
+          "width": 886,
+          "height": 505,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-29T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_news/2021-04-28-join-us-for-microsoft-business-applications-summit-may-4th-2021.md",
+      "title": "Join us for Microsoft Business Applications Summit! May 4th, 2021",
+      "excerpt": "Join CVP, Charles Lamanna, and Ryan Cunningham, and the Power Apps Team on May 4th, 2021 at Microsoft Business Applications Summit!",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/join-us-for-microsoft-business-applications-summit-may-4th-2021/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/join-us-for-microsoft-business-applications-summit-may-4th-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-28T00:03:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_news/2021-04-27-improve-data-density-with-high-density-headers-in-model-driven-apps.md",
+      "title": "Improve data density with High-Density Headers in model-driven apps.",
+      "excerpt": "Build high productive forms with High-Density form headers.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/improve-data-density-with-high-density-headers-in-model-driven-apps/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/improve-data-density-with-high-density-headers-in-model-driven-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-27T04:59:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Model-driven apps"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-updates-to-the-azure-file-storage-and-excel-online-business-connectors.md",
+      "title": "Updates to the Azure File Storage and Excel Online (Business) connectors",
+      "excerpt": "Azure File Storage and Excel Online (Business) Connector upgrade",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/updates-to-the-azure-file-storage-and-excel-online-business-connectors/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/updates-to-the-azure-file-storage-and-excel-online-business-connectors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-19T08:53:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_news/2021-04-18-april-2021-power-apps-community-call-persistent-apps-in-teams-tabs-custom-functions-libraries-and-gestalt-design-principles.md",
+      "title": "April 2021 Power Apps Community Call: persistent apps in Teams tabs, custom functions libraries and gestalt design principles",
+      "excerpt": "The April Power Apps community call will be covering: &#8216;Make your Power Apps sessions persistent when switching Teams tabs!&#8217;. Power Apps custom Functions Library and Rory Neary will deliver the final technical session on Make your Power Apps user experience awesome with Gestalt design principles.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/april-2021-power-apps-community-call-persistent-apps-in-teams-tabs-custom-functions-libraries-and-gestalt-design-principles/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/april-2021-power-apps-community-call-persistent-apps-in-teams-tabs-custom-functions-libraries-and-gestalt-design-principles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-18T02:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Teams integration"
+      ]
+    },
+    {
+      "path": "_news/2021-04-14-product-update-fo-apps-now-available-in-isv-studio.md",
+      "title": "Product Update: FO apps now available in ISV Studio!",
+      "excerpt": "ISV Studio is a technical benefit of the ISV Connect program and is designed to be the platform that allows an ISV to monitor the success of their published apps",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/product-update-fo-apps-now-available-in-isv-studio/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/product-update-fo-apps-now-available-in-isv-studio/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-14T05:52:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_news/2021-04-14-announcing-data-source-environment-variables.md",
+      "title": "Announcing data source environment variables",
+      "excerpt": "Today we&#8217;re excited to announce a vast new set of capabilities that provide enterprise grade application lifecycle management for the data sources used within canvas apps and cloud flows. Environment variables are now natively built into authoring experiences across canvas apps and flows as well",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-data-source-environment-variables/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-data-source-environment-variables/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-14T01:00:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-now-available-coe-starter-kit-in-dataverse-for-teams-and-other-improvements.md",
+      "title": "Now available: CoE Starter Kit in Dataverse for Teams (and other improvements)",
+      "excerpt": "We are excited to announce that the CoE Starter Kit can now be installed in Dataverse for Teams environments. You can now make the Admin, Governance and Nurture templates in the kit a core part of your collaboration with admins, makers and end users in Teams.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/now-available-coe-starter-kit-in-dataverse-for-teams-and-other-improvements/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/now-available-coe-starter-kit-in-dataverse-for-teams-and-other-improvements/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-08T04:31:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Teams integration"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-power-apps-portals-start-using-code-components-with-portals-preview.md",
+      "title": "Power Apps portals: Start using code components with portals (Preview)",
+      "excerpt": "Power Apps component framework support is now extended to Power Apps portals for field type of code components. This feature is currently available as public preview starting with portal 9.3.3.x update and starter portal package version 9.2.2103.x",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-portals-start-using-code-components-with-portals-preview/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-portals-start-using-code-components-with-portals-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-06T00:59:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Portals"
+      ]
+    },
+    {
+      "path": "_news/2021-04-05-power-apps-mixed-reality-components-general-availability.md",
+      "title": "Power Apps Mixed Reality Components General Availability",
+      "excerpt": "Power Apps Mixed Reality components are now generally available! Communicate better with 3D models / images, take measurements, and validate fit before work begins leveraging the native capabilities of your mobile device within the context of your Power Apps apps",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-mixed-reality-components-general-availability/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-mixed-reality-components-general-availability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-05T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-search-quick-actions-are-now-customizable-in-model-driven-power-apps.md",
+      "title": "Search quick actions are now customizable in model-driven Power Apps",
+      "excerpt": "With the addition of quick actions to the new global search experience, discovering and acting on information in model-driven apps is a lot easier. Quick actions are evolving to be configurable, so you can extend them in ways that is useful for your unique scenarios.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/search-quick-actions-are-now-customizable-in-model-driven-power-apps/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/search-quick-actions-are-now-customizable-in-model-driven-power-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-01T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    }
+  ],
+  "nextPage": 2
+}

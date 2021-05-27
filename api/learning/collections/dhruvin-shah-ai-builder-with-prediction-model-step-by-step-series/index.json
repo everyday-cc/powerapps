@@ -1,0 +1,132 @@
+{
+  "title": "AI Builder with Prediction Model - Step by Step Series",
+  "path": "_learning/collections/dhruvin-shah-ai-builder-with-prediction-model-step-by-step-series.md",
+  "page": 1,
+  "value": [
+    {
+      "path": "_learning/videos/dhruvin-shah-get-started-with-ai-builder-prediction-model-using-power-apps-canvas-app-through-power-automate.md",
+      "title": "Get Started with AI Builder Prediction Model Using Power Apps Canvas App through Power Automate",
+      "excerpt": "AI Builder - Prediction Model - Step by Step Series  Welcome to Power Platform AI Builder Series. In this series, we will be talking about one of the most important components of AI Builder which is – Prediction Model   During the first part of the series, we will be talking about What is Prediction",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-get-started-with-ai-builder-prediction-model-using-power-apps-canvas-app-through-power-automate/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-get-started-with-ai-builder-prediction-model-using-power-apps-canvas-app-through-power-automate/",
+      "originalUrl": "https://youtube.com/watch?v=dO9n7LWWtXk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dO9n7LWWtXk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M13S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-05-17T01:39:13-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dO9n7LWWtXk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-building-cds-model-to-build-prediction-ai-model-using-ai-builder-part-two.md",
+      "title": "Building CDS Model to Build Prediction AI Model using AI Builder – Part Two",
+      "excerpt": "Welcome to Power Platform AI Builder Series. In this series, we will be talking about one of the most important components of AI Builder which is – Prediction Model   During the first part of the series, we will be talking about What is Prediction and how it is useful with our business data to predict",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-building-cds-model-to-build-prediction-ai-model-using-ai-builder-part-two/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-building-cds-model-to-build-prediction-ai-model-using-ai-builder-part-two/",
+      "originalUrl": "https://youtube.com/watch?v=zPliS2MezA8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zPliS2MezA8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M35S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-05-17T01:51:09-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/zPliS2MezA8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-how-to-build-train-and-publish-prediction-model-using-ai-builder-part-3.md",
+      "title": "How to Build, Train and Publish Prediction Model using AI Builder? – Part 3",
+      "excerpt": "Welcome to Power Platform AI Builder Series. In this series, we will be talking about one of the most important components of AI Builder which is – Prediction Model   During the first part of the series, we will be talking about What is Prediction and how it is useful with our business data to predict",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-how-to-build-train-and-publish-prediction-model-using-ai-builder-part-3/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-how-to-build-train-and-publish-prediction-model-using-ai-builder-part-3/",
+      "originalUrl": "https://youtube.com/watch?v=m0g7tH8xXms",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/m0g7tH8xXms\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M46S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-05-17T01:57:41-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/m0g7tH8xXms/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-use-your-prediction-ai-model-to-predict-the-future-data-using-power-apps-and-power-automate-part-4.md",
+      "title": "Use your Prediction AI Model to Predict the Future Data Using Power Apps and Power Automate – Part 4",
+      "excerpt": "Welcome to Power Platform AI Builder Series. In this series, we will be talking about one of the most important components of AI Builder which is – Prediction Model   During the first part of the series, we will be talking about What is Prediction and how it is useful with our business data to predict",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-use-your-prediction-ai-model-to-predict-the-future-data-using-power-apps-and-power-automate-part-4/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-use-your-prediction-ai-model-to-predict-the-future-data-using-power-apps-and-power-automate-part-4/",
+      "originalUrl": "https://youtube.com/watch?v=dDHl1IvcJXA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dDHl1IvcJXA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M58S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-05-17T02:00:41-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dDHl1IvcJXA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    }
+  ]
+}

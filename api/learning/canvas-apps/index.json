@@ -1,0 +1,1813 @@
+{
+  "title": "Learning Resources",
+  "path": "_learning",
+  "page": 1,
+  "value": [
+    {
+      "path": "_learning/collections/microsoft-learn-master-advanced-techniques-for-power-apps-canvas-apps.md",
+      "title": "Master advanced techniques for Power Apps canvas apps",
+      "excerpt": "Do you want to make sure your app is the best it can be? This learning path will help you use advanced formulas and perform custom updates. It will also focus on performance checks and testing.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/collections/microsoft-learn-master-advanced-techniques-for-power-apps-canvas-apps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/collections/microsoft-learn-master-advanced-techniques-for-power-apps-canvas-apps/",
+      "length": "PT2H35M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-use-imperative-dev-techniques.md",
+          "title": "Use imperative development techniques for canvas apps in Power Apps",
+          "excerpt": "Learn how to use imperative vs. declarative development.",
+          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-use-imperative-dev-techniques/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-imperative-dev-techniques-powerapps-canvas-app/",
+          "length": "PT46M",
+          "ratings": {
+            "count": 519,
+            "average": 4.7206163
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Advanced"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/use-imperative-dev-techniques-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "Canvas apps"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-author-advanced-formulas.md",
+          "title": "Author an advanced formula that uses tables, records, and collections in a canvas app in Power Apps",
+          "excerpt": "Do you have need for a complex formula in your app? This module can help you author that formula.",
+          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-author-advanced-formulas/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/author-advanced-formulas-powerapps/",
+          "length": "PT32M",
+          "ratings": {
+            "count": 441,
+            "average": 4.628118
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Advanced"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/author-advanced-formulas-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "Canvas apps"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-perform-custom-updates.md",
+          "title": "Perform custom updates in a Power Apps canvas app",
+          "excerpt": "With some Power Apps canvas apps, a form is not the solution.  This module will focus on how to perform custom updates when your data is not in a form.",
+          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-perform-custom-updates/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-custom-updates-powerapps-canvas-app/",
+          "length": "PT38M",
+          "ratings": {
+            "count": 373,
+            "average": 4.699732
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/perform-custom-updates-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "Canvas apps"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-testing-performance-checks.md",
+          "title": "Complete testing and performance checks in a Power Apps canvas app",
+          "excerpt": "Do you want to test your app and improve it's performance? This module will help you understand how to test an app and improve performance.",
+          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-testing-performance-checks/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/testing-performance-checks-powerapps/",
+          "length": "PT39M",
+          "ratings": {
+            "count": 383,
+            "average": 4.7336817
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Advanced"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/testing-performance-checks-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "Canvas apps"
+          ]
+        }
+      ],
+      "size": 4,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/use-imperative-dev-techniques-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-build-app-solution.md",
+      "title": "How to build a canvas app",
+      "excerpt": "How to build a canvas app",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-build-app-solution/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-app-solution/",
+      "length": "PT21M",
+      "ratings": {
+        "count": 4274,
+        "average": 4.709406
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/build-app-solution-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-power-apps-tutorial-for-beginner-the-complete-step-by-step-guide-to-start-power-apps-canvas-app.md",
+      "title": "Power Apps Tutorial for Beginner | The Complete Step by Step Guide to start Power Apps Canvas App",
+      "excerpt": "In this video we will learn Microsoft Power Apps Step by step. The series is dedicated for Microsoft Power Apps Beginners. This is the complete start to end Tutorial series for Beginners in Power Apps.  The entire tech series is best resource for Power Apps Beginners Tutorial from Start to End with Real",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-power-apps-tutorial-for-beginner-the-complete-step-by-step-guide-to-start-power-apps-canvas-app/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-power-apps-tutorial-for-beginner-the-complete-step-by-step-guide-to-start-power-apps-canvas-app/",
+      "originalUrl": "https://youtube.com/watch?v=aVsWQgoWC0I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aVsWQgoWC0I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M23S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-09-07T04:04:40-07:00",
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/aVsWQgoWC0I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/powerapps911-intro-to-powerapps-common-data-service-for-canvas-apps.md",
+      "title": "Intro to PowerApps Common Data Service for Canvas Apps",
+      "excerpt": "In this video, you will get an introduction to the Common Data Service (CDS) for Power Apps from a canvas apps perspective. We will create an entity, learn about field types, business rules, relationships, views, build a simple app, and set security on it. Not a be all, end all video but enough to get",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-intro-to-powerapps-common-data-service-for-canvas-apps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-intro-to-powerapps-common-data-service-for-canvas-apps/",
+      "originalUrl": "https://youtube.com/watch?v=49O1UW-tkyo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/49O1UW-tkyo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M19S",
+      "provider": {
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
+      },
+      "publishedDateTime": "2020-07-05T10:59:42-07:00",
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/49O1UW-tkyo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Common Data Service",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-create-a-canvas-app-in-power-apps.md",
+      "title": "Create a canvas app in Power Apps",
+      "excerpt": "Do you want to create apps to help make your business more efficient? Then, this path is for you. It introduces you to Power Apps, helps you create and customize an app, and then manage and distribute it.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/collections/microsoft-learn-create-a-canvas-app-in-power-apps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/collections/microsoft-learn-create-a-canvas-app-in-power-apps/",
+      "length": "PT2H23M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-powerapps-get-started.md",
+          "title": "Get started with Power Apps",
+          "excerpt": "Learn the basics of Power Apps and how you can use it in your organization.",
+          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-powerapps-get-started/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-powerapps/",
+          "length": "PT1H3M",
+          "ratings": {
+            "count": 17342,
+            "average": 4.667397
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 66,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/get-started-with-powerapps-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power Apps"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-powerapps-customize.md",
+          "title": "Customize a canvas app in Power Apps",
+          "excerpt": "Learn how to customize an app by adding controls, images, and logic.",
+          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-powerapps-customize/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/customize-apps-in-powerapps/",
+          "length": "PT38M",
+          "ratings": {
+            "count": 8054,
+            "average": 4.6773033
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 56,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "Canvas apps"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-powerapps-manage.md",
+          "title": "Manage apps in Power Apps",
+          "excerpt": "Manage app versions, app sharing, and environments in Power Apps.",
+          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-powerapps-manage/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-apps-in-powerapps/",
+          "length": "PT42M",
+          "ratings": {
+            "count": 7148,
+            "average": 4.689284
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 56,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power Apps"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/get-started-with-powerapps-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-powerapps-customize.md",
+      "title": "Customize a canvas app in Power Apps",
+      "excerpt": "Learn how to customize an app by adding controls, images, and logic.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-powerapps-customize/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/customize-apps-in-powerapps/",
+      "length": "PT38M",
+      "ratings": {
+        "count": 8054,
+        "average": 4.6773033
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 56,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/powerapps911-common-data-service-relationships-and-lookups-with-power-apps-canvas-apps.md",
+      "title": "Common Data Service Relationships and Lookups with Power Apps canvas apps",
+      "excerpt": "In this video, you will learn how to setup and use Lookup columns in the Common Data Service aka CDS aka Dataflex. We talk about Filter, Patch, Collections, Forms, and more all while helping you build better relationships in your Power Apps Canvas Apps. I also skip all of the \"relationship\" jokes I wanted",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-common-data-service-relationships-and-lookups-with-power-apps-canvas-apps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-common-data-service-relationships-and-lookups-with-power-apps-canvas-apps/",
+      "originalUrl": "https://youtube.com/watch?v=kVEtj7QdRYY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kVEtj7QdRYY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M47S",
+      "provider": {
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
+      },
+      "publishedDateTime": "2020-08-09T09:28:27-07:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/kVEtj7QdRYY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Common Data Service",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-develop-forms-in-power-apps-canvas-app-implement-new-form-with-real-life-scenarios.md",
+      "title": "Develop Forms in Power Apps Canvas App– Implement New form with Real Life Scenarios",
+      "excerpt": "Welcome to Power Apps Step by Step Beginner tutorial series. My self Dhruvin Shah you are watching the 9th part of the Power Apps Beginner Series. During this chapter, we will talk about how we can add New Form in Power Apps. We will cover so many businesses cased while we are creating this form.  We",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-develop-forms-in-power-apps-canvas-app-implement-new-form-with-real-life-scenarios/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-develop-forms-in-power-apps-canvas-app-implement-new-form-with-real-life-scenarios/",
+      "originalUrl": "https://youtube.com/watch?v=K_hh-FumHUA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/K_hh-FumHUA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT44M28S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-09-14T10:07:42-07:00",
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/K_hh-FumHUA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-build-your-first-power-apps-canvas-app-for-leave-management-system.md",
+      "title": "Build your first Power Apps Canvas App for Leave Management System",
+      "excerpt": "Welcome to Power Apps Step by Step Beginner tutorial series. My self Dhruvin Shah you are watching the 8th part of the Power Apps Beginner Series. During this chapter, we will talk about the project requirement to build a standalone canvas app in detail which will help you to understand the concepts",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-build-your-first-power-apps-canvas-app-for-leave-management-system/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-build-your-first-power-apps-canvas-app-for-leave-management-system/",
+      "originalUrl": "https://youtube.com/watch?v=bxUpIUu3vE4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bxUpIUu3vE4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M31S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-09-13T09:37:19-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/bxUpIUu3vE4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-develop-forms-in-power-apps-canvas-app-implement-edit-form-with-real-life-scenarios.md",
+      "title": "Develop Forms in Power Apps Canvas App– Implement Edit form with Real Life Scenarios",
+      "excerpt": "Welcome to Power Apps Step by Step Beginner tutorial series. My self Dhruvin Shah you are watching the 10th part of the Power Apps Beginner Series. During this chapter, we will talk about how we can add Edit Form in Power Apps.   Here, we will use the New form which we have implemented in Chapter 9 of",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-develop-forms-in-power-apps-canvas-app-implement-edit-form-with-real-life-scenarios/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-develop-forms-in-power-apps-canvas-app-implement-edit-form-with-real-life-scenarios/",
+      "originalUrl": "https://youtube.com/watch?v=wk55JQHG-Go",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wk55JQHG-Go\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M46S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-09-14T10:07:42-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wk55JQHG-Go/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-introduction-to-power-apps-canvas-app-what-is-standalone-power-apps-canvas-app.md",
+      "title": "Introduction to Power Apps Canvas App | What is Standalone Power Apps Canvas App?",
+      "excerpt": "Welcome to Power Apps Step by Step Beginner tutorial series. My self Dhruvin Shah you are watching fourth part of the Power Apps Beginner Series. During this chapter, we will talk about Standalone Power Apps Canvas App in detail.   We can easily customize the SharePoint list form using Power Apps. We",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-introduction-to-power-apps-canvas-app-what-is-standalone-power-apps-canvas-app/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-introduction-to-power-apps-canvas-app-what-is-standalone-power-apps-canvas-app/",
+      "originalUrl": "https://youtube.com/watch?v=QzPatx-GgMY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QzPatx-GgMY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M15S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-09-07T22:30:08-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/QzPatx-GgMY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-use-basic-formulas-to-make-better-power-apps-canvas-apps.md",
+      "title": "Use basic formulas to make better Power Apps canvas apps",
+      "excerpt": "Do you want to use formulas to improve functionality and change a behavior in your Power Apps canvas app? This learning path can help you accomplish your goal.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/collections/microsoft-learn-use-basic-formulas-to-make-better-power-apps-canvas-apps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/collections/microsoft-learn-use-basic-formulas-to-make-better-power-apps-canvas-apps/",
+      "length": "PT2H16M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-author-basic-formula-change-properties-powerapps.md",
+          "title": "Author a basic formula to change properties in a Power Apps canvas app",
+          "excerpt": "Want to enhance your Power Apps canvas app? You can use basic formulas to make changes to control properties.  This will include changing the format, position, simple calculations, and implementing conditional formatting.",
+          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-author-basic-formula-change-properties-powerapps/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/author-basic-formula-change-properties-powerapps/",
+          "length": "PT42M",
+          "ratings": {
+            "count": 1125,
+            "average": 4.616889
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/change-properties-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "Canvas apps"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-author-basic-forumla-change-behaviors-powerapps.md",
+          "title": "Author a basic formula to change behaviors in a Power Apps canvas app",
+          "excerpt": "Learn how to author a basic formula to change behaviors in a Power Apps canvas app.",
+          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-author-basic-forumla-change-behaviors-powerapps/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/author-basic-formula-change-behaviors-powerapps/",
+          "length": "PT51M",
+          "ratings": {
+            "count": 732,
+            "average": 4.605191
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/change-behaviors-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "Canvas apps"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-author-basic-formula-tables-records-powerapps.md",
+          "title": "Author a basic formula that uses tables and records in a Power Apps canvas app",
+          "excerpt": "Learn how to author a basic formula that uses tables and records in a Power Apps canvas app.",
+          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-author-basic-formula-tables-records-powerapps/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/author-basic-formula-tables-records-powerapps/",
+          "length": "PT43M",
+          "ratings": {
+            "count": 675,
+            "average": 4.5792594
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/tables-and-records-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "Canvas apps"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/change-properties-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-author-basic-formula-change-properties-powerapps.md",
+      "title": "Author a basic formula to change properties in a Power Apps canvas app",
+      "excerpt": "Want to enhance your Power Apps canvas app? You can use basic formulas to make changes to control properties.  This will include changing the format, position, simple calculations, and implementing conditional formatting.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-author-basic-formula-change-properties-powerapps/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/author-basic-formula-change-properties-powerapps/",
+      "length": "PT42M",
+      "ratings": {
+        "count": 1125,
+        "average": 4.616889
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/change-properties-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-author-basic-formula-tables-records-powerapps.md",
+      "title": "Author a basic formula that uses tables and records in a Power Apps canvas app",
+      "excerpt": "Learn how to author a basic formula that uses tables and records in a Power Apps canvas app.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-author-basic-formula-tables-records-powerapps/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/author-basic-formula-tables-records-powerapps/",
+      "length": "PT43M",
+      "ratings": {
+        "count": 675,
+        "average": 4.5792594
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/tables-and-records-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-custom-connectors.md",
+      "title": "Use custom connectors in a Power Apps canvas app",
+      "excerpt": "Learn how to use custom connectors in a Power Apps canvas app.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-custom-connectors/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-custom-connectors-in-powerapps-canvas-app/",
+      "length": "PT41M",
+      "ratings": {
+        "count": 339,
+        "average": 4.5280237
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/custom-connectors-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-testing-performance-checks.md",
+      "title": "Complete testing and performance checks in a Power Apps canvas app",
+      "excerpt": "Do you want to test your app and improve it's performance? This module will help you understand how to test an app and improve performance.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-testing-performance-checks/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/testing-performance-checks-powerapps/",
+      "length": "PT39M",
+      "ratings": {
+        "count": 383,
+        "average": 4.7336817
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/testing-performance-checks-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-work-with-external-data.md",
+      "title": "Work with external data in a Power Apps canvas app",
+      "excerpt": "Do you need to connect an app to access data? Then this module is for you. It focuses on connecting your app to a data source.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-work-with-external-data/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-external-data/",
+      "length": "PT58M",
+      "ratings": {
+        "count": 964,
+        "average": 4.549793
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-manage-roles-in-power-apps-canvas-app-with-power-automate-and-sharepoint.md",
+      "title": "Manage Roles in Power Apps Canvas App with Power Automate and SharePoint",
+      "excerpt": "During this session, we will talk about how we can maintain different roles in Power Apps. When we create any business application using Power Apps, managing the role is the most important concept. During this session, I build one Power Apps with SharePoint as a data source. I maintain different roles",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-manage-roles-in-power-apps-canvas-app-with-power-automate-and-sharepoint/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-manage-roles-in-power-apps-canvas-app-with-power-automate-and-sharepoint/",
+      "originalUrl": "https://youtube.com/watch?v=N3TENlKHVVI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/N3TENlKHVVI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M54S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-10-20T22:07:03-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/N3TENlKHVVI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-use-the-ui-and-controls-in-a-canvas-app-in-power-apps.md",
+      "title": "Use the UI and controls in a canvas app in Power Apps",
+      "excerpt": "The app user experience often defines the success of your app. This learning path will focus on how to provide the best app navigation, and build the best UI using themes, icons, images, personalization, different form factors, and controls.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/collections/microsoft-learn-use-the-ui-and-controls-in-a-canvas-app-in-power-apps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/collections/microsoft-learn-use-the-ui-and-controls-in-a-canvas-app-in-power-apps/",
+      "length": "PT1H58M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-navigation-canvas-app.md",
+          "title": "Navigation in a canvas app in Power Apps",
+          "excerpt": "App users can only navigate through the navigation options provided by an app developer, and this module is designed to help you build a good navigation experience for your canvas app.",
+          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-navigation-canvas-app/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/navigation-canvas-app/",
+          "length": "PT33M",
+          "ratings": {
+            "count": 855,
+            "average": 4.694737
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/navigation-canvas-app-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "Canvas apps"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-how-to-build-ui-canvas-app.md",
+          "title": "How to build the UI in a canvas app in Power Apps",
+          "excerpt": "Do you want to build a better UI for app users? This module helps you do that using themes, icons, images, personalization, different form factors, and controls.",
+          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-how-to-build-ui-canvas-app/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/how-to-build-ui-canvas-app/",
+          "length": "PT41M",
+          "ratings": {
+            "count": 750,
+            "average": 4.6853333
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/how-to-build-ui-canvas-app-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "Canvas apps"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-controls-canvas-apps.md",
+          "title": "Use and understand Controls in a canvas app in Power Apps",
+          "excerpt": "Controls help create a better experience for the user and collect the appropriate data. This module will help you understand and use Controls.",
+          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-controls-canvas-apps/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/controls-canvas-apps/",
+          "length": "PT44M",
+          "ratings": {
+            "count": 729,
+            "average": 4.6666665
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/controls-canvas-apps-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "Canvas apps"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/navigation-canvas-app-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-work-with-data-in-a-power-apps-canvas-app.md",
+      "title": "Work with data in a Power Apps canvas app",
+      "excerpt": "Do you need to connect an app to access data? Then this learning path is for you. It will focus on how to connect to data sources. It also will show you how to use filtering, conditions, and other functions to shape your data and write data to your data source.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/collections/microsoft-learn-work-with-data-in-a-power-apps-canvas-app/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/collections/microsoft-learn-work-with-data-in-a-power-apps-canvas-app/",
+      "length": "PT2H44M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-work-with-external-data.md",
+          "title": "Work with external data in a Power Apps canvas app",
+          "excerpt": "Do you need to connect an app to access data? Then this module is for you. It focuses on connecting your app to a data source.",
+          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-work-with-external-data/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-external-data/",
+          "length": "PT58M",
+          "ratings": {
+            "count": 964,
+            "average": 4.549793
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "Canvas apps"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-shape-data.md",
+          "title": "Shape data in a Power Apps canvas app",
+          "excerpt": "When you create a canvas app, do you need to show the user all the data? What if you want to show only the data that is relevant to them? This module will help you address this issue.",
+          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-shape-data/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/shape-data/",
+          "length": "PT58M",
+          "ratings": {
+            "count": 720,
+            "average": 4.5902777
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "Canvas apps"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-write-data.md",
+          "title": "Write data in a Power Apps canvas app",
+          "excerpt": "Learn how to write data in a Power Apps canvas app.",
+          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-write-data/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/write-data/",
+          "length": "PT48M",
+          "ratings": {
+            "count": 692,
+            "average": 4.617052
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "Canvas apps"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 50,
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-author-advanced-formulas.md",
+      "title": "Author an advanced formula that uses tables, records, and collections in a canvas app in Power Apps",
+      "excerpt": "Do you have need for a complex formula in your app? This module can help you author that formula.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-author-advanced-formulas/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/author-advanced-formulas-powerapps/",
+      "length": "PT32M",
+      "ratings": {
+        "count": 441,
+        "average": 4.628118
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/author-advanced-formulas-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-author-basic-forumla-change-behaviors-powerapps.md",
+      "title": "Author a basic formula to change behaviors in a Power Apps canvas app",
+      "excerpt": "Learn how to author a basic formula to change behaviors in a Power Apps canvas app.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-author-basic-forumla-change-behaviors-powerapps/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/author-basic-formula-change-behaviors-powerapps/",
+      "length": "PT51M",
+      "ratings": {
+        "count": 732,
+        "average": 4.605191
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/change-behaviors-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-connect-other-data.md",
+      "title": "Connecting to other data in a Power Apps canvas app",
+      "excerpt": "Learn how to connect to other data in Power Apps canvas app.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-connect-other-data/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-to-other-data-in-powerapps-canvas-app/",
+      "length": "PT32M",
+      "ratings": {
+        "count": 383,
+        "average": 4.6684074
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/connect-other-data-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-controls-canvas-apps.md",
+      "title": "Use and understand Controls in a canvas app in Power Apps",
+      "excerpt": "Controls help create a better experience for the user and collect the appropriate data. This module will help you understand and use Controls.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-controls-canvas-apps/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/controls-canvas-apps/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 729,
+        "average": 4.6666665
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/controls-canvas-apps-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-data-source-limits.md",
+      "title": "Work with data source limits (delegation limits) in a Power Apps canvas app",
+      "excerpt": "Delegate data with Power Apps.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-data-source-limits/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-data-source-limits-powerapps-canvas-app/",
+      "length": "PT33M",
+      "ratings": {
+        "count": 419,
+        "average": 4.632458
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/data-source-limits-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-how-to-build-ui-canvas-app.md",
+      "title": "How to build the UI in a canvas app in Power Apps",
+      "excerpt": "Do you want to build a better UI for app users? This module helps you do that using themes, icons, images, personalization, different form factors, and controls.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-how-to-build-ui-canvas-app/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/how-to-build-ui-canvas-app/",
+      "length": "PT41M",
+      "ratings": {
+        "count": 750,
+        "average": 4.6853333
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/how-to-build-ui-canvas-app-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-navigation-canvas-app.md",
+      "title": "Navigation in a canvas app in Power Apps",
+      "excerpt": "App users can only navigate through the navigation options provided by an app developer, and this module is designed to help you build a good navigation experience for your canvas app.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-navigation-canvas-app/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/navigation-canvas-app/",
+      "length": "PT33M",
+      "ratings": {
+        "count": 855,
+        "average": 4.694737
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/navigation-canvas-app-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-perform-custom-updates.md",
+      "title": "Perform custom updates in a Power Apps canvas app",
+      "excerpt": "With some Power Apps canvas apps, a form is not the solution.  This module will focus on how to perform custom updates when your data is not in a form.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-perform-custom-updates/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-custom-updates-powerapps-canvas-app/",
+      "length": "PT38M",
+      "ratings": {
+        "count": 373,
+        "average": 4.699732
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/perform-custom-updates-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-shape-data.md",
+      "title": "Shape data in a Power Apps canvas app",
+      "excerpt": "When you create a canvas app, do you need to show the user all the data? What if you want to show only the data that is relevant to them? This module will help you address this issue.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-shape-data/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/shape-data/",
+      "length": "PT58M",
+      "ratings": {
+        "count": 720,
+        "average": 4.5902777
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-use-imperative-dev-techniques.md",
+      "title": "Use imperative development techniques for canvas apps in Power Apps",
+      "excerpt": "Learn how to use imperative vs. declarative development.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-use-imperative-dev-techniques/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-imperative-dev-techniques-powerapps-canvas-app/",
+      "length": "PT46M",
+      "ratings": {
+        "count": 519,
+        "average": 4.7206163
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/use-imperative-dev-techniques-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    }
+  ],
+  "nextPage": 2
+}

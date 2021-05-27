@@ -1,0 +1,179 @@
+{
+  "title": "Master advanced techniques for Power Apps canvas apps",
+  "path": "_learning/collections/microsoft-learn-master-advanced-techniques-for-power-apps-canvas-apps.md",
+  "page": 1,
+  "value": [
+    {
+      "path": "_learning/courses/microsoft-learn-use-imperative-dev-techniques.md",
+      "title": "Use imperative development techniques for canvas apps in Power Apps",
+      "excerpt": "Learn how to use imperative vs. declarative development.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-use-imperative-dev-techniques/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-imperative-dev-techniques-powerapps-canvas-app/",
+      "length": "PT46M",
+      "ratings": {
+        "count": 519,
+        "average": 4.7206163
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/use-imperative-dev-techniques-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-author-advanced-formulas.md",
+      "title": "Author an advanced formula that uses tables, records, and collections in a canvas app in Power Apps",
+      "excerpt": "Do you have need for a complex formula in your app? This module can help you author that formula.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-author-advanced-formulas/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/author-advanced-formulas-powerapps/",
+      "length": "PT32M",
+      "ratings": {
+        "count": 441,
+        "average": 4.628118
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/author-advanced-formulas-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-perform-custom-updates.md",
+      "title": "Perform custom updates in a Power Apps canvas app",
+      "excerpt": "With some Power Apps canvas apps, a form is not the solution.  This module will focus on how to perform custom updates when your data is not in a form.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-perform-custom-updates/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-custom-updates-powerapps-canvas-app/",
+      "length": "PT38M",
+      "ratings": {
+        "count": 373,
+        "average": 4.699732
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/perform-custom-updates-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-testing-performance-checks.md",
+      "title": "Complete testing and performance checks in a Power Apps canvas app",
+      "excerpt": "Do you want to test your app and improve it's performance? This module will help you understand how to test an app and improve performance.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-testing-performance-checks/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/testing-performance-checks-powerapps/",
+      "length": "PT39M",
+      "ratings": {
+        "count": 383,
+        "average": 4.7336817
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/testing-performance-checks-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    }
+  ]
+}

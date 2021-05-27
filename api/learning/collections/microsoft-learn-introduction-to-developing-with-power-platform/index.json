@@ -1,0 +1,133 @@
+{
+  "title": "Introduction to developing with Power Platform",
+  "path": "_learning/collections/microsoft-learn-introduction-to-developing-with-power-platform.md",
+  "page": 1,
+  "value": [
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-developing-power-platform.md",
+      "title": "Introduction to Power Platform developer resources",
+      "excerpt": "The goal of this module is to give a broad-scoped overview of the developer experience as it relates to the Power Platform.  It will cover a high-level introduction how the ecosystem is represented, with the intended audience being a software developer with limited experience in working with the Power Platform.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-introduction-developing-power-platform/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-developing-power-platform/",
+      "length": "PT37M",
+      "ratings": {
+        "count": 1166,
+        "average": 4.6586623
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-developing-power-platform-social.png",
+          "width": 642,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-use-developer-tools-extend.md",
+      "title": "Use developer tools to extend the Power Platform",
+      "excerpt": "This module will focus on the available developer tools that can help you perform development activities with the Microsoft Power Platform.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-use-developer-tools-extend/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-developer-tools-extend/",
+      "length": "PT1H5M",
+      "ratings": {
+        "count": 760,
+        "average": 4.5092106
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/use-developer-tools-extend-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-power-platform-extensibility-model.md",
+      "title": "Introduction to extending the Microsoft Power Platform",
+      "excerpt": "This module will focus on the underlying solution architecture from a technical perspective and what extensibility options exist. It will also cover the ever-important element of the Microsoft Power Platform development, which is the decision-making process of determining when to use configuration versus code.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-introduction-power-platform-extensibility-model/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-platform-extensibility-model/",
+      "length": "PT40M",
+      "ratings": {
+        "count": 760,
+        "average": 4.618421
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-power-platform-extensibility-model-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    }
+  ]
+}

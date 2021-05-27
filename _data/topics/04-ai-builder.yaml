@@ -1,0 +1,11 @@
+taxonomy: topic
+_id: ai-builder
+name: AI Builder
+parent: Power Apps
+keywords:
+  - ai builder
+hashtags:
+  - "#AIBuilder"
+services:
+  learning: https://everyday-cc.github.io/powerapps/api/learning/ai-builder/
+  news: https://everyday-cc.github.io/powerapps/api/news/ai-builder/

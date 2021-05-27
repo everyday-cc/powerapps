@@ -1,0 +1,13 @@
+taxonomy: topic
+_id: canvas-apps
+name: Canvas apps
+shortname: Canvas apps
+parent: Power Apps
+keywords:
+  - canvas app
+  - canvas apps
+hashtags:
+  - "#CanvasApps"
+services:
+  learning: https://everyday-cc.github.io/powerapps/api/learning/canvas-apps/
+  news: https://everyday-cc.github.io/powerapps/api/news/canvas-apps/

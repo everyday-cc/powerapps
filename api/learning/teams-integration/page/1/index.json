@@ -1,0 +1,255 @@
+{
+  "title": "Learning Resources",
+  "path": "_learning",
+  "page": 1,
+  "value": [
+    {
+      "path": "_learning/videos/powerapps911-create-mobile-apps-in-project-oakdale-for-microsoft-teams.md",
+      "title": "Create mobile apps in Project Oakdale for Microsoft Teams",
+      "excerpt": "In this Quick Thursday Tip, you will learn how to start with a mobile phone sized app in Project Oakdale. This lets you make screens that use the screen real estate better if you want to have mobile apps for Project Oakdale.  Sign up for my training class! https://training.powerapps911.com/courses/create-apps-workflows-and-chatbots-for-microsoft-teams",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-create-mobile-apps-in-project-oakdale-for-microsoft-teams/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-create-mobile-apps-in-project-oakdale-for-microsoft-teams/",
+      "originalUrl": "https://youtube.com/watch?v=D8wNJ_0Oclo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/D8wNJ_0Oclo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M2S",
+      "provider": {
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
+      },
+      "publishedDateTime": "2020-10-29T16:20:13-07:00",
+      "heat": 70,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/D8wNJ_0Oclo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Teams integration"
+      ]
+    },
+    {
+      "path": "_learning/videos/powerapps911-create-your-first-custom-app-for-microsoft-teams-with-power-apps-in-5-minutes.md",
+      "title": "Create your first custom app for Microsoft Teams with Power Apps in 5 minutes",
+      "excerpt": "In this video, you will learn how to build your first custom app in teams by using Power Apps. No fluff, no overview, just a quick dive into everything you need to know to build your first app thanks to the Project Oakdale preview.   Power Apps Training https://training.powerapps911.com  Link to 43 minute",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-create-your-first-custom-app-for-microsoft-teams-with-power-apps-in-5-minutes/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-create-your-first-custom-app-for-microsoft-teams-with-power-apps-in-5-minutes/",
+      "originalUrl": "https://youtube.com/watch?v=s6-C2xismq4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/s6-C2xismq4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M1S",
+      "provider": {
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
+      },
+      "publishedDateTime": "2020-09-21T16:21:44-07:00",
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/s6-C2xismq4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Teams integration"
+      ]
+    },
+    {
+      "path": "_learning/videos/powerapps911-build-and-customize-your-first-teams-app-with-power-apps-full-training.md",
+      "title": "Build and Customize your first Teams App with Power Apps   Full Training",
+      "excerpt": "In this video, you will learn EVERYTHING you need to get started with building custom apps in Microsoft Teams with Power Apps and Project Oakdale. Adding the app, creating and customizing your first table, building an app, and more. This video is basically a free training class so I hope you enjoy.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-build-and-customize-your-first-teams-app-with-power-apps-full-training/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-build-and-customize-your-first-teams-app-with-power-apps-full-training/",
+      "originalUrl": "https://youtube.com/watch?v=o-0s3Pqh0TI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/o-0s3Pqh0TI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT43M5S",
+      "provider": {
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
+      },
+      "publishedDateTime": "2020-09-21T15:41:18-07:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/o-0s3Pqh0TI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Teams integration"
+      ]
+    },
+    {
+      "path": "_learning/videos/april-dunnam-make-a-power-app-a-teams-app.md",
+      "title": "Make a Power App a Teams App",
+      "excerpt": "#PowerApps #MicrosoftTeams Did you know you that you can make any Power App a Teams app?  With more and more organizations using Microsoft Teams for their day to day operations it's important to figure out how to integrate your business apps into the platform.  I'll show three different ways to incorporate",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-make-a-power-app-a-teams-app/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-make-a-power-app-a-teams-app/",
+      "originalUrl": "https://youtube.com/watch?v=UmMhQSom_EE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UmMhQSom_EE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M22S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-05-18T07:42:05-07:00",
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/UmMhQSom_EE/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Teams integration"
+      ]
+    },
+    {
+      "path": "_learning/videos/powerapps911-power-apps-teams-integration.md",
+      "title": "Power Apps Teams Integration",
+      "excerpt": "In this video, you will learn about Power Apps Team Integration. You will see how to post messages to Teams from PowerApps and @ mention people, how to create channels, and a lot of the mechanics so you can integrate this critical data source.   Power Apps training at https://training.PowerApps911.com",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-power-apps-teams-integration/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-power-apps-teams-integration/",
+      "originalUrl": "https://youtube.com/watch?v=KONkjjSYvMI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KONkjjSYvMI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M57S",
+      "provider": {
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
+      },
+      "publishedDateTime": "2020-08-16T11:15:01-07:00",
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/KONkjjSYvMI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Teams integration"
+      ]
+    },
+    {
+      "path": "_learning/videos/powerapps911-power-apps-power-automate-microsoft-teams-and-project-oakdale-preview-for-pros.md",
+      "title": "Power Apps, Power Automate, Microsoft Teams, and Project Oakdale preview for Pros",
+      "excerpt": "In this video, you will learn all of the things you need to know to start building Power Apps and Flows with Project Oakdale preview. There are a lot of little difference and I do my best in this video to speed up your learning curve by showing you the things I struggled with.  Power Apps Training https://training.powerapps911.com",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-power-apps-power-automate-microsoft-teams-and-project-oakdale-preview-for-pros/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-power-apps-power-automate-microsoft-teams-and-project-oakdale-preview-for-pros/",
+      "originalUrl": "https://youtube.com/watch?v=o6lHqSCPyOk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/o6lHqSCPyOk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M29S",
+      "provider": {
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
+      },
+      "publishedDateTime": "2020-09-21T15:22:17-07:00",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/o6lHqSCPyOk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Teams integration"
+      ]
+    },
+    {
+      "path": "_learning/videos/powerapps911-create-mobile-apps-in-microsoft-dataverse-for-microsoft-teams.md",
+      "title": "Create mobile apps in Microsoft Dataverse for Microsoft Teams",
+      "excerpt": "In this Quick Thursday Tip, you will learn how to start with a mobile phone sized app in Project Oakdale. This lets you make screens that use the screen real estate better if you want to have mobile apps for Project Oakdale.  Sign up for my training class! https://training.powerapps911.com/courses/create-apps-workflows-and-chatbots-for-microsoft-teams",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-create-mobile-apps-in-microsoft-dataverse-for-microsoft-teams/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-create-mobile-apps-in-microsoft-dataverse-for-microsoft-teams/",
+      "originalUrl": "https://youtube.com/watch?v=D8wNJ_0Oclo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/D8wNJ_0Oclo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M2S",
+      "provider": {
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
+      },
+      "publishedDateTime": "2020-10-29T16:20:13-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/D8wNJ_0Oclo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Teams integration"
+      ]
+    },
+    {
+      "path": "_learning/videos/powerapps911-create-teams-meeting-link-from-power-apps-and-power-automate-for-outlook.md",
+      "title": "Create Teams meeting link from Power Apps and Power Automate for Outlook",
+      "excerpt": "In this video, you will learn how to create an Outlook meeting request with a online Teams meeting link using Power Apps and Power Automate.  Link to Time Zone documentation https://support.microsoft.com/en-us/help/973627/microsoft-time-zone-index-values  Sign up for Power Apps Training and download",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-create-teams-meeting-link-from-power-apps-and-power-automate-for-outlook/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-create-teams-meeting-link-from-power-apps-and-power-automate-for-outlook/",
+      "originalUrl": "https://youtube.com/watch?v=hPRzHbMzoI0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hPRzHbMzoI0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M53S",
+      "provider": {
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
+      },
+      "publishedDateTime": "2020-09-29T12:35:22-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/hPRzHbMzoI0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Teams integration"
+      ]
+    }
+  ]
+}

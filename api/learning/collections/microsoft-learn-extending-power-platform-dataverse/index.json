@@ -1,0 +1,92 @@
+{
+  "title": "Extending Power Platform Dataverse",
+  "path": "_learning/collections/microsoft-learn-extending-power-platform-dataverse.md",
+  "page": 1,
+  "value": [
+    {
+      "path": "_learning/courses/microsoft-learn-intro-cds-developers-power-platform.md",
+      "title": "Introduction to Common Data Service for developers",
+      "excerpt": "The goal of this module is to give an introductory overview of the Power Platform SDKs that are available from Microsoft via NuGet.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-intro-cds-developers-power-platform/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-cds-developers-power-platform/",
+      "length": "PT30M",
+      "ratings": {
+        "count": 897,
+        "average": 4.677815
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-cds-developers-power-platform-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Common Data Service"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-plug-ins-extend-power-platform.md",
+      "title": "Extend plug-ins",
+      "excerpt": "The purpose of this module is to provide an in-depth overview of plug-ins as it relates to Power Platform development. This module will review how and when plug-ins are implemented, how they are registered and deployed, and the various configuration options that are available during plug-in registration.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-plug-ins-extend-power-platform/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plug-ins-extend-power-platform/",
+      "length": "PT1H33M",
+      "ratings": {
+        "count": 720,
+        "average": 4.6458335
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/plug-ins-extend-power-platform-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "title": "AI Builder with Text Classification - Step by Step series",
+  "path": "_learning/collections/dhruvin-shah-ai-builder-with-text-classification-step-by-step-series.md",
+  "page": 1,
+  "value": [
+    {
+      "path": "_learning/videos/dhruvin-shah-overview-of-category-classification-in-ai-builder-power-platform-ai-builder-series-part-one.md",
+      "title": "Overview of Category Classification in AI Builder – Power Platform AI Builder Series – Part One",
+      "excerpt": "Welcome to Power Platform with AI series. During this entire series, we will talk about one of the important components of AI Builder which is – “Text Classification”.  Category Classification with AI Builder: The first question arises in our mind is What is Text Classification and how does it help to",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-overview-of-category-classification-in-ai-builder-power-platform-ai-builder-series-part-one/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-overview-of-category-classification-in-ai-builder-power-platform-ai-builder-series-part-one/",
+      "originalUrl": "https://youtube.com/watch?v=TGIAb47kg6M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TGIAb47kg6M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M17S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-04-15T22:00:05-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/TGIAb47kg6M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-how-to-import-text-classification-data-to-common-data-service-cds-ai-builder-series-part-two.md",
+      "title": "How to Import Text Classification Data to Common Data Service (CDS)? – AI Builder Series – Part Two",
+      "excerpt": "Welcome to Power Platform with AI series. During this entire series, we will talk about one of the important components of AI Builder which is – “Text Classification”.  Text Classification with AI Builder: The first question arises in our mind is What is Text Classification and how does it help to our",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-how-to-import-text-classification-data-to-common-data-service-cds-ai-builder-series-part-two/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-how-to-import-text-classification-data-to-common-data-service-cds-ai-builder-series-part-two/",
+      "originalUrl": "https://youtube.com/watch?v=pcn09VZfvIw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pcn09VZfvIw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M15S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-04-16T01:33:54-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/pcn09VZfvIw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder",
+        "Common Data Service"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-create-a-text-classification-model-using-ai-builder-power-platform-ai-builder-series-part-three.md",
+      "title": "Create a Text Classification model using AI Builder – Power Platform AI Builder Series – Part Three",
+      "excerpt": "Welcome to Power Platform with AI series. During this entire series, we will talk about one of the important components of AI Builder which is – “Text Classification”.  Text Classification with AI Builder: Power Platform AI builder provides a facility to perform Text Classification and allows us to define",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-create-a-text-classification-model-using-ai-builder-power-platform-ai-builder-series-part-three/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-create-a-text-classification-model-using-ai-builder-power-platform-ai-builder-series-part-three/",
+      "originalUrl": "https://youtube.com/watch?v=qgz5xCACXvs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qgz5xCACXvs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M32S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-04-16T02:13:08-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qgz5xCACXvs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-train-publish-and-test-text-classification-ai-model-power-platform-ai-builder-series-part-four.md",
+      "title": "Train, Publish and Test Text Classification AI Model – Power Platform AI Builder Series – Part Four",
+      "excerpt": "Welcome to Power Platform with AI series. During this entire series, we will talk about one of the important components of AI Builder which is – “Text Classification”. Text Classification with AI Builder: Power Platform AI builder provides a facility to perform Text Classification and allows us to define",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-train-publish-and-test-text-classification-ai-model-power-platform-ai-builder-series-part-four/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-train-publish-and-test-text-classification-ai-model-power-platform-ai-builder-series-part-four/",
+      "originalUrl": "https://youtube.com/watch?v=IEs1jEfUxOo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IEs1jEfUxOo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M21S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-04-16T02:21:42-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/IEs1jEfUxOo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-use-category-classification-or-text-classification-ai-model-in-power-apps-and-power-automate.md",
+      "title": "Use Category Classification or Text Classification AI Model in Power Apps and Power Automate",
+      "excerpt": "Welcome to Power Platform AI Builder Series. This is the same session I have represented to Global AI Online Tour - 2020 at Ahmedabad. This is a pre-recorded session.  During this session, I'm going to talk about Category Classification inside the AI Builder. The Category Classification was earlier known",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-use-category-classification-or-text-classification-ai-model-in-power-apps-and-power-automate/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-use-category-classification-or-text-classification-ai-model-in-power-apps-and-power-automate/",
+      "originalUrl": "https://youtube.com/watch?v=jQt1F6WXIQQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jQt1F6WXIQQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT34M7S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-10-04T22:39:45-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jQt1F6WXIQQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    }
+  ]
+}

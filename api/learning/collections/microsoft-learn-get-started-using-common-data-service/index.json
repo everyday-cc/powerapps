@@ -1,0 +1,222 @@
+{
+  "title": "Get started using Common Data Service",
+  "path": "_learning/collections/microsoft-learn-get-started-using-common-data-service.md",
+  "page": 1,
+  "value": [
+    {
+      "path": "_learning/courses/microsoft-learn-create-manage-environments.md",
+      "title": "Create and manage environments in Common Data Service",
+      "excerpt": "An environment is a space to store, manage, and share your organization's business data that is stored within an instance of a Common Data Service database.  You can set up one or many environments, depending on the needs of your organization. This module explores these environments and how you can use them with instances of Common Data Service databases.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-create-manage-environments/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-environments/",
+      "length": "PT42M",
+      "ratings": {
+        "count": 979,
+        "average": 4.6036773
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-manage-environments-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Common Data Service"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-create-manage-entities.md",
+      "title": "Create and manage entities in Common Data Service",
+      "excerpt": "Common Data Service entities are similar to tables in a database. Every instance of a Common Data Service database includes a base set of entities that provide structure for data that is commonly used by business applications.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-create-manage-entities/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-entities/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 804,
+        "average": 4.630597
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-manage-entities-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Common Data Service"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-create-manage-fields-within-entity.md",
+      "title": "Create and manage fields within an entity in Common Data Service",
+      "excerpt": "Do you want to create new data fields or leverage exiting standardized fields for your business solutions?  This module will show you how to manage or create new fields within an entity in Common Data Service.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-create-manage-fields-within-entity/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-fields-within-entity/",
+      "length": "PT1H3M",
+      "ratings": {
+        "count": 413,
+        "average": 4.59322
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-manage-fields-within-entity-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Common Data Service"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-working-with-option-sets.md",
+      "title": "Working with option sets in Common Data Service",
+      "excerpt": "Do you want to create standardized choice lists that you can use across all of your Power Apps?  This module will show you how to create new or use standard choice lists called option sets in Common Data Service.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-working-with-option-sets/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/working-with-option-sets/",
+      "length": "PT39M",
+      "ratings": {
+        "count": 373,
+        "average": 4.6595173
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/working-with-option-sets-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Common Data Service"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-load-export-data-create-data-views.md",
+      "title": "Load/export data and create data views in Common Data Service",
+      "excerpt": "Common Data Service lets you load data into or export entities from other entities by using Microsoft Excel. You can also create views to quickly review data that is stored within an entity.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-load-export-data-create-data-views/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/load-export-data-create-data-views/",
+      "length": "PT40M",
+      "ratings": {
+        "count": 412,
+        "average": 4.6529126
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/load-export-data-create-data-views-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Common Data Service"
+      ]
+    }
+  ]
+}

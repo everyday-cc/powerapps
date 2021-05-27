@@ -1,0 +1,1616 @@
+{
+  "title": "Learning Resources",
+  "path": "_learning",
+  "page": 11,
+  "value": [
+    {
+      "path": "_learning/collections/microsoft-learn-introduction-to-developing-with-power-platform.md",
+      "title": "Introduction to developing with Power Platform",
+      "excerpt": "So, you want to be a Power Platform developer! This learning path is the first step in learning about the platform, tools, and the ecosystem of Power Platform.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/collections/microsoft-learn-introduction-to-developing-with-power-platform/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/collections/microsoft-learn-introduction-to-developing-with-power-platform/",
+      "length": "PT2H22M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-introduction-developing-power-platform.md",
+          "title": "Introduction to Power Platform developer resources",
+          "excerpt": "The goal of this module is to give a broad-scoped overview of the developer experience as it relates to the Power Platform.  It will cover a high-level introduction how the ecosystem is represented, with the intended audience being a software developer with limited experience in working with the Power Platform.",
+          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-introduction-developing-power-platform/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-developing-power-platform/",
+          "length": "PT37M",
+          "ratings": {
+            "count": 1166,
+            "average": 4.6586623
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Advanced"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/introduction-developing-power-platform-social.png",
+              "width": 642,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power Apps"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-use-developer-tools-extend.md",
+          "title": "Use developer tools to extend the Power Platform",
+          "excerpt": "This module will focus on the available developer tools that can help you perform development activities with the Microsoft Power Platform.",
+          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-use-developer-tools-extend/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-developer-tools-extend/",
+          "length": "PT1H5M",
+          "ratings": {
+            "count": 760,
+            "average": 4.5092106
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Advanced"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/use-developer-tools-extend-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power Apps"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-introduction-power-platform-extensibility-model.md",
+          "title": "Introduction to extending the Microsoft Power Platform",
+          "excerpt": "This module will focus on the underlying solution architecture from a technical perspective and what extensibility options exist. It will also cover the ever-important element of the Microsoft Power Platform development, which is the decision-making process of determining when to use configuration versus code.",
+          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-introduction-power-platform-extensibility-model/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-platform-extensibility-model/",
+          "length": "PT40M",
+          "ratings": {
+            "count": 760,
+            "average": 4.618421
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Advanced"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/introduction-power-platform-extensibility-model-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power Apps"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-developing-power-platform-social.png",
+          "width": 642,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-use-the-ui-and-controls-in-a-canvas-app-in-power-apps.md",
+      "title": "Use the UI and controls in a canvas app in Power Apps",
+      "excerpt": "The app user experience often defines the success of your app. This learning path will focus on how to provide the best app navigation, and build the best UI using themes, icons, images, personalization, different form factors, and controls.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/collections/microsoft-learn-use-the-ui-and-controls-in-a-canvas-app-in-power-apps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/collections/microsoft-learn-use-the-ui-and-controls-in-a-canvas-app-in-power-apps/",
+      "length": "PT1H58M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-navigation-canvas-app.md",
+          "title": "Navigation in a canvas app in Power Apps",
+          "excerpt": "App users can only navigate through the navigation options provided by an app developer, and this module is designed to help you build a good navigation experience for your canvas app.",
+          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-navigation-canvas-app/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/navigation-canvas-app/",
+          "length": "PT33M",
+          "ratings": {
+            "count": 855,
+            "average": 4.694737
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/navigation-canvas-app-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "Canvas apps"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-how-to-build-ui-canvas-app.md",
+          "title": "How to build the UI in a canvas app in Power Apps",
+          "excerpt": "Do you want to build a better UI for app users? This module helps you do that using themes, icons, images, personalization, different form factors, and controls.",
+          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-how-to-build-ui-canvas-app/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/how-to-build-ui-canvas-app/",
+          "length": "PT41M",
+          "ratings": {
+            "count": 750,
+            "average": 4.6853333
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/how-to-build-ui-canvas-app-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "Canvas apps"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-controls-canvas-apps.md",
+          "title": "Use and understand Controls in a canvas app in Power Apps",
+          "excerpt": "Controls help create a better experience for the user and collect the appropriate data. This module will help you understand and use Controls.",
+          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-controls-canvas-apps/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/controls-canvas-apps/",
+          "length": "PT44M",
+          "ratings": {
+            "count": 729,
+            "average": 4.6666665
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/controls-canvas-apps-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "Canvas apps"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/navigation-canvas-app-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-work-with-data-in-a-power-apps-canvas-app.md",
+      "title": "Work with data in a Power Apps canvas app",
+      "excerpt": "Do you need to connect an app to access data? Then this learning path is for you. It will focus on how to connect to data sources. It also will show you how to use filtering, conditions, and other functions to shape your data and write data to your data source.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/collections/microsoft-learn-work-with-data-in-a-power-apps-canvas-app/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/collections/microsoft-learn-work-with-data-in-a-power-apps-canvas-app/",
+      "length": "PT2H44M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-work-with-external-data.md",
+          "title": "Work with external data in a Power Apps canvas app",
+          "excerpt": "Do you need to connect an app to access data? Then this module is for you. It focuses on connecting your app to a data source.",
+          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-work-with-external-data/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-external-data/",
+          "length": "PT58M",
+          "ratings": {
+            "count": 964,
+            "average": 4.549793
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "Canvas apps"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-shape-data.md",
+          "title": "Shape data in a Power Apps canvas app",
+          "excerpt": "When you create a canvas app, do you need to show the user all the data? What if you want to show only the data that is relevant to them? This module will help you address this issue.",
+          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-shape-data/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/shape-data/",
+          "length": "PT58M",
+          "ratings": {
+            "count": 720,
+            "average": 4.5902777
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "Canvas apps"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-write-data.md",
+          "title": "Write data in a Power Apps canvas app",
+          "excerpt": "Learn how to write data in a Power Apps canvas app.",
+          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-write-data/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/write-data/",
+          "length": "PT48M",
+          "ratings": {
+            "count": 692,
+            "average": 4.617052
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "Canvas apps"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 50,
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-administrating-power-platform-subscriptions.md",
+      "title": "Administer Microsoft Power Platform subscriptions",
+      "excerpt": "Many organizations implementing Dynamics 365 Customer Engagement apps on the Microsoft Power Platform are unaware of the amazing capabilities included with their subscription. By default, your subscription includes Microsoft Portals, Gamification, and Voice of the Customer surveys, in addition to technical capabilities like backup and restore, and integrated planning for updates and upgrades. This module focuses on showcasing the great default capabilities you have access to.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-administrating-power-platform-subscriptions/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/administrating-power-platform-subscriptions/",
+      "length": "PT57M",
+      "ratings": {
+        "count": 464,
+        "average": 4.4396553
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/administrating-power-platform-subscriptions-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-authentication-user-management.md",
+      "title": "Authentication and user management in Power Apps portals",
+      "excerpt": "Learn how to authenticate with Power Apps portals.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-authentication-user-management/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/authentication-user-management/",
+      "length": "PT23M",
+      "ratings": {
+        "count": 17,
+        "average": 4.647059
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/authentication-user-management-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Portals"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-author-advanced-formulas.md",
+      "title": "Author an advanced formula that uses tables, records, and collections in a canvas app in Power Apps",
+      "excerpt": "Do you have need for a complex formula in your app? This module can help you author that formula.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-author-advanced-formulas/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/author-advanced-formulas-powerapps/",
+      "length": "PT32M",
+      "ratings": {
+        "count": 441,
+        "average": 4.628118
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/author-advanced-formulas-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-author-basic-forumla-change-behaviors-powerapps.md",
+      "title": "Author a basic formula to change behaviors in a Power Apps canvas app",
+      "excerpt": "Learn how to author a basic formula to change behaviors in a Power Apps canvas app.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-author-basic-forumla-change-behaviors-powerapps/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/author-basic-formula-change-behaviors-powerapps/",
+      "length": "PT51M",
+      "ratings": {
+        "count": 732,
+        "average": 4.605191
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/change-behaviors-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-automate-business-process-flow-client-script-power-platform.md",
+      "title": "Automate business process flows with client script",
+      "excerpt": "This module will focus on educating developers on how to perform common techniques in regard to automating business process flows, along with explaining the context of when these scenarios might be applied.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-automate-business-process-flow-client-script-power-platform/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-business-process-flow-client-script-power-platform/",
+      "length": "PT1H31M",
+      "ratings": {
+        "count": 159,
+        "average": 4.6415095
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/automate-business-process-flow-client-script-power-platform-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-build-user-experience-portals.md",
+      "title": "Build user experience in Power Apps portals",
+      "excerpt": "A portal maker should consider specific details when designing and building portals. Implementing a portal solution requires knowledge of the specific business requirements and needs of the customer. Along with being simplistic and well-designed, a successful portal should provide functionality in consideration of geographical location, language, and accessibility needs. Additionally, portal makers should ensure that portal metadata is backed up to source control and deployed to test and production environments in a consistent and structured way.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-build-user-experience-portals/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-user-experience-portals/",
+      "length": "PT40M",
+      "ratings": {
+        "count": 16,
+        "average": 4.8125
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/build-user-experience-portals-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Portals"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-common-actions-client-script-power-platform.md",
+      "title": "Performing common actions with client script",
+      "excerpt": "The goal of this module is to review how to achieve common user experience automation procedures through Client Script. This module is intended to serve as a practical guide for how to solve real-world scenarios that are frequently encountered during the Microsoft Power Platform implementations.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-common-actions-client-script-power-platform/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/common-actions-client-script-power-platform/",
+      "length": "PT1H27M",
+      "ratings": {
+        "count": 175,
+        "average": 4.6514287
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/common-actions-client-script-power-platform-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-configure-security.md",
+      "title": "Configure Power Apps portals security",
+      "excerpt": "The concept of exposing Common Data Service on a public webpage is appealing for addressing numerous business requirements. However, careful consideration is necessary to avoid exposing private or sensitive data. This module will focus on helping you understand and configure portal security to protect static and dynamic content and limit visibility to specific audiences.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-configure-security/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-security/",
+      "length": "PT43M",
+      "ratings": {
+        "count": 14,
+        "average": 4.928571
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/configure-security-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Portals"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-connect-other-data.md",
+      "title": "Connecting to other data in a Power Apps canvas app",
+      "excerpt": "Learn how to connect to other data in Power Apps canvas app.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-connect-other-data/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-to-other-data-in-powerapps-canvas-app/",
+      "length": "PT32M",
+      "ratings": {
+        "count": 383,
+        "average": 4.6684074
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/connect-other-data-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-controls-canvas-apps.md",
+      "title": "Use and understand Controls in a canvas app in Power Apps",
+      "excerpt": "Controls help create a better experience for the user and collect the appropriate data. This module will help you understand and use Controls.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-controls-canvas-apps/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/controls-canvas-apps/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 729,
+        "average": 4.6666665
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/controls-canvas-apps-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-create-define-calculation-rollup-fields.md",
+      "title": "Create and define calculation or rollup fields in Common Data Service",
+      "excerpt": "Do you want to use rollup or calculation fields? This module shows you how to build calculations or rollups that are defined and triggered within the data in Common Data Service, regardless of the app that accesses that data set.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-create-define-calculation-rollup-fields/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-define-calculation-rollup-fields/",
+      "length": "PT42M",
+      "ratings": {
+        "count": 87,
+        "average": 4.609195
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-define-calculation-rollup-fields-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Common Data Service"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-create-manage-entities.md",
+      "title": "Create and manage entities in Common Data Service",
+      "excerpt": "Common Data Service entities are similar to tables in a database. Every instance of a Common Data Service database includes a base set of entities that provide structure for data that is commonly used by business applications.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-create-manage-entities/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-entities/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 804,
+        "average": 4.630597
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-manage-entities-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Common Data Service"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-create-relationship-between-cds-entities.md",
+      "title": "Create a relationship between entities in Common Data Service",
+      "excerpt": "Do you need to create relationships between entities? This module will show how and why you can separate data into entities and how to relate between entities to build complex and robust business solutions. It will also explain the different kinds of relationships that you can define between entities in Common Data Service.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-create-relationship-between-cds-entities/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-relationship-between-cds-entities/",
+      "length": "PT55M",
+      "ratings": {
+        "count": 113,
+        "average": 4.619469
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-relationship-between-cds-entities-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Common Data Service"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-data-source-limits.md",
+      "title": "Work with data source limits (delegation limits) in a Power Apps canvas app",
+      "excerpt": "Delegate data with Power Apps.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-data-source-limits/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-data-source-limits-powerapps-canvas-app/",
+      "length": "PT33M",
+      "ratings": {
+        "count": 419,
+        "average": 4.632458
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/data-source-limits-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-define-create-business-rules.md",
+      "title": "Define and create business rules in Common Data Service",
+      "excerpt": "The ability to build business rules that ensure consistent business logic regardless of the app accessing that data set is imperative to a successful business operation. This module will show you how you can build business rules that are triggered anytime they are used within Common Data Service.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-define-create-business-rules/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/define-create-business-rules/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 115,
+        "average": 4.695652
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/define-create-business-rules-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Common Data Service"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-designing-power-platform-deployments.md",
+      "title": "Design Microsoft Power Platform Dynamics 365 Deployments",
+      "excerpt": "Design and deploy Microsoft Dynamics 365 apps on the Microsoft Power Platform. Best Practices during this process will decrease the chances of technical issues in the future related to poor application lifecycle management process and storage limitations. The first step before the customization and configuration of the solution takes place is the configuration of your online tenant and online environment",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-designing-power-platform-deployments/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/designing-power-platform-deployments/",
+      "length": "PT1H7M",
+      "ratings": {
+        "count": 652,
+        "average": 4.523006
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/designing-power-platform-deployments-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-discover-customer-needs.md",
+      "title": "Discover customer needs as a Solution Architect for Dynamics 365 and Power Platform",
+      "excerpt": "Learn how to ask customers questions about their business processes and feature requirements to create a viable solution.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-discover-customer-needs/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/discover-customer-needs/",
+      "length": "PT36M",
+      "ratings": {
+        "count": 460,
+        "average": 4.678261
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-explore-portals-studio.md",
+      "title": "Explore Power Apps portals Studio",
+      "excerpt": "Portal makers spend the majority of their time configuring portals by using Microsoft Power Apps portals Studio. It is important that portal makers have a full understanding of the capabilities and also the limitations of using portals Studio. This module will focus on understanding and using Power Apps portals Studio to create and customize portal websites. Power Apps portals Studio allows makers to add and configure webpages, layout components, static content, custom CSS files, entity lists, and entity forms.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-explore-portals-studio/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-portals-studio/",
+      "length": "PT40M",
+      "ratings": {
+        "count": 133,
+        "average": 4.6165414
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/explore-portals-studio-social.png",
+          "width": 642,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Portals"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-explore-portals.md",
+      "title": "Explore Power Apps portals",
+      "excerpt": "Dynamics 365 starter portals are pre-configured portal solutions that are available to help accelerate deployment. Typical portal projects will have unique requirements, but a starter portal provides an environment that is immediately suitable for specific scenarios and audiences.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-explore-portals/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-portals/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 118,
+        "average": 4.6355934
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/explore-portals-social.png",
+          "width": 642,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Portals"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-extend-power-app-portals.md",
+      "title": "Extend Power Apps portals",
+      "excerpt": "The world of business software applications has embraced a movement toward building apps that use low-code/no-code methods. This movement is one of the pillars of Microsoft Power Platform, including Power Apps portals. However, many projects often include functionality or features that can only be addressed with advanced software development techniques. This module explains how to extend portal functionality by using software development and how to use application lifecycle management (ALM) techniques to deploy portals.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-extend-power-app-portals/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/extend-power-app-portals/",
+      "length": "PT37M",
+      "ratings": {
+        "count": 37,
+        "average": 4.4054055
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/extend-power-app-portals-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Portals"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-fit-gap-analysis.md",
+      "title": "Perform fit gap analysis",
+      "excerpt": "Learn about performing a fit gap analysis as a solution architect for Dynamics 365 and Microsoft Power Platform.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-fit-gap-analysis/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fit-gap-analysis/",
+      "length": "PT35M",
+      "ratings": {
+        "count": 402,
+        "average": 4.71393
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-get-started-security-roles.md",
+      "title": "Get started with security roles in Common Data Service",
+      "excerpt": "Do you want to use security roles to limit user permissions? This module will show you how you can set permissions to limit access to an environment or limit which users can view, edit, or delete data in an environment within Common Data Service.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-get-started-security-roles/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-security-roles/",
+      "length": "PT48M",
+      "ratings": {
+        "count": 179,
+        "average": 4.5977654
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/get-started-security-roles-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Common Data Service"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-how-to-build-ui-canvas-app.md",
+      "title": "How to build the UI in a canvas app in Power Apps",
+      "excerpt": "Do you want to build a better UI for app users? This module helps you do that using themes, icons, images, personalization, different form factors, and controls.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-how-to-build-ui-canvas-app/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/how-to-build-ui-canvas-app/",
+      "length": "PT41M",
+      "ratings": {
+        "count": 750,
+        "average": 4.6853333
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/how-to-build-ui-canvas-app-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-implementation-recommendations.md",
+      "title": "Implementation recommendations for Power Automate environments",
+      "excerpt": "Do you want prescriptive recommendations for how organizations should choose to implement security and governance? This module will provide recommendations based on popular use cases, including Office 365 and Dynamics 365 configurations. In addition, edge cases such as custom and HTTP connectors are discussed. Tooling will also be discussed, including the DLP Editor Tool, from the Center of Excellence (COE) toolkit, which allows administrators to understand the impact of the DLP change that they are about to make.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-implementation-recommendations/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implementation-recommendations/",
+      "length": "PT1H14M",
+      "ratings": {
+        "count": 76,
+        "average": 4.5789475
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-integrate-common-data-service.md",
+      "title": "Integrate Power Apps portals with Common Data Service",
+      "excerpt": "The ability to find and interact with Common Data Service data on a website is one of the core benefits of implementing a Power Apps portal. Several methods are available for you to display Common Data Service data. Learning and knowing about these different options will help you have successful portal implementations. This module will focus on the techniques that you can use to configure entity lists, entity forms, and web forms to build powerful web applications.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-integrate-common-data-service/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-common-data-service/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 12,
+        "average": 4.5
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/integrate-common-data-service-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Common Data Service",
+        "Portals"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-cds-developers-power-platform.md",
+      "title": "Introduction to Common Data Service for developers",
+      "excerpt": "The goal of this module is to give an introductory overview of the Power Platform SDKs that are available from Microsoft via NuGet.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-intro-cds-developers-power-platform/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-cds-developers-power-platform/",
+      "length": "PT30M",
+      "ratings": {
+        "count": 897,
+        "average": 4.677815
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-cds-developers-power-platform-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Common Data Service"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-portals.md",
+      "title": "Introduction to Power Apps portals",
+      "excerpt": "Extend Common Data Service interaction to external and internal audiences such as customers, partners, and employees. Use portals to set up an interactive, web-based sales, services, support, and social engagement application platform to connect with customers, engage with communities, manage site content, and empower your channel partners. Empower anyone inside or outside your organization to interact with Common Data Service data by using portals.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-intro-portals/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-portals/",
+      "length": "PT48M",
+      "ratings": {
+        "count": 177,
+        "average": 4.6101694
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-portals-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Portals"
+      ]
+    }
+  ],
+  "nextPage": 12
+}

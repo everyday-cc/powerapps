@@ -1,0 +1,364 @@
+{
+  "title": "Samples",
+  "path": "_samples",
+  "page": 5,
+  "value": [
+    {
+      "path": "_samples/power-apps-community-sound-maker.md",
+      "title": "Sound Maker",
+      "excerpt": "It's a musical score creation &amp; playing app. You can input 2 parts and 32 notes per part. There are the following restrictions: Possible input scales",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-sound-maker/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-sound-maker/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Sound-Maker/td-p/188871",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "j-kodama",
+            "type": "profile",
+            "name": "j-kodama"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/59/2/SoundMaker.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2018-12-05T12:54:00-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/59/1/Screenshot_20181206-133137.png",
+          "width": 720,
+          "height": 1280,
+          "isCached": true
+        }
+      ],
+      "content": "<p><span>It's a musical score creation &amp; playing app.</span></p><p>&nbsp;</p><p><span>You can input 2 parts and 32 notes per part.</span></p><p>There are the following restrictions:</p><ul><li><span>Possible input scales is between C4 to G5.</span></li><li><span>Sharp, flat, and dotted notes are cannot be used.</span></li><li><span>As playback is delayed on iOS, I recommend using it on Android or PC.</span></li></ul><p>&nbsp;</p><p><span>Play fun!</span></p><p>&nbsp;</p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-spirograph.md",
+      "title": "Spirograph",
+      "excerpt": "This is a Spirograph app. It uses SVG path for creating a sense of the pattern being drawn. Huge thanks to all the community members, who have been",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-spirograph/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-spirograph/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Spirograph/td-p/175447",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "rajyraman",
+            "type": "profile",
+            "name": "rajyraman"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/31/2/Spirograph.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2018-11-01T23:01:00-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/31/1/Spirograph.png",
+          "width": 1688,
+          "height": 933,
+          "isCached": true
+        }
+      ],
+      "content": "<p>This is a Spirograph app. It uses SVG path for creating a sense of the pattern being drawn. Huge thanks to all the community members, who have been sharing some cool apps that helped me to learn canvas apps and Mr.Dang teaching the techniques through his videos.</p><p>&nbsp;</p><p><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"Spiro Pattern4.png\" style=\"width: 400px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/40945iC856B9D6BF7E20AD/image-size/medium?v=1.0&amp;px=400\" title=\"Spiro Pattern4.png\" alt=\"Spiro Pattern4.png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/40945iC856B9D6BF7E20AD?v=1.0\" li-image-display-id=\"'40945iC856B9D6BF7E20AD'\" li-message-uid=\"'175447'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"Spiro Pattern3.png\" style=\"width: 400px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/40944iC3D36B05C6E35C60/image-size/medium?v=1.0&amp;px=400\" title=\"Spiro Pattern3.png\" alt=\"Spiro Pattern3.png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/40944iC3D36B05C6E35C60?v=1.0\" li-image-display-id=\"'40944iC3D36B05C6E35C60'\" li-message-uid=\"'175447'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"Spiro Pattern2.png\" style=\"width: 400px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/40943i4E0A499A2424CCEF/image-size/medium?v=1.0&amp;px=400\" title=\"Spiro Pattern2.png\" alt=\"Spiro Pattern2.png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/40943i4E0A499A2424CCEF?v=1.0\" li-image-display-id=\"'40943i4E0A499A2424CCEF'\" li-message-uid=\"'175447'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"Spiro Pattern1.png\" style=\"width: 400px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/40946i6EA10FCEDD28DCFD/image-size/medium?v=1.0&amp;px=400\" title=\"Spiro Pattern1.png\" alt=\"Spiro Pattern1.png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/40946i6EA10FCEDD28DCFD?v=1.0\" li-image-display-id=\"'40946i6EA10FCEDD28DCFD'\" li-message-uid=\"'175447'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-svg-gradient-button-generator-for-powerapps-v-02-update-15-october.md",
+      "title": "SVG Gradient Button Generator for PowerApps V 0.2 (Update 15 october)",
+      "excerpt": "Some change in this new version. GUI : Before : After : New features : 4 kind of animation with duration in ms (2000ms for these examples) :",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-svg-gradient-button-generator-for-powerapps-v-02-update-15-october/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-svg-gradient-button-generator-for-powerapps-v-02-update-15-october/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/SVG-Gradient-Button-Generator-for-PowerApps-V-0-2-Update-15/td-p/378843",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "VanlindtMarc",
+            "type": "profile",
+            "name": "VanlindtMarc"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/279/5/Cr%C3%A9ation%20bouton%20PowerApps%20(1).msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-10-09T00:24:00-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/279/1/2019-10-09%2016_21_30-Cr%C3%A9ation%20bouton%20PowerApps%20-%20PowerApps.png",
+          "width": 1632,
+          "height": 918,
+          "isCached": true
+        }
+      ],
+      "content": "<p>Some change in this new version.</p><p>&nbsp;</p><p><strong>GUI :</strong></p><p><strong>Before :</strong></p><p><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"2019-10-09 16_21_30-Création bouton PowerApps - PowerApps.png\" style=\"width: 400px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/91724i07483ABC1C837217/image-size/medium?v=1.0&amp;px=400\" title=\"2019-10-09 16_21_30-Création bouton PowerApps - PowerApps.png\" alt=\"2019-10-09 16_21_30-Création bouton PowerApps - PowerApps.png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/91724i07483ABC1C837217?v=1.0\" li-image-display-id=\"'91724i07483ABC1C837217'\" li-message-uid=\"'378843'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p><p><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"2019-10-09 16_23_36-Création bouton PowerApps - PowerApps.png\" style=\"width: 400px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/91725iDED8FCD63D68E2F0/image-size/medium?v=1.0&amp;px=400\" title=\"2019-10-09 16_23_36-Création bouton PowerApps - PowerApps.png\" alt=\"2019-10-09 16_23_36-Création bouton PowerApps - PowerApps.png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/91725iDED8FCD63D68E2F0?v=1.0\" li-image-display-id=\"'91725iDED8FCD63D68E2F0'\" li-message-uid=\"'378843'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p><p><strong>After :</strong></p><p><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"2019-10-15 11_45_18-Création bouton PowerApps - PowerApps.png\" style=\"width: 400px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/92755iDB569BEAEAF0A1CB/image-size/medium?v=1.0&amp;px=400\" title=\"2019-10-15 11_45_18-Création bouton PowerApps - PowerApps.png\" alt=\"2019-10-15 11_45_18-Création bouton PowerApps - PowerApps.png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/92755iDB569BEAEAF0A1CB?v=1.0\" li-image-display-id=\"'92755iDB569BEAEAF0A1CB'\" li-message-uid=\"'378843'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p><p>&nbsp;</p><p><strong>New features&nbsp; :</strong></p><ul><li>4 kind of animation with duration in ms (2000ms for these examples) :</li></ul><ol><li>\"Vague\" :&nbsp;<br><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"vague.gif\" style=\"width: 256px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/92756i979DE896359440AB/image-size/large?v=1.0&amp;px=999\" title=\"vague.gif\" alt=\"vague.gif\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/92756i979DE896359440AB?v=1.0\" li-image-display-id=\"'92756i979DE896359440AB'\" li-message-uid=\"'378843'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></li><li>\"JCVD\" : or \"Full Cycle Effect\" :<br><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"jcvd.gif\" style=\"width: 256px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/92757i0A7F1918226B89F8/image-size/large?v=1.0&amp;px=999\" title=\"jcvd.gif\" alt=\"jcvd.gif\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/92757i0A7F1918226B89F8?v=1.0\" li-image-display-id=\"'92757i0A7F1918226B89F8'\" li-message-uid=\"'378843'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></li><li>\"Etirement 1\" :<br><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"etirement1.gif\" style=\"width: 256px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/92759iCEFE26E2A3F03D3E/image-size/large?v=1.0&amp;px=999\" title=\"etirement1.gif\" alt=\"etirement1.gif\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/92759iCEFE26E2A3F03D3E?v=1.0\" li-image-display-id=\"'92759iCEFE26E2A3F03D3E'\" li-message-uid=\"'378843'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></li><li>\"Etirement 2\" :<br><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"etirement2.gif\" style=\"width: 256px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/92760i33198845B9016694/image-size/large?v=1.0&amp;px=999\" title=\"etirement2.gif\" alt=\"etirement2.gif\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/92760i33198845B9016694?v=1.0\" li-image-display-id=\"'92760i33198845B9016694'\" li-message-uid=\"'378843'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></li></ol><ul><li>Shadows :&nbsp;<ul><li>Without :&nbsp;<br><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"2019-10-15 12_06_15-Création bouton PowerApps - Enregistrées (non publiées) - PowerApps.png\" style=\"width: 144px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/92763i4143FC8869B3A5F7/image-size/large?v=1.0&amp;px=999\" title=\"2019-10-15 12_06_15-Création bouton PowerApps - Enregistrées (non publiées) - PowerApps.png\" alt=\"2019-10-15 12_06_15-Création bouton PowerApps - Enregistrées (non publiées) - PowerApps.png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/92763i4143FC8869B3A5F7?v=1.0\" li-image-display-id=\"'92763i4143FC8869B3A5F7'\" li-message-uid=\"'378843'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></li><li>With :<br><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"2019-10-15 12_07_26-Création bouton PowerApps - Enregistrées (non publiées) - PowerApps.png\" style=\"width: 144px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/92766iA3DCA674AACEA9FB/image-size/large?v=1.0&amp;px=999\" title=\"2019-10-15 12_07_26-Création bouton PowerApps - Enregistrées (non publiées) - PowerApps.png\" alt=\"2019-10-15 12_07_26-Création bouton PowerApps - Enregistrées (non publiées) - PowerApps.png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/92766iA3DCA674AACEA9FB?v=1.0\" li-image-display-id=\"'92766iA3DCA674AACEA9FB'\" li-message-uid=\"'378843'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></li></ul></li></ul><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-svg-shape-component.md",
+      "title": "Svg Shape Component",
+      "excerpt": "This is component with svg shapes. Since there is no rotation property for any shapes in Power Apps, I have made this component to help an app",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-svg-shape-component/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-svg-shape-component/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Svg-Shape-Component/td-p/397828",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "h-nagao",
+            "type": "profile",
+            "name": "h-nagao"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/310/2/Shapes.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-11-05T23:25:00-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/310/1/Thumbnail.PNG",
+          "width": 970,
+          "height": 553,
+          "isCached": true
+        }
+      ],
+      "content": "<p>This is component with svg shapes.</p><p>Since there is no rotation property for any shapes in Power Apps, I have made this component to help an app making.</p><p>You can set rotation angle, corner radius, color, shape type as component custom properties.</p><p><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"Thumbnail.PNG\" style=\"width: 400px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/96921iA6B12B7CC975011E/image-size/medium?v=1.0&amp;px=400\" title=\"Thumbnail.PNG\" alt=\"Thumbnail.PNG\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/96921iA6B12B7CC975011E?v=1.0\" li-image-display-id=\"'96921iA6B12B7CC975011E'\" li-message-uid=\"'397828'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p><p>msapp file includes sample app with Properties description.</p><p>&nbsp;</p><p>Any feedback is appreciated!</p><p>&nbsp;</p><p>Thank you</p><p>Hiro</p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-swipeable-item-component.md",
+      "title": "Swipeable Item (Component)",
+      "excerpt": "Hi, I've made this component of an item you can swipe to the left and reveal some buttons. This component would be so nice to use in a vertical",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-swipeable-item-component/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-swipeable-item-component/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Swipeable-Item-Component/td-p/263585",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Gabrz",
+            "type": "profile",
+            "name": "Gabrz"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/146/5/SwipeableItem_v01.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-04-07T01:02:00-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/146/1/SwipeableItem.png",
+          "width": 392,
+          "height": 339,
+          "isCached": true
+        }
+      ],
+      "content": "<p>Hi,</p><p>I've made this component of an item you can swipe to the left and reveal some buttons.</p><p>This component would be so nice to use in a vertical Gallery (I realy hope they will implement that soon)</p><p><span class=\"lia-inline-image-display-wrapper lia-image-align-center\" image-alt=\"SwipeableItem.gif\" style=\"width: 630px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/59858i1C85E68EB6F85AFD/image-dimensions/630x503?v=1.0\" width=\"630\" height=\"503\" title=\"SwipeableItem.gif\" alt=\"SwipeableItem.gif\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/59858i1C85E68EB6F85AFD?v=1.0\" li-image-display-id=\"'59858i1C85E68EB6F85AFD'\" li-message-uid=\"'263585'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p><p>The component has 4 Output Properties, one for when you just click on the item, and three for whichever button you press.</p><p>There are also a lot of Input Properties for Colors, Font, Alignment... etc. Oh, and the number of buttons you want to show is configurable(from 1 to 3).</p><p>&nbsp;</p><p>Please try it out, and I would love to hear your feedback</p><p>&nbsp;</p><p>UPDATE v0.1:</p><p>&nbsp;- Fixed Bug with slider handle on iPhone</p><p>&nbsp;- Buttons will hide when not swiped far enough</p><p>&nbsp;- Added version number</p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-throwing-a-ball.md",
+      "title": "Throwing a Ball",
+      "excerpt": "This app simulates the motion of throwing a ball based on concrete physics. Time development of ball is basically given by the motion of projectile",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-throwing-a-ball/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-throwing-a-ball/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Throwing-a-Ball/td-p/180730",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "h-nagao",
+            "type": "profile",
+            "name": "h-nagao"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/39/1/ShootingBall.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2018-11-15T16:24:00-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/39/2/screenshot.png",
+          "width": 1527,
+          "height": 857,
+          "isCached": true
+        }
+      ],
+      "content": "<p>This app simulates the motion of throwing a ball based on concrete physics.</p><p>Time development of ball is basically given by the motion of projectile with gravity and air resistance (See attached photo),&nbsp; also I have implemented effects of bounce and reflection.</p><p><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"Equation of motion\" style=\"width: 400px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/42232i47FAFEFEE30A2CED/image-size/medium?v=1.0&amp;px=400\" title=\"68747470733a2f2f71696974612d696d6167652d73746f72652e73332e616d617a6f6e6177732e636f6d2f302f3230323737392f32653136323762612d313735342d356365662d386331642d6534303136353066633364392e706e67.png\" alt=\"Equation of motion\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/42232i47FAFEFEE30A2CED?v=1.0\" li-image-display-id=\"'42232i47FAFEFEE30A2CED'\" li-message-uid=\"'180730'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"><span class=\"lia-inline-image-caption\" onclick=\"event.preventDefault();\">Equation of motion</span></span><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"Screenshot\" style=\"width: 400px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/42233i9F0DB046F7DF6866/image-size/medium?v=1.0&amp;px=400\" title=\"screenshot.png\" alt=\"Screenshot\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/42233i9F0DB046F7DF6866?v=1.0\" li-image-display-id=\"'42233i9F0DB046F7DF6866'\" li-message-uid=\"'180730'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"><span class=\"lia-inline-image-caption\" onclick=\"event.preventDefault();\">Screenshot</span></span></p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-time-zone-converter-demo.md",
+      "title": "Time Zone Converter Demo",
+      "excerpt": "In my 4 part video series I demonstrate how to use PowerApps, Flow and Common Data Service to convert time zones. Part 1: Creating a Flow and using",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-time-zone-converter-demo/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-time-zone-converter-demo/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Time-Zone-Converter-Demo/td-p/203741",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Anonymous",
+            "type": "profile",
+            "name": "Anonymous"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/77/2/Time%20Zone%20Convert%20Demo%20Video.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-01-13T11:51:00-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/77/1/PowerApps%20Video%20-%20Time%20Zone%20Converter%20Demo%20-%20Thumbail%20-%20All.png",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "<p>In my 4 part video series I demonstrate how to use PowerApps, Flow and Common Data Service to convert time zones.</p><p><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"Time Zone Convert Demo app\" style=\"width: 400px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/48072iBEA305CE662FFA39/image-size/medium?v=1.0&amp;px=400\" title=\"PowerApps Video - Time Zone Converter Demo - Example.png\" alt=\"Time Zone Convert Demo app\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/48072iBEA305CE662FFA39?v=1.0\" li-image-display-id=\"'48072iBEA305CE662FFA39'\" li-message-uid=\"'203741'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"><span class=\"lia-inline-image-caption\" onclick=\"event.preventDefault();\">Time Zone Convert Demo app</span></span></p><ul><li>Part 1: <a href=\"https://youtu.be/9DVtlhQRcok\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Creating a Flow and using the Convert Time Zone action</a></li><li>Part 2: <a href=\"https://youtu.be/YlgUau8fDPA\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Build the app in PowerApps</a></li><li>Part 3: <a href=\"https://youtu.be/WLFZkGfYAxQ\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Get list of time zones from CDS</a></li><li>Part 4: <a href=\"https://youtu.be/rJ887seEcSA\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Connect Flow and CDS to the app in PowerApps</a></li></ul><p>View the whole series here:</p><p><a href=\"https://www.youtube.com/playlist?list=PLdfisYaY-FyG73gKCdXnBzhqFhRf8aUnG\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://www.youtube.com/playlist?list=PLdfisYaY-FyG73gKCdXnBzhqFhRf8aUnG</a></p><p>&nbsp;</p><p><span class=\"videoUrl\">watch?v=9DVtlhQRcok</span></p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    }
+  ]
+}

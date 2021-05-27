@@ -1,0 +1,13 @@
+taxonomy: topic
+_id: teams-integration
+name: Teams integration
+parent: Power Apps
+keywords:
+  - microsoft teams
+  - teams
+  - msteams
+hashtags:
+  - "#MSTeams #MicrosoftTeams"
+services:
+  learning: https://everyday-cc.github.io/powerapps/api/learning/teams-integration/
+  news: https://everyday-cc.github.io/powerapps/api/news/teams-integration/

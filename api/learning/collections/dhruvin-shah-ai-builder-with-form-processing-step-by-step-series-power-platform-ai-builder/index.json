@@ -1,0 +1,162 @@
+{
+  "title": "AI Builder With Form Processing - Step by Step Series - Power Platform AI Builder",
+  "path": "_learning/collections/dhruvin-shah-ai-builder-with-form-processing-step-by-step-series-power-platform-ai-builder.md",
+  "page": 1,
+  "value": [
+    {
+      "path": "_learning/videos/dhruvin-shah-overview-of-form-processing-model-using-power-platform-ai-builder-power-platform-ai-builder-series.md",
+      "title": "Overview of Form Processing Model using Power Platform AI Builder – Power Platform AI Builder Series",
+      "excerpt": "Welcome to PowerPlatform with AI series. During this entire series, we will talk about one of the important components of AI Builder which is – “Form Processing”.  I have divided this entire series into the following parts. 1. Overview of Form Processing model – Prerequisites, Scenario, and Limitations",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-overview-of-form-processing-model-using-power-platform-ai-builder-power-platform-ai-builder-series/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-overview-of-form-processing-model-using-power-platform-ai-builder-power-platform-ai-builder-series/",
+      "originalUrl": "https://youtube.com/watch?v=9jKZhL6Q-FE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9jKZhL6Q-FE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M6S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-04-08T21:54:33-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9jKZhL6Q-FE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-get-started-to-build-with-form-processing-ai-model-power-platform-ai-builder-series-part-two.md",
+      "title": "Get Started to Build with Form Processing AI Model – Power Platform AI Builder Series – Part Two",
+      "excerpt": "Welcome to PowerPlatform with AI series. During this entire series, we will talk about one of the important components of AI Builder which is – “Form Processing”.  You are watching the second part of this series. In this video, we will discuss how we can build a model for Form Processing using AI Builder?",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-get-started-to-build-with-form-processing-ai-model-power-platform-ai-builder-series-part-two/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-get-started-to-build-with-form-processing-ai-model-power-platform-ai-builder-series-part-two/",
+      "originalUrl": "https://youtube.com/watch?v=UDs3EIYCOTw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UDs3EIYCOTw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M31S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-04-08T22:32:34-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/UDs3EIYCOTw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-how-to-train-and-publish-form-processing-ai-model-power-platform-ai-builder-series-part-three.md",
+      "title": "How to Train and Publish Form Processing AI Model? – Power Platform AI Builder Series – Part Three",
+      "excerpt": "Welcome to PowerPlatform with AI series. During this entire series, we will talk about one of the important components of AI Builder which is – “Form Processing”.  You are watching the third part of this series. In this video, we will discuss how we can train our Form Processing model and Publish the",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-how-to-train-and-publish-form-processing-ai-model-power-platform-ai-builder-series-part-three/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-how-to-train-and-publish-form-processing-ai-model-power-platform-ai-builder-series-part-three/",
+      "originalUrl": "https://youtube.com/watch?v=OunHKFnIjqM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OunHKFnIjqM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M4S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-04-09T00:02:15-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/OunHKFnIjqM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-build-power-apps-using-form-processing-ai-model-and-store-data-to-sharepoint-list-part-four.md",
+      "title": "Build Power Apps Using Form Processing AI Model and Store Data to SharePoint List – Part  Four",
+      "excerpt": "Welcome to PowerPlatform with AI series. During this entire series, we will talk about one of the important components of AI Builder which is – “Form Processing”.  You are watching the fourth part of this series. In this video, we will discuss how we can build a Power Apps consuming Form Processor Component,",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-build-power-apps-using-form-processing-ai-model-and-store-data-to-sharepoint-list-part-four/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-build-power-apps-using-form-processing-ai-model-and-store-data-to-sharepoint-list-part-four/",
+      "originalUrl": "https://youtube.com/watch?v=lV-uhYWS_tE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lV-uhYWS_tE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M49S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-04-09T00:52:44-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/lV-uhYWS_tE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-real-world-use-case-form-processing-with-ai-builder-in-power-apps-and-sharepoint-as-back-end.md",
+      "title": "Real World Use Case - Form Processing with AI Builder in Power Apps and SharePoint as Back end",
+      "excerpt": "This video demonstrates the Real World use case for Power Apps Form Processing AI Model.  The AI Builder is a new game changer for the Power Platform. Here we have taken an example of a Real-World Business Use case where User uploads the scanned document of their Rent Receipt. The Form Processing AI",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-real-world-use-case-form-processing-with-ai-builder-in-power-apps-and-sharepoint-as-back-end/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-real-world-use-case-form-processing-with-ai-builder-in-power-apps-and-sharepoint-as-back-end/",
+      "originalUrl": "https://youtube.com/watch?v=ty9yy14RQMY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ty9yy14RQMY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-04-09T18:31:11-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ty9yy14RQMY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    }
+  ]
+}

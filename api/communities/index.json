@@ -1,0 +1,182 @@
+{
+  "title": "Communities",
+  "path": "_communities",
+  "page": 1,
+  "value": [
+    {
+      "path": "_communities/powerappsug-power-apps-exchange.md",
+      "excerpt": "Connect with all the Power Apps Users in the Power Apps Exchange! All the user groups have access to this one online forum to collaboratively and instantly share their Power Apps projects, wins and struggles.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/communities/powerappsug-power-apps-exchange/index.json",
+      "webUrl": "https://www.powerappsug.com/communities/community-home",
+      "originalUrl": "https://www.powerappsug.com/communities/community-home",
+      "provider": {
+        "name": "Power Apps User Group",
+        "domain": "powerappsug.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/powerappsug.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "heat": 324,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_banners/819311260546252800/1596811806/1500x500",
+          "width": 1500,
+          "height": 500,
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "name": "Power Apps Exchange by Power Apps User Group",
+      "type": "forum",
+      "members": 22000,
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_communities/facebook-groups-powerappspowerautomate.md",
+      "excerpt": "This is a community group to discuss everything about Power Apps & Power Automate.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/communities/facebook-groups-powerappspowerautomate/index.json",
+      "webUrl": "https://www.facebook.com/groups/PowerAppsPowerAutomate/",
+      "originalUrl": "https://www.facebook.com/groups/PowerAppsPowerAutomate/",
+      "provider": {
+        "name": "Facebook",
+        "domain": "facebook.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/facebook.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "heat": 287,
+      "images": [
+        {
+          "url": "https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/120292882_10158689386832394_4688406155968038307_n.jpg?_nc_cat=107&_nc_sid=825194&_nc_ohc=o6MXtv6tZYoAX-x5Vjg&_nc_ht=scontent-sea1-1.xx&oh=e8ab5f72caa9784d5317e4c81d4b2162&oe=5F945F86",
+          "width": 1280,
+          "height": 720,
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "name": "Power Apps & Power Automate Facebook Group",
+      "type": "forum",
+      "members": 13000,
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_communities/facebook-groups-microsoftpowerapps.md",
+      "excerpt": "This is a community group to discuss Microsoft Power Apps",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/communities/facebook-groups-microsoftpowerapps/index.json",
+      "webUrl": "https://www.facebook.com/groups/MicrosoftPowerApps/",
+      "originalUrl": "https://www.facebook.com/groups/MicrosoftPowerApps/",
+      "provider": {
+        "name": "Facebook",
+        "domain": "facebook.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/facebook.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "heat": 257,
+      "images": [
+        {
+          "url": "https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/74316639_1112653828923358_2911599200867188736_o.png?_nc_cat=104&_nc_sid=825194&_nc_ohc=w5t7qBluAC4AX8JEZeW&_nc_ht=scontent-sea1-1.xx&oh=a252bffe16c5044754d58f2cde4eb744&oe=5F96F8D9",
+          "width": 1280,
+          "height": 720,
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "name": "Power Apps Facebook Group",
+      "type": "forum",
+      "members": 8400,
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_communities/microsoft-power-apps-community.md",
+      "excerpt": "Connect with peers, share ideas, and learn from experts",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/communities/microsoft-power-apps-community/index.json",
+      "webUrl": "https://powerusers.microsoft.com/t5/Power-Apps-Community/ct-p/PowerApps1",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Power-Apps-Community/ct-p/PowerApps1",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "heat": 244,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com/t5/image/serverpage/image-id/182921i56FF007C4C1F11A3/image-size/large/is-moderation-mode/true?v=1.0&px=999",
+          "width": 680,
+          "height": 357,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "name": "Microsoft Power Apps Community",
+      "type": "forum",
+      "members": 6940,
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_communities/powerapps-stackoverflow.md",
+      "excerpt": "Stack Overflow is a question and answer site for professional and enthusiast programmers. Power Apps has an active community in StackOverflow.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/communities/powerapps-stackoverflow/index.json",
+      "webUrl": "https://stackoverflow.com/questions/tagged/powerapps",
+      "originalUrl": "https://stackoverflow.com/questions/tagged/powerapps",
+      "provider": {
+        "name": "Stack Overflow",
+        "domain": "stackoverflow.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/stackoverflow.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "heat": 190,
+      "images": [
+        {
+          "url": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+          "width": 316,
+          "height": 316,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "name": "Power Apps in Stack Overflow",
+      "type": "forum",
+      "members": 3000,
+      "topics": [
+        "Power Apps"
+      ]
+    }
+  ]
+}

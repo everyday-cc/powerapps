@@ -1,0 +1,179 @@
+{
+  "title": "Administer Power Apps portals",
+  "path": "_learning/collections/microsoft-learn-administer-power-apps-portals.md",
+  "page": 1,
+  "value": [
+    {
+      "path": "_learning/courses/microsoft-learn-portals-administration.md",
+      "title": "Power Apps portals administration",
+      "excerpt": "This module will focus on the Microsoft Power Apps Portals administration and using the Power Apps admin center. Additional actions and features are available that you can use to enhance portal functionality.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-portals-administration/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/portals-administration/",
+      "length": "PT13M",
+      "ratings": {
+        "count": 30,
+        "average": 4.6
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/portals-administration-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Portals"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-portals-integration.md",
+      "title": "Integrate Power Apps portals with web-based technologies",
+      "excerpt": "Learn how to integrate Power Apps portals with web-based technologies.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-portals-integration/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/portals-integration/",
+      "length": "PT19M",
+      "ratings": {
+        "count": 24,
+        "average": 4.8333335
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/portals-integration-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Portals"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-authentication-user-management.md",
+      "title": "Authentication and user management in Power Apps portals",
+      "excerpt": "Learn how to authenticate with Power Apps portals.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-authentication-user-management/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/authentication-user-management/",
+      "length": "PT23M",
+      "ratings": {
+        "count": 17,
+        "average": 4.647059
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/authentication-user-management-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Portals"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-portals-maintenance-troubleshooting.md",
+      "title": "Power Apps portals maintenance and troubleshooting",
+      "excerpt": "When building a Microsoft Power Apps portal, administrators should consider various techniques, best practices, and features. This module will cover the various troubleshooting tools that are available and explain the importance of using the Portal Checker tool.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-portals-maintenance-troubleshooting/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/portals-maintenance-troubleshooting/",
+      "length": "PT22M",
+      "ratings": {
+        "count": 16,
+        "average": 4.75
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/portals-maintenance-troubleshooting-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Portals"
+      ]
+    }
+  ]
+}

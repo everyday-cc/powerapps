@@ -1,0 +1,10 @@
+taxonomy: topic
+_id: portals
+name: Portals
+parent: Power Apps
+keywords:
+  - portals
+hashtags:
+  - "#Portals"
+services:
+  learning: https://everyday-cc.github.io/powerapps/api/learning/portals/

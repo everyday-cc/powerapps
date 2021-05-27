@@ -1,0 +1,112 @@
+{
+  "title": "Work with data in a Power Apps canvas app",
+  "path": "_learning/collections/microsoft-learn-work-with-data-in-a-power-apps-canvas-app.md",
+  "page": 1,
+  "value": [
+    {
+      "path": "_learning/courses/microsoft-learn-work-with-external-data.md",
+      "title": "Work with external data in a Power Apps canvas app",
+      "excerpt": "Do you need to connect an app to access data? Then this module is for you. It focuses on connecting your app to a data source.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-work-with-external-data/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-external-data/",
+      "length": "PT58M",
+      "ratings": {
+        "count": 964,
+        "average": 4.549793
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-shape-data.md",
+      "title": "Shape data in a Power Apps canvas app",
+      "excerpt": "When you create a canvas app, do you need to show the user all the data? What if you want to show only the data that is relevant to them? This module will help you address this issue.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-shape-data/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/shape-data/",
+      "length": "PT58M",
+      "ratings": {
+        "count": 720,
+        "average": 4.5902777
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-write-data.md",
+      "title": "Write data in a Power Apps canvas app",
+      "excerpt": "Learn how to write data in a Power Apps canvas app.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-write-data/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/write-data/",
+      "length": "PT48M",
+      "ratings": {
+        "count": 692,
+        "average": 4.617052
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    }
+  ]
+}

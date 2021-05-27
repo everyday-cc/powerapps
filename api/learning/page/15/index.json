@@ -1,0 +1,760 @@
+{
+  "title": "Learning Resources",
+  "path": "_learning",
+  "page": 15,
+  "value": [
+    {
+      "path": "_learning/videos/powerapps911-power-platform-ignite-2019-announcements-power-automate-rpa-pbi-security-and-more.md",
+      "title": "Power Platform Ignite 2019 Announcements - Power Automate, RPA, PBI Security, and more",
+      "excerpt": "Get the rundown on all of the Power Platform Microsoft Ignite 2019 announcements.   Power Automate and Power Apps RPA AI • Key phrase extraction • Language detection • Text recognition • Sentiment analysis Chat bots Teams • Company app gallery, pin to left rail • More triggers and actions • Adaptive",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-power-platform-ignite-2019-announcements-power-automate-rpa-pbi-security-and-more/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-power-platform-ignite-2019-announcements-power-automate-rpa-pbi-security-and-more/",
+      "originalUrl": "https://youtube.com/watch?v=6lHb-trtd3Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6lHb-trtd3Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M57S",
+      "provider": {
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
+      },
+      "publishedDateTime": "2019-11-04T06:21:37-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6lHb-trtd3Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/powerapps911-powerapps-code-comments-inline-block-and-documentation.md",
+      "title": "PowerApps Code Comments inline block and documentation",
+      "excerpt": "In this video, you will learn how to add PowerApps Comments and documentation to your apps. Handy trick that will make future you happy. We cover inline comments, block comments, and a documentation screen.  Video on how I built the Password App https://www.youtube.com/watch?v=GiN47Is_634  PowerApps",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-powerapps-code-comments-inline-block-and-documentation/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-powerapps-code-comments-inline-block-and-documentation/",
+      "originalUrl": "https://youtube.com/watch?v=KUunAjDbuKE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KUunAjDbuKE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M55S",
+      "provider": {
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
+      },
+      "publishedDateTime": "2018-06-14T09:57:38-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/KUunAjDbuKE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-artificial-intelligence-in-powerapps-with-ai-builder.md",
+      "title": "Artificial Intelligence in PowerApps with AI Builder",
+      "excerpt": "Free training every Tuesday at 11am EST https://pragmaticworks.com/resources/...   Do you want to learn how to use Artificial Intelligence in PowerApps?    In this demo-heavy presentation, you'll see how to integrate PowerApps applications into Power BI reports making your reports actionable.  Pragmatic",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-artificial-intelligence-in-powerapps-with-ai-builder/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-artificial-intelligence-in-powerapps-with-ai-builder/",
+      "originalUrl": "https://youtube.com/watch?v=tVIpwCKwCxg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tVIpwCKwCxg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT57M9S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2019-10-31T05:11:26-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tVIpwCKwCxg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-brainstorming-and-gathering-your-powerapps-business-requirements.md",
+      "title": "Brainstorming and Gathering your PowerApps Business Requirements",
+      "excerpt": "PowerApp a Day Episode #7 (HR Shoutout App) -  Time to start up a new PowerApps application. In this live session, you'll watch a real brainstorming session while we build the application on the whiteboard and in mockup software Balsamiq.  Power App and Power Platform Training : https://pragmaticworks.com/training/on-demand-training",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-brainstorming-and-gathering-your-powerapps-business-requirements/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-brainstorming-and-gathering-your-powerapps-business-requirements/",
+      "originalUrl": "https://youtube.com/watch?v=vn9-mwjP7v4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vn9-mwjP7v4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M5S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2018-09-11T11:28:05-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/vn9-mwjP7v4/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-building-a-power-app-gathering-requirements-for-forgotten-parks.md",
+      "title": "Building a Power App - Gathering Requirements for Forgotten Parks",
+      "excerpt": "Forgotten Parks Build Episode 1 - In this first video on building a Power App, we setup the requirements for the Power App we will be building for non-profit organizations, Forgotten Parks (http://www.forgottenparks.org). This video focuses solely on gathering the requirements we'll be using and some",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-building-a-power-app-gathering-requirements-for-forgotten-parks/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-building-a-power-app-gathering-requirements-for-forgotten-parks/",
+      "originalUrl": "https://youtube.com/watch?v=oQMxgJXtrRM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oQMxgJXtrRM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M20S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2020-02-14T06:41:19-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/oQMxgJXtrRM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-connecting-to-common-data-services-cds-with-management-studio-ssms.md",
+      "title": "Connecting to Common Data Services (CDS) with Management Studio (SSMS)",
+      "excerpt": "In this video, you'll see the latest cool Common Data Services (CDS) feature that allows you to connect to CDS using Management Studio. After you connect, you're able to query CDS and perform much of the same queries you do in T-SQL against CDS.   Pragmatic Works Training and Consulting : https://www.pragmaticworks.com",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-connecting-to-common-data-services-cds-with-management-studio-ssms/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-connecting-to-common-data-services-cds-with-management-studio-ssms/",
+      "originalUrl": "https://youtube.com/watch?v=cv1l7EfG65o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cv1l7EfG65o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M26S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2020-07-07T13:21:29-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/cv1l7EfG65o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-covid-wellness-accelerator.md",
+      "title": "COVID Wellness Accelerator",
+      "excerpt": "In this video, Brian builds an end to end application with Power Apps and SharePoint for COVID Back to Work Wellness safety. The PowerApp can check employees' wellness for eligibility to work in the office and make sure the employees acknowledge the company's safety policies. If you have Office 365,",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-covid-wellness-accelerator/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-covid-wellness-accelerator/",
+      "originalUrl": "https://youtube.com/watch?v=XbsEiQiEy98",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XbsEiQiEy98\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT52M14S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2020-07-13T13:36:31-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/XbsEiQiEy98/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-going-offline-with-power-apps-import-and-export-controls.md",
+      "title": "Going Offline with Power Apps Import and Export Controls",
+      "excerpt": "In our previous video, we showed how to go offline in Power Apps. This video focuses on what happens when you want to close the app and still keep your data. Brian shows you how to use the Import and Export controls to export a file out and import that dataset into an additional app or the same app when",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-going-offline-with-power-apps-import-and-export-controls/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-going-offline-with-power-apps-import-and-export-controls/",
+      "originalUrl": "https://youtube.com/watch?v=MrJnOnpf0Po",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MrJnOnpf0Po\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M14S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2019-12-06T08:17:19-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/MrJnOnpf0Po/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-how-to-create-a-power-apps-community-plan-environment-and-cds-database.md",
+      "title": "How to Create a Power Apps Community Plan Environment and CDS Database",
+      "excerpt": "Matt Peterson shows quickly how to set up the free Power Apps Community edition plan. The plan can be used to test and train in Power Apps but does not have the ability to share applications. He also shows how to create the Common Data Services (CDS) database).",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-how-to-create-a-power-apps-community-plan-environment-and-cds-database/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-how-to-create-a-power-apps-community-plan-environment-and-cds-database/",
+      "originalUrl": "https://youtube.com/watch?v=Tgsl77olCMc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Tgsl77olCMc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M23S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2020-06-16T07:34:39-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Tgsl77olCMc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-integrating-microsoft-cognitive-services-computer-vision-api-into-powerapps.md",
+      "title": "Integrating Microsoft Cognitive Services Computer Vision API into PowerApps",
+      "excerpt": "PowerApp a Day Episode #19 (Caption App) - Learn how to use PowerApps and Microsoft Cognitive Services Computer Vision to automatically create captions on your images you upload.  Power App Training: https://pragmaticworks.com/Training/On-Demand-Training/Introduction-to-Powerapps  OnChange of the Photo:",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-integrating-microsoft-cognitive-services-computer-vision-api-into-powerapps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-integrating-microsoft-cognitive-services-computer-vision-api-into-powerapps/",
+      "originalUrl": "https://youtube.com/watch?v=KKon0Yqwu38",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KKon0Yqwu38\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M16S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2018-09-27T12:20:35-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/KKon0Yqwu38/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-integrating-microsoft-translation-services-and-weather-into-powerapps.md",
+      "title": "Integrating Microsoft Translation Services and Weather into PowerApps",
+      "excerpt": "PowerApp a Day Episode #17 (SalesPerson App) - In this video, you'll learn how to simplify communication with your customers with Microsoft Translation Services, built into your PowerApps application. Use the services to translate emails, text in input boxes and other cool techniques.  We also show how",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-integrating-microsoft-translation-services-and-weather-into-powerapps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-integrating-microsoft-translation-services-and-weather-into-powerapps/",
+      "originalUrl": "https://youtube.com/watch?v=4deOCqXCZho",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4deOCqXCZho\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M53S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2018-09-25T11:18:15-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4deOCqXCZho/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-kill-manual-processes-with-powerapps-and-flow.md",
+      "title": "Kill Manual Processes with PowerApps and Flow",
+      "excerpt": "Learn how to digitally transform your business processes, workflows and kill manual paperwork with PowerApps and Flow.  Need beautiful apps and reports built for your organization? Pragmatic Works can help you with our shared development service. http://www.powerplatformpros.com",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-kill-manual-processes-with-powerapps-and-flow/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-kill-manual-processes-with-powerapps-and-flow/",
+      "originalUrl": "https://youtube.com/watch?v=GSMjFdF8SKw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GSMjFdF8SKw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H1M24S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2019-04-02T15:34:36-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GSMjFdF8SKw/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-learn-power-platform-with-pragmatic-works-hackathons.md",
+      "title": "Learn Power Platform with Pragmatic Works Hackathons",
+      "excerpt": "Pragmatic Works Hackathons let you train your team by building PowerApps, Power BI and Azure solutions with one part training and one part building a prototype with your own data.  On-Demand Learning courses FREE trial: https://success.pragmaticworks.com/ondemandlearning-free-trial",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-learn-power-platform-with-pragmatic-works-hackathons/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-learn-power-platform-with-pragmatic-works-hackathons/",
+      "originalUrl": "https://youtube.com/watch?v=4Xl71GETuLI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4Xl71GETuLI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M47S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2019-10-08T09:44:42-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4Xl71GETuLI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-making-powerapps-galleries-more-usable-with-the-templatefill-property.md",
+      "title": "Making PowerApps Galleries More Usable with the TemplateFill Property",
+      "excerpt": "App A day Episode 27: Learn how to use the TemplateFill property to make your PowerApps galleries more usable.  For more PowerApps training, visit http://www.pragmaticworkstraining.com  Or we're passionate about building apps for you: http://www.powerplatformpros.com",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-making-powerapps-galleries-more-usable-with-the-templatefill-property/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-making-powerapps-galleries-more-usable-with-the-templatefill-property/",
+      "originalUrl": "https://youtube.com/watch?v=zs7BnTR1H-M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zs7BnTR1H-M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M5S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2019-05-21T13:44:32-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/zs7BnTR1H-M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-power-apps-disconnected-and-offline-mode.md",
+      "title": "Power Apps Disconnected and Offline Mode",
+      "excerpt": "Learn in Power Apps how to handle create a data-driven application that might occasionally be disconnected from the network or be offline. The key to this app is the Connection.Connected property.  Learn more at https://www.pragmaticworkstraining.com  OnCheck property of the toggle:  If(     !IsEmpty(colOffline),",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-power-apps-disconnected-and-offline-mode/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-power-apps-disconnected-and-offline-mode/",
+      "originalUrl": "https://youtube.com/watch?v=RrkyfO68pYI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RrkyfO68pYI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M37S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2019-12-04T12:00:09-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RrkyfO68pYI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-powerapps-ifthen-statements-and-solving-delegation-issues.md",
+      "title": "PowerApps If..Then Statements and Solving Delegation Issues",
+      "excerpt": "PowerApp a Day Episode #10 (Shoutout App) - Learn how to use If..Then statements and deal with challenges with SharePoint delegation in PowerApps  Pragmatic Works Training : https://pragmaticworks.com/training/on-demand-training",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-powerapps-ifthen-statements-and-solving-delegation-issues/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-powerapps-ifthen-statements-and-solving-delegation-issues/",
+      "originalUrl": "https://youtube.com/watch?v=22tZc6tAdd4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/22tZc6tAdd4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M38S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2018-09-14T11:36:05-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/22tZc6tAdd4/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-powerapps-portals-external-authentication-with-facebook.md",
+      "title": "PowerApps Portals External Authentication with Facebook",
+      "excerpt": "Episode 36: Learn how to use external authentication provider, Facebook with PowerApps Portals to allow users to register and login to your site easily.   Check out our free PowerApps App In A Day Class: http://success.pragmaticworks.com/aiad  We'd love to build an app for you: http://www.pragmaticworks.com",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-powerapps-portals-external-authentication-with-facebook/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-powerapps-portals-external-authentication-with-facebook/",
+      "originalUrl": "https://youtube.com/watch?v=egfnaXIqpwU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/egfnaXIqpwU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M5S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2019-07-22T14:07:31-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/egfnaXIqpwU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Portals"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-powerapps-portals-external-authentication-with-linkedin.md",
+      "title": "PowerApps Portals External Authentication with LinkedIn",
+      "excerpt": "Episode 35: Learn how to use external authentication provider, LinkedIn with PowerApps Portals to allow users to register and login to your site easily.   Check out our free PowerApps App In A Day Class: http://success.pragmaticworks.com/aiad  We'd love to build an app for you: http://www.pragmaticworks.com",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-powerapps-portals-external-authentication-with-linkedin/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-powerapps-portals-external-authentication-with-linkedin/",
+      "originalUrl": "https://youtube.com/watch?v=8Zx2RBhwV4I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8Zx2RBhwV4I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M10S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2019-07-19T13:21:44-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8Zx2RBhwV4I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Portals"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-powerapps-reusable-component-beginner-tutorial.md",
+      "title": "PowerApps Reusable Component Beginner Tutorial",
+      "excerpt": "PowerApp a Day Episode #23  -  Learn how to use one of the newest features in PowerApps: components. In this video you'll see how to create a basic one and re-use it across multiple screens. With these components you can build logic into a component and one change pushes to all screens that use it.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-powerapps-reusable-component-beginner-tutorial/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-powerapps-reusable-component-beginner-tutorial/",
+      "originalUrl": "https://youtube.com/watch?v=1n9dUduWk4g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1n9dUduWk4g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M30S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2019-03-01T12:39:53-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1n9dUduWk4g/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-saving-powerapps-user-preferences-across-sessions.md",
+      "title": "Saving PowerApps User Preferences Across Sessions",
+      "excerpt": "PowerApp a Day Episode #22  -  Learn how to use save user preferences and how to build a tutorial for your users that can be automatically skipped  in the future after they click Skip.  This pattern can be used for menus and color saving as well.   Power App Training: https://pragmaticworks.com/Training/On-Demand-Training/Introduction-to-Powerapps",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-saving-powerapps-user-preferences-across-sessions/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-saving-powerapps-user-preferences-across-sessions/",
+      "originalUrl": "https://youtube.com/watch?v=UcgzIa2uQrY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UcgzIa2uQrY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M25S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2018-10-18T11:39:14-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/UcgzIa2uQrY/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-the-power-apps-filter-and-search-command-with-debugging.md",
+      "title": "The Power Apps Filter and Search Command (with debugging)",
+      "excerpt": "Learn how to filter and search galleries, data tables or anything inside of PowerApps using Filter and Search commands. You'll learn some of the delegation gotchas around those commands and how to debug issues.  Understanding delegation: https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/delegation-overview",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-the-power-apps-filter-and-search-command-with-debugging/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-the-power-apps-filter-and-search-command-with-debugging/",
+      "originalUrl": "https://youtube.com/watch?v=n7AVokduLjo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/n7AVokduLjo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M56S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2020-01-31T12:17:24-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/n7AVokduLjo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-the-powerapps-quick-start-engagement-to-build-powerapps-quickly.md",
+      "title": "The PowerApps Quick Start Engagement to Build PowerApps Quickly",
+      "excerpt": "Most companies have tons of legacy applications sitting in Access databases or old technologies gathering dust. At Pragmatic Works, we love to transform organizations by modernizing those applications. The Quick Start engagement is a one-week engagement to build your first application and see the power",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-the-powerapps-quick-start-engagement-to-build-powerapps-quickly/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-the-powerapps-quick-start-engagement-to-build-powerapps-quickly/",
+      "originalUrl": "https://youtube.com/watch?v=A84WF0Z7TiA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/A84WF0Z7TiA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M21S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2019-10-10T12:25:18-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/A84WF0Z7TiA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/reza-dorrni-building-performant-power-apps-by-reza-dorrani.md",
+      "title": "Building Performant Power Apps by Reza Dorrani",
+      "excerpt": "Join this session to learn the best practices and techniques for performance optimization in Canvas Apps.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/reza-dorrni-building-performant-power-apps-by-reza-dorrani/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/reza-dorrni-building-performant-power-apps-by-reza-dorrani/",
+      "originalUrl": "https://youtube.com/watch?v=oPwa-dSshZQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oPwa-dSshZQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT57M15S",
+      "provider": {
+        "name": "Reza Dorrni",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-10-24T10:32:03-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/oPwa-dSshZQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/reza-dorrni-component-libraries-overview-power-apps.md",
+      "title": "Component Libraries Overview - Power Apps",
+      "excerpt": "Component Libraries enable reusing components across Apps within an environment. The components within a component library act like a master copy of the component.   Read more: https://docs.microsoft.com/en-us/power-platform-release-plan/2020wave1/microsoft-powerapps/canvas-components-are-generally",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/reza-dorrni-component-libraries-overview-power-apps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/reza-dorrni-component-libraries-overview-power-apps/",
+      "originalUrl": "https://youtube.com/watch?v=KR9d3meY9BE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KR9d3meY9BE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M45S",
+      "provider": {
+        "name": "Reza Dorrni",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-03-23T12:58:28-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/KR9d3meY9BE/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/reza-dorrni-power-apps-captcha-component-responsive-reusable-control.md",
+      "title": "Power Apps Captcha Component - Responsive Reusable Control",
+      "excerpt": "Step by step walkthrough of building a responsive & reusable Captcha Component in Power Apps.  Donwload Component:  https://github.com/rdorrani/PowerApps/blob/master/Components/Captcha/CaptchaComponent.msapp  Components Playlist: https://www.youtube.com/playlist?list=PLTyFh-qDKAiF_WeYXLbMt5NmRg3T35WRS",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/reza-dorrni-power-apps-captcha-component-responsive-reusable-control/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/reza-dorrni-power-apps-captcha-component-responsive-reusable-control/",
+      "originalUrl": "https://youtube.com/watch?v=Fon5zzghWHA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Fon5zzghWHA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M12S",
+      "provider": {
+        "name": "Reza Dorrni",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-04-26T16:07:00-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Fon5zzghWHA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    }
+  ]
+}

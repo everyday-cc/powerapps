@@ -1,0 +1,1283 @@
+{
+  "title": "Samples",
+  "path": "_samples",
+  "page": 2,
+  "value": [
+    {
+      "path": "_samples/power-apps-community-approval-tasks-reassignment-app.md",
+      "title": "Approval tasks reassignment app",
+      "excerpt": "This application allows administrator to reassign any existing and pending for approval task to another user. Very useful if you find yourself in a",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-approval-tasks-reassignment-app/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-approval-tasks-reassignment-app/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Approval-tasks-reassignment-app/td-p/342522",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "TomaszPoszytek",
+            "type": "profile",
+            "name": "TomaszPoszytek"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/221/2/Reassign%20Tasks.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-08-16T01:01:00-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/221/1/2019-08-16_17h00_40.png",
+          "width": 2873,
+          "height": 1765,
+          "isCached": true
+        }
+      ],
+      "content": "<p>This application allows administrator to reassign any existing and pending for approval task to another user. Very useful if you find yourself in a situation, that the original assignee went on holidays and there is no way to get him online to reassign his task on to someone else.<br><br>Note! To use this app you need to have premium PowerApps P1 license, so that you're able to access Common Data Services.<br><br>Detailed description here: <a href=\"https://poszytek.eu/en/microsoft-en/office-365-en/flow-en/substitutions-in-microsoft-flow/\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">https://poszytek.eu/en/microsoft-en/office-365-en/flow-en/substitutions-in-microsoft-flow/</a><br><br>Have fun using it! Any feedback appreciated.<br><br>Regards,<br>Tomasz Poszytek<br><br></p><p><span class=\"videoUrl\">watch?v=LBWpEB94Re4</span></p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-business-model-canvas-power-apps.md",
+      "title": "Business Model Canvas Power Apps",
+      "excerpt": "Power Apps allow you to create useful applications for your company, this time we create an application that allows to create business models using a",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-business-model-canvas-power-apps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-business-model-canvas-power-apps/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Business-Model-Canvas-Power-Apps/td-p/675491",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "neiydarry28",
+            "type": "profile",
+            "name": "neiydarry28"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/624/1/The%20business%20model%20canvas.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2020-09-01T06:38:00-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com/t5/image/serverpage/image-id/175126i8D93A9F91150DA0E/image-size/large?v=1.0&px=999",
+          "width": 999,
+          "height": 562,
+          "isCached": true
+        }
+      ],
+      "content": "<p><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"Business Model Canvas.png\" style=\"width: 999px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/175131i808F90F3BF2C4605/image-size/large?v=1.0&amp;px=999\" title=\"Business Model Canvas.png\" alt=\"Business Model Canvas.png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/175131i808F90F3BF2C4605?v=1.0\" li-image-display-id=\"'175131i808F90F3BF2C4605'\" li-message-uid=\"'675491'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p><p>&nbsp;</p><p>Power Apps allow you to create useful applications for your company, this time we create an application that allows to create business models using a strategic management template,&nbsp;&nbsp;It is a visual chart with elements describing a firm's or product's&nbsp;value proposition, infrastructure, customers, and finances.&nbsp;&nbsp;It assists firms in aligning their activities by illustrating potential trade-offs.</p><p>&nbsp;</p><p><font face=\"arial black,avant garde\"><a href=\"https://en.wikipedia.org/wiki/Business_Model_Canvas\" target=\"_self\" rel=\"nofollow noopener noreferrer\"><span>More information Business Model Canvas</span></a></font></p><p>&nbsp;</p><p><span><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"MENU-MODEL-CANVAS-NEIY-DARRY.png\" style=\"width: 999px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/175118iB9F9B1B5617055D4/image-size/large?v=1.0&amp;px=999\" title=\"MENU-MODEL-CANVAS-NEIY-DARRY.png\" alt=\"Application Menu\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/175118iB9F9B1B5617055D4?v=1.0\" li-image-display-id=\"'175118iB9F9B1B5617055D4'\" li-message-uid=\"'675491'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"><span class=\"lia-inline-image-caption\" onclick=\"event.preventDefault();\">Application Menu</span></span><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"LIST-MODEL-CANVAS-NEIY-DARRY.png\" style=\"width: 999px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/175121iDC49908196F0017E/image-size/large?v=1.0&amp;px=999\" title=\"LIST-MODEL-CANVAS-NEIY-DARRY.png\" alt=\"List Model\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/175121iDC49908196F0017E?v=1.0\" li-image-display-id=\"'175121iDC49908196F0017E'\" li-message-uid=\"'675491'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"><span class=\"lia-inline-image-caption\" onclick=\"event.preventDefault();\">List Model</span></span><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"NEW-MODEL-CANVAS-NEIY-DARRY.png\" style=\"width: 999px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/175122i923917D48D148D8B/image-size/large?v=1.0&amp;px=999\" title=\"NEW-MODEL-CANVAS-NEIY-DARRY.png\" alt=\"Create Business Model Canvas\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/175122i923917D48D148D8B?v=1.0\" li-image-display-id=\"'175122i923917D48D148D8B'\" li-message-uid=\"'675491'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"><span class=\"lia-inline-image-caption\" onclick=\"event.preventDefault();\">Create Business Model Canvas</span></span><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"MODEL-CANVAS-NEIY-DARRY.png\" style=\"width: 999px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/175123i13706EF3458228CF/image-size/large?v=1.0&amp;px=999\" title=\"MODEL-CANVAS-NEIY-DARRY.png\" alt=\"Add activities to each item\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/175123i13706EF3458228CF?v=1.0\" li-image-display-id=\"'175123i13706EF3458228CF'\" li-message-uid=\"'675491'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"><span class=\"lia-inline-image-caption\" onclick=\"event.preventDefault();\">Add activities to each item</span></span></span></p><p>&nbsp;</p><p><font face=\"arial black,avant garde\"><strong>Download now</strong></font></p><p><a href=\"https://github.com/neiy28/Business-Model-Canvas-Power-Apps/\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">https://github.com/neiy28/Business-Model-Canvas-Power-Apps/</a></p><p>&nbsp;</p><p>&nbsp;</p><p><font face=\"arial black,avant garde\"><strong>Note:</strong></font></p><p>This template allows you to register business models in a collection, you can configure to register your business models in: SharePoint Online, Excel Online or another data source.</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p><span class=\"videoUrl hidden\">watch?v=UTKaKMzvT6E</span></p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-power-app-store.md",
+      "title": "Power App Store",
+      "excerpt": "This demo is a proof of concept/template for adding an app store to a Power App as well as a simple SharePoint-based file viewer with dynamic icons.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-power-app-store/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-power-app-store/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Power-App-Store/td-p/442805",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "wyotim",
+            "type": "profile",
+            "name": "wyotim"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/390/3/Power%20App%20Store%20Demo.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2020-01-11T05:16:00-08:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/390/1/PowerAppStore.png",
+          "width": 1600,
+          "height": 900,
+          "isCached": true
+        }
+      ],
+      "content": "<p><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"PowerAppStore.png\" style=\"width: 999px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/110341i6FB3A9450EF04664/image-size/large?v=1.0&amp;px=999\" title=\"PowerAppStore.png\" alt=\"Power App Store\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/110341i6FB3A9450EF04664?v=1.0\" li-image-display-id=\"'110341i6FB3A9450EF04664'\" li-message-uid=\"'442805'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"><span class=\"lia-inline-image-caption\" onclick=\"event.preventDefault();\">Power App Store</span></span></p>\r\n<p>This demo is a proof of concept/template for adding an app store to a Power App as well as a simple SharePoint-based file viewer with dynamic icons.</p>\r\n<p>&nbsp;</p>\r\n<p>\"But why an app store?\" you ask? Several years ago when I first embarked on the digital initiative for the company I work for, I was doing the initial roll-out of computers and new digital forms for our supervisor staff. This training was completely derailed due to my lack of preparation into how basic I would need to go and how wide the knowledge gap truly was. Some of them had zero experience with a computer at all! Needless to say, this changed the way I think about what 'ease of use' really is and what components need to be added to for a diverse user group.</p>\r\n<p>&nbsp;</p>\r\n<p>This app is a direct result of that lesson. When rolling out a company-wide employee portal app, which would include access to a variety of documents among other information, I realized that many of our employees probably don't have much experience with Office applications like Word or Excel and, as such, likely don't have them on their phones. Because of the diverse geography of our work crews and difficulty in scheduling trainings for all of them at once, I decided the best solution was two parts: first, having icons for the documents to easily identify their type and, second, to have a way for them to obtain the apps for those documents easily and within the app. This demo contains both of those parts.</p>\r\n<p>&nbsp;</p>\r\n<p>In closing, I hope that this is of some use to the Power Apps community and that my gaffs can help your users have a wonderful experience, regardless of their technological experience level! If I can expound on this app or answer any questions about it, feel free to find me here on the official Power Apps forums (<a href=\"/t5/user/viewprofilepage/user-id/6679\">@wyotim</a>) or on Twitter (<a href=\"https://twitter.com/ShortForTim\" target=\"_self\" rel=\"nofollow noopener noreferrer\">@ShortForTim</a>)</p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-powertwitter.md",
+      "title": "PowerTwitter",
+      "excerpt": "A pixel-by-pixel implementation of Twitter's homepage in a canvas PowerApp integrating Azure's Text Analytics API to get the sentiment of each tweet",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-powertwitter/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-powertwitter/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/PowerTwitter/td-p/189845",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Eickhel",
+            "type": "profile",
+            "name": "Eickhel"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/60/5/PowerTwitter.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2018-12-08T04:40:00-08:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/60/3/PowerTwitter.jpg",
+          "width": 889,
+          "height": 931,
+          "isCached": true
+        }
+      ],
+      "content": "<p><span>A pixel-by-pixel implementation of Twitter's homepage in a canvas PowerApp integrating&nbsp;</span><a href=\"https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics\" target=\"_blank\" rel=\"nofollow noopener noopener noreferrer\">Azure's Text Analytics API</a><span>&nbsp;to get the sentiment of each tweet in the timeline. It also features the same dark mode!</span></p><p>&nbsp;</p><p><span>Changelog:</span></p><p><span>20192002 - Updated with Twitter's new UI</span></p><p>&nbsp;</p><p>More info at <a href=\"https://github.com/Eickhel/PowerApps-samples\" target=\"_blank\" rel=\"nofollow noopener noopener noreferrer\">Github</a></p><p>&nbsp;</p><p><span><span class=\"lia-inline-image-display-wrapper lia-image-align-left\" image-alt=\"PowerTwitter.jpg\" style=\"width: 889px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/53283iFB528F15248570E8/image-size/large?v=1.0&amp;px=999\" title=\"PowerTwitter.jpg\" alt=\"PowerTwitter.jpg\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/53283iFB528F15248570E8?v=1.0\" li-image-display-id=\"'53283iFB528F15248570E8'\" li-message-uid=\"'189845'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></span></p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p><span class=\"lia-inline-image-display-wrapper lia-image-align-left\" image-alt=\"Application menu\" style=\"width: 653px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/44625iC30391B5BBEC3DCA/image-size/large?v=1.0&amp;px=999\" title=\"2018-12-08_20-12-21.jpg\" alt=\"Application menu\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/44625iC30391B5BBEC3DCA?v=1.0\" li-image-display-id=\"'44625iC30391B5BBEC3DCA'\" li-message-uid=\"'189845'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"><span class=\"lia-inline-image-caption\" onclick=\"event.preventDefault();\">Application menu</span></span></p><p>&nbsp;</p><p><span class=\"lia-inline-image-display-wrapper lia-image-align-left\" image-alt=\"Settings\" style=\"width: 999px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/44626iED8B0F7872B19491/image-size/large?v=1.0&amp;px=999\" title=\"2018-12-08_20-12-51.jpg\" alt=\"Settings\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/44626iED8B0F7872B19491?v=1.0\" li-image-display-id=\"'44626iED8B0F7872B19491'\" li-message-uid=\"'189845'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"><span class=\"lia-inline-image-caption\" onclick=\"event.preventDefault();\">Settings</span></span></p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-sample-buttons-and-animations-for-navigation.md",
+      "title": "Sample Buttons and Animations for Navigation",
+      "excerpt": "Here is a simple app demostration buttons and icons for navigation controls within your PowerApps. It covers basic buttons and how to round corners",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-sample-buttons-and-animations-for-navigation/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-sample-buttons-and-animations-for-navigation/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Sample-Buttons-and-Animations-for-Navigation/td-p/298357",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Anonymous",
+            "type": "profile",
+            "name": "Anonymous"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/192/2/NavigationExamples.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-06-10T06:10:00-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/192/1/NavExamples.png",
+          "width": 1920,
+          "height": 1150,
+          "isCached": true
+        }
+      ],
+      "content": "<p>Here is a simple app demostration buttons and icons for navigation controls within your PowerApps.</p><p>&nbsp;</p><p>It covers basic buttons and how to round corners to make tabs as well as showing how to build animations into your navigation controls if you want to add a little bit of cool into your apps as well.&nbsp;</p><p>&nbsp;</p><p>Feel free to download the zip file and use as is - reach out to me with questions or ideas to extend these ideas too!</p><p>&nbsp;</p><p>&nbsp;</p><p><span class=\"videoUrl\">watch?v=Ngl-Gc6VeUU</span></p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-simple-roulette-app.md",
+      "title": "Simple Roulette app",
+      "excerpt": "I have PowerApp-ize the Roulette shared from May Alhajri on Twitter. Background Math is simple; again I have used Hyperbolic Tangent If you have any",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-simple-roulette-app/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-simple-roulette-app/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Simple-Roulette-app/td-p/420440",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "h-nagao",
+            "type": "profile",
+            "name": "h-nagao"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/347/2/SimpleRoulette.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-12-05T15:29:00-08:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/347/1/PAize.png",
+          "width": 1664,
+          "height": 821,
+          "isCached": true
+        }
+      ],
+      "content": "<p>I have PowerApp-ize the Roulette shared from <a href=\"http://%20https://twitter.com/MayAlhajri2/\" target=\"_self\" rel=\"nofollow noopener noreferrer\">May Alhajri</a>&nbsp;on Twitter.</p><p>Background Math is simple; again I have used Hyperbolic Tangent <img class=\"lia-deferred-image lia-image-emoji\" src=\"/html/emoticons/1f642.png\" alt=\":slightly_smiling_face:\" title=\":slightly_smiling_face:\"></p><p>&nbsp;</p><p><span class=\"lia-inline-image-display-wrapper lia-image-align-center\" image-alt=\"PAize.png\" style=\"width: 999px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/103177iC735BBA795C5EC15/image-size/large?v=1.0&amp;px=999\" title=\"PAize.png\" alt=\"PAize.png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/103177iC735BBA795C5EC15?v=1.0\" li-image-display-id=\"'103177iC735BBA795C5EC15'\" li-message-uid=\"'420440'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p><p>&nbsp;</p><p><span class=\"lia-inline-image-display-wrapper lia-image-align-center\" image-alt=\"Maths.png\" style=\"width: 999px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/103178i46BF855EEA17F474/image-size/large?v=1.0&amp;px=999\" title=\"Maths.png\" alt=\"Maths.png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/103178i46BF855EEA17F474?v=1.0\" li-image-display-id=\"'103178i46BF855EEA17F474'\" li-message-uid=\"'420440'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p><p>&nbsp;</p><p>If you have any feedback, please let me know! →&nbsp;<a href=\"https://twitter.com/mofumofu_dance/\" target=\"_self\" rel=\"nofollow noopener noreferrer\">mofumofu_dance</a></p><p>&nbsp;</p><p>Hiro</p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-appsweeper-v01.md",
+      "title": "AppSweeper v0.1",
+      "excerpt": "Basic fundamentals of an old game called MineSweeper. Things to Improve: - An ending to the game, playtime and a highscore list? - Figure out a",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-appsweeper-v01/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-appsweeper-v01/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/AppSweeper-v0-1/td-p/278152",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Gabrz",
+            "type": "profile",
+            "name": "Gabrz"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/177/2/AppSweeper.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-05-05T17:35:00-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/177/1/AppSweeper.JPG",
+          "width": 508,
+          "height": 447,
+          "isCached": true
+        }
+      ],
+      "content": "<p>Basic fundamentals of an old game called MineSweeper.</p>\r\n<p>&nbsp;</p>\r\n<p>Things to Improve:</p>\r\n<p>&nbsp;- An ending to the game, playtime and a highscore list?</p>\r\n<p>&nbsp;- Figure out a proper(recursive?) FloodFill algorithm to display cells with no neighbouring mines</p>\r\n<p>&nbsp;- ??</p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-gauges-in-svg.md",
+      "title": "Gauges in SVG",
+      "excerpt": "Contribution with some meters in SVG, inspiration for allies in improving UI design. next resposive SVG on powerapps screens.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-gauges-in-svg/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-gauges-in-svg/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Gauges-in-SVG/td-p/668970",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Serginho",
+            "type": "profile",
+            "name": "Serginho"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/620/1/Components%20Gauges%20SVG.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2020-08-25T11:14:00-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com/t5/image/serverpage/image-id/173168i501FBD5690199FEE/image-size/large?v=1.0&px=999",
+          "width": 998,
+          "height": 497,
+          "isCached": true
+        }
+      ],
+      "content": "<p><span>Contribution with some meters in SVG, inspiration for allies in improving UI design. next resposive SVG on powerapps screens.</span></p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-glass-harp-app.md",
+      "title": "Glass Harp App",
+      "excerpt": "I am the head of the &amp;quot; Japan Power Apps Orchestra &amp;quot;. This app is a musical instrument &amp;quot; Glass Harp &amp;quot;. See the YouTube video for",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-glass-harp-app/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-glass-harp-app/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Glass-Harp-App/td-p/421293",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "TAICHI",
+            "type": "profile",
+            "name": "TAICHI"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/349/2/GlassHarpLight.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-12-07T21:12:00-08:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/349/1/glassharp.png",
+          "width": 1090,
+          "height": 612,
+          "isCached": true
+        }
+      ],
+      "content": "<p>I am the head of the \" Japan Power Apps Orchestra \".</p><p>&nbsp;</p><p>This app is a musical instrument \" Glass Harp \".</p><p>See the YouTube video for how to play.</p><p>&nbsp;</p><p>Ensemble mode :&nbsp;Playing with a large number of people is fun.</p><p><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"glassharp.png\" style=\"width: 400px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/103410iC5FF754388007052/image-size/medium?v=1.0&amp;px=400\" title=\"glassharp.png\" alt=\"glassharp.png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/103410iC5FF754388007052?v=1.0\" li-image-display-id=\"'103410iC5FF754388007052'\" li-message-uid=\"'421293'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p><p>&nbsp;</p><p>Solo mode :&nbsp;Playing alone is fun</p><p><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"glassharpsolo.png\" style=\"width: 400px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/103411iC8F07B14B7C482DE/image-size/medium?v=1.0&amp;px=400\" title=\"glassharpsolo.png\" alt=\"glassharpsolo.png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/103411iC8F07B14B7C482DE?v=1.0\" li-image-display-id=\"'103411iC8F07B14B7C482DE'\" li-message-uid=\"'421293'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p><p>&nbsp;</p><p>[ 2019/12/07 ] Power Platform Day Winter '19 in Japan (&nbsp;Photographer : Mr. Dang )</p><p><div class=\"video-embed-center video-embed\"><iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F6R07gmrG7lU%3Ffeature%3Doembed&amp;display_name=YouTube&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6R07gmrG7lU&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F6R07gmrG7lU%2Fhqdefault.jpg&amp;key=fad07bfa4bd747d3bdea27e17b533c0e&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"200\" height=\"112\" scrolling=\"no\" title=\"YouTube embed\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen=\"true\"></iframe></div><p>&nbsp;</p><p>Have fun !!!</p><p>&nbsp;</p><p><span class=\"videoUrl\">watch?v=SXk7sFJa_eA</span></p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-microsoft-business-applications-summit-mbas-2019-sessions-app.md",
+      "title": "Microsoft Business Applications Summit (MBAS) 2019 Sessions App",
+      "excerpt": "Use this app to share all the sessions at Microsoft Business Applications Summit (MBAS) 2019 related to PowerApps, Microsoft Flow, CDS &amp; AI Builder.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-microsoft-business-applications-summit-mbas-2019-sessions-app/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-microsoft-business-applications-summit-mbas-2019-sessions-app/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Microsoft-Business-Applications-Summit-MBAS-2019-Sessions-App/td-p/319894",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "pratapladhani",
+            "type": "profile",
+            "name": "pratapladhani"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/206/3/MBAS-2019-PowerApps-and-Flow-Sessions.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-07-11T09:39:00-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/206/1/MBAS-App-Screenshot.png",
+          "width": 1920,
+          "height": 951,
+          "isCached": true
+        }
+      ],
+      "content": "<p>Use this app to share all the sessions at&nbsp;Microsoft Business Applications Summit (MBAS) 2019 related to PowerApps, Microsoft Flow, CDS &amp; AI Builder.&nbsp; The excel sheet (static data) used in this app can be <a title=\"Download the Excel sheet used as static data in the App\" href=\"https://pahandsonlab.blob.core.windows.net/documents/MBAS_SessionList_Data.xlsx\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">downloaded from here</a>.</p>\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\r\n\t\t\t\r\n\t\t\t\t<div style='width:100%; max-height:48px; overflow:hidden;' class='UserSignature lia-message-signature'>\r\n\tPratap Ladhani,<br>Customer &amp; Partner Success PM<br>Microsoft PowerApps and Microsoft Flow\r\n</div>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-santa-game.md",
+      "title": "Santa Game",
+      "excerpt": "This apps is a game Santa gathers presents. Let's get presents within the time limit. blog( Japanese ) :",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-santa-game/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-santa-game/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Santa-Game/td-p/184143",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "10mikiya",
+            "type": "profile",
+            "name": "10mikiya"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/47/2/SantaGame.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2018-11-25T19:50:00-08:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/47/1/SantaGame.png",
+          "width": 1628,
+          "height": 926,
+          "isCached": true
+        }
+      ],
+      "content": "<p>This apps is a game Santa gathers presents.</p><p>Let's&nbsp;get&nbsp;presents within the time limit.&nbsp;</p><p>&nbsp;</p><p>blog(<span>Japanese</span>) : <a href=\"https://qiita.com/tomikiya/items/a9095bfb74c9b342bd0f\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://qiita.com/tomikiya/items/a9095bfb74c9b342bd0f</a></p><p><span class=\"videoUrl\">watch?v=ZTMoB74P7sI</span></p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-sharepoint-document-library-example.md",
+      "title": "SharePoint Document Library Example",
+      "excerpt": "In this app and video I demonstrate how to use to SharePoint Document Libraries in PowerApps. The following concepts are shown: Connecting to the",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-sharepoint-document-library-example/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-sharepoint-document-library-example/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/SharePoint-Document-Library-Example/td-p/287409",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "ToddBaginski",
+            "type": "profile",
+            "name": "ToddBaginski"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/185/1/SP%20Doc%20Lib.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-05-22T01:12:00-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com/html/assets/image_unavailable.png",
+          "width": 300,
+          "height": 173,
+          "isCached": true
+        }
+      ],
+      "content": "<p>In this app and video I demonstrate how to use to SharePoint Document Libraries in PowerApps.</p><p>&nbsp;</p><p>The following concepts are shown:</p><p>&nbsp;</p><ul><li>Connecting to the data</li><li>Displaying metadata about the document</li><li>Displaying thumbnail pictures for the author and the person who last modified the document</li><li>Displaying thumbnails of the documents</li><li>Launching the documents in separate browser tabs to view and edit them</li><li>Playing audio and video files in separate browser tabs and in PowerApps</li></ul><p>Learn more here: <a href=\"https://powerapps.microsoft.com/en-us/blog/sharepoint-online-document-libraries-now-supported/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://powerapps.microsoft.com/en-us/blog/sharepoint-online-document-libraries-now-supported/</a></p><p><span class=\"videoUrl\">watch?v=jw8bjpU7Alw</span></p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-the-lazy-template.md",
+      "title": "The Lazy Template",
+      "excerpt": "Here is my template app from the community call on 17/7/2019. The only thing you need to do is to put your app id in the marked space in the",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-the-lazy-template/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-the-lazy-template/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/The-Lazy-Template/td-p/323030",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Anonymous",
+            "type": "profile",
+            "name": "Anonymous"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/208/2/LazyTemplate.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-07-17T06:23:00-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/208/1/Template.JPG",
+          "width": 680,
+          "height": 386,
+          "isCached": true
+        }
+      ],
+      "content": "<p>Here is my template app from the community call on 17/7/2019.</p><p>&nbsp;</p><p>The only thing you need to do is to put your app id in the marked space in the onvisible of the template.</p><p>&nbsp;</p><p>I would then copy that function to the landing page of the app.</p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-upload-tag-multiple-file-attachments-with-power-apps.md",
+      "title": "Upload & tag multiple file attachments with Power Apps",
+      "excerpt": "In this Microsoft PowerApps video, we will upload multiple files, tag and validate each file independently and upload to SharePoint list. This",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-upload-tag-multiple-file-attachments-with-power-apps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-upload-tag-multiple-file-attachments-with-power-apps/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Upload-amp-tag-multiple-file-attachments-with-Power-Apps/td-p/650284",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "RezaDorrani",
+            "type": "profile",
+            "name": "RezaDorrani"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/596/1/Tag%20Multiple%20Files.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2020-08-06T02:57:00-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com/t5/image/serverpage/image-id/167626iB23371B6C2BCBA44/image-size/large?v=1.0&px=999",
+          "width": 999,
+          "height": 562,
+          "isCached": true
+        }
+      ],
+      "content": "<p><span>In this Microsoft PowerApps video, we will upload multiple files, tag and validate each file independently and upload to SharePoint list. </span></p>\r\n<p>&nbsp;</p>\r\n<p><span>This technique can be leveraged to upload multiple files to any data source of choice. </span></p>\r\n<p>&nbsp;</p>\r\n<p><span>Download the sample App which also includes the flow from the link below: </span></p>\r\n<p><span><a href=\"https://github.com/rdorrani/PowerApps/blob/master/TagMultipleFiles_20200803223836.zip\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://github.com/rdorrani/PowerApps/blob/master/TagMultipleFiles_20200803223836.zip </a></span></p>\r\n<p>&nbsp;</p>\r\n<p><span>#PowerApps #SharePoint #UploadMultipleFiles #AttachmentControl</span></p>\r\n<p>&nbsp;</p>\r\n<p><span>--------------------------------------------------------------------------------<br>Thanks,<br>Reza Dorrani, MVP<br><a href=\"https://www.youtube.com/c/rezadorrani\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">YouTube</a><br><a href=\"https://twitter.com/rezadorrani\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Twitter</a></span></p>\r\n<p>&nbsp;</p>\r\n<p><span class=\"videoUrl hidden\">watch?v=r3UC3TMXhlI</span></p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-appman-v03.md",
+      "title": "Appman v0.3",
+      "excerpt": "Here's another incomplete app that I will not get to for a while. I think I got the hard parts down. And since I won't get to it for a while, why",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-appman-v03/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-appman-v03/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Appman-v0-3/td-p/263790",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Mr-Dang-MSFT",
+            "type": "profile",
+            "name": "Mr-Dang-MSFT"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/149/2/AppMan%20-%20v0.5.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-04-07T17:38:00-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com/t5/image/serverpage/image-id/180092i4039A945905BAA1C/image-size/large?v=1.0&px=999",
+          "width": 450,
+          "height": 266,
+          "isCached": true
+        }
+      ],
+      "content": "<p>Here's another incomplete app that I will not get to for a while.</p>\r\n<p>&nbsp;</p>\r\n<p><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"powerapps - pacman 1.gif\" style=\"width: 380px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/59904i61F4BE2E0AC63993/image-size/large?v=1.0&amp;px=999\" title=\"powerapps - pacman 1.gif\" alt=\"powerapps - pacman 1.gif\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/59904i61F4BE2E0AC63993?v=1.0\" li-image-display-id=\"'59904i61F4BE2E0AC63993'\" li-message-uid=\"'263790'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p>\r\n<p>&nbsp;</p>\r\n<p>I think I got the hard parts down. And since I won't get to it for a while, why don't you pick it up?</p>\r\n<p>&nbsp;</p>\r\n<p>Here's what you can do next:</p>\r\n<ul>\r\n<li>Implement life gain and loss</li>\r\n<li>Implement PowerUps and scoring for PowerUps</li>\r\n<li>Implement bonus targets</li>\r\n<li>Implement warp across the map for mobs (it's already in place for avatar)</li>\r\n<li>Detect winning conditions and advance to the next round</li>\r\n<li>Rename and restyle the app</li>\r\n<li>Add more settings</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>There's a lot of goodness in this app to check out regardless of whether or not you continue:</p>\r\n<ul>\r\n<li>Components: there are very few objects in the tree view. That's because everything's been simplified into components!\r\n<ul>\r\n<li>Besides the components for games, there's a header/footer component that is flexible in use.</li>\r\n</ul>\r\n</li>\r\n<li>Custom properties: THERE'S LOTS OF THESE. See what I pick out.</li>\r\n</ul>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-barcode-battler.md",
+      "title": "Barcode Battler",
+      "excerpt": "Last Update 2018/11/7 (JST) ”COM Battle Mode Added” This Apps is Generate Player Using Barcode, and play combat game. It seems that importing into",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-barcode-battler/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-barcode-battler/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Barcode-Battler/td-p/175776",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "R_t_A_n_M",
+            "type": "profile",
+            "name": "R_t_A_n_M"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/36/3/Barcode%20Battler.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2018-11-03T01:48:00-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/36/1/BarcodeBattler_Opening.png",
+          "width": 1745,
+          "height": 929,
+          "isCached": true
+        }
+      ],
+      "content": "<p>Last Update 2018/11/7 (JST)</p><p>”COM Battle Mode Added”&nbsp;</p><p>&nbsp;</p><p><span class=\"lia-inline-image-display-wrapper lia-image-align-left\" image-alt=\"Opening Screen\" style=\"width: 400px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/41005i4ED2CE3DE52DF4A0/image-size/medium?v=1.0&amp;px=400\" title=\"BarcodeBattler_Opening.png\" alt=\"Opening Screen\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/41005i4ED2CE3DE52DF4A0?v=1.0\" li-image-display-id=\"'41005i4ED2CE3DE52DF4A0'\" li-message-uid=\"'175776'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"><span class=\"lia-inline-image-caption\" onclick=\"event.preventDefault();\">Opening Screen</span></span>This Apps is&nbsp;<span>Generate Player Using Barcode, and play combat game.</span></p><p>&nbsp;</p><p><span>It seems that importing into another environment does not recognize the camera from iOS.</span></p><p><span>If you see a screen showing that the camera is in use, please try to save it once overwriting the application.</span></p><p>&nbsp;</p><p><font>Let's Enjoy Barcode Battler!</font></p><p>&nbsp;</p><p><span><span class=\"lia-inline-image-display-wrapper lia-image-align-left\" image-alt=\"Player 1  Generate Screen\" style=\"width: 400px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/41007i781F7EC6DF9696B5/image-size/medium?v=1.0&amp;px=400\" title=\"IMG_2281.jpg\" alt=\"Player 1  Generate Screen\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/41007i781F7EC6DF9696B5?v=1.0\" li-image-display-id=\"'41007i781F7EC6DF9696B5'\" li-message-uid=\"'175776'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"><span class=\"lia-inline-image-caption\" onclick=\"event.preventDefault();\">Player 1  Generate Screen</span></span><span class=\"lia-inline-image-display-wrapper lia-image-align-left\" image-alt=\"Player 2 Generate Screen\" style=\"width: 400px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/41008i4ED715C19BD67E04/image-size/medium?v=1.0&amp;px=400\" title=\"IMG_2282.jpg\" alt=\"Player 2 Generate Screen\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/41008i4ED715C19BD67E04?v=1.0\" li-image-display-id=\"'41008i4ED715C19BD67E04'\" li-message-uid=\"'175776'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"><span class=\"lia-inline-image-caption\" onclick=\"event.preventDefault();\">Player 2 Generate Screen</span></span><span class=\"lia-inline-image-display-wrapper lia-image-align-left\" image-alt=\"MAD Scientist Use Special Power\" style=\"width: 400px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/41009iC183D39DF10B94E0/image-size/medium?v=1.0&amp;px=400\" title=\"IMG_2283.jpg\" alt=\"MAD Scientist Use Special Power\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/41009iC183D39DF10B94E0?v=1.0\" li-image-display-id=\"'41009iC183D39DF10B94E0'\" li-message-uid=\"'175776'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"><span class=\"lia-inline-image-caption\" onclick=\"event.preventDefault();\">MAD Scientist Use Special Power</span></span><span class=\"lia-inline-image-display-wrapper lia-image-align-left\" image-alt=\"Wizard Use Special Power\" style=\"width: 400px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/41010i43CA04223695DB21/image-size/medium?v=1.0&amp;px=400\" title=\"IMG_2284.jpg\" alt=\"Wizard Use Special Power\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/41010i43CA04223695DB21?v=1.0\" li-image-display-id=\"'41010i43CA04223695DB21'\" li-message-uid=\"'175776'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"><span class=\"lia-inline-image-caption\" onclick=\"event.preventDefault();\">Wizard Use Special Power</span></span><span class=\"lia-inline-image-display-wrapper lia-image-align-left\" image-alt=\"Player 1 Attack (Critical Attack)\" style=\"width: 400px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/41011i762CBEB1CA2250BA/image-size/medium?v=1.0&amp;px=400\" title=\"IMG_2285.jpg\" alt=\"Player 1 Attack (Critical Attack)\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/41011i762CBEB1CA2250BA?v=1.0\" li-image-display-id=\"'41011i762CBEB1CA2250BA'\" li-message-uid=\"'175776'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"><span class=\"lia-inline-image-caption\" onclick=\"event.preventDefault();\">Player 1 Attack (Critical Attack)</span></span><span class=\"lia-inline-image-display-wrapper lia-image-align-left\" image-alt=\"Player 1 Win\" style=\"width: 400px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/41012iFBDF3A49E2047005/image-size/medium?v=1.0&amp;px=400\" title=\"IMG_2286.jpg\" alt=\"Player 1 Win\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/41012iFBDF3A49E2047005?v=1.0\" li-image-display-id=\"'41012iFBDF3A49E2047005'\" li-message-uid=\"'175776'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"><span class=\"lia-inline-image-caption\" onclick=\"event.preventDefault();\">Player 1 Win</span></span><span class=\"lia-inline-image-display-wrapper lia-image-align-left\" image-alt=\"Charactor Job Issue\" style=\"width: 400px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/41013i506C946C7AABB481/image-size/medium?v=1.0&amp;px=400\" title=\"Character.png\" alt=\"Charactor Job Issue\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/41013i506C946C7AABB481?v=1.0\" li-image-display-id=\"'41013i506C946C7AABB481'\" li-message-uid=\"'175776'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"><span class=\"lia-inline-image-caption\" onclick=\"event.preventDefault();\">Charactor Job Issue</span></span></span></p><p>&nbsp;</p><p><span>&nbsp;</span></p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-canteenapp.md",
+      "title": "CanteenApp",
+      "excerpt": "A simple canvas app that allows users to order food at their office canteen on their mobile devices. It has substantial business value as this is",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-canteenapp/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-canteenapp/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/CanteenApp/td-p/606412",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "lugi",
+            "type": "profile",
+            "name": "lugi"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/554/1/CanteenApp.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2020-06-24T08:54:00-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com/t5/image/serverpage/image-id/155030i8265126F7F2403DB/image-size/large?v=1.0&px=999",
+          "width": 306,
+          "height": 306,
+          "isCached": true
+        }
+      ],
+      "content": "<p>A simple canvas app that allows users to order food at their office canteen on their mobile devices.&nbsp;</p><p>&nbsp;</p><p>It has substantial business value as this is often overlooked and not given much thought in many companies. Having a simple way for employees to order their lunch is a guaranteed way to get your colleagues to like you&nbsp;<img class=\"lia-deferred-image lia-image-emoji\" src=\"/html/emoticons/1f601.png\" alt=\":beaming_face_with_smiling_eyes:\" title=\":beaming_face_with_smiling_eyes:\"></p><p>&nbsp;</p><p>Nothing fancy in this app. What I made was two custom entities in CDS, one for the menus and one for the actual food orders. No rules have been applied or logic. It's not really required as you can simply disable the old menus when you add new ones. This way the users can't choose an old menu using the entity lookup field.</p><p>&nbsp;</p><p>Instructions on the install:</p><p><img class=\"lia-deferred-image lia-image-emoji\" src=\"/html/emoticons/1f449.png\" alt=\":backhand_index_pointing_right:\" title=\":backhand_index_pointing_right:\">import this solution <a href=\"https://www.dropbox.com/s/xwe5x7zjfooefsi/CanteenApp_1_0_0_1.zip?dl=0\" target=\"_self\" rel=\"nofollow noopener noreferrer\">file</a>&nbsp;(dropbox link).</p><p>&nbsp;</p><p>Installing the attached CanteenApp.msapp won't work as the custom CDS entities are not included.</p><p>&nbsp;</p><p>If you have any questions, don't hesitate to reach out to me. My website address is <a title=\"Stirna Consulting\" href=\"https://stirna.is\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">www.stirna.is.</a></p><p>&nbsp;</p><p><span class=\"videoUrl hidden\">watch?v=dbH-CfMSD2s</span></p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-change-managerapprover-component.md",
+      "title": "Change Manager/Approver Component",
+      "excerpt": "My customers are always wanting the ability whenever i build an app that has something that requires approval to be able to change the approver. i.e.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-change-managerapprover-component/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-change-managerapprover-component/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Change-Manager-Approver-Component/td-p/246900",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "SergioGiusti",
+            "type": "profile",
+            "name": "SergioGiusti"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/126/1/ChangeManager.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-03-05T21:15:00-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/126/2/changemanager1.PNG",
+          "width": 499,
+          "height": 283,
+          "isCached": true
+        }
+      ],
+      "content": "<p>My customers are always wanting the ability whenever i build an app that has something that requires approval to be able to change the approver. i.e. holiday request goes to the users manager but what if the manager is off sick? HR need a way to change the manager, or maybe the person should be selecting who their approver is, etc.</p><p>&nbsp;</p><p>To that end, here is a change manager component. It includes inputs for changing the front and back colours and outputs of the original manager and the new manager (as a record, the entire Office 365 record for that person) and also a text output of the reason why they changed from old to new.</p><p>&nbsp;</p><p>You need to add in the Office365Users Data Source for it to work.</p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-color-picker-component.md",
+      "title": "Color Picker (Component)",
+      "excerpt": "Just a little concept idea I was working on. A configurable Color Picker.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-color-picker-component/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-color-picker-component/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Color-Picker-Component/td-p/268469",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Gabrz",
+            "type": "profile",
+            "name": "Gabrz"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/163/2/ColorPicker.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-04-16T04:35:00-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/163/1/ColorPicker.png",
+          "width": 373,
+          "height": 314,
+          "isCached": true
+        }
+      ],
+      "content": "<p>Just a little concept idea I was working on.</p>\r\n<p>A configurable Color Picker.<span class=\"lia-inline-image-display-wrapper lia-image-align-center\" image-alt=\"ColorPicker.gif\" style=\"width: 611px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/61146i374DC1C6DEFEC4D8/image-size/large?v=1.0&amp;px=999\" title=\"ColorPicker.gif\" alt=\"ColorPicker.gif\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/61146i374DC1C6DEFEC4D8?v=1.0\" li-image-display-id=\"'61146i374DC1C6DEFEC4D8'\" li-message-uid=\"'268469'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p>\r\n<p class=\"lia-img-tmp-id-1\">&nbsp;</p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-design-patterns-from-mr-dang-part-1.md",
+      "title": "Design Patterns from Mr. Dang (Part 1)",
+      "excerpt": "Attached is an app that contains samples of common patterns used in my apps. Watch the video above for a walk through of how they function and how",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-design-patterns-from-mr-dang-part-1/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-design-patterns-from-mr-dang-part-1/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Design-Patterns-from-Mr-Dang-Part-1/td-p/175205",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "mr-dang",
+            "type": "profile",
+            "name": "mr-dang"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/29/2/Samples%20(1).msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2018-11-01T10:02:00-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/29/1/Screenshot%20(106).png",
+          "width": 3000,
+          "height": 2000,
+          "isCached": true
+        }
+      ],
+      "content": "<p>Attached is an app that contains samples of common patterns used in my apps. Watch the video above for a walk through of how they function and how you could make them.</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p><span class=\"videoUrl\">watch?v=Qbl4MujHB9U</span></p>\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\r\n\t\t\t\r\n\t\t\t\t<div style='width:100%; max-height:48px; overflow:hidden;' class='UserSignature lia-message-signature'>\r\n\tMicrosoft Employee<br>@8bitclassroom\r\n</div>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-education-knowledge-base.md",
+      "title": "[Education] Knowledge Base",
+      "excerpt": "Thank you to Alice Keeler (@alicekeeler) for sharing a list of resources collected at Chawanakee Academy. This app was made as a personal design",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-education-knowledge-base/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-education-knowledge-base/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Education-Knowledge-Base/td-p/245412",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Mr-Dang-MSFT",
+            "type": "profile",
+            "name": "Mr-Dang-MSFT"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/118/2/Teaching%20Resources%20(36).msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-03-03T12:22:00-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/118/1/Screenshot%20(430).png",
+          "width": 4500,
+          "height": 3000,
+          "isCached": true
+        }
+      ],
+      "content": "<p>Thank you to Alice Keeler (@alicekeeler) for sharing a list of resources collected at Chawanakee Academy.</p>\r\n<p>This app was made as a personal design challenge to view and search content in a spreadsheet more easily. Run with it and try applying its principles to another spreadsheet you have.</p>\r\n<p>&nbsp;</p>\r\n<p>Scenario: you want employees to contribute to a knowledge base with links to resources that would be helpful to others.&nbsp;</p>\r\n<p><span class=\"lia-inline-image-display-wrapper lia-image-align-center\" image-alt=\"Screenshot (430).png\" style=\"width: 999px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/54775iB8A52C8614909F8A/image-size/large?v=1.0&amp;px=999\" title=\"Screenshot (430).png\" alt=\"Screenshot (430).png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/54775iB8A52C8614909F8A?v=1.0\" li-image-display-id=\"'54775iB8A52C8614909F8A'\" li-message-uid=\"'245412'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p>\r\n<p>&nbsp;</p>\r\n<p>Setup</p>\r\n<ol>\r\n<li>From the ribbon, click View &gt; Datasources</li>\r\n<li>Click the ellipsis and remove the existing tables. This is so you can add your own connection to a spreadsheet.</li>\r\n<li>Click + Add Datasource</li>\r\n<li>If you have not already connected Google Sheets as a connection to PowerApps, click + Add Connection, otherwise skip steps 4-5.</li>\r\n<li>(Continuing from + Add Connection) Select Google Sheets. You'll be prompted to sign into Google Sheets and asked to allow permissions.</li>\r\n<li>Once Google Sheets is a connection, select it from the list of available datasources.</li>\r\n<li>You'll see a list of all spreadsheets available on your Google Drive. Browse for the 'Resources for Chawanakee Academy (Responses)'.</li>\r\n<li>You'll see a list of all the workbooks from the spreadsheet. Select 'Form Responses 1'.</li>\r\n<li>Remove this screen when you're done setting up.</li>\r\n</ol>\r\n<p>&nbsp;</p>\r\n<p>Note: The app in its current form is set to communicate with a spreadsheet called 'Form Responses 1' and its columns.</p>\r\n<p>If you decide you want to use this same app for another spreadsheet, you will need to tinker with all instances that reference 'Form Responses 1' and any of its columns.</p>\r\n<p>&nbsp;</p>\r\n<p>You can break the connection to 'Form Responses 1' and use the App Checker to see what you need to repair (see the stethoscope icon at the top right corner). It will pull up a pane that shows each location that needs to be fixed.</p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-logo-on-powerapps.md",
+      "title": "LOGO on PowerApps",
+      "excerpt": "This app reminds you of initial programming experience based on LOGO language. You can set action and parameter for Turtle, and also can easily",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-logo-on-powerapps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-logo-on-powerapps/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/LOGO-on-PowerApps/td-p/186736",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "h-nagao",
+            "type": "profile",
+            "name": "h-nagao"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/53/2/LOGOApp.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2018-12-01T09:48:00-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/53/1/LOGO.png",
+          "width": 1020,
+          "height": 573,
+          "isCached": true
+        }
+      ],
+      "content": "<p>This app reminds you of&nbsp;initial programming experience based on LOGO language.</p><p>You can set action and parameter for Turtle, and also can easily improve/add steps.</p><p>&nbsp;<span class=\"lia-inline-image-display-wrapper lia-image-align-left\" image-alt=\"LOGO.png\" style=\"width: 400px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/43807iC8DF097E9CC7F06A/image-size/medium?v=1.0&amp;px=400\" title=\"LOGO.png\" alt=\"LOGO.png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/43807iC8DF097E9CC7F06A?v=1.0\" li-image-display-id=\"'43807iC8DF097E9CC7F06A'\" li-message-uid=\"'186736'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p><p>&nbsp;</p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-piano-with-recording-playback-function.md",
+      "title": "Piano with Recording & Playback function",
+      "excerpt": "This is the Piano app. It consists of only a few audio controls, rectangles and timer control. In order to reduce the sound source data size due to",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-piano-with-recording-playback-function/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-piano-with-recording-playback-function/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Piano-with-Recording-amp-Playback-function/td-p/183219",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "j-kodama",
+            "type": "profile",
+            "name": "j-kodama"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/45/4/piano.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2018-11-21T23:36:00-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/45/3/piano.png",
+          "width": 2062,
+          "height": 1319,
+          "isCached": true
+        }
+      ],
+      "content": "<p>This is the Piano app.</p><p><span>It consists of only a few audio controls, rectangles and timer control.</span></p><p><span>In order to reduce the sound source data size due to playback delay in iOS, the sound uses a sine wave rather than a piano sound.</span></p><p>&nbsp;</p><p>(2018.12.24 added)</p><p>I added a recording &amp; playback function in this app.</p><p>This function is realized using Collection and Timer control.</p><p>&nbsp;</p><p>movie (from Twitter)</p><p><a href=\"https://twitter.com/KodamaJn/status/1071090977484337152\" target=\"_self\" rel=\"nofollow noopener noreferrer\">https://twitter.com/KodamaJn/status/1071090977484337152</a></p><p>&nbsp;</p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-power-platform-having-fun-with-nasa-apis-powerapps-and-flow.md",
+      "title": "Power Platform | Having fun with NASA APIs, PowerApps, and Flow",
+      "excerpt": "This video shows how to leverage the power of PowerApps and the capabilities of Microsoft Flow to call NASA's Astronomy Picture of the Day API. The",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-power-platform-having-fun-with-nasa-apis-powerapps-and-flow/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-power-platform-having-fun-with-nasa-apis-powerapps-and-flow/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Power-Platform-Having-fun-with-NASA-APIs-PowerApps-and-Flow/td-p/393750",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "SanAndresMan1",
+            "type": "profile",
+            "name": "SanAndresMan1"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/304/2/NASA-APOD.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-10-30T04:06:00-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/304/1/Thumbnail.jpg",
+          "width": 1519,
+          "height": 853,
+          "isCached": true
+        }
+      ],
+      "content": "<p>This video shows how to leverage the power of PowerApps and the capabilities of Microsoft Flow to call NASA's Astronomy Picture of the Day API. The resulting picture title, URL, and explanation are used to create a nice app to display the latest NASA space picture prowess.</p><p>&nbsp;</p><p>Reference:<br>Using the HTTP action to make requests with Microsoft Flow - <a href=\"https://flow.microsoft.com/en-us/blog/http-card-tutorial/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://flow.microsoft.com/en-us/blog/http-card-tutorial/</a></p><p>&nbsp;</p><p>Music:<br>Summer - <a href=\"http://www.bensound.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">www.bensound.com</a> (Royalty free music from Bensound)</p><p><span class=\"videoUrl\">watch?v=AoNo0G7kvxE</span></p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-retranslator.md",
+      "title": "Retranslator",
+      "excerpt": "Translation apps from the app store are good. Microsoft translator has a thoughtful UI for taking turns speaking. Google Translator has a camera with",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-retranslator/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-retranslator/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Retranslator/td-p/426863",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Mr-Dang-MSFT",
+            "type": "profile",
+            "name": "Mr-Dang-MSFT"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/358/3/Retranslator%20(1).msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-12-15T14:14:00-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/358/1/Screenshot%20(831).png",
+          "width": 4500,
+          "height": 3000,
+          "isCached": true
+        }
+      ],
+      "content": "<p>Translation apps from the app store are good. Microsoft translator has a thoughtful UI for taking turns speaking. Google Translator has a camera with AR capabilities.</p>\r\n<p>&nbsp;</p>\r\n<p>But one thing is missing: what is the quality of a translation? If I were to translate content, how would it actually be received? The only way to find out is to retranslate a translation.</p>\r\n<p>&nbsp;</p>\r\n<p>This app will translate text from one language to another. Then it translates back to the original language so you can check the quality of the translation.</p>\r\n<p>&nbsp;</p>\r\n<ol>\r\n<li>Download the .msapp file.</li>\r\n<li>Go to Power Apps Studio.</li>\r\n<li>File &gt; Open &gt; Browse &gt; locate the .msapp file.</li>\r\n<li>Replace the Microsoft Translator connector if you need to.</li>\r\n</ol>\r\n<p>&nbsp;</p>\r\n<p><span class=\"lia-inline-image-display-wrapper lia-image-align-center\" image-alt=\"Screenshot (831).png\" style=\"width: 999px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/105144i80AA355C9D3109E2/image-size/large?v=1.0&amp;px=999\" title=\"Screenshot (831).png\" alt=\"Screenshot (831).png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/105144i80AA355C9D3109E2?v=1.0\" li-image-display-id=\"'105144i80AA355C9D3109E2'\" li-message-uid=\"'426863'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p>\r\n<p>&nbsp;</p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    }
+  ],
+  "nextPage": 3
+}

@@ -1,0 +1,676 @@
+{
+  "title": "Power Apps - Step by Step Tutorial Guide for Beginners by Dhruvin Shah",
+  "path": "_learning/collections/dhruvin-shah-power-apps-step-by-step-tutorial-guide-for-beginners-by-dhruvin-shah.md",
+  "page": 1,
+  "value": [
+    {
+      "path": "_learning/videos/dhruvin-shah-power-apps-tutorial-for-beginner-the-complete-step-by-step-guide-to-start-power-apps-canvas-app.md",
+      "title": "Power Apps Tutorial for Beginner | The Complete Step by Step Guide to start Power Apps Canvas App",
+      "excerpt": "In this video we will learn Microsoft Power Apps Step by step. The series is dedicated for Microsoft Power Apps Beginners. This is the complete start to end Tutorial series for Beginners in Power Apps.  The entire tech series is best resource for Power Apps Beginners Tutorial from Start to End with Real",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-power-apps-tutorial-for-beginner-the-complete-step-by-step-guide-to-start-power-apps-canvas-app/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-power-apps-tutorial-for-beginner-the-complete-step-by-step-guide-to-start-power-apps-canvas-app/",
+      "originalUrl": "https://youtube.com/watch?v=aVsWQgoWC0I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aVsWQgoWC0I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M23S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-09-07T04:04:40-07:00",
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/aVsWQgoWC0I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-introduction-to-power-apps-what-is-power-apps.md",
+      "title": "Introduction to Power Apps | What is Power Apps?",
+      "excerpt": "This is the Introduction chapter of Power Apps. Here, we will learn What is Power Apps and why should we choose Power Apps? Also, we will learn how we can build the application using Power Apps. We will walk you through the overview of Power Apps Canvas App, Model Driven App and Portal App as well.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-introduction-to-power-apps-what-is-power-apps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-introduction-to-power-apps-what-is-power-apps/",
+      "originalUrl": "https://youtube.com/watch?v=1i2ktyXIWQk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1i2ktyXIWQk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M59S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-09-07T04:25:05-07:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1i2ktyXIWQk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-how-to-start-with-power-apps-development-process-overview-of-tools-licensing-and-environment.md",
+      "title": "How to start with Power Apps development Process? – Overview of Tools, Licensing and Environment",
+      "excerpt": "Welcome to Power Apps Step by Step Beginner tutorial series. My self Dhruvin Shah you are watching second part of the Power Apps Beginner Series. During this chapter we will talk about how we can start the development for Power Apps Canvas App?  Here, first we will talk about which tool we need to use",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-how-to-start-with-power-apps-development-process-overview-of-tools-licensing-and-environment/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-how-to-start-with-power-apps-development-process-overview-of-tools-licensing-and-environment/",
+      "originalUrl": "https://youtube.com/watch?v=HaB5qHyYZHE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HaB5qHyYZHE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M19S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-09-07T07:30:18-07:00",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/HaB5qHyYZHE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-customize-a-sharepoint-list-form-using-power-apps.md",
+      "title": "Customize a SharePoint List form using Power Apps",
+      "excerpt": "Welcome to Power Apps Step by Step Beginner tutorial series. My self Dhruvin Shah you are watching third part of the Power Apps Beginner Series. During this chapter we will talk about how we can customize a SharePoint List form using Power Apps.  We can easily customize SharePoint list form using Power",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-customize-a-sharepoint-list-form-using-power-apps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-customize-a-sharepoint-list-form-using-power-apps/",
+      "originalUrl": "https://youtube.com/watch?v=76mYzrKVDqA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/76mYzrKVDqA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M36S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-09-11T21:34:02-07:00",
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/76mYzrKVDqA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-introduction-to-power-apps-canvas-app-what-is-standalone-power-apps-canvas-app.md",
+      "title": "Introduction to Power Apps Canvas App | What is Standalone Power Apps Canvas App?",
+      "excerpt": "Welcome to Power Apps Step by Step Beginner tutorial series. My self Dhruvin Shah you are watching fourth part of the Power Apps Beginner Series. During this chapter, we will talk about Standalone Power Apps Canvas App in detail.   We can easily customize the SharePoint list form using Power Apps. We",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-introduction-to-power-apps-canvas-app-what-is-standalone-power-apps-canvas-app/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-introduction-to-power-apps-canvas-app-what-is-standalone-power-apps-canvas-app/",
+      "originalUrl": "https://youtube.com/watch?v=QzPatx-GgMY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QzPatx-GgMY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M15S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-09-07T22:30:08-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/QzPatx-GgMY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-power-apps-standalone-app-vs-customized-list-form.md",
+      "title": "Power Apps Standalone App Vs Customized List Form",
+      "excerpt": "Welcome to Power Apps Step by Step Beginner tutorial series. My self Dhruvin Shah you are watching the fifth part of the Power Apps Beginner Series. During this chapter, we will talk about what is the difference between the Standalone Canvas app and Customized List Form App in detail.  In Power Apps,",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-power-apps-standalone-app-vs-customized-list-form/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-power-apps-standalone-app-vs-customized-list-form/",
+      "originalUrl": "https://youtube.com/watch?v=iyBTyaAkMMw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iyBTyaAkMMw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M44S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-09-07T22:56:07-07:00",
+      "heat": 131,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/iyBTyaAkMMw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-variables-in-power-apps.md",
+      "title": "Variables in Power Apps",
+      "excerpt": "Welcome to Power Apps Step by Step Beginner tutorial series. My self Dhruvin Shah you are watching the 6th part of the Power Apps Beginner Series. During this chapter, we will talk about variables in Power Apps.  Here, we will discuss when to use Set or UpdateContext in Power Apps. We can create two",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-variables-in-power-apps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-variables-in-power-apps/",
+      "originalUrl": "https://youtube.com/watch?v=7VH7vQXcl70",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7VH7vQXcl70\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M8S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-09-13T08:11:09-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7VH7vQXcl70/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-collection-in-power-apps.md",
+      "title": "Collection in Power Apps",
+      "excerpt": "Welcome to Power Apps Step by Step Beginner tutorial series. My self Dhruvin Shah you are watching the 7th part of the Power Apps Beginner Series. During this chapter, we will talk about Collections in Power Apps.  During this chapter, we will talk about what is the collection in Power Apps and how we",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-collection-in-power-apps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-collection-in-power-apps/",
+      "originalUrl": "https://youtube.com/watch?v=uw6Aud_O-1Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uw6Aud_O-1Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M13S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-09-13T09:10:01-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/uw6Aud_O-1Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-build-your-first-power-apps-canvas-app-for-leave-management-system.md",
+      "title": "Build your first Power Apps Canvas App for Leave Management System",
+      "excerpt": "Welcome to Power Apps Step by Step Beginner tutorial series. My self Dhruvin Shah you are watching the 8th part of the Power Apps Beginner Series. During this chapter, we will talk about the project requirement to build a standalone canvas app in detail which will help you to understand the concepts",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-build-your-first-power-apps-canvas-app-for-leave-management-system/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-build-your-first-power-apps-canvas-app-for-leave-management-system/",
+      "originalUrl": "https://youtube.com/watch?v=bxUpIUu3vE4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bxUpIUu3vE4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M31S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-09-13T09:37:19-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/bxUpIUu3vE4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-develop-forms-in-power-apps-canvas-app-implement-new-form-with-real-life-scenarios.md",
+      "title": "Develop Forms in Power Apps Canvas App– Implement New form with Real Life Scenarios",
+      "excerpt": "Welcome to Power Apps Step by Step Beginner tutorial series. My self Dhruvin Shah you are watching the 9th part of the Power Apps Beginner Series. During this chapter, we will talk about how we can add New Form in Power Apps. We will cover so many businesses cased while we are creating this form.  We",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-develop-forms-in-power-apps-canvas-app-implement-new-form-with-real-life-scenarios/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-develop-forms-in-power-apps-canvas-app-implement-new-form-with-real-life-scenarios/",
+      "originalUrl": "https://youtube.com/watch?v=K_hh-FumHUA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/K_hh-FumHUA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT44M28S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-09-14T10:07:42-07:00",
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/K_hh-FumHUA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-develop-forms-in-power-apps-canvas-app-implement-edit-form-with-real-life-scenarios.md",
+      "title": "Develop Forms in Power Apps Canvas App– Implement Edit form with Real Life Scenarios",
+      "excerpt": "Welcome to Power Apps Step by Step Beginner tutorial series. My self Dhruvin Shah you are watching the 10th part of the Power Apps Beginner Series. During this chapter, we will talk about how we can add Edit Form in Power Apps.   Here, we will use the New form which we have implemented in Chapter 9 of",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-develop-forms-in-power-apps-canvas-app-implement-edit-form-with-real-life-scenarios/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-develop-forms-in-power-apps-canvas-app-implement-edit-form-with-real-life-scenarios/",
+      "originalUrl": "https://youtube.com/watch?v=wk55JQHG-Go",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wk55JQHG-Go\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M46S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-09-14T10:07:42-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wk55JQHG-Go/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-create-grid-view-in-power-apps-with-custom-gallery-control.md",
+      "title": "Create Grid View in Power Apps with Custom Gallery Control",
+      "excerpt": "Welcome to Power Apps Step by Step Beginner tutorial series. My self Dhruvin Shah you are watching the 11th part of the Power Apps Beginner Series. During this chapter, we will talk about how we can create a Grid View in Power Apps with Custom Gallery Control. So, now let’s get started!  First, we will",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-create-grid-view-in-power-apps-with-custom-gallery-control/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-create-grid-view-in-power-apps-with-custom-gallery-control/",
+      "originalUrl": "https://youtube.com/watch?v=Ird2cjBkN1k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ird2cjBkN1k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M7S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-09-15T21:57:56-07:00",
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Ird2cjBkN1k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-create-grid-view-in-power-apps-with-data-table-control.md",
+      "title": "Create Grid View in Power Apps with Data table Control",
+      "excerpt": "Welcome to Power Apps Step by Step Beginner tutorial series. My self Dhruvin Shah you are watching the 12th part of the Power Apps Beginner Series. During this chapter, we will talk about how we can create a Grid View in Power Apps with Data table Control. So, now let’s get started!  First, we will add",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-create-grid-view-in-power-apps-with-data-table-control/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-create-grid-view-in-power-apps-with-data-table-control/",
+      "originalUrl": "https://youtube.com/watch?v=UcXYf4nq9BA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UcXYf4nq9BA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M33S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-09-15T21:57:56-07:00",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/UcXYf4nq9BA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-gallery-vs-data-table-in-power-apps.md",
+      "title": "Gallery Vs Data table in Power Apps",
+      "excerpt": "Welcome to Power Apps Step by Step Beginner tutorial series. My self Dhruvin Shah you are watching the 13th part of the Power Apps Beginner Series. During this chapter, we will talk about what is the basic difference between Data table and Gallery control in Power Apps!  In our previous sessions we have",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-gallery-vs-data-table-in-power-apps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-gallery-vs-data-table-in-power-apps/",
+      "originalUrl": "https://youtube.com/watch?v=BsqqVFlDrLw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BsqqVFlDrLw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M57S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-09-15T21:57:56-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/BsqqVFlDrLw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-filter-and-search-records-in-power-apps.md",
+      "title": "Filter and Search Records in Power Apps",
+      "excerpt": "Welcome to Power Apps Step by Step Beginner tutorial series. My self Dhruvin Shah you are watching the 14th part of the Power Apps Beginner Series. During this chapter, we will talk about how we can perform Filtering and Search in Power Apps Grid Records.  In my previous video, we have developed one",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-filter-and-search-records-in-power-apps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-filter-and-search-records-in-power-apps/",
+      "originalUrl": "https://youtube.com/watch?v=m2e07BKrr6I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/m2e07BKrr6I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M50S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-09-17T04:20:13-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/m2e07BKrr6I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-apply-sort-on-multiple-column-in-power-apps.md",
+      "title": "Apply Sort on Multiple Column in Power Apps",
+      "excerpt": "Welcome to Power Apps Step by Step Beginner tutorial series. My self Dhruvin Shah you are watching the 15th part of the Power Apps Beginner Series. During this chapter, we will talk about how we can perform Sort operation on multiple columns of the Power Apps Grid.  The sort is the very basic functionality.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-apply-sort-on-multiple-column-in-power-apps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-apply-sort-on-multiple-column-in-power-apps/",
+      "originalUrl": "https://youtube.com/watch?v=lC7_7DYDDDE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lC7_7DYDDDE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M26S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-09-29T02:55:35-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/lC7_7DYDDDE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-sort-filter-and-search-together-for-galleries-or-data-tables-in-power-apps.md",
+      "title": "Sort, Filter and Search Together for Galleries or Data tables in Power Apps",
+      "excerpt": "During this video, we will learn how we can Filter, Sort and Search items in Power Apps Galleries. We have already learnt how we can apply Sort and Filter with Power Apps Galleries in our previous sessions. Now, its time to combine our Sort, Filter and Search Together for the Galleries.  Chapters: 00:00",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-sort-filter-and-search-together-for-galleries-or-data-tables-in-power-apps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-sort-filter-and-search-together-for-galleries-or-data-tables-in-power-apps/",
+      "originalUrl": "https://youtube.com/watch?v=32Rb94_54GA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/32Rb94_54GA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M4S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-09-29T02:55:35-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/32Rb94_54GA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-how-to-call-power-automate-flow-from-power-apps-with-parameters.md",
+      "title": "How to Call Power Automate Flow from Power Apps with Parameters?",
+      "excerpt": "During this video, we will learn how to Call Flow from Power Apps with Input Parameters and Return response data back to Power Apps? We will call the Power Automate flow form the Power Apps with Input Parameters. In response – “Respond to Power Apps” action we will return some variables as a response",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-how-to-call-power-automate-flow-from-power-apps-with-parameters/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-how-to-call-power-automate-flow-from-power-apps-with-parameters/",
+      "originalUrl": "https://youtube.com/watch?v=1MC7hAJTPdU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1MC7hAJTPdU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M52S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-09-29T02:55:35-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1MC7hAJTPdU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-how-to-publish-power-apps-canvas-app.md",
+      "title": "How to Publish Power Apps Canvas App?",
+      "excerpt": "During this video, we will learn how we can publish Power Apps Canvas App. Sometimes, there are situations where we need to share the Power Apps with the other users to work on. Before we do that, we need to Publish our Power Apps. During this session I’m going to explain the same procedure in detail.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-how-to-publish-power-apps-canvas-app/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-how-to-publish-power-apps-canvas-app/",
+      "originalUrl": "https://youtube.com/watch?v=l5YUg2p-ZZs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/l5YUg2p-ZZs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M47S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-09-29T17:46:18-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/l5YUg2p-ZZs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-access-management-for-power-apps-canvas-app-sharing-power-apps-canvas-app.md",
+      "title": "Access Management for Power Apps Canvas App | Sharing Power Apps Canvas App",
+      "excerpt": "During this video, we will learn the most important concept which Access Management in Power Apps Canvas App. This concept is very useful when you publish the Power Apps and you need to provide access among the group of users to access the app.  We will learn how we can share Power Apps Canvas App with",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-access-management-for-power-apps-canvas-app-sharing-power-apps-canvas-app/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-access-management-for-power-apps-canvas-app-sharing-power-apps-canvas-app/",
+      "originalUrl": "https://youtube.com/watch?v=rNvw1tUi3Ks",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rNvw1tUi3Ks\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M12S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-09-29T18:33:27-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rNvw1tUi3Ks/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-restore-previous-version-of-the-canvas-app-in-power-apps.md",
+      "title": "Restore Previous Version of the Canvas App in Power Apps",
+      "excerpt": "In this video, we will learn how we can restore previous version of the Application in Power Apps. Sometimes, we made some chnages to our Canvas App and now, we want its previous version back, then how can we get? Here's an answer of your question. We can get Power Apps' previous version using Versioning",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-restore-previous-version-of-the-canvas-app-in-power-apps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-restore-previous-version-of-the-canvas-app-in-power-apps/",
+      "originalUrl": "https://youtube.com/watch?v=ASRL74GB0_M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ASRL74GB0_M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M31S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-09-29T19:03:28-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ASRL74GB0_M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-manage-roles-in-power-apps-canvas-app-with-power-automate-and-sharepoint.md",
+      "title": "Manage Roles in Power Apps Canvas App with Power Automate and SharePoint",
+      "excerpt": "During this session, we will talk about how we can maintain different roles in Power Apps. When we create any business application using Power Apps, managing the role is the most important concept. During this session, I build one Power Apps with SharePoint as a data source. I maintain different roles",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-manage-roles-in-power-apps-canvas-app-with-power-automate-and-sharepoint/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-manage-roles-in-power-apps-canvas-app-with-power-automate-and-sharepoint/",
+      "originalUrl": "https://youtube.com/watch?v=N3TENlKHVVI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/N3TENlKHVVI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M54S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-10-20T22:07:03-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/N3TENlKHVVI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    }
+  ]
+}

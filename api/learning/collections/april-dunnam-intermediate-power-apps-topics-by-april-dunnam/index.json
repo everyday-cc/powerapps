@@ -1,0 +1,518 @@
+{
+  "title": "Intermediate Power Apps Topics by April Dunnam",
+  "path": "_learning/collections/april-dunnam-intermediate-power-apps-topics-by-april-dunnam.md",
+  "page": 1,
+  "value": [
+    {
+      "path": "_learning/videos/april-dunnam-power-app-mutli-screen-form-controls.md",
+      "title": "Power App Mutli Screen Form Controls",
+      "excerpt": "#PowerApps #PowerAppsForms  In this video I show how you can break out a form control over multiple screens. This helps provide a better User Experience by reducing scrolling.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-power-app-mutli-screen-form-controls/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-power-app-mutli-screen-form-controls/",
+      "originalUrl": "https://youtube.com/watch?v=N8AsxE__Mw8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/N8AsxE__Mw8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M33S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-05-18T07:39:58-07:00",
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/N8AsxE__Mw8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/april-dunnam-power-apps-timer-value-to-hours-minutes-seconds.md",
+      "title": "Power Apps Timer Value to Hours, Minutes, Seconds",
+      "excerpt": "#PowerApps #TimerControl Have you ever needed to track how long it's taking to complete a process in your Power App?  Using the Timer Control you can do that, however, the output of that timer value is stored in an unfriendly format.  In this video, I show how you can take that timer value and format",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-power-apps-timer-value-to-hours-minutes-seconds/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-power-apps-timer-value-to-hours-minutes-seconds/",
+      "originalUrl": "https://youtube.com/watch?v=dDjOVwR1AXc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dDjOVwR1AXc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M14S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-05-18T07:39:58-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dDjOVwR1AXc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/april-dunnam-power-apps-paginated-galleries.md",
+      "title": "Power Apps Paginated Galleries",
+      "excerpt": "#PowerApps #Pagination #HowTo In this video, I demonstrate how to add pagination to your Power Apps Galleries.  This technique utilize collections, the LastN & FirstN functions and the With function to help break down your data source into bite sized chunks.  I've created a corresponding blog post which",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-power-apps-paginated-galleries/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-power-apps-paginated-galleries/",
+      "originalUrl": "https://youtube.com/watch?v=LJJlomo0Kcc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LJJlomo0Kcc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M48S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-05-18T07:39:58-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/LJJlomo0Kcc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/april-dunnam-power-apps-branding-screen-and-theme.md",
+      "title": "Power Apps Branding Screen and Theme",
+      "excerpt": "#PowerApps #PowerAppsPyramid   In this video I show how you can create a branding screen in your Power Apps applications that mimics your company brand standard and use that screen to create a custom re-usable theme.    This is an expansion on my \"App Makeover: Quick Tips for Beautiful PowerApps\" talk",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-power-apps-branding-screen-and-theme/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-power-apps-branding-screen-and-theme/",
+      "originalUrl": "https://youtube.com/watch?v=uAQa-Zg3yGk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uAQa-Zg3yGk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M32S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-05-18T07:39:58-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/uAQa-Zg3yGk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/april-dunnam-microsoft-powerapps-makeover-basic-to-beautiful.md",
+      "title": "Microsoft PowerApps Makeover: Basic to Beautiful",
+      "excerpt": "#PowerApps #MSIgnite This is my breakout session from Microsoft Ignite 2019 on \"Microsoft PowerApps Makeover: Basic to Beautiful\".  In this 45 minute session I cover how to use the PowerApps Pyramid as a design guide for building beautiful PowerApps.  For more on the PowerApps Pyramid check out my blog",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-microsoft-powerapps-makeover-basic-to-beautiful/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-microsoft-powerapps-makeover-basic-to-beautiful/",
+      "originalUrl": "https://youtube.com/watch?v=UuIwB8YYKao",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UuIwB8YYKao\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT46M46S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-05-18T07:39:58-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/UuIwB8YYKao/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/april-dunnam-top-3-tips-for-beautiful-powerapps.md",
+      "title": "Top 3 Tips for Beautiful PowerApps",
+      "excerpt": "#PowerApps #MSIgnite This is a recording of my session at Microsoft Ignite 2019 on \"Top 3 Tips for Beautiful PowerApps\".  In this 20 minute session, I show tips to help you improve the look and feel of your PowerApps.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-top-3-tips-for-beautiful-powerapps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-top-3-tips-for-beautiful-powerapps/",
+      "originalUrl": "https://youtube.com/watch?v=jvhhw-03Oks",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jvhhw-03Oks\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M53S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-05-18T07:39:58-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jvhhw-03Oks/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/april-dunnam-powerapps-sharepoint-multi-select-lookup-columns.md",
+      "title": "PowerApps SharePoint Multi-Select Lookup Columns",
+      "excerpt": "#PowerApps #SharePoint #LookupColumns In this video I show how you can take the values from a SharePoint Multi-Select Lookup field and combine them into a String and into values for a dropdown in PowerApps.   This approach uses the With(), Concat(), Mid() and Len() functions.  For more info on the With()",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-powerapps-sharepoint-multi-select-lookup-columns/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-powerapps-sharepoint-multi-select-lookup-columns/",
+      "originalUrl": "https://youtube.com/watch?v=VGfCGvhDqEU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VGfCGvhDqEU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M59S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-05-18T07:39:58-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/VGfCGvhDqEU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/april-dunnam-powerapps-deep-linking.md",
+      "title": "PowerApps Deep Linking",
+      "excerpt": "#PowerApps #DeepLinking Learn how to create Deep Links in your PowerApps applications.  Deep Links enabled you to navigate your users directly to another screen nested in your app.  You can use the Param() function in PowerApps to look for parameters in your URL and move to the appropriate screen.  I",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-powerapps-deep-linking/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-powerapps-deep-linking/",
+      "originalUrl": "https://youtube.com/watch?v=EZyxlYtzqTQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EZyxlYtzqTQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M59S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-05-18T07:39:58-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/EZyxlYtzqTQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/april-dunnam-powerapps-draggable-controls.md",
+      "title": "PowerApps Draggable Controls",
+      "excerpt": "#PowerApps #HowTo In this video, I show how you can make controls inside your PowerApps draggable.  This method uses a hidden slider control to make it so you can drag a separate object across the screen.  I show a use case of dragging a \"Task Card\" from a Not Started, In Progress to Complete Buckets.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-powerapps-draggable-controls/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-powerapps-draggable-controls/",
+      "originalUrl": "https://youtube.com/watch?v=N03fzzhjzDE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/N03fzzhjzDE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M43S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-05-18T07:39:58-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/N03fzzhjzDE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/april-dunnam-powerapps-security-trimming.md",
+      "title": "PowerApps Security Trimming",
+      "excerpt": "#PowerApps #SharePoint #PowerAppsSecurity In this video, I outline a method to implement Security Trimming/Custom Permissions inside your PowerApps application.  This approach utilizes a SharePoint list and native PowerApps functionality to accomplish the security trimming in three easy steps: 1) create",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-powerapps-security-trimming/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-powerapps-security-trimming/",
+      "originalUrl": "https://youtube.com/watch?v=uBAVcXrHWK0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uBAVcXrHWK0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M46S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-05-18T07:39:58-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/uBAVcXrHWK0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/april-dunnam-opening-mobile-applications-from-powerapps.md",
+      "title": "Opening Mobile Applications From PowerApps",
+      "excerpt": "Have you tried using the Launch() function in PowerApps to open up a website but wished you could have it open up the actual app on your mobile device instead?  In this video, I walk you through how you can do that with PowerApps.  I'll show demos on how to open the native phone applications for Twitter,",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-opening-mobile-applications-from-powerapps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-opening-mobile-applications-from-powerapps/",
+      "originalUrl": "https://youtube.com/watch?v=3Puf3Ki8wbk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3Puf3Ki8wbk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M54S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-05-18T07:39:58-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3Puf3Ki8wbk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/april-dunnam-powerapps-ai-object-detection-how-to.md",
+      "title": "PowerApps AI Object Detection How To",
+      "excerpt": "In this video, I show how to set up and use the new AI Object Detector component in PowerApps.  I show how to create the model, train it and use it within a PowerApps Inventory tracker application.    For more details on the Objection Detection capabilities, check out the Microsoft documentation:  https://docs.microsoft.com/en-us/ai-builder/object-detector-component-in-powerapps",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-powerapps-ai-object-detection-how-to/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-powerapps-ai-object-detection-how-to/",
+      "originalUrl": "https://youtube.com/watch?v=iivd7-WXT8o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iivd7-WXT8o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M36S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-05-18T07:39:58-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/iivd7-WXT8o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/april-dunnam-powerapps-json-function-ai-builder.md",
+      "title": "PowerApps JSON Function & AI Builder",
+      "excerpt": "See how to use the new JSON function and Business Card Reader AI Control to OCR a business card, add it to a database, convert the image to JSON and add as a file in SharePoint.  All with zero code required.  Here's a link to the corresponding blog post: https://www.sharepointsiren.com/2019/06/ocr-and-image-upload-with-powerapps/",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-powerapps-json-function-ai-builder/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-powerapps-json-function-ai-builder/",
+      "originalUrl": "https://youtube.com/watch?v=zbOfgdrRRrk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zbOfgdrRRrk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M56S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-05-18T07:39:58-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/zbOfgdrRRrk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/videos/april-dunnam-power-apps-open-app-with-sharepoint-list-formatting.md",
+      "title": "Power Apps: Open App with SharePoint List Formatting",
+      "excerpt": "#PowerApps #SharePoint In this video I show how you can use SharePoint Column Formatting to open a stand-alone PowerApps Canvas app connected to SharePoint data directly from the list.  This video shows how you can pass a parameter into the PowerApp to take you directly to the display screen for the",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-power-apps-open-app-with-sharepoint-list-formatting/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-power-apps-open-app-with-sharepoint-list-formatting/",
+      "originalUrl": "https://youtube.com/watch?v=23NvSB4cu5w",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/23NvSB4cu5w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M18S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-05-18T07:39:58-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/23NvSB4cu5w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/april-dunnam-power-apps-top-3-uses-for-the-html-control.md",
+      "title": "Power Apps: Top 3 Uses for the HTML Control",
+      "excerpt": "#PowerApps #HTML In this video I share my top 3 use cases for the HTML Control in Power Apps.  This one control can really take your apps to the next level.  Learn how you can use this control for all kinds of uses in your apps like:  ✅ Custom Visuals  ✅ Displaying Rich Text from SharePoint ✅ Printing",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-power-apps-top-3-uses-for-the-html-control/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-power-apps-top-3-uses-for-the-html-control/",
+      "originalUrl": "https://youtube.com/watch?v=HqsV8dO1OBM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HqsV8dO1OBM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M46S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-06-08T21:07:25-07:00",
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/HqsV8dO1OBM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/april-dunnam-3-uses-for-power-apps-timer-controls.md",
+      "title": "3 Uses for Power Apps Timer Controls",
+      "excerpt": "#PowerApps #Timers  In this video I demo my top 3 use cases for the Timer Control in Power Apps.   You'll learn how to use the timer to: ✅Create animations (rotate objects, move objects across the screen, color fade text) ✅Do automatic redirects  ✅Implement background refreshes for your data sources",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-3-uses-for-power-apps-timer-controls/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-3-uses-for-power-apps-timer-controls/",
+      "originalUrl": "https://youtube.com/watch?v=OKPNjXh-6Vk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OKPNjXh-6Vk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M34S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-07-08T20:56:40-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/OKPNjXh-6Vk/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/april-dunnam-powerapps-horizontal-progress-bar.md",
+      "title": "PowerApps Horizontal Progress Bar",
+      "excerpt": "#PowerApps #ProgressBar #Components In this video I demo a horizontal progress bar solution for Power Apps and show you how to build it.  You'll learn about:  ✅  Components ✅  Dynamically setting gallery wrap count ✅  Dynamically switching object colors",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-powerapps-horizontal-progress-bar/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-powerapps-horizontal-progress-bar/",
+      "originalUrl": "https://youtube.com/watch?v=r-bTu1srBkY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/r-bTu1srBkY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M41S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-07-29T21:35:13-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/r-bTu1srBkY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    }
+  ]
+}

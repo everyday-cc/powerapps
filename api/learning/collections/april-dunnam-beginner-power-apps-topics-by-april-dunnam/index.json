@@ -1,0 +1,609 @@
+{
+  "title": "Beginner Power Apps Topics by April Dunnam",
+  "path": "_learning/collections/april-dunnam-beginner-power-apps-topics-by-april-dunnam.md",
+  "page": 1,
+  "value": [
+    {
+      "path": "_learning/videos/april-dunnam-how-to-get-started-with-power-apps.md",
+      "title": "How to get started with Power Apps",
+      "excerpt": "#PowerApps #Beginner  The most common question that I'm asked is \"I'm new to Power Apps, how do I get started?\"  Learning any new technology can be overwhelming.  In this video I list the steps you need to take to start learning Power Apps.  If you are brand new to Power Apps then this is the video to",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-how-to-get-started-with-power-apps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-how-to-get-started-with-power-apps/",
+      "originalUrl": "https://youtube.com/watch?v=-H4ljf4FuTE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-H4ljf4FuTE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M3S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-06-24T21:03:20-07:00",
+      "heat": 64,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-H4ljf4FuTE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/april-dunnam-power-apps-canvas-vs-model-driven-vs-portals-explained.md",
+      "title": "Power Apps Canvas vs Model Driven vs Portals Explained",
+      "excerpt": "#PowerApps #PowerAppsTypes #Beginner Are you new to Power Apps?  Then this video is for you!  After you watch my video on \"How to Get Started with Power Apps\", this video is a good next step in that learning path.   I'll explain what Power Apps is and go over the three different types of Power Apps that",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-power-apps-canvas-vs-model-driven-vs-portals-explained/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-power-apps-canvas-vs-model-driven-vs-portals-explained/",
+      "originalUrl": "https://youtube.com/watch?v=M_tvnAmHMZY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/M_tvnAmHMZY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-09-17T07:11:46-07:00",
+      "heat": 59,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/M_tvnAmHMZY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Portals"
+      ]
+    },
+    {
+      "path": "_learning/videos/april-dunnam-power-apps-sorting-multi-column-sort-sort-button-sort-and-filter.md",
+      "title": "Power Apps Sorting - Multi Column Sort, Sort Button, Sort and Filter",
+      "excerpt": "#PowerApps #Sorting This Beginner Fundamentals Quick Tip is all about Power Apps Sorting.  You'll learn the basics of sorting including how to plan for sorting with delegation in mind, how to sort by multiple columns, how to add sorting in combination with filtering and more!  Table of Contents: 00:00",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-power-apps-sorting-multi-column-sort-sort-button-sort-and-filter/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-power-apps-sorting-multi-column-sort-sort-button-sort-and-filter/",
+      "originalUrl": "https://youtube.com/watch?v=8bNCBe2wzYI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8bNCBe2wzYI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M35S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-08-19T20:39:42-07:00",
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8bNCBe2wzYI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/april-dunnam-powerapps-using-the-same-form-control-for-new-and-edit.md",
+      "title": "PowerApps: Using the Same Form Control for New and Edit",
+      "excerpt": "#PowerApps #PowerAppsForms In this video I show you a quick tip on how to use a function to switch your PowerApps Form Mode between New and Edit.  This enables you to cut down on the number of screens and form controls by using the same screen to handle new item and existing item inputs.   For more PowerApps,",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-powerapps-using-the-same-form-control-for-new-and-edit/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-powerapps-using-the-same-form-control-for-new-and-edit/",
+      "originalUrl": "https://youtube.com/watch?v=72I2od3EteY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/72I2od3EteY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M56S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-05-18T07:33:04-07:00",
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/72I2od3EteY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/april-dunnam-power-apps-when-to-use-set-or-updatecontext.md",
+      "title": "Power Apps: When to Use Set or UpdateContext",
+      "excerpt": "#PowerApps #Variables In this video I try to demystify the Set and UpdateContext functions in Power Apps.  I explain what a variable is, what each function does, how to use them and guidelines on when to use each.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-power-apps-when-to-use-set-or-updatecontext/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-power-apps-when-to-use-set-or-updatecontext/",
+      "originalUrl": "https://youtube.com/watch?v=yYqrUpCH1Ao",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yYqrUpCH1Ao\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M33S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-05-18T07:31:56-07:00",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/yYqrUpCH1Ao/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/april-dunnam-creating-search-boxes-in-power-apps.md",
+      "title": "Creating Search Boxes in Power Apps",
+      "excerpt": "#PowerApps #Searching When you're surfacing up data in a Power App you'll probably need a way to search through all of the items.  In this video I walk through how to create a search box and use it to filter items in a gallery.  I show two different ways to interact with the search box.  Concepts Covered",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-creating-search-boxes-in-power-apps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-creating-search-boxes-in-power-apps/",
+      "originalUrl": "https://youtube.com/watch?v=f-D99120E8Y",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/f-D99120E8Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M9S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-05-17T21:00:37-07:00",
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/f-D99120E8Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/april-dunnam-power-apps-how-to-create-a-dialog-box-in-3-steps.md",
+      "title": "Power Apps - How to Create a Dialog Box in 3 Steps",
+      "excerpt": "#PowerApps #DialogBox Dialog Boxes (also known as Modal windows or pop up boxes) are a great tool to have in your Power Apps Tool belt.  These temporary pop up windows allow you to gather additional information from your users.    In this video I show one of the most common use cases for a Dialog Box",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-power-apps-how-to-create-a-dialog-box-in-3-steps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-power-apps-how-to-create-a-dialog-box-in-3-steps/",
+      "originalUrl": "https://youtube.com/watch?v=FLHVJdoDSNE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FLHVJdoDSNE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M42S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-05-18T07:31:56-07:00",
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/FLHVJdoDSNE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/april-dunnam-powerapps-working-with-currency-values.md",
+      "title": "PowerApps - Working with Currency Values",
+      "excerpt": "See how to get your field values to return properly as currency in PowerApps",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-powerapps-working-with-currency-values/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-powerapps-working-with-currency-values/",
+      "originalUrl": "https://youtube.com/watch?v=scCV3BQs-Cs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/scCV3BQs-Cs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M38S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-05-18T07:33:04-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/scCV3BQs-Cs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/april-dunnam-power-apps-launch-function.md",
+      "title": "Power Apps Launch Function",
+      "excerpt": "#PowerApps #LaunchFunction In this video I explain what the Launch function is and how to use it.  I highlight two new features that were released for the Launch Function including the ability to pass parameters and to set the Launch Target.    Video's Referenced in this video:  ✅Opening Mobile Apps",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-power-apps-launch-function/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-power-apps-launch-function/",
+      "originalUrl": "https://youtube.com/watch?v=Aqm9W5Pof08",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Aqm9W5Pof08\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M2S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-05-25T14:44:44-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Aqm9W5Pof08/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/april-dunnam-powerapps-patch-sharepoint-lookup-person-and-choice-fields.md",
+      "title": "PowerApps: Patch SharePoint Lookup, Person and Choice Fields",
+      "excerpt": "#PowerApps #Beginner #SharePoint  In this video I show how to work with and Patch complex SharePoint field types in Power Apps including: Lookups, Choice and Person Fields.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-powerapps-patch-sharepoint-lookup-person-and-choice-fields/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-powerapps-patch-sharepoint-lookup-person-and-choice-fields/",
+      "originalUrl": "https://youtube.com/watch?v=wDKuLeK9N9Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wDKuLeK9N9Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M30S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-07-03T10:28:00-07:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wDKuLeK9N9Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/april-dunnam-pre-populate-fields-in-powerapps.md",
+      "title": "Pre-populate Fields in PowerApps",
+      "excerpt": "#PowerApps #PrePopulate #DefaultValues In this video I show how you can pre-populate fields in PowerApps including:  date, choice, person and single line of text fields.  Some additional concepts you'll learn include: ✅  How to check the form mode ✅  Default Date field to todays date ✅  Default person",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-pre-populate-fields-in-powerapps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-pre-populate-fields-in-powerapps/",
+      "originalUrl": "https://youtube.com/watch?v=7QSoGVh75iQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7QSoGVh75iQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M53S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-08-05T19:45:42-07:00",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7QSoGVh75iQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/april-dunnam-make-a-power-app-a-teams-app.md",
+      "title": "Make a Power App a Teams App",
+      "excerpt": "#PowerApps #MicrosoftTeams Did you know you that you can make any Power App a Teams app?  With more and more organizations using Microsoft Teams for their day to day operations it's important to figure out how to integrate your business apps into the platform.  I'll show three different ways to incorporate",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-make-a-power-app-a-teams-app/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-make-a-power-app-a-teams-app/",
+      "originalUrl": "https://youtube.com/watch?v=UmMhQSom_EE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UmMhQSom_EE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M22S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-05-18T07:42:05-07:00",
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/UmMhQSom_EE/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Teams integration"
+      ]
+    },
+    {
+      "path": "_learning/videos/april-dunnam-powerapps-date-picker-validation.md",
+      "title": "PowerApps Date Picker Validation",
+      "excerpt": "In this video, I show how you can apply validation on a Date Picker control in PowerApps.  You can use this to restrict the selected date options to business days only, 3 days in the future, etc.    For step by step directions and code to copy and paste, please reference my corresponding blog post:",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-powerapps-date-picker-validation/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-powerapps-date-picker-validation/",
+      "originalUrl": "https://youtube.com/watch?v=wUqZBbfHPDQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wUqZBbfHPDQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M22S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-05-18T07:42:05-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wUqZBbfHPDQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/april-dunnam-power-apps-creating-tabs.md",
+      "title": "Power Apps:  Creating Tabs",
+      "excerpt": "#PowerApps #Tabs In this video I walk you through how to create a tabbed interface in your Power Apps.  I discuss the different use cases for tabs and approaches to implementing.  Tabs are a great way to improve the UX of your apps and an important concept for any beginning #PowerAddict to grasp.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-power-apps-creating-tabs/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-power-apps-creating-tabs/",
+      "originalUrl": "https://youtube.com/watch?v=GugRoM2v494",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GugRoM2v494\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M12S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-05-31T15:49:01-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GugRoM2v494/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/april-dunnam-power-apps-creating-a-filter-control.md",
+      "title": "Power Apps: Creating A Filter Control",
+      "excerpt": "#PowerApps #Filter In this video I show two ways that you can create a Filter Control to refine the results in a gallery.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-power-apps-creating-a-filter-control/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-power-apps-creating-a-filter-control/",
+      "originalUrl": "https://youtube.com/watch?v=o1muoWFxIO4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/o1muoWFxIO4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M23S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-05-31T20:25:02-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/o1muoWFxIO4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/april-dunnam-powerapps-rounded-image.md",
+      "title": "PowerApps Rounded Image",
+      "excerpt": "Learn how to take a square image and make it rounded in a PowerApps Gallery",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-powerapps-rounded-image/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-powerapps-rounded-image/",
+      "originalUrl": "https://youtube.com/watch?v=Mb0g6C0530c",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Mb0g6C0530c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M3S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-05-18T07:37:18-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Mb0g6C0530c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/april-dunnam-powerapps-reorder-gallery-items.md",
+      "title": "PowerApps Reorder Gallery Items",
+      "excerpt": "#PowerApps #Galleries In this video I walk you through how you can create an inline reordering mechanism for a Power Apps gallery.  I'll show how to dynamically reorder gallery items with up and down arrows to move them around.    You'll learn: ✅  How to add items to a collection ✅  How to delete items",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-powerapps-reorder-gallery-items/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-powerapps-reorder-gallery-items/",
+      "originalUrl": "https://youtube.com/watch?v=vuBuPxOY8uM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vuBuPxOY8uM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M53S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-08-12T18:50:55-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/vuBuPxOY8uM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/april-dunnam-power-apps-editable-table.md",
+      "title": "Power Apps Editable Table",
+      "excerpt": "#PowerApps #EditableTables #InlineEditing  In this video I'll walk you through all of the steps needed to create a repeating, inline editable table within Power Apps similar to what you would see in SharePoint's Quick Edit Mode, Excel and InfoPath repeating tables.   Here's a breakdown of what's covered:",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-power-apps-editable-table/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-power-apps-editable-table/",
+      "originalUrl": "https://youtube.com/watch?v=mj4mKS1hS7M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mj4mKS1hS7M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M42S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-09-02T20:29:13-07:00",
+      "heat": 144,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/mj4mKS1hS7M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/april-dunnam-powerapps-patch-multi-select-fields.md",
+      "title": "PowerApps Patch Multi Select Fields",
+      "excerpt": "#PowerApps #MultiSelect Do you need to patch multi select fields in Power Apps?  Watch this video to learn how to patch multi select people picker and lookup fields to SharePoint in Power Apps.  You'll also learn how you can display multi-select field items inside of a gallery.   Concepts covered: Looping",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-powerapps-patch-multi-select-fields/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-powerapps-patch-multi-select-fields/",
+      "originalUrl": "https://youtube.com/watch?v=bmft4JFWJiY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bmft4JFWJiY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M45S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-11-04T18:12:24-08:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/bmft4JFWJiY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/april-dunnam-print-in-power-apps-without-power-automate.md",
+      "title": "Print in Power Apps without Power Automate",
+      "excerpt": "#PowerApps #Printing  In this video I highlight a way to print tabular data directly in Power Apps, no need for Power Automate!  This is made possible by Microsoft MVP and MCT Yash Agarwal who created a fantastic PCF control that will allow you to print directly in Power Apps.  I'll walk you through",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-print-in-power-apps-without-power-automate/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-print-in-power-apps-without-power-automate/",
+      "originalUrl": "https://youtube.com/watch?v=tPAz1vJUe2k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tPAz1vJUe2k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M34S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-11-12T06:12:56-08:00",
+      "heat": 83,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tPAz1vJUe2k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    }
+  ]
+}

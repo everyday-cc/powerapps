@@ -1,0 +1,1013 @@
+{
+  "title": "Learning Resources",
+  "path": "_learning",
+  "page": 14,
+  "value": [
+    {
+      "path": "_learning/videos/dhruvin-shah-mixed-reality-in-power-apps-view-shape-in-mr.md",
+      "title": "Mixed Reality in Power Apps – View Shape in MR",
+      "excerpt": "During this video, we will be talking about one more Mixed Reality component which is “View Shape in MR”. View Shape in MR component places a cube into Mixed Reality. Using View Shape in MR Component we can check if the specified cube will fit into a specific space or not.  So, stay tuned with me throughout",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-mixed-reality-in-power-apps-view-shape-in-mr/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-mixed-reality-in-power-apps-view-shape-in-mr/",
+      "originalUrl": "https://youtube.com/watch?v=vOYfUXNvno8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vOYfUXNvno8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M39S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-10-10T05:59:31-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/vOYfUXNvno8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-overview-of-category-classification-in-ai-builder-power-platform-ai-builder-series-part-one.md",
+      "title": "Overview of Category Classification in AI Builder – Power Platform AI Builder Series – Part One",
+      "excerpt": "Welcome to Power Platform with AI series. During this entire series, we will talk about one of the important components of AI Builder which is – “Text Classification”.  Category Classification with AI Builder: The first question arises in our mind is What is Text Classification and how does it help to",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-overview-of-category-classification-in-ai-builder-power-platform-ai-builder-series-part-one/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-overview-of-category-classification-in-ai-builder-power-platform-ai-builder-series-part-one/",
+      "originalUrl": "https://youtube.com/watch?v=TGIAb47kg6M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TGIAb47kg6M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M17S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-04-15T22:00:05-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/TGIAb47kg6M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-overview-of-form-processing-model-using-power-platform-ai-builder-power-platform-ai-builder-series.md",
+      "title": "Overview of Form Processing Model using Power Platform AI Builder – Power Platform AI Builder Series",
+      "excerpt": "Welcome to PowerPlatform with AI series. During this entire series, we will talk about one of the important components of AI Builder which is – “Form Processing”.  I have divided this entire series into the following parts. 1. Overview of Form Processing model – Prerequisites, Scenario, and Limitations",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-overview-of-form-processing-model-using-power-platform-ai-builder-power-platform-ai-builder-series/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-overview-of-form-processing-model-using-power-platform-ai-builder-power-platform-ai-builder-series/",
+      "originalUrl": "https://youtube.com/watch?v=9jKZhL6Q-FE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9jKZhL6Q-FE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M6S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-04-08T21:54:33-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9jKZhL6Q-FE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-real-world-use-case-form-processing-with-ai-builder-in-power-apps-and-sharepoint-as-back-end.md",
+      "title": "Real World Use Case - Form Processing with AI Builder in Power Apps and SharePoint as Back end",
+      "excerpt": "This video demonstrates the Real World use case for Power Apps Form Processing AI Model.  The AI Builder is a new game changer for the Power Platform. Here we have taken an example of a Real-World Business Use case where User uploads the scanned document of their Rent Receipt. The Form Processing AI",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-real-world-use-case-form-processing-with-ai-builder-in-power-apps-and-sharepoint-as-back-end/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-real-world-use-case-form-processing-with-ai-builder-in-power-apps-and-sharepoint-as-back-end/",
+      "originalUrl": "https://youtube.com/watch?v=ty9yy14RQMY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ty9yy14RQMY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-04-09T18:31:11-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ty9yy14RQMY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-restore-previous-version-of-the-canvas-app-in-power-apps.md",
+      "title": "Restore Previous Version of the Canvas App in Power Apps",
+      "excerpt": "In this video, we will learn how we can restore previous version of the Application in Power Apps. Sometimes, we made some chnages to our Canvas App and now, we want its previous version back, then how can we get? Here's an answer of your question. We can get Power Apps' previous version using Versioning",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-restore-previous-version-of-the-canvas-app-in-power-apps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-restore-previous-version-of-the-canvas-app-in-power-apps/",
+      "originalUrl": "https://youtube.com/watch?v=ASRL74GB0_M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ASRL74GB0_M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M31S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-09-29T19:03:28-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ASRL74GB0_M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-train-publish-and-test-text-classification-ai-model-power-platform-ai-builder-series-part-four.md",
+      "title": "Train, Publish and Test Text Classification AI Model – Power Platform AI Builder Series – Part Four",
+      "excerpt": "Welcome to Power Platform with AI series. During this entire series, we will talk about one of the important components of AI Builder which is – “Text Classification”. Text Classification with AI Builder: Power Platform AI builder provides a facility to perform Text Classification and allows us to define",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-train-publish-and-test-text-classification-ai-model-power-platform-ai-builder-series-part-four/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-train-publish-and-test-text-classification-ai-model-power-platform-ai-builder-series-part-four/",
+      "originalUrl": "https://youtube.com/watch?v=IEs1jEfUxOo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IEs1jEfUxOo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M21S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-04-16T02:21:42-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/IEs1jEfUxOo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-use-an-entity-extraction-custom-ai-model-in-power-apps-using-power-automate.md",
+      "title": "Use an Entity Extraction Custom AI Model in Power Apps Using Power Automate",
+      "excerpt": "Entity Extraction AI model available in two forms – OOTB Entity Extraction AI Model and Custom Entity Extraction AI Model.  During this entire series, we will be discussing the Custom Entity Extraction AI Model.  I have divided this entire series into three different parts. 1. Get Started with Custom",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-use-an-entity-extraction-custom-ai-model-in-power-apps-using-power-automate/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-use-an-entity-extraction-custom-ai-model-in-power-apps-using-power-automate/",
+      "originalUrl": "https://youtube.com/watch?v=_SEIUmZc7lI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_SEIUmZc7lI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M6S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-06-21T20:29:30-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_SEIUmZc7lI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-use-category-classification-or-text-classification-ai-model-in-power-apps-and-power-automate.md",
+      "title": "Use Category Classification or Text Classification AI Model in Power Apps and Power Automate",
+      "excerpt": "Welcome to Power Platform AI Builder Series. This is the same session I have represented to Global AI Online Tour - 2020 at Ahmedabad. This is a pre-recorded session.  During this session, I'm going to talk about Category Classification inside the AI Builder. The Category Classification was earlier known",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-use-category-classification-or-text-classification-ai-model-in-power-apps-and-power-automate/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-use-category-classification-or-text-classification-ai-model-in-power-apps-and-power-automate/",
+      "originalUrl": "https://youtube.com/watch?v=jQt1F6WXIQQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jQt1F6WXIQQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT34M7S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-10-04T22:39:45-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jQt1F6WXIQQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-use-custom-entity-extraction-ai-model-to-extract-the-useful-entities-from-your-business-data.md",
+      "title": "Use Custom Entity Extraction AI Model to Extract the Useful Entities from your Business Data",
+      "excerpt": "Welcome to Global AI Online Tour Pune 2020. This is a prerecorded session just before few hours ago for internal purpose and training.   This is a fast-forward session explaining end to end business process from developing custom Entity Extraction model from scratch.  As, this is a 30-minute session,",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-use-custom-entity-extraction-ai-model-to-extract-the-useful-entities-from-your-business-data/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-use-custom-entity-extraction-ai-model-to-extract-the-useful-entities-from-your-business-data/",
+      "originalUrl": "https://youtube.com/watch?v=t8lRRhy2jAk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/t8lRRhy2jAk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M43S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-06-21T21:03:48-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/t8lRRhy2jAk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-use-your-prediction-ai-model-to-predict-the-future-data-using-power-apps-and-power-automate-part-4.md",
+      "title": "Use your Prediction AI Model to Predict the Future Data Using Power Apps and Power Automate – Part 4",
+      "excerpt": "Welcome to Power Platform AI Builder Series. In this series, we will be talking about one of the most important components of AI Builder which is – Prediction Model   During the first part of the series, we will be talking about What is Prediction and how it is useful with our business data to predict",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-use-your-prediction-ai-model-to-predict-the-future-data-using-power-apps-and-power-automate-part-4/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-use-your-prediction-ai-model-to-predict-the-future-data-using-power-apps-and-power-automate-part-4/",
+      "originalUrl": "https://youtube.com/watch?v=dDHl1IvcJXA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dDHl1IvcJXA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M58S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-05-17T02:00:41-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dDHl1IvcJXA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/videos/henry-ouang-create-an-automatic-date-progress-bar-in-powerapps.md",
+      "title": "Create an Automatic Date Progress Bar in PowerApps!",
+      "excerpt": "In this video, I show you guys how to create a progress bar that is sensitive to dates within Microsoft PowerApps. The process is much simpler than you might image - all you need is two date pickers as well as a slider. You can custom program the slider using the max and default functions to route towards",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/henry-ouang-create-an-automatic-date-progress-bar-in-powerapps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/henry-ouang-create-an-automatic-date-progress-bar-in-powerapps/",
+      "originalUrl": "https://youtube.com/watch?v=rkENxo2_PX8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rkENxo2_PX8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M5S",
+      "provider": {
+        "name": "Henry Ouang",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-09-09T08:55:30-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rkENxo2_PX8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/henry-ouang-differences-between-powerapps-ios-development-creating-a-button.md",
+      "title": "Differences Between PowerApps & iOS Development - Creating a Button!",
+      "excerpt": "The drawback with PowerApps is that you need to use Microsoft's PowerApps Application on the Apple App Store to use your PowerApp. I'm here to show you that iOS Application development isn't as crazy and different as you think it is compared to PowerApps. I truly believe that if you can make PowerApps,",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/henry-ouang-differences-between-powerapps-ios-development-creating-a-button/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/henry-ouang-differences-between-powerapps-ios-development-creating-a-button/",
+      "originalUrl": "https://youtube.com/watch?v=M9hJpeKWJQM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/M9hJpeKWJQM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M23S",
+      "provider": {
+        "name": "Henry Ouang",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-10-24T08:03:41-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/M9hJpeKWJQM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/henry-ouang-learn-powerapps-basic-tips-tricks-with-variables.md",
+      "title": "Learn PowerApps - Basic Tips & Tricks with Variables",
+      "excerpt": "In this video, I show you how to make your PowerApps a bit more efficient. I give basic information on how references in cells and formulas work between PowerApps Screen.  Utilizing variables and references instead of hard-coded information within your applications will save you a lot of headache in",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/henry-ouang-learn-powerapps-basic-tips-tricks-with-variables/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/henry-ouang-learn-powerapps-basic-tips-tricks-with-variables/",
+      "originalUrl": "https://youtube.com/watch?v=lzS0HesEslg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lzS0HesEslg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M12S",
+      "provider": {
+        "name": "Henry Ouang",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-09-09T08:55:27-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/lzS0HesEslg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/henry-ouang-powerapps-dashboard-uiux-template-brainstorming-ideas.md",
+      "title": "PowerApps Dashboard UI/UX Template Brainstorming Ideas!",
+      "excerpt": "Thank you so much for the support. I love hearing from you guys and will do my best to get back!  In this video, I show you some ideas I had for designing a dashboard. You can freely pull anything you want from these videos and copy them for your own! Impress your boss, co-workers, etc.  I highly recommend",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/henry-ouang-powerapps-dashboard-uiux-template-brainstorming-ideas/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/henry-ouang-powerapps-dashboard-uiux-template-brainstorming-ideas/",
+      "originalUrl": "https://youtube.com/watch?v=fHZl38umZFU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fHZl38umZFU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M13S",
+      "provider": {
+        "name": "Henry Ouang",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-07-16T23:13:18-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/fHZl38umZFU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/henry-ouang-powerapps-performance-optimization-measure-your-performance-improvements.md",
+      "title": "PowerApps Performance Optimization - MEASURE Your Performance Improvements!",
+      "excerpt": "In this video, I give you a little tip on how to time your functions and how long they take! This gives you a little bit more insight of how fast your application is running and how fast you improve it!   You can definitely use this to give MEASURABLE results to improving your application!  Let me know",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/henry-ouang-powerapps-performance-optimization-measure-your-performance-improvements/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/henry-ouang-powerapps-performance-optimization-measure-your-performance-improvements/",
+      "originalUrl": "https://youtube.com/watch?v=GZESXTi9C5Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GZESXTi9C5Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M10S",
+      "provider": {
+        "name": "Henry Ouang",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-10-25T13:14:00-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GZESXTi9C5Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/henry-ouang-powerapps-performance-optimization-one-simple-trick-2x-speeds-on-your-apps.md",
+      "title": "PowerApps Performance Optimization - One Simple Trick! (2X+ SPEEDS ON YOUR APPS!)",
+      "excerpt": "This is an important topic that I was glad to be able to sneak into my day. Powerapps performance optimization. You can use this singular function to speed up your powerapps significantly! All you need to do is add it at the beginning of your invocations and close it at the end of the functions you want",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/henry-ouang-powerapps-performance-optimization-one-simple-trick-2x-speeds-on-your-apps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/henry-ouang-powerapps-performance-optimization-one-simple-trick-2x-speeds-on-your-apps/",
+      "originalUrl": "https://youtube.com/watch?v=YOBlMacJJuM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YOBlMacJJuM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M47S",
+      "provider": {
+        "name": "Henry Ouang",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-10-15T01:53:59-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/YOBlMacJJuM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/henry-ouang-stock-ticker-prices-on-powerapps-using-api.md",
+      "title": "Stock Ticker Prices on PowerApps using API!",
+      "excerpt": "Thank you so much for the support. I love hearing from you guys and will do my best to get back!  In this video, I show you how to get updated Stock Ticker Prices on your PowerApps using API from Alpha Vantage (completely free!) There is a 5 requests per minute limit, but this is at no cost to you! It",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/henry-ouang-stock-ticker-prices-on-powerapps-using-api/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/henry-ouang-stock-ticker-prices-on-powerapps-using-api/",
+      "originalUrl": "https://youtube.com/watch?v=6A0mkqXeS1Y",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6A0mkqXeS1Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M3S",
+      "provider": {
+        "name": "Henry Ouang",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-02-13T23:34:38-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6A0mkqXeS1Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-best-way-to-start-power-apps-for-a-non-professional-developer-one-dev-question-dona-sarkar.md",
+      "title": "Best way to start Power Apps for a non-professional developer? | One Dev Question: Dona Sarkar",
+      "excerpt": "Sometimes services like Power Apps can be daunting. In the One Dev Question series, Principal Cloud Advocate Dona Sarkar shares some tips for getting started and explains why you do not have to be a professional developer to use Power Apps.   For more information, visit: https://docs.microsoft.com/learn/modules/get-started-with-powerapps/?WT.mc_id=onedevquestion-c9-donasa",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/microsoft-best-way-to-start-power-apps-for-a-non-professional-developer-one-dev-question-dona-sarkar/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/microsoft-best-way-to-start-power-apps-for-a-non-professional-developer-one-dev-question-dona-sarkar/",
+      "originalUrl": "https://youtube.com/watch?v=xmjJZpSRCcs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xmjJZpSRCcs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M42S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-05-18T07:58:40-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xmjJZpSRCcs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-design-guidance-on-creating-power-apps-solutions-one-dev-question-dona-sarkar.md",
+      "title": "Design guidance on creating Power Apps solutions | One Dev Question: Dona Sarkar",
+      "excerpt": "In the One Dev Question series, Principal Cloud Advocate Dona Sarkar gives some advice on creating Power App solutions.   For more information, visit: https://docs.microsoft.com/powerapps/maker/canvas-apps/get-started-test-drive/?WT.mc_id=onedevquestion-c9-donasa   Try Azure for free: https://aka.ms/TryAzure7",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/microsoft-design-guidance-on-creating-power-apps-solutions-one-dev-question-dona-sarkar/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/microsoft-design-guidance-on-creating-power-apps-solutions-one-dev-question-dona-sarkar/",
+      "originalUrl": "https://youtube.com/watch?v=3lUQDCRFWnQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3lUQDCRFWnQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M13S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-05-13T08:09:15-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3lUQDCRFWnQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-do-power-apps-support-accessibility-and-inclusiveness-one-dev-question-dona-sarkar.md",
+      "title": "How do Power Apps support accessibility and Inclusiveness? | One Dev Question: Dona Sarkar",
+      "excerpt": "In the One Dev Question series, Principal Cloud Advocate Dona Sarkar explains how Power Apps supports accessibility and inclusiveness.   For more information, visit: https://docs.microsoft.com/powerapps/maker/canvas-apps/accessible-apps/?WT.mc_id=onedevquestion-c9-donasa  Try Azure for free: https://aka.ms/TryAzure7",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/microsoft-how-do-power-apps-support-accessibility-and-inclusiveness-one-dev-question-dona-sarkar/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/microsoft-how-do-power-apps-support-accessibility-and-inclusiveness-one-dev-question-dona-sarkar/",
+      "originalUrl": "https://youtube.com/watch?v=ju-XovgnGVY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ju-XovgnGVY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M15S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-05-04T08:15:32-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ju-XovgnGVY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-export-content-from-powerapps-to-onenote-using-meeting-capture.md",
+      "title": "How to export content from PowerApps to OneNote using Meeting Capture",
+      "excerpt": "Learn how the Meeting Capture sample app was built with a deep dive into the functions used to export content to OneNote.  Learn more: https://powerapps.microsoft.com/en-us/blog/capture-meetings-notes-like-a-pro/",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/microsoft-how-to-export-content-from-powerapps-to-onenote-using-meeting-capture/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/microsoft-how-to-export-content-from-powerapps-to-onenote-using-meeting-capture/",
+      "originalUrl": "https://youtube.com/watch?v=D6kmeM0UFH0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/D6kmeM0UFH0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M35S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-08-20T09:01:16-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/D6kmeM0UFH0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-find-available-meeting-times-with-meeting-capture.md",
+      "title": "How to find available meeting times with Meeting Capture",
+      "excerpt": "This video provides a deep dive into the Meeting Capture PowerApps sample template. Learn how to find available meeting times for all meeting attendees when building in the Meeting Capture app.  Learn more: https://powerapps.microsoft.com/en-us/blog/capture-meetings-notes-like-a-pro/",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/microsoft-how-to-find-available-meeting-times-with-meeting-capture/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/microsoft-how-to-find-available-meeting-times-with-meeting-capture/",
+      "originalUrl": "https://youtube.com/watch?v=gSD8m6d_Gv0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gSD8m6d_Gv0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M9S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-08-20T09:00:58-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/gSD8m6d_Gv0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-install-and-set-up-the-meeting-capture-sample-template.md",
+      "title": "How to install and set up the Meeting Capture sample template",
+      "excerpt": "Learn how to set up the Meeting Capture PowerApps sample template and make it your own.  Learn more: https://powerapps.microsoft.com/en-us/blog/capture-meetings-notes-like-a-pro/",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/microsoft-how-to-install-and-set-up-the-meeting-capture-sample-template/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/microsoft-how-to-install-and-set-up-the-meeting-capture-sample-template/",
+      "originalUrl": "https://youtube.com/watch?v=MTsbjln1AcA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MTsbjln1AcA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M58S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-06-25T12:30:40-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/MTsbjln1AcA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-is-there-an-open-source-community-around-power-apps-one-dev-question-dona-sarkar.md",
+      "title": "Is there an Open Source community around Power Apps? | One Dev Question: Dona Sarkar",
+      "excerpt": "Ever wanted to contribute to Power Apps? In the One Dev Question series, Principal Cloud Advocate Dona Sarkar shares how you can contribute to Power Apps. #poweraddicts   For more information, visit: https://powerusers.microsoft.com/?WT.mc_id=onedevquestion-c9-donasa   Try Azure for free: https://aka.ms/TryAzure7",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/microsoft-is-there-an-open-source-community-around-power-apps-one-dev-question-dona-sarkar/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/microsoft-is-there-an-open-source-community-around-power-apps-one-dev-question-dona-sarkar/",
+      "originalUrl": "https://youtube.com/watch?v=StN0joFuSHA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/StN0joFuSHA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT57S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-05-11T08:09:55-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/StN0joFuSHA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-what-are-power-apps-one-dev-question-dona-sarkar.md",
+      "title": "What are Power Apps? | One Dev Question: Dona Sarkar",
+      "excerpt": "In the One Dev Question series, Principal Cloud Advocate Dona Sarkar explains what Power Apps are.    For more information, visit: https://powerapps.microsoft.com/?WT.mc_id=onedevquestion-c9-donasa Try Azure for free: https://aka.ms/TryAzure7",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/microsoft-what-are-power-apps-one-dev-question-dona-sarkar/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/microsoft-what-are-power-apps-one-dev-question-dona-sarkar/",
+      "originalUrl": "https://youtube.com/watch?v=J-Fz-l61sTs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/J-Fz-l61sTs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT53S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-04-20T08:07:05-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/J-Fz-l61sTs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-what-are-the-benefits-of-power-apps-for-professional-developers-one-dev-question-dona-sarkar.md",
+      "title": "What are the benefits of Power Apps for professional developers? | One Dev Question: Dona Sarkar",
+      "excerpt": "In the One Dev Question series, Principal Cloud Advocate Dona Sarkar shares why Power Apps is important for professional developers.   For more information, visit: https://docs.microsoft.com/powerapps/maker/canvas-apps/getting-started/?WT.mc_id=onedevquestion-c9-donasa    Try Azure for free: https://aka.ms/TryAzure7",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/microsoft-what-are-the-benefits-of-power-apps-for-professional-developers-one-dev-question-dona-sarkar/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/microsoft-what-are-the-benefits-of-power-apps-for-professional-developers-one-dev-question-dona-sarkar/",
+      "originalUrl": "https://youtube.com/watch?v=FoLb43pu2H8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FoLb43pu2H8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M29S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-05-20T08:16:54-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/FoLb43pu2H8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-what-databases-do-power-apps-work-with-one-dev-question-dona-sarkar.md",
+      "title": "What databases do Power Apps work with? | One Dev Question: Dona Sarkar",
+      "excerpt": "In the One Dev Question series, Principal Cloud Advocate Dona Sarkar explains how she uses Power Apps and why.   For more information, visit: https://docs.microsoft.com/powerapps/developer/common-data-service/overview/?WT.mc_id=onedevquestion-c9-donasa    Try Azure for free: https://aka.ms/TryAzure7",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/microsoft-what-databases-do-power-apps-work-with-one-dev-question-dona-sarkar/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/microsoft-what-databases-do-power-apps-work-with-one-dev-question-dona-sarkar/",
+      "originalUrl": "https://youtube.com/watch?v=e0Xh7KQlBvU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/e0Xh7KQlBvU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M50S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-04-29T08:06:36-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/e0Xh7KQlBvU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-where-are-power-apps-going-in-the-future-one-dev-question-dona-sarkar.md",
+      "title": "Where are Power Apps going in the future? | One Dev Question: Dona Sarkar",
+      "excerpt": "Wonder what is next for Power Apps? In the One Dev Question series, Principal Cloud Advocate Dona Sarkar shares some exciting news about the future of Power Apps.   For more information, visit: https://powerapps.microsoft.com/blog/?WT.mc_id=onedevquestion-c9-donasa  Try Azure for free: https://aka.ms/TryAzure7",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/microsoft-where-are-power-apps-going-in-the-future-one-dev-question-dona-sarkar/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/microsoft-where-are-power-apps-going-in-the-future-one-dev-question-dona-sarkar/",
+      "originalUrl": "https://youtube.com/watch?v=fPE5LJif0sw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fPE5LJif0sw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M41S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-05-06T08:04:16-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/fPE5LJif0sw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-will-power-apps-scale-to-my-business-needs-one-dev-question-dona-sarkar.md",
+      "title": "Will Power Apps scale to my business needs? | One Dev Question: Dona Sarkar",
+      "excerpt": "In the One Dev Question series, Principal Cloud Advocate Dona Sarkar explains how customizable Power Apps can be and how they can work for you.    For more information, visit: https://powerapps.microsoft.com/build-powerapps/?WT.mc_id=onedevquestion-c9-donasa   Try Azure for free: https://aka.ms/TryAzure7",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/microsoft-will-power-apps-scale-to-my-business-needs-one-dev-question-dona-sarkar/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/microsoft-will-power-apps-scale-to-my-business-needs-one-dev-question-dona-sarkar/",
+      "originalUrl": "https://youtube.com/watch?v=fpOvfX0OU6s",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fpOvfX0OU6s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M39S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-04-27T08:03:21-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/fpOvfX0OU6s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/powerapps911-power-apps-change-the-app-owner-with-powershell.md",
+      "title": "Power Apps change the app owner with PowerShell",
+      "excerpt": "In this Quick Thursday Tip (QTT) you will learn how to change the owner of one or more Power Apps by using PowerShell. Super handy when someone leaves the company for example. 😀  Link to install PowerShell for Power Apps and Power Automate if you need it https://www.youtube.com/watch?v=BPmCW1uXh38",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-power-apps-change-the-app-owner-with-powershell/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-power-apps-change-the-app-owner-with-powershell/",
+      "originalUrl": "https://youtube.com/watch?v=YA0IdOZnM78",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YA0IdOZnM78\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M31S",
+      "provider": {
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
+      },
+      "publishedDateTime": "2020-10-15T06:57:45-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/YA0IdOZnM78/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    }
+  ],
+  "nextPage": 15
+}

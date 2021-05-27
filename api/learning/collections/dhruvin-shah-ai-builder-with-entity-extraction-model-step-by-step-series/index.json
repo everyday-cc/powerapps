@@ -1,0 +1,131 @@
+{
+  "title": "AI Builder with Entity Extraction Model - Step by Step Series",
+  "path": "_learning/collections/dhruvin-shah-ai-builder-with-entity-extraction-model-step-by-step-series.md",
+  "page": 1,
+  "value": [
+    {
+      "path": "_learning/videos/dhruvin-shah-get-started-with-custom-entity-extraction-ai-model-using-ai-builder-ai-builder-entity-extraction.md",
+      "title": "Get Started with Custom Entity Extraction AI Model using AI Builder | AI Builder Entity Extraction",
+      "excerpt": "Welcome to Power Platform AI Builder Series. In this session, we will be discussing one of the important components of AI Builder which is Entity Extraction.  Entity Extraction AI model available in two forms – OOTB Entity Extraction AI Model and Custom Entity Extraction AI Model.  During this session",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-get-started-with-custom-entity-extraction-ai-model-using-ai-builder-ai-builder-entity-extraction/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-get-started-with-custom-entity-extraction-ai-model-using-ai-builder-ai-builder-entity-extraction/",
+      "originalUrl": "https://youtube.com/watch?v=StWsJurUOTs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/StWsJurUOTs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M1S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-06-21T19:03:44-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/StWsJurUOTs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-create-train-and-publish-an-entity-extraction-custom-ai-model.md",
+      "title": "Create, Train and Publish an Entity Extraction Custom AI Model",
+      "excerpt": "Welcome to Power Platform AI Builder Series. In this session, we will be discussing one of the important components of AI Builder which is Entity Extraction.  Entity Extraction AI model available in two forms – OOTB Entity Extraction AI Model and Custom Entity Extraction AI Model.  During this entire",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-create-train-and-publish-an-entity-extraction-custom-ai-model/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-create-train-and-publish-an-entity-extraction-custom-ai-model/",
+      "originalUrl": "https://youtube.com/watch?v=PFEA4nkRyDs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PFEA4nkRyDs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M16S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-06-21T19:33:43-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/PFEA4nkRyDs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-use-an-entity-extraction-custom-ai-model-in-power-apps-using-power-automate.md",
+      "title": "Use an Entity Extraction Custom AI Model in Power Apps Using Power Automate",
+      "excerpt": "Entity Extraction AI model available in two forms – OOTB Entity Extraction AI Model and Custom Entity Extraction AI Model.  During this entire series, we will be discussing the Custom Entity Extraction AI Model.  I have divided this entire series into three different parts. 1. Get Started with Custom",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-use-an-entity-extraction-custom-ai-model-in-power-apps-using-power-automate/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-use-an-entity-extraction-custom-ai-model-in-power-apps-using-power-automate/",
+      "originalUrl": "https://youtube.com/watch?v=_SEIUmZc7lI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_SEIUmZc7lI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M6S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-06-21T20:29:30-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_SEIUmZc7lI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-use-custom-entity-extraction-ai-model-to-extract-the-useful-entities-from-your-business-data.md",
+      "title": "Use Custom Entity Extraction AI Model to Extract the Useful Entities from your Business Data",
+      "excerpt": "Welcome to Global AI Online Tour Pune 2020. This is a prerecorded session just before few hours ago for internal purpose and training.   This is a fast-forward session explaining end to end business process from developing custom Entity Extraction model from scratch.  As, this is a 30-minute session,",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-use-custom-entity-extraction-ai-model-to-extract-the-useful-entities-from-your-business-data/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-use-custom-entity-extraction-ai-model-to-extract-the-useful-entities-from-your-business-data/",
+      "originalUrl": "https://youtube.com/watch?v=t8lRRhy2jAk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/t8lRRhy2jAk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M43S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-06-21T21:03:48-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/t8lRRhy2jAk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    }
+  ]
+}

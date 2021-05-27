@@ -1,0 +1,1437 @@
+{
+  "title": "Learning Resources",
+  "path": "_learning",
+  "page": 1,
+  "value": [
+    {
+      "path": "_learning/collections/microsoft-learn-get-started-using-common-data-service.md",
+      "title": "Get started using Common Data Service",
+      "excerpt": "Do you want to learn how to build solutions that can leverage a standardized data structure and work with other solutions sharing the same data model?  Do you want to extend the standard model to support custom solutions? This learning path will explain the concepts behind and benefits of Common Data Service. Creating an environment, entities, fields and options sets are also discussed.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/collections/microsoft-learn-get-started-using-common-data-service/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/collections/microsoft-learn-get-started-using-common-data-service/",
+      "length": "PT4H15M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-create-manage-environments.md",
+          "title": "Create and manage environments in Common Data Service",
+          "excerpt": "An environment is a space to store, manage, and share your organization's business data that is stored within an instance of a Common Data Service database.  You can set up one or many environments, depending on the needs of your organization. This module explores these environments and how you can use them with instances of Common Data Service databases.",
+          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-create-manage-environments/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-environments/",
+          "length": "PT42M",
+          "ratings": {
+            "count": 979,
+            "average": 4.6036773
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/create-manage-environments-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "Common Data Service"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-create-manage-entities.md",
+          "title": "Create and manage entities in Common Data Service",
+          "excerpt": "Common Data Service entities are similar to tables in a database. Every instance of a Common Data Service database includes a base set of entities that provide structure for data that is commonly used by business applications.",
+          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-create-manage-entities/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-entities/",
+          "length": "PT44M",
+          "ratings": {
+            "count": 804,
+            "average": 4.630597
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/create-manage-entities-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "Common Data Service"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-create-manage-fields-within-entity.md",
+          "title": "Create and manage fields within an entity in Common Data Service",
+          "excerpt": "Do you want to create new data fields or leverage exiting standardized fields for your business solutions?  This module will show you how to manage or create new fields within an entity in Common Data Service.",
+          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-create-manage-fields-within-entity/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-fields-within-entity/",
+          "length": "PT1H3M",
+          "ratings": {
+            "count": 413,
+            "average": 4.59322
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/create-manage-fields-within-entity-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "Common Data Service"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-working-with-option-sets.md",
+          "title": "Working with option sets in Common Data Service",
+          "excerpt": "Do you want to create standardized choice lists that you can use across all of your Power Apps?  This module will show you how to create new or use standard choice lists called option sets in Common Data Service.",
+          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-working-with-option-sets/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/working-with-option-sets/",
+          "length": "PT39M",
+          "ratings": {
+            "count": 373,
+            "average": 4.6595173
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/working-with-option-sets-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "Common Data Service"
+          ]
+        }
+      ],
+      "size": 5,
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-manage-environments-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Common Data Service"
+      ]
+    },
+    {
+      "path": "_learning/videos/powerapps911-intro-to-powerapps-common-data-service-for-canvas-apps.md",
+      "title": "Intro to PowerApps Common Data Service for Canvas Apps",
+      "excerpt": "In this video, you will get an introduction to the Common Data Service (CDS) for Power Apps from a canvas apps perspective. We will create an entity, learn about field types, business rules, relationships, views, build a simple app, and set security on it. Not a be all, end all video but enough to get",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-intro-to-powerapps-common-data-service-for-canvas-apps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-intro-to-powerapps-common-data-service-for-canvas-apps/",
+      "originalUrl": "https://youtube.com/watch?v=49O1UW-tkyo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/49O1UW-tkyo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M19S",
+      "provider": {
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
+      },
+      "publishedDateTime": "2020-07-05T10:59:42-07:00",
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/49O1UW-tkyo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Common Data Service",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/powerapps911-common-data-service-relationships-and-lookups-with-power-apps-canvas-apps.md",
+      "title": "Common Data Service Relationships and Lookups with Power Apps canvas apps",
+      "excerpt": "In this video, you will learn how to setup and use Lookup columns in the Common Data Service aka CDS aka Dataflex. We talk about Filter, Patch, Collections, Forms, and more all while helping you build better relationships in your Power Apps Canvas Apps. I also skip all of the \"relationship\" jokes I wanted",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-common-data-service-relationships-and-lookups-with-power-apps-canvas-apps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-common-data-service-relationships-and-lookups-with-power-apps-canvas-apps/",
+      "originalUrl": "https://youtube.com/watch?v=kVEtj7QdRYY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kVEtj7QdRYY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M47S",
+      "provider": {
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
+      },
+      "publishedDateTime": "2020-08-09T09:28:27-07:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/kVEtj7QdRYY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Common Data Service",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/powerapps911-common-data-service-dataflows-for-import-from-sharepoint-and-bulk-edit-with-excel.md",
+      "title": "Common Data Service Dataflows for Import from SharePoint and bulk Edit with Excel",
+      "excerpt": "In this video, we continue our journey of learning CDS together. To make learning easier I think importing data from somewhere you know, like SharePoint or SQL is the way to go. So I show you how to do so with Dataflows. Then because data always needs cleaned up we talk about the Excel add in that allows",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-common-data-service-dataflows-for-import-from-sharepoint-and-bulk-edit-with-excel/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-common-data-service-dataflows-for-import-from-sharepoint-and-bulk-edit-with-excel/",
+      "originalUrl": "https://youtube.com/watch?v=BhLqg1jsbTI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BhLqg1jsbTI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M25S",
+      "provider": {
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
+      },
+      "publishedDateTime": "2020-07-05T10:59:26-07:00",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/BhLqg1jsbTI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Common Data Service"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-model-driven-apps-common-data-service.md",
+      "title": "Introduction to model-driven apps and Common Data Service",
+      "excerpt": "Do you want to quickly build apps with little to no code? This module will focus on the building blocks of Common Data Service and model-driven apps. These key components will help you build quick business apps in your organization.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-intro-model-driven-apps-common-data-service/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-model-driven-apps-common-data-service/",
+      "length": "PT37M",
+      "ratings": {
+        "count": 2040,
+        "average": 4.5990195
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Model-driven apps",
+        "Common Data Service"
+      ]
+    },
+    {
+      "path": "_learning/videos/powerapps911-powerapps-common-data-service-option-sets-create-filter-patch-and-more.md",
+      "title": "PowerApps Common Data Service Option Sets  - Create, Filter, Patch, and More",
+      "excerpt": "In this video, you will learn about Power Apps CDS Option Sets. How to create them with a better default name, how to use them with Filter and Patch, and even how to edit them. Nothing terribly complex but some little things that will make your life easier.  Common Data Service Playlist https://www.youtube.com/playlist?list=PLCGGtLsUjhm0qVCMjmbb3R2lfNcunJruv",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-powerapps-common-data-service-option-sets-create-filter-patch-and-more/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-powerapps-common-data-service-option-sets-create-filter-patch-and-more/",
+      "originalUrl": "https://youtube.com/watch?v=1L633HIvNGE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1L633HIvNGE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M46S",
+      "provider": {
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
+      },
+      "publishedDateTime": "2020-07-05T10:50:33-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1L633HIvNGE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Common Data Service"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-manage-permissions-and-administration-for-common-data-service.md",
+      "title": "Manage permissions and administration for Common Data Service",
+      "excerpt": "Do you need to manage user access rights? In this learning path, you will learn how to manage permissions associated with environments and entities.  You will also learn about different administrative portals and how to access each.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/collections/microsoft-learn-manage-permissions-and-administration-for-common-data-service/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/collections/microsoft-learn-manage-permissions-and-administration-for-common-data-service/",
+      "length": "PT1H23M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-get-started-security-roles.md",
+          "title": "Get started with security roles in Common Data Service",
+          "excerpt": "Do you want to use security roles to limit user permissions? This module will show you how you can set permissions to limit access to an environment or limit which users can view, edit, or delete data in an environment within Common Data Service.",
+          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-get-started-security-roles/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-security-roles/",
+          "length": "PT48M",
+          "ratings": {
+            "count": 179,
+            "average": 4.5977654
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/get-started-security-roles-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "Common Data Service"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-use-admin-options-cds.md",
+          "title": "Use administration options for Common Data Service",
+          "excerpt": "Do you need to use administration options that are available for Common Data Service? This module will show you how you can use solutions within Common Data Service and administer environments.",
+          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-use-admin-options-cds/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-admin-options-cds/",
+          "length": "PT35M",
+          "ratings": {
+            "count": 166,
+            "average": 4.307229
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/use-admin-options-cds-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "Common Data Service"
+          ]
+        }
+      ],
+      "size": 2,
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/get-started-security-roles-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Common Data Service"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-create-manage-environments.md",
+      "title": "Create and manage environments in Common Data Service",
+      "excerpt": "An environment is a space to store, manage, and share your organization's business data that is stored within an instance of a Common Data Service database.  You can set up one or many environments, depending on the needs of your organization. This module explores these environments and how you can use them with instances of Common Data Service databases.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-create-manage-environments/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-environments/",
+      "length": "PT42M",
+      "ratings": {
+        "count": 979,
+        "average": 4.6036773
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-manage-environments-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Common Data Service"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-create-manage-fields-within-entity.md",
+      "title": "Create and manage fields within an entity in Common Data Service",
+      "excerpt": "Do you want to create new data fields or leverage exiting standardized fields for your business solutions?  This module will show you how to manage or create new fields within an entity in Common Data Service.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-create-manage-fields-within-entity/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-fields-within-entity/",
+      "length": "PT1H3M",
+      "ratings": {
+        "count": 413,
+        "average": 4.59322
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-manage-fields-within-entity-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Common Data Service"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-load-export-data-create-data-views.md",
+      "title": "Load/export data and create data views in Common Data Service",
+      "excerpt": "Common Data Service lets you load data into or export entities from other entities by using Microsoft Excel. You can also create views to quickly review data that is stored within an entity.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-load-export-data-create-data-views/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/load-export-data-create-data-views/",
+      "length": "PT40M",
+      "ratings": {
+        "count": 412,
+        "average": 4.6529126
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/load-export-data-create-data-views-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Common Data Service"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-powerapps-common-data-service.md",
+      "title": "Get started with Common Data Service",
+      "excerpt": "Common Data Service lets you securely store and manage data that's used by business applications. Standard and custom entities within Common Data Service provide a secure and cloud-based storage option for your data.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-powerapps-common-data-service/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-powerapps-common-data-service/",
+      "length": "PT1H1M",
+      "ratings": {
+        "count": 2327,
+        "average": 4.5616674
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Common Data Service"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-use-admin-options-cds.md",
+      "title": "Use administration options for Common Data Service",
+      "excerpt": "Do you need to use administration options that are available for Common Data Service? This module will show you how you can use solutions within Common Data Service and administer environments.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-use-admin-options-cds/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-admin-options-cds/",
+      "length": "PT35M",
+      "ratings": {
+        "count": 166,
+        "average": 4.307229
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/use-admin-options-cds-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Common Data Service"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-create-relationships-business-rules-calculations-and-rollups-in-common-data-service.md",
+      "title": "Create relationships, business rules, calculations, and rollups in Common Data Service",
+      "excerpt": "Do you need to create data relationships, business rules, calculations, and rollups in Common Data Service? These modules help you use Common Data Service to build powerful business solutions that will transform your operations, processes, and your entire organization. The learning path Get started with Common Data Service introduces you to Common Data Service and many of the key concepts which include environment, entities, fields, and options sets.  This learning path continues and expands the exploration of Common Data Service with an overview how to form relationships between entities, how to build business rules to perform logic based upon your organization's needs, and how to add calculations and rollup fields.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/collections/microsoft-learn-create-relationships-business-rules-calculations-and-rollups-in-common-data-service/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/collections/microsoft-learn-create-relationships-business-rules-calculations-and-rollups-in-common-data-service/",
+      "length": "PT2H21M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-create-relationship-between-cds-entities.md",
+          "title": "Create a relationship between entities in Common Data Service",
+          "excerpt": "Do you need to create relationships between entities? This module will show how and why you can separate data into entities and how to relate between entities to build complex and robust business solutions. It will also explain the different kinds of relationships that you can define between entities in Common Data Service.",
+          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-create-relationship-between-cds-entities/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-relationship-between-cds-entities/",
+          "length": "PT55M",
+          "ratings": {
+            "count": 113,
+            "average": 4.619469
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/create-relationship-between-cds-entities-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "Common Data Service"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-define-create-business-rules.md",
+          "title": "Define and create business rules in Common Data Service",
+          "excerpt": "The ability to build business rules that ensure consistent business logic regardless of the app accessing that data set is imperative to a successful business operation. This module will show you how you can build business rules that are triggered anytime they are used within Common Data Service.",
+          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-define-create-business-rules/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/define-create-business-rules/",
+          "length": "PT44M",
+          "ratings": {
+            "count": 115,
+            "average": 4.695652
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/define-create-business-rules-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "Common Data Service"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-create-define-calculation-rollup-fields.md",
+          "title": "Create and define calculation or rollup fields in Common Data Service",
+          "excerpt": "Do you want to use rollup or calculation fields? This module shows you how to build calculations or rollups that are defined and triggered within the data in Common Data Service, regardless of the app that accesses that data set.",
+          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-create-define-calculation-rollup-fields/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-define-calculation-rollup-fields/",
+          "length": "PT42M",
+          "ratings": {
+            "count": 87,
+            "average": 4.609195
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/create-define-calculation-rollup-fields-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "Common Data Service"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-relationship-between-cds-entities-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Common Data Service"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-extending-the-power-platform-common-data-service.md",
+      "title": "Extending the Power Platform Common Data Service",
+      "excerpt": "Getting started with extending the Power Platform Common Data Service can be overwhelming. This learning path looks at the tools and resources needed for extending the Power Platform. We'll start with looking at the SDKs, the extensibility model, and event framework. This learning path also covers when to use plug-ins. Configuration of plug-ins as well as registering and deploying plug-ins.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/collections/microsoft-learn-extending-the-power-platform-common-data-service/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/collections/microsoft-learn-extending-the-power-platform-common-data-service/",
+      "length": "PT2H3M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-intro-cds-developers-power-platform.md",
+          "title": "Introduction to Common Data Service for developers",
+          "excerpt": "The goal of this module is to give an introductory overview of the Power Platform SDKs that are available from Microsoft via NuGet.",
+          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-intro-cds-developers-power-platform/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-cds-developers-power-platform/",
+          "length": "PT30M",
+          "ratings": {
+            "count": 897,
+            "average": 4.677815
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/intro-cds-developers-power-platform-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "Common Data Service"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-plug-ins-extend-power-platform.md",
+          "title": "Extend plug-ins",
+          "excerpt": "The purpose of this module is to provide an in-depth overview of plug-ins as it relates to Power Platform development. This module will review how and when plug-ins are implemented, how they are registered and deployed, and the various configuration options that are available during plug-in registration.",
+          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-plug-ins-extend-power-platform/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plug-ins-extend-power-platform/",
+          "length": "PT1H33M",
+          "ratings": {
+            "count": 720,
+            "average": 4.6458335
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/plug-ins-extend-power-platform-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power Apps"
+          ]
+        }
+      ],
+      "size": 2,
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-cds-developers-power-platform-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Common Data Service"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-create-define-calculation-rollup-fields.md",
+      "title": "Create and define calculation or rollup fields in Common Data Service",
+      "excerpt": "Do you want to use rollup or calculation fields? This module shows you how to build calculations or rollups that are defined and triggered within the data in Common Data Service, regardless of the app that accesses that data set.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-create-define-calculation-rollup-fields/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-define-calculation-rollup-fields/",
+      "length": "PT42M",
+      "ratings": {
+        "count": 87,
+        "average": 4.609195
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-define-calculation-rollup-fields-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Common Data Service"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-create-manage-entities.md",
+      "title": "Create and manage entities in Common Data Service",
+      "excerpt": "Common Data Service entities are similar to tables in a database. Every instance of a Common Data Service database includes a base set of entities that provide structure for data that is commonly used by business applications.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-create-manage-entities/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-entities/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 804,
+        "average": 4.630597
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-manage-entities-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Common Data Service"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-create-relationship-between-cds-entities.md",
+      "title": "Create a relationship between entities in Common Data Service",
+      "excerpt": "Do you need to create relationships between entities? This module will show how and why you can separate data into entities and how to relate between entities to build complex and robust business solutions. It will also explain the different kinds of relationships that you can define between entities in Common Data Service.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-create-relationship-between-cds-entities/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-relationship-between-cds-entities/",
+      "length": "PT55M",
+      "ratings": {
+        "count": 113,
+        "average": 4.619469
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-relationship-between-cds-entities-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Common Data Service"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-define-create-business-rules.md",
+      "title": "Define and create business rules in Common Data Service",
+      "excerpt": "The ability to build business rules that ensure consistent business logic regardless of the app accessing that data set is imperative to a successful business operation. This module will show you how you can build business rules that are triggered anytime they are used within Common Data Service.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-define-create-business-rules/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/define-create-business-rules/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 115,
+        "average": 4.695652
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/define-create-business-rules-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Common Data Service"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-get-started-security-roles.md",
+      "title": "Get started with security roles in Common Data Service",
+      "excerpt": "Do you want to use security roles to limit user permissions? This module will show you how you can set permissions to limit access to an environment or limit which users can view, edit, or delete data in an environment within Common Data Service.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-get-started-security-roles/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-security-roles/",
+      "length": "PT48M",
+      "ratings": {
+        "count": 179,
+        "average": 4.5977654
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/get-started-security-roles-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Common Data Service"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-integrate-common-data-service.md",
+      "title": "Integrate Power Apps portals with Common Data Service",
+      "excerpt": "The ability to find and interact with Common Data Service data on a website is one of the core benefits of implementing a Power Apps portal. Several methods are available for you to display Common Data Service data. Learning and knowing about these different options will help you have successful portal implementations. This module will focus on the techniques that you can use to configure entity lists, entity forms, and web forms to build powerful web applications.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-integrate-common-data-service/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-common-data-service/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 12,
+        "average": 4.5
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/integrate-common-data-service-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Common Data Service",
+        "Portals"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-cds-developers-power-platform.md",
+      "title": "Introduction to Common Data Service for developers",
+      "excerpt": "The goal of this module is to give an introductory overview of the Power Platform SDKs that are available from Microsoft via NuGet.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-intro-cds-developers-power-platform/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-cds-developers-power-platform/",
+      "length": "PT30M",
+      "ratings": {
+        "count": 897,
+        "average": 4.677815
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-cds-developers-power-platform-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Common Data Service"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-portals-access-common-data-service.md",
+      "title": "Access Common Data Service in Power Apps portals",
+      "excerpt": "The ability to show and interact with Common Data Service data on a website is a core benefit of implementing a Microsoft Power Apps portal. This module focuses on the several techniques and methods to display and interact with Common Data Service data in Power Apps portals.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-portals-access-common-data-service/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/portals-access-common-data-service/",
+      "length": "PT50M",
+      "ratings": {
+        "count": 54,
+        "average": 4.4074073
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/portals-access-common-data-service-social.png",
+          "width": 642,
+          "height": 325,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Common Data Service",
+        "Portals"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-working-with-option-sets.md",
+      "title": "Working with option sets in Common Data Service",
+      "excerpt": "Do you want to create standardized choice lists that you can use across all of your Power Apps?  This module will show you how to create new or use standard choice lists called option sets in Common Data Service.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-working-with-option-sets/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/working-with-option-sets/",
+      "length": "PT39M",
+      "ratings": {
+        "count": 373,
+        "average": 4.6595173
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/working-with-option-sets-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Common Data Service"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-how-to-import-text-classification-data-to-common-data-service-cds-ai-builder-series-part-two.md",
+      "title": "How to Import Text Classification Data to Common Data Service (CDS)? – AI Builder Series – Part Two",
+      "excerpt": "Welcome to Power Platform with AI series. During this entire series, we will talk about one of the important components of AI Builder which is – “Text Classification”.  Text Classification with AI Builder: The first question arises in our mind is What is Text Classification and how does it help to our",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-how-to-import-text-classification-data-to-common-data-service-cds-ai-builder-series-part-two/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-how-to-import-text-classification-data-to-common-data-service-cds-ai-builder-series-part-two/",
+      "originalUrl": "https://youtube.com/watch?v=pcn09VZfvIw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pcn09VZfvIw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M15S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-04-16T01:33:54-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/pcn09VZfvIw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder",
+        "Common Data Service"
+      ]
+    }
+  ]
+}

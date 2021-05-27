@@ -1,0 +1,14 @@
+taxonomy: topic
+_id: power-apps
+name: Power Apps
+keywords:
+  - power apps
+hashtags:
+  - "#PowerApps"
+services:
+  learning: https://everyday-cc.github.io/powerapps/api/learning/
+  news: https://everyday-cc.github.io/powerapps/api/news/
+  samples: https://everyday-cc.github.io/powerapps/api/samples/
+  people: https://everyday-cc.github.io/powerapps/api/people/
+  events: https://everyday-cc.github.io/powerapps/api/events/
+  newsletters: https://everyday-cc.github.io/powerapps/api/newsletters/

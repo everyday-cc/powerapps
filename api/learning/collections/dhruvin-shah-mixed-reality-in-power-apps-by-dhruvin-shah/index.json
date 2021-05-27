@@ -1,0 +1,157 @@
+{
+  "title": "Mixed Reality in Power Apps by Dhruvin Shah",
+  "path": "_learning/collections/dhruvin-shah-mixed-reality-in-power-apps-by-dhruvin-shah.md",
+  "page": 1,
+  "value": [
+    {
+      "path": "_learning/videos/dhruvin-shah-mixed-reality-in-power-apps-step-by-step-series-part-one.md",
+      "title": "Mixed Reality in Power Apps – Step by Step Series – Part One",
+      "excerpt": "Welcome to Power Apps Mixed Reality Step by Step Series. During this video, we will learn how we can use Mixed Reality in Power Apps. I have divided this entire series in 5 different parts. This is the introduction part of this series and we will give you an overview of What is Mixed Reality and how",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-mixed-reality-in-power-apps-step-by-step-series-part-one/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-mixed-reality-in-power-apps-step-by-step-series-part-one/",
+      "originalUrl": "https://youtube.com/watch?v=Vi3lfKdMwow",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Vi3lfKdMwow\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M10S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-10-06T04:38:41-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Vi3lfKdMwow/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-mixed-reality-in-power-apps-view-in-3d-component.md",
+      "title": "Mixed Reality in Power Apps – View in 3D Component",
+      "excerpt": "During this video, I will demonstrate first Mixed Reality Component which is – “View in 3D”.  With “View in 3D” Component we can view objects in 3D manner. This will add one 3D component on our Power Apps Canvass App screen. This is the experimental feature. We can call this as 3D Viewer or 3D explorer",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-mixed-reality-in-power-apps-view-in-3d-component/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-mixed-reality-in-power-apps-view-in-3d-component/",
+      "originalUrl": "https://youtube.com/watch?v=GmYOjyUP9Hk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GmYOjyUP9Hk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M34S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-10-06T05:11:07-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GmYOjyUP9Hk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-mixed-reality-in-power-apps-view-in-mr-component.md",
+      "title": "Mixed Reality in Power Apps - View in MR Component",
+      "excerpt": "During this video, I will demonstrate second Mixed Reality Component which is – “View in MR”. With “View in MR” Component we can view 3D Objects in Mixed Reality. We can use “View in MR” component in the Power Apps to let users see how a particular item might fit within a specific space. Here, I have",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-mixed-reality-in-power-apps-view-in-mr-component/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-mixed-reality-in-power-apps-view-in-mr-component/",
+      "originalUrl": "https://youtube.com/watch?v=wjB54iD5qzo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wjB54iD5qzo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M6S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-10-07T06:00:47-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wjB54iD5qzo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-mixed-reality-in-power-apps-measure-in-mr-take-measurements-of-distance-area-and-volume-in-mr.md",
+      "title": "Mixed Reality in Power Apps – Measure in MR – Take Measurements of Distance, Area and Volume in MR",
+      "excerpt": "How to Measure Area and Volume with Power Apps Mixed Reality?  This video answers you how we can measure Area, Volume, and distance with the Mixed reality component – “View in MR”. During this video, we will use the “Measure in MR” component to measure Distance, Area, and Volume in Mixed Reality. “Measure",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-mixed-reality-in-power-apps-measure-in-mr-take-measurements-of-distance-area-and-volume-in-mr/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-mixed-reality-in-power-apps-measure-in-mr-take-measurements-of-distance-area-and-volume-in-mr/",
+      "originalUrl": "https://youtube.com/watch?v=jC8ukyvaSb0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jC8ukyvaSb0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT36M48S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-10-09T03:08:15-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jC8ukyvaSb0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-mixed-reality-in-power-apps-view-shape-in-mr.md",
+      "title": "Mixed Reality in Power Apps – View Shape in MR",
+      "excerpt": "During this video, we will be talking about one more Mixed Reality component which is “View Shape in MR”. View Shape in MR component places a cube into Mixed Reality. Using View Shape in MR Component we can check if the specified cube will fit into a specific space or not.  So, stay tuned with me throughout",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-mixed-reality-in-power-apps-view-shape-in-mr/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-mixed-reality-in-power-apps-view-shape-in-mr/",
+      "originalUrl": "https://youtube.com/watch?v=vOYfUXNvno8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vOYfUXNvno8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M39S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-10-10T05:59:31-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/vOYfUXNvno8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+taxonomy: topic
+_id: model-driven-apps
+name: Model-driven apps
+shortname: Model-driven apps
+parent: Power Apps
+keywords:
+  - model-driven apps
+  - model-driven apps
+  - model driven apps
+  - model driven app
+hashtags:
+  - "#ModelDrivenApps"
+services:
+  learning: https://everyday-cc.github.io/powerapps/api/learning/model-driven-apps/

@@ -1,0 +1,12 @@
+taxonomy: topic
+_id: common-data-service
+name: Common Data Service
+shortname: CDS
+parent: Power Apps
+keywords:
+  - common data service
+hashtags:
+  - "#CommonDataService"
+services:
+  learning: https://everyday-cc.github.io/powerapps/api/learning/common-data-service/
+  news: https://everyday-cc.github.io/powerapps/api/news/common-data-service/

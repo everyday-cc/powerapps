@@ -1,0 +1,277 @@
+{
+  "title": "Power Apps Delegation",
+  "path": "_learning/collections/reza-dorrni-power-apps-delegation.md",
+  "page": 1,
+  "value": [
+    {
+      "path": "_learning/videos/reza-dorrni-part-1-powerapps-delegation-with-sharepoint-as-a-data-source.md",
+      "title": "Part 1 - PowerApps Delegation with SharePoint as a Data Source",
+      "excerpt": "This is part 1 of my PowerApps delegation Vlog series   This video will walk through the concept of Delegation in PowerApps Delegation is an important concept to understand in order to work with large data sets  Link to SharePoint connector delegation information: https://docs.microsoft.com/en-us/connectors/sharepointonline/",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/reza-dorrni-part-1-powerapps-delegation-with-sharepoint-as-a-data-source/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/reza-dorrni-part-1-powerapps-delegation-with-sharepoint-as-a-data-source/",
+      "originalUrl": "https://youtube.com/watch?v=gwiErbYtRdA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gwiErbYtRdA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M36S",
+      "provider": {
+        "name": "Reza Dorrni",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-10-29T20:31:00-07:00",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/gwiErbYtRdA/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/reza-dorrni-part-2-powerapps-delegation-and-gallery-filter-with-sharepoint-date-column.md",
+      "title": "Part 2 - PowerApps Delegation and Gallery filter with SharePoint Date column",
+      "excerpt": "This is part 2 of my PowerApps delegation Vlog series   This video will walk through the concept of Delegation in PowerApps with respect to SharePoint Date columns  Part 1 - What is delegation in PowerApps?  https://www.youtube.com/watch?v=gwiErbYtRdA  Part 3 - Delegation with Choice, Lookup & Yes/No",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/reza-dorrni-part-2-powerapps-delegation-and-gallery-filter-with-sharepoint-date-column/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/reza-dorrni-part-2-powerapps-delegation-and-gallery-filter-with-sharepoint-date-column/",
+      "originalUrl": "https://youtube.com/watch?v=eCMuXPI1Qok",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eCMuXPI1Qok\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M56S",
+      "provider": {
+        "name": "Reza Dorrni",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-10-29T20:31:00-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/eCMuXPI1Qok/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/reza-dorrni-part-3-powerapps-delegation-gallery-filtering-using-sharepoint-choice-lookup-and-yesno-columns.md",
+      "title": "Part 3 - PowerApps Delegation & Gallery Filtering using SharePoint Choice, Lookup and Yes/No Columns",
+      "excerpt": "This is part 3 of my PowerApps delegation Vlog series   This video will walk you through the concept of Delegation in PowerApps with respect to SharePoint Date Choice, Lookup and Yes/No fields, understand filtering galleries and adding default option & highlights issues related to Yes/No column type",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/reza-dorrni-part-3-powerapps-delegation-gallery-filtering-using-sharepoint-choice-lookup-and-yesno-columns/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/reza-dorrni-part-3-powerapps-delegation-gallery-filtering-using-sharepoint-choice-lookup-and-yesno-columns/",
+      "originalUrl": "https://youtube.com/watch?v=pn50AKn3Q1Y",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pn50AKn3Q1Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M23S",
+      "provider": {
+        "name": "Reza Dorrni",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-10-29T20:31:00-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/pn50AKn3Q1Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/reza-dorrni-part-4-powerapps-delegation-gallery-filtering-using-multi-select-choice-and-lookup-columns.md",
+      "title": "Part 4 - PowerApps Delegation & Gallery Filtering using multi select Choice and Lookup Columns",
+      "excerpt": "This is part 4 of my PowerApps delegation Vlog series - Delegation with Multi Choice/Lookup columns (SharePoint)   This video will walk you through the concept of achieving delegation and filtering with multi select columns. Filter based on single option or multiple options   Part 1 - What is delegation",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/reza-dorrni-part-4-powerapps-delegation-gallery-filtering-using-multi-select-choice-and-lookup-columns/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/reza-dorrni-part-4-powerapps-delegation-gallery-filtering-using-multi-select-choice-and-lookup-columns/",
+      "originalUrl": "https://youtube.com/watch?v=44j2VRbdWjk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/44j2VRbdWjk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M11S",
+      "provider": {
+        "name": "Reza Dorrni",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-10-29T20:31:00-07:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/44j2VRbdWjk/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/reza-dorrni-part-5-powerapps-delegation-gallery-filtering-using-person-column-single-and-multi-select.md",
+      "title": "Part 5 - PowerApps Delegation & Gallery Filtering using Person column (single and multi select)",
+      "excerpt": "This is part 5 of my PowerApps delegation Vlog series - PowerApps Delegation & Gallery Filtering using Person column (single and multi select)  This video will walk you through the concept of achieving delegation and filtering with Person column  Part 1 - What is delegation in PowerApps  https://youtube.com/watch?v=gwiErbYtRdA",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/reza-dorrni-part-5-powerapps-delegation-gallery-filtering-using-person-column-single-and-multi-select/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/reza-dorrni-part-5-powerapps-delegation-gallery-filtering-using-person-column-single-and-multi-select/",
+      "originalUrl": "https://youtube.com/watch?v=tPxE_-DcWkg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tPxE_-DcWkg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M5S",
+      "provider": {
+        "name": "Reza Dorrni",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-10-29T20:31:00-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tPxE_-DcWkg/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/reza-dorrni-power-apps-delegation-workarounds-count-rows-max-min-blank-date-values.md",
+      "title": "Power Apps Delegation workarounds – Count Rows, Max, Min, Blank & Date values",
+      "excerpt": "In this Microsoft PowerApps video, we will look at delegation workarounds related to SharePoint as a data source. We will cover scenarios around Date Columns, Count Rows in a data source, Max and Min values, Check for Column contains data or does not contain data &   Blog post - CountRows scenario covered",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/reza-dorrni-power-apps-delegation-workarounds-count-rows-max-min-blank-date-values/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/reza-dorrni-power-apps-delegation-workarounds-count-rows-max-min-blank-date-values/",
+      "originalUrl": "https://youtube.com/watch?v=yXvDj60-3YQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yXvDj60-3YQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M9S",
+      "provider": {
+        "name": "Reza Dorrni",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-08-10T15:55:42-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/yXvDj60-3YQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/reza-dorrni-power-apps-aggregate-functions-no-delegation-warnings-with-sum-average-count.md",
+      "title": "Power Apps Aggregate Functions - No Delegation warnings with Sum, Average, Count",
+      "excerpt": "In this Microsoft PowerApps video, we will look at delegation workarounds related to the Power Apps Aggregate functions like Average, Max, Min, StdevP, Sum, VarP and SharePoint as a data source.  Blog post - Calling the rest API to get Totals column info from SharePoint as demonstrated in this video",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/reza-dorrni-power-apps-aggregate-functions-no-delegation-warnings-with-sum-average-count/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/reza-dorrni-power-apps-aggregate-functions-no-delegation-warnings-with-sum-average-count/",
+      "originalUrl": "https://youtube.com/watch?v=qsIn0mytC_8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qsIn0mytC_8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M1S",
+      "provider": {
+        "name": "Reza Dorrni",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-08-15T15:55:40-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qsIn0mytC_8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/reza-dorrni-building-performant-power-apps-by-reza-dorrani.md",
+      "title": "Building Performant Power Apps by Reza Dorrani",
+      "excerpt": "Join this session to learn the best practices and techniques for performance optimization in Canvas Apps.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/reza-dorrni-building-performant-power-apps-by-reza-dorrani/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/reza-dorrni-building-performant-power-apps-by-reza-dorrani/",
+      "originalUrl": "https://youtube.com/watch?v=oPwa-dSshZQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oPwa-dSshZQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT57M15S",
+      "provider": {
+        "name": "Reza Dorrni",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-10-24T10:32:03-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/oPwa-dSshZQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/reza-dorrni-power-apps-with-sharepoint-as-a-data-source-key-points-to-consider.md",
+      "title": "Power Apps with SharePoint as a data source - Key points to consider",
+      "excerpt": "In this Microsoft PowerApps & SharePoint video, we will focus on 7 key points to take into consideration when using SharePoint as a data source with Power Apps specially in cases when dealing with large lists/libraries with large number of columns.  Power Apps delegation series https://www.youtube.com/watch?v=gwiErbYtRdA&list=PLTyFh-qDKAiE6ia-D94Qk5-AzpN4dqOmD",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/reza-dorrni-power-apps-with-sharepoint-as-a-data-source-key-points-to-consider/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/reza-dorrni-power-apps-with-sharepoint-as-a-data-source-key-points-to-consider/",
+      "originalUrl": "https://youtube.com/watch?v=AkyW8cWDVoc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AkyW8cWDVoc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M28S",
+      "provider": {
+        "name": "Reza Dorrni",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-07-27T15:43:19-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/AkyW8cWDVoc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    }
+  ]
+}

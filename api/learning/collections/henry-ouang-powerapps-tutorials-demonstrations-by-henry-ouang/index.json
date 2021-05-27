@@ -1,0 +1,457 @@
+{
+  "title": "PowerApps Tutorials & Demonstrations by Henry Ouang",
+  "path": "_learning/collections/henry-ouang-powerapps-tutorials-demonstrations-by-henry-ouang.md",
+  "page": 1,
+  "value": [
+    {
+      "path": "_learning/videos/henry-ouang-learn-powerapps-learn-how-to-link-powerapps-with-excel.md",
+      "title": "Learn PowerApps - Learn How to Link PowerApps with Excel",
+      "excerpt": "Thank you so much for the support. I love hearing from you guys and love keeping in touch!  I show you how to create PowerApps that are linked with Microsoft Excel documents and specific tables within.  This process is specifically useful for databases that are used within the Microsoft Power Platform.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/henry-ouang-learn-powerapps-learn-how-to-link-powerapps-with-excel/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/henry-ouang-learn-powerapps-learn-how-to-link-powerapps-with-excel/",
+      "originalUrl": "https://youtube.com/watch?v=ZywH_ejeq3E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZywH_ejeq3E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M41S",
+      "provider": {
+        "name": "Henry Ouang",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-09-02T20:48:40-07:00",
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ZywH_ejeq3E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/henry-ouang-learn-powerapps-autofill-templates-in-sharepoint-tutorial.md",
+      "title": "Learn PowerApps - Autofill Templates in Sharepoint Tutorial",
+      "excerpt": "Thank you so much for the support. I love hearing from you guys and keeping in touch!  I show you how to make a PowerApp that auto-fills Microsoft Word templates!   Learn how to instantaneously create auto-filled Word Templates that save directly to your folder. You can use this technology for Contracts,",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/henry-ouang-learn-powerapps-autofill-templates-in-sharepoint-tutorial/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/henry-ouang-learn-powerapps-autofill-templates-in-sharepoint-tutorial/",
+      "originalUrl": "https://youtube.com/watch?v=sToM68hQoTw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sToM68hQoTw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M58S",
+      "provider": {
+        "name": "Henry Ouang",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-09-02T20:48:40-07:00",
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/sToM68hQoTw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/henry-ouang-powerapps-scan-log-barcodes.md",
+      "title": "PowerApps - Scan & Log Barcodes",
+      "excerpt": "I show you how a PowerApp to scan and log barcodes into sharepoint works. This can be specifically useful in a logistics center where items need to be tracked.  If you have any questions, drop me an email or comment below!  admin@enteleca.com  Connect with me on LinkedIn: https://www.linkedin.com/in/henry-ouang-6a6162134/",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/henry-ouang-powerapps-scan-log-barcodes/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/henry-ouang-powerapps-scan-log-barcodes/",
+      "originalUrl": "https://youtube.com/watch?v=TDzXuCHx_H4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TDzXuCHx_H4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M39S",
+      "provider": {
+        "name": "Henry Ouang",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-09-02T20:48:40-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/TDzXuCHx_H4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/henry-ouang-powerapps-auto-fill-templates.md",
+      "title": "PowerApps - Auto-Fill Templates",
+      "excerpt": "I demonstrate how auto-generation applications work with PowerApps.  Tutorial Link: https://www.youtube.com/watch?v=sToM68hQoTw&t=21s  Let me know if you have any questions! Drop me an email or a comment below.  admin@enteleca.com  Connect with me on LinkedIn: https://www.linkedin.com/in/henry-ouang-6a6162134/",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/henry-ouang-powerapps-auto-fill-templates/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/henry-ouang-powerapps-auto-fill-templates/",
+      "originalUrl": "https://youtube.com/watch?v=MPLhEj4wWLk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MPLhEj4wWLk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M50S",
+      "provider": {
+        "name": "Henry Ouang",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-09-02T20:48:40-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/MPLhEj4wWLk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/henry-ouang-automatically-save-outlook-attachments-to-onedrive-with-microsoft-power-automate.md",
+      "title": "Automatically Save Outlook Attachments to OneDrive with Microsoft Power Automate",
+      "excerpt": "Thank you so much for the support. I love hearing from you guys and love to keep in touch!  In this video, I show you how to use Microsoft Flow to link OneDrive and Outlook together so that whenever you receive any email with an attachment, it is automatically saved to your  specified OneDrive folder.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/henry-ouang-automatically-save-outlook-attachments-to-onedrive-with-microsoft-power-automate/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/henry-ouang-automatically-save-outlook-attachments-to-onedrive-with-microsoft-power-automate/",
+      "originalUrl": "https://youtube.com/watch?v=n0dQUS5EdpY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/n0dQUS5EdpY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M59S",
+      "provider": {
+        "name": "Henry Ouang",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-09-09T08:55:23-07:00",
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/n0dQUS5EdpY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/henry-ouang-learn-powerapps-basic-tips-tricks-with-variables.md",
+      "title": "Learn PowerApps - Basic Tips & Tricks with Variables",
+      "excerpt": "In this video, I show you how to make your PowerApps a bit more efficient. I give basic information on how references in cells and formulas work between PowerApps Screen.  Utilizing variables and references instead of hard-coded information within your applications will save you a lot of headache in",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/henry-ouang-learn-powerapps-basic-tips-tricks-with-variables/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/henry-ouang-learn-powerapps-basic-tips-tricks-with-variables/",
+      "originalUrl": "https://youtube.com/watch?v=lzS0HesEslg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lzS0HesEslg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M12S",
+      "provider": {
+        "name": "Henry Ouang",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-09-09T08:55:27-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/lzS0HesEslg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/henry-ouang-create-an-automatic-date-progress-bar-in-powerapps.md",
+      "title": "Create an Automatic Date Progress Bar in PowerApps!",
+      "excerpt": "In this video, I show you guys how to create a progress bar that is sensitive to dates within Microsoft PowerApps. The process is much simpler than you might image - all you need is two date pickers as well as a slider. You can custom program the slider using the max and default functions to route towards",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/henry-ouang-create-an-automatic-date-progress-bar-in-powerapps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/henry-ouang-create-an-automatic-date-progress-bar-in-powerapps/",
+      "originalUrl": "https://youtube.com/watch?v=rkENxo2_PX8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rkENxo2_PX8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M5S",
+      "provider": {
+        "name": "Henry Ouang",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-09-09T08:55:30-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rkENxo2_PX8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/henry-ouang-learn-powerapps-and-flow-generating-pdfs-from-powerapps.md",
+      "title": "Learn PowerApps and Flow - Generating PDFs from PowerApps",
+      "excerpt": "Thank you so much for the support. I love hearing from you guys and will do my best to get back!  Many of you have requested the infrastructural design that needs to be implemented within PowerApps to successfully generate PDFs from within the application. I've finally come out with a tutorial on how",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/henry-ouang-learn-powerapps-and-flow-generating-pdfs-from-powerapps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/henry-ouang-learn-powerapps-and-flow-generating-pdfs-from-powerapps/",
+      "originalUrl": "https://youtube.com/watch?v=RI6mMq7S6Es",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RI6mMq7S6Es\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M31S",
+      "provider": {
+        "name": "Henry Ouang",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-10-23T03:55:30-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RI6mMq7S6Es/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/henry-ouang-save-location-data-in-sharepoint-with-powerapps.md",
+      "title": "Save Location Data in Sharepoint with PowerApps!",
+      "excerpt": "Thank you so much for the support. I love hearing from you guys and will do my best to get back!  In this video, I teach you how to save location data gathered from your powerapps device and save it to a Sharepoint list to be accessed whenever you please. This can be particularly useful for logging and",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/henry-ouang-save-location-data-in-sharepoint-with-powerapps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/henry-ouang-save-location-data-in-sharepoint-with-powerapps/",
+      "originalUrl": "https://youtube.com/watch?v=AwDcFo7LqoU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AwDcFo7LqoU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M21S",
+      "provider": {
+        "name": "Henry Ouang",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-02-11T00:48:06-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/AwDcFo7LqoU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/henry-ouang-stock-ticker-prices-on-powerapps-using-api.md",
+      "title": "Stock Ticker Prices on PowerApps using API!",
+      "excerpt": "Thank you so much for the support. I love hearing from you guys and will do my best to get back!  In this video, I show you how to get updated Stock Ticker Prices on your PowerApps using API from Alpha Vantage (completely free!) There is a 5 requests per minute limit, but this is at no cost to you! It",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/henry-ouang-stock-ticker-prices-on-powerapps-using-api/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/henry-ouang-stock-ticker-prices-on-powerapps-using-api/",
+      "originalUrl": "https://youtube.com/watch?v=6A0mkqXeS1Y",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6A0mkqXeS1Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M3S",
+      "provider": {
+        "name": "Henry Ouang",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-02-13T23:34:38-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6A0mkqXeS1Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/henry-ouang-generate-barcodes-inside-of-powerapps.md",
+      "title": "Generate Barcodes inside of PowerApps!",
+      "excerpt": "Thank you so much for the support. I love hearing from you guys and will do my best to get back!  In this video, I show you how to use barcodes4.me's free API service to generate unlimited free barcodes inside of PowerApps! Users can decide what information they want to have the barcode value be - could",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/henry-ouang-generate-barcodes-inside-of-powerapps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/henry-ouang-generate-barcodes-inside-of-powerapps/",
+      "originalUrl": "https://youtube.com/watch?v=3-GuyDtViXI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3-GuyDtViXI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M27S",
+      "provider": {
+        "name": "Henry Ouang",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-02-15T02:09:13-08:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3-GuyDtViXI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/henry-ouang-powerapps-dashboard-uiux-template-brainstorming-ideas.md",
+      "title": "PowerApps Dashboard UI/UX Template Brainstorming Ideas!",
+      "excerpt": "Thank you so much for the support. I love hearing from you guys and will do my best to get back!  In this video, I show you some ideas I had for designing a dashboard. You can freely pull anything you want from these videos and copy them for your own! Impress your boss, co-workers, etc.  I highly recommend",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/henry-ouang-powerapps-dashboard-uiux-template-brainstorming-ideas/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/henry-ouang-powerapps-dashboard-uiux-template-brainstorming-ideas/",
+      "originalUrl": "https://youtube.com/watch?v=fHZl38umZFU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fHZl38umZFU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M13S",
+      "provider": {
+        "name": "Henry Ouang",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-07-16T23:13:18-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/fHZl38umZFU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/henry-ouang-powerapps-performance-optimization-one-simple-trick-2x-speeds-on-your-apps.md",
+      "title": "PowerApps Performance Optimization - One Simple Trick! (2X+ SPEEDS ON YOUR APPS!)",
+      "excerpt": "This is an important topic that I was glad to be able to sneak into my day. Powerapps performance optimization. You can use this singular function to speed up your powerapps significantly! All you need to do is add it at the beginning of your invocations and close it at the end of the functions you want",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/henry-ouang-powerapps-performance-optimization-one-simple-trick-2x-speeds-on-your-apps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/henry-ouang-powerapps-performance-optimization-one-simple-trick-2x-speeds-on-your-apps/",
+      "originalUrl": "https://youtube.com/watch?v=YOBlMacJJuM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YOBlMacJJuM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M47S",
+      "provider": {
+        "name": "Henry Ouang",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-10-15T01:53:59-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/YOBlMacJJuM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/henry-ouang-differences-between-powerapps-ios-development-creating-a-button.md",
+      "title": "Differences Between PowerApps & iOS Development - Creating a Button!",
+      "excerpt": "The drawback with PowerApps is that you need to use Microsoft's PowerApps Application on the Apple App Store to use your PowerApp. I'm here to show you that iOS Application development isn't as crazy and different as you think it is compared to PowerApps. I truly believe that if you can make PowerApps,",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/henry-ouang-differences-between-powerapps-ios-development-creating-a-button/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/henry-ouang-differences-between-powerapps-ios-development-creating-a-button/",
+      "originalUrl": "https://youtube.com/watch?v=M9hJpeKWJQM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/M9hJpeKWJQM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M23S",
+      "provider": {
+        "name": "Henry Ouang",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-10-24T08:03:41-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/M9hJpeKWJQM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/henry-ouang-powerapps-performance-optimization-measure-your-performance-improvements.md",
+      "title": "PowerApps Performance Optimization - MEASURE Your Performance Improvements!",
+      "excerpt": "In this video, I give you a little tip on how to time your functions and how long they take! This gives you a little bit more insight of how fast your application is running and how fast you improve it!   You can definitely use this to give MEASURABLE results to improving your application!  Let me know",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/henry-ouang-powerapps-performance-optimization-measure-your-performance-improvements/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/henry-ouang-powerapps-performance-optimization-measure-your-performance-improvements/",
+      "originalUrl": "https://youtube.com/watch?v=GZESXTi9C5Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GZESXTi9C5Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M10S",
+      "provider": {
+        "name": "Henry Ouang",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-10-25T13:14:00-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GZESXTi9C5Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    }
+  ]
+}

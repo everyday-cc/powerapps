@@ -1,0 +1,1283 @@
+{
+  "title": "Samples",
+  "path": "_samples",
+  "page": 4,
+  "value": [
+    {
+      "path": "_samples/power-apps-community-google-material-design-text-input-component.md",
+      "title": "Google Material Design - Text Input Component",
+      "excerpt": "A few months ago, I had shared (on my blog) and here in the community, a revamped text input control inspired by Google's Material Design. I",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-google-material-design-text-input-component/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-google-material-design-text-input-component/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Google-Material-Design-Text-Input-Component/td-p/530161",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "PowerAddict",
+            "type": "profile",
+            "name": "PowerAddict"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/503/2/GoogleMaterialDesignTextInput.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2020-04-17T06:03:00-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/503/1/Google%20Materiel%20Design%20Text%20Input%20Component.JPG",
+          "width": 2262,
+          "height": 1288,
+          "isCached": true
+        }
+      ],
+      "content": "<p>A few months ago, I had <a href=\"https://thepoweraddict.com/implementing-googles-material-design-for-labels-using-power-apps/\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">shared</a>&nbsp;(on my blog) and <a href=\"https://powerusers.microsoft.com/t5/Community-App-Samples/Revamping-Power-Apps-controls-based-on-Google-s-Material-Design/td-p/465416\" target=\"_self\">here</a> in the community, a revamped text input control inspired by Google's Material Design. I presented this, for the first time, to an audience on April's session (recording can be found <a href=\"https://www.powerplatformug.com/viewdocument/session-recording-4?CommunityKey=f12bf679-9f8a-47d8-bdfd-b9468d85fa52&amp;tab=librarydocuments\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">here</a>) for the <a href=\"https://www.powerplatformug.com/communities/community-home?CommunityKey=f12bf679-9f8a-47d8-bdfd-b9468d85fa52\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">Houston Power Apps and Power Automate User Group</a>. The three controls I presented during the session were - text input, tooltip, and floating action button.</p>\r\n<p>One of the feedback I got was to convert each of these control into a component to make them reusable. The first one I picked up (it just so happened to be in the order in which I had started off with revamping these controls!) was the text input control. I have started to love components (the first one was the <a href=\"https://thepoweraddict.com/revamping-the-date-picker-control-v2/\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">date picker component</a> - also v3 coming out soon!)</p>\r\n<p>I wanted to provide all the properties an out-of-the-box text input control has. So here is a list of all the properties available:</p>\r\n<ol>\r\n<li>PrimartTextAlign</li>\r\n<li>PrimaryTextDisplayMode</li>\r\n<li>PrimaryFontColor</li>\r\n<li>PrimaryFontType</li>\r\n<li>PrimaryTextFontWeight</li>\r\n<li>PrimaryTextFormat</li>\r\n<li>PrimaryTextItalic</li>\r\n<li>PrimaryTextMode</li>\r\n<li>PrimaryTextInFocusTopPadding</li>\r\n<li>PrimaryTextOutFocusTopPadding</li>\r\n<li>PrimaryTextSize</li>\r\n<li>PrimaryTextStrikethrough</li>\r\n<li>PrimaryTextUnderline</li>\r\n<li>SecondaryTextAlign</li>\r\n<li>SecondaryFontColor</li>\r\n<li>SecondaryFontType</li>\r\n<li>SecondaryTextFontWeight</li>\r\n<li>SecondaryTextHeight</li>\r\n<li>SecondryTextItalic</li>\r\n<li>SecondaryTextSize</li>\r\n<li>SecondaryTextStrikethrough</li>\r\n<li>SecondaryTextUnderline</li>\r\n<li>EnableSpellCheck</li>\r\n<li>HintText</li>\r\n<li>LineHeight</li>\r\n<li>Reset</li>\r\n<li>TextFillColor</li>\r\n<li>ToolTip</li>\r\n<li>VirtualKeyboardMode</li>\r\n<li>FocusBarInFocusColor</li>\r\n<li>FocusBarOutFocusColor</li>\r\n<li>FocusBarHeight</li>\r\n<li>GoogleStandardVisiblity</li>\r\n</ol>\r\n<p>All of them are pretty self explanatory except for the last one. That variable controls the visibility of a text input control that displays Google Material Design standards for some of these properties. It also provides suggestions for the other properties. Start off with a component size that is big enough to display this text input control and then once you have gone through all the properties, set the Width and Height of the component based on the suggestion. Once you are done with the suggestions, set the GoogleStandardVisibility to false and the instructions will go away.</p>\r\n<p>This is how the suggestions are structured:</p>\r\n<p>Google Design Standards:<br>-----------------------------<br>Height = 90<br>Width = 560<br>PrimaryTextInFocusTopPadding = 10<br>PrimaryTextOutFocusTopPadding = 5<br>PrimaryTextSize = 20<br>SecondaryFontColor = RGBA(56, 96, 178, 1)<br>SecondaryTextFontWeight = Semibold<br>SecondaryTextHeight = 32<br>SecondaryTextSize = 15<br>TextFillColor = RGBA(230, 230, 230, 1)<br>FocusBarInFocusColor = RGBA(56, 96, 178, 1)<br>FocusBarOutFocusColor = ColorFade(Gray, 0.5)<br>FocusBarHeight = 5</p>\r\n<p>Other Defaults<br>-----------------<br>PrimartTextAlign = Align.Left<br>PrimaryTextDisplayMode = DisplayMode.Edit<br>PrimaryFontColor = Black<br>PrimartFontType = desired font type<br>PrimaryTextFontWeight = FontWeight.Normal<br>PrimartTextFormat = TextFormat.Text<br>PrimaryTextItalic = false<br>PrimaryTextMode = TextMode.SingleLine<br>PrimaryTextStrikethrough = false<br>PrimaryTextUnderline = false<br>SecondaryTextAlign = Align.Left<br>SecondaryFontType = desired font type<br>SecondryTextItalic = false<br>SecondaryTextStrikethrough = false<br>SecondaryTextUnderline = false<br>EnableSpellCheck = false<br>HintText = desired hint text<br>LineHeight = 1.2<br>Reset = false<br>Tooltip = desired tooltip<br>VirtualKeyboardMode = VirtualKeyboardMode.Text<br>GoogleStandardVisiblity = true to read these instructions</p>\r\n<p>One other step is needed to make this component work as desired is to add a piece of code wherever you want the user to click to be able to hide the secondary text if there is no text in the primary text input control. In my example, I have added a label and pushed it to the back so its behind all other controls. I have them set it's OnSelect property to the following code:</p>\r\n<pre><code>Reset(Component_GoogleTextInput)</code></pre>\r\n<p>I have added 2 components and set them up with different font properties. With the rest of the settings configured as listed above, the component behaves as shown below:</p>\r\n<p><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"GoogleMaterialDesignTextInputComponent.gif\" style=\"width: 226px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/134521i0EC00FBADA2E664D/image-size/medium?v=1.0&amp;px=400\" title=\"GoogleMaterialDesignTextInputComponent.gif\" alt=\"GoogleMaterialDesignTextInputComponent.gif\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/134521i0EC00FBADA2E664D?v=1.0\" li-image-display-id=\"'134521i0EC00FBADA2E664D'\" li-message-uid=\"'530161'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p>\r\n<p>I have attached the component here. Download it and enjoy a text input control inspired by Google Material Design in your apps!</p>\r\n<p>&nbsp;</p>\r\n<p>Thanks!</p>\r\n<p><strong>Hardit Bhatia</strong></p>\r\n<p><a href=\"https://thepoweraddict.com\" target=\"_self\" rel=\"nofollow noopener noreferrer\"><strong>Blog</strong></a><strong>&nbsp;| </strong><a href=\"https://twitter.com/thepoweraddict\" target=\"_self\" rel=\"nofollow noopener noreferrer\"><strong>Twitter</strong></a><strong> | </strong><a href=\"https://www.linkedin.com/in/harditbhatia/\" target=\"_self\" rel=\"nofollow noopener noreferrer\"><strong>LinkedIn</strong></a><strong> | </strong><a href=\"https://www.facebook.com/thepoweraddict/\" target=\"_self\" rel=\"nofollow noopener noreferrer\"><strong>Facebook</strong></a><strong> | </strong><a href=\"https://www.youtube.com/channel/UC01IDHuH1X3ZhUYMTj-ZyTg?view_as=subscriber\" target=\"_self\" rel=\"nofollow noopener noreferrer\"><strong>YouTube</strong></a><strong>&nbsp; |&nbsp;&nbsp;</strong><a href=\"mailto:hardit.bhatia@thepoweraddict.com\" target=\"_self\" rel=\"nofollow noopener noreferrer\"><strong>Email</strong></a></p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-hud-app.md",
+      "title": "HUD App",
+      "excerpt": "This App is Speed Meter created by PowerApps. Speed and Compass information is displayed on top of the camera image, so it looks like a HUD.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-hud-app/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-hud-app/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/HUD-App/td-p/282328",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "R_t_A_n_M",
+            "type": "profile",
+            "name": "R_t_A_n_M"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/182/5/HUD%20Speed%20Meter.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-05-13T10:44:00-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/182/2/HUD%20Speed%20Meter%20Thumb.jpg",
+          "width": 600,
+          "height": 300,
+          "isCached": true
+        }
+      ],
+      "content": "<p>This App is Speed Meter created by PowerApps.</p><p>&nbsp;</p><p>Speed and Compass information is displayed on top of the camera image, so it looks like a HUD.</p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-icebreakers.md",
+      "title": "Icebreakers",
+      "excerpt": "The &amp;quot;Handshake problem&amp;quot; is a classic math problem: &amp;quot;How many handshakes would take place if everyone in a room were to shake hands",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-icebreakers/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-icebreakers/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Icebreakers/td-p/189925",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Mr-Dang-MSFT",
+            "type": "profile",
+            "name": "Mr-Dang-MSFT"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/61/2/Icebreakers%20(91).msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2018-12-09T04:45:00-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/61/1/Screenshot%20(7).png",
+          "width": 4500,
+          "height": 3000,
+          "isCached": true
+        }
+      ],
+      "content": "<p>The \"Handshake problem\" is a classic math problem: \"How many handshakes would take place if everyone in a room were to shake hands with everyone else?\" Besides the numerical answer, what makes this problem more interesting is figuring out HOW this would actually take place. What would it look like? It's an exercise in computational thinking that I recommend to anyone looking for a challenge.</p>\r\n<p>&nbsp;</p>\r\n<p>As a teacher, this app let me run icebreakers throughout the year and create opportunities where everyone would be guaranteed to meet everyone else. I'm sharing my app solution with you so you can use it. If you like it, add your own icebreaker and share it back to the community <img class=\"lia-deferred-image lia-image-emoji\" src=\"/html/emoticons/1f642.png\" alt=\":slightly_smiling_face:\" title=\":slightly_smiling_face:\"></p>\r\n<p>&nbsp;</p>\r\n<p><span class=\"lia-inline-image-display-wrapper lia-image-align-center\" image-alt=\"handshake.png\" style=\"width: 999px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/44653iD42881F0B4AB5AA1/image-size/large?v=1.0&amp;px=999\" title=\"handshake.png\" alt=\"handshake.png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/44653iD42881F0B4AB5AA1?v=1.0\" li-image-display-id=\"'44653iD42881F0B4AB5AA1'\" li-message-uid=\"'189925'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>Start by creating your own list of participants. There is logic in the app that supports pasting in a column of names from Excel. I did not connect it to a datasource to keep the app simple, so you can do that yourself.</p>\r\n<p><span class=\"lia-inline-image-display-wrapper lia-image-align-center\" image-alt=\"participant.png\" style=\"width: 999px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/44652i6968D426293C9624/image-size/large?v=1.0&amp;px=999\" title=\"participant.png\" alt=\"participant.png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/44652i6968D426293C9624?v=1.0\" li-image-display-id=\"'44652i6968D426293C9624'\" li-message-uid=\"'189925'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p>\r\n<p>&nbsp;</p>\r\n<p>The app is very bare on purpose and I invite you to spruce it up with your own way of creating menus</p>\r\n<p><span class=\"lia-inline-image-display-wrapper lia-image-align-center\" image-alt=\"icebreaker-menu.png\" style=\"width: 999px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/44651i92289755D617B5B4/image-size/large?v=1.0&amp;px=999\" title=\"icebreaker-menu.png\" alt=\"icebreaker-menu.png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/44651i92289755D617B5B4?v=1.0\" li-image-display-id=\"'44651i92289755D617B5B4'\" li-message-uid=\"'189925'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>A screen is in the app for sending feedback. It's just a screen template <img class=\"lia-deferred-image lia-image-emoji\" src=\"/html/emoticons/1f642.png\" alt=\":slightly_smiling_face:\" title=\":slightly_smiling_face:\"></p>\r\n<p>Learn more: <a href=\"https://www.youtube.com/watch?v=6Dj8zHfQ5QQ\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://www.youtube.com/watch?v=6Dj8zHfQ5QQ</a></p>\r\n<p><span class=\"lia-inline-image-display-wrapper lia-image-align-center\" image-alt=\"send-email.png\" style=\"width: 999px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/44650iC516116F44C3A421/image-size/large?v=1.0&amp;px=999\" title=\"send-email.png\" alt=\"send-email.png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/44650iC516116F44C3A421?v=1.0\" li-image-display-id=\"'44650iC516116F44C3A421'\" li-message-uid=\"'189925'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>I made a leap in my learning of PowerApps when someone shared a calculator app. So I share this with you so you can learn how I do things. Let me know what you pick out from it and what you might do differently.</p>\r\n<p><span class=\"lia-inline-image-display-wrapper lia-image-align-center\" image-alt=\"Screenshot (7).png\" style=\"width: 999px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/44654i35A54B654693309E/image-size/large?v=1.0&amp;px=999\" title=\"Screenshot (7).png\" alt=\"Screenshot (7).png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/44654i35A54B654693309E?v=1.0\" li-image-display-id=\"'44654i35A54B654693309E'\" li-message-uid=\"'189925'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-info-component.md",
+      "title": "Info Component",
+      "excerpt": "Inline help information component to be reused across your PowerApps forms. Images are SVGs so you could overcome the missing embedding images on",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-info-component/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-info-component/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Info-Component/td-p/248841",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Eickhel",
+            "type": "profile",
+            "name": "Eickhel"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/132/2/InfoComponent_20190227.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-03-10T01:30:00-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/132/1/InfoComponent.png",
+          "width": 613,
+          "height": 220,
+          "isCached": true
+        }
+      ],
+      "content": "<p>Inline help information component to be reused across your PowerApps forms.</p><p>&nbsp;</p><p><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"InfoComponent.png\" style=\"width: 613px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/55737i38E64E9F15D1BBFB/image-size/large?v=1.0&amp;px=999\" title=\"InfoComponent.png\" alt=\"InfoComponent.png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/55737i38E64E9F15D1BBFB?v=1.0\" li-image-display-id=\"'55737i38E64E9F15D1BBFB'\" li-message-uid=\"'248841'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p><p>&nbsp;</p><p><span class=\"rn-13yce4e rn-fnigne rn-ndvcnb rn-gxnn5r rn-deolkf rn-homxoj rn-1471scf rn-14xgk7a rn-7cikom rn-o11vmf rn-ebii48 rn-gul640 rn-ad9z0x rn-1mnahxq rn-61z16t rn-p1pxzi rn-11wrixw rn-bcqeeo rn-wk8lta rn-9aemit rn-1mdbw0j rn-gy4na3 rn-bauka4 rn-irrty rn-qvutc0\">Images are SVGs so you could overcome the missing embedding images on components and the message is an HTML control so you can play with formatting</span></p><p>&nbsp;</p><p>Repo: <a href=\"https://github.com/Eickhel/PowerApps-samples/tree/master/InfoComponent\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">https://github.com/Eickhel/PowerApps-samples/tree/master/InfoComponent</a></p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-international-womens-day.md",
+      "title": "International Women's Day",
+      "excerpt": "How does a # PowerAddict celebrate the International Women's Day? Uses PowerApps to create an app that fetches new articles about #",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-international-womens-day/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-international-womens-day/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/International-Women-s-Day/td-p/248860",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "ThatAPIGuy",
+            "type": "profile",
+            "name": "ThatAPIGuy"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/133/2/N9f9dbbf0-7bcb-4a7d-bfc8-3e0a51243e03-document.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-03-10T03:40:00-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/133/1/Womens_Day_PowerApps_First_Frame.png",
+          "width": 852,
+          "height": 480,
+          "isCached": true
+        }
+      ],
+      "content": "<div id=\"permalink-overlay\" class=\"PermalinkOverlay PermalinkOverlay-with-background \">\r\n<div id=\"permalink-overlay-dialog\" class=\"PermalinkOverlay-modal\" role=\"alertdialog\" aria-labelledby=\"permalink-overlay-header\" aria-describedby=\"permalink-overlay-body\">\r\n<div class=\"PermalinkOverlay-content\" role=\"document\">\r\n<div id=\"permalink-overlay-body\" class=\"PermalinkOverlay-body\">\r\n<div class=\"permalink-container permalink-container--withArrows\">\r\n<div class=\"permalink light-inline-actions\r\n  stream-uncapped\r\n  has-replies\r\n  original-permalink-page\r\n  self-thread-permalink\r\n  self-thread-permalink-with-descendant\" role=\"main\">\r\n<div class=\"permalink-inner permalink-tweet-container\">\r\n<div class=\"tweet permalink-tweet js-actionable-user js-actionable-tweet js-original-tweet\r\n         my-tweet has-cards with-social-proof  has-content\r\n\r\n        \r\n         logged-in\r\n          \r\n          js-initial-focus\r\n\" tabindex=\"0\" data-associated-tweet-id=\"1104189778545774592\" data-tweet-id=\"1104189778545774592\" data-item-id=\"1104189778545774592\" data-permalink-path=\"/that_API_guy/status/1104189778545774592\" data-conversation-id=\"1104189778545774592\" data-can-be-self-threaded=\"true\" data-tweet-nonce=\"1104189778545774592-2fca2add-d6a1-49a1-8046-be67532eafa5\" data-tweet-stat-initialized=\"true\" data-screen-name=\"that_API_guy\" data-name=\"Vivek Bavishi ▫ MVP ▫ #PowerAddict\" data-user-id=\"45828702\" data-you-follow=\"false\" data-follows-you=\"false\" data-you-block=\"false\" data-mentions=\"PowerApps NewsAPIorg MicrosoftFlow\" data-reply-to-users-json=\"[{&quot;id_str&quot;:&quot;45828702&quot;,&quot;screen_name&quot;:&quot;that_API_guy&quot;,&quot;name&quot;:&quot;Vivek Bavishi \\u25ab MVP \\u25ab #PowerAddict&quot;,&quot;emojified_name&quot;:{&quot;text&quot;:&quot;Vivek Bavishi \\u25ab MVP \\u25ab #PowerAddict&quot;,&quot;emojified_text_as_html&quot;:&quot;Vivek Bavishi \\u003cspan class=\\&quot;Emoji Emoji--forLinks\\&quot; style=\\&quot;background-image:url('https:\\/\\/abs.twimg.com\\/emoji\\/v2\\/72x72\\/25ab.png')\\&quot; title=\\&quot;White small square\\&quot; aria-label=\\&quot;Emoji: White small square\\&quot;\\u003e&amp;nbsp;\\u003c\\/span\\u003e\\u003cspan class=\\&quot;visuallyhidden\\&quot; aria-hidden=\\&quot;true\\&quot;\\u003e\\u25ab\\u003c\\/span\\u003e MVP \\u003cspan class=\\&quot;Emoji Emoji--forLinks\\&quot; style=\\&quot;background-image:url('https:\\/\\/abs.twimg.com\\/emoji\\/v2\\/72x72\\/25ab.png')\\&quot; title=\\&quot;White small square\\&quot; aria-label=\\&quot;Emoji: White small square\\&quot;\\u003e&amp;nbsp;\\u003c\\/span\\u003e\\u003cspan class=\\&quot;visuallyhidden\\&quot; aria-hidden=\\&quot;true\\&quot;\\u003e\\u25ab\\u003c\\/span\\u003e #PowerAddict&quot;}},{&quot;id_str&quot;:&quot;4305781932&quot;,&quot;screen_name&quot;:&quot;PowerApps&quot;,&quot;name&quot;:&quot;Microsoft PowerApps&quot;,&quot;emojified_name&quot;:{&quot;text&quot;:&quot;Microsoft PowerApps&quot;,&quot;emojified_text_as_html&quot;:&quot;Microsoft PowerApps&quot;}},{&quot;id_str&quot;:&quot;744934516284850176&quot;,&quot;screen_name&quot;:&quot;NewsAPIorg&quot;,&quot;name&quot;:&quot;News API \\ud83d\\uddde\\ufe0f&quot;,&quot;emojified_name&quot;:{&quot;text&quot;:&quot;News API \\ud83d\\uddde\\ufe0f&quot;,&quot;emojified_text_as_html&quot;:&quot;News API \\u003cspan class=\\&quot;Emoji Emoji--forLinks\\&quot; style=\\&quot;background-image:url('https:\\/\\/abs.twimg.com\\/emoji\\/v2\\/72x72\\/1f5de.png')\\&quot; title=\\&quot;Rolled-up newspaper\\&quot; aria-label=\\&quot;Emoji: Rolled-up newspaper\\&quot;\\u003e&amp;nbsp;\\u003c\\/span\\u003e\\u003cspan class=\\&quot;visuallyhidden\\&quot; aria-hidden=\\&quot;true\\&quot;\\u003e\\ud83d\\uddde\\ufe0f\\u003c\\/span\\u003e&quot;}},{&quot;id_str&quot;:&quot;722190257244889088&quot;,&quot;screen_name&quot;:&quot;MicrosoftFlow&quot;,&quot;name&quot;:&quot;Microsoft Flow&quot;,&quot;emojified_name&quot;:{&quot;text&quot;:&quot;Microsoft Flow&quot;,&quot;emojified_text_as_html&quot;:&quot;Microsoft Flow&quot;}}]\" data-disclosure-type=\"\" data-has-cards=\"true\" data-tfb-view=\"/i/tfb/v1/quick_promote/1104189778545774592\">\r\n<div class=\"js-tweet-text-container\">\r\n<p class=\"TweetTextSize TweetTextSize--jumbo js-tweet-text tweet-text\" lang=\"en\" data-aria-label-part=\"0\"><span>How does a </span><a class=\"twitter-hashtag pretty-link js-nav\" dir=\"ltr\" href=\"https://twitter.com/hashtag/PowerAddict?src=hash\" data-query-source=\"hashtag_click\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"></a><s><a class=\"twitter-hashtag pretty-link js-nav\" dir=\"ltr\" href=\"https://twitter.com/hashtag/PowerAddict?src=hash\" data-query-source=\"hashtag_click\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">#</a></s><strong>PowerAddict</strong><span> celebrate the International Women's Day? Uses </span><a class=\"twitter-atreply pretty-link js-nav\" dir=\"ltr\" href=\"https://twitter.com/PowerApps\" data-mentioned-user-id=\"4305781932\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><strong>PowerApps</strong></a><span> to create an app that fetches new articles about </span><a class=\"twitter-hashtag pretty-link js-nav\" dir=\"ltr\" href=\"https://twitter.com/hashtag/InternationalWomensDay?src=hash\" data-query-source=\"hashtag_click\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"></a><s><a class=\"twitter-hashtag pretty-link js-nav\" dir=\"ltr\" href=\"https://twitter.com/hashtag/InternationalWomensDay?src=hash\" data-query-source=\"hashtag_click\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">#</a></s><strong>InternationalWomensDay</strong><span> from </span><a class=\"twitter-atreply pretty-link js-nav\" dir=\"ltr\" href=\"https://twitter.com/NewsAPIorg\" data-mentioned-user-id=\"744934516284850176\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><strong>NewsAPIorg</strong></a><span> using </span><a class=\"twitter-atreply pretty-link js-nav\" dir=\"ltr\" href=\"https://twitter.com/MicrosoftFlow\" data-mentioned-user-id=\"722190257244889088\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"></a><s><a class=\"twitter-atreply pretty-link js-nav\" dir=\"ltr\" href=\"https://twitter.com/MicrosoftFlow\" data-mentioned-user-id=\"722190257244889088\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"></a></s><strong>MicrosoftFlow</strong><span> . </span></p>\r\n<p class=\"TweetTextSize TweetTextSize--jumbo js-tweet-text tweet-text\" lang=\"en\" data-aria-label-part=\"0\">&nbsp;</p>\r\n<p class=\"TweetTextSize TweetTextSize--jumbo js-tweet-text tweet-text\" lang=\"en\" data-aria-label-part=\"0\"><span>Dedicating this to <a href=\"/t5/user/viewprofilepage/user-id/3962\">@Audrie-MSFT</a>&nbsp;<a href=\"/t5/user/viewprofilepage/user-id/17347\">@aprildunnam</a>&nbsp;<a href=\"/t5/user/viewprofilepage/user-id/22539\">@gsivasai</a> and all the women who inspire me every day... Happy Women's Day!</span></p>\r\n<p class=\"TweetTextSize TweetTextSize--jumbo js-tweet-text tweet-text\" lang=\"en\" data-aria-label-part=\"0\">&nbsp;</p>\r\n<p class=\"TweetTextSize TweetTextSize--jumbo js-tweet-text tweet-text\" lang=\"en\" data-aria-label-part=\"0\"><span>I could only attach the .msapp file here. To download the complete package along with the Flow files - Download from github -&nbsp;<a href=\"https://github.com/thatapiguy/International-Womens-Day-PowerApps\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://github.com/thatapiguy/International-Womens-Day-PowerApps</a></span></p>\r\n<p class=\"TweetTextSize TweetTextSize--jumbo js-tweet-text tweet-text\" lang=\"en\" data-aria-label-part=\"0\">&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>Vivek Bavishi aka That API Guy</p>\r\n<p><a href=\"https://mvp.microsoft.com/en-us/PublicProfile/5003373\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">PowerApps MVP</a></p>\r\n<p><a href=\"https://thatapiguy.tech/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Blog</a> | <a href=\"https://twiiter.com/that_API_guy\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Twitter</a> | <a href=\"https://youtube.com/channel/ThatAPIGuy\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">YouTube</a> | <a href=\"https://powerusers.microsoft.com/t5/user/viewprofilepage/user-id/9448\" target=\"_blank\">Community Profile</a> | <a href=\"https://github.com/thatapiguy\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">GitHub</a></p>\r\n<p class=\"TweetTextSize TweetTextSize--jumbo js-tweet-text tweet-text\" lang=\"en\" data-aria-label-part=\"0\">&nbsp;</p>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\r\n\t\t\t\r\n\t\t\t\t<div class='UserSignature lia-message-signature'>\r\n\t<p><br><b>Vivek Bavishi aka That API Guy</b><br><a href=\"http://links.thatapiguy.tech/mvp\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">PowerApps and Flow MVP</a><br><a href=\"http://links.thatapiguy.tech/blog\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">Blog</a> | <a href=\"http://links.thatapiguy.tech/twitter\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">Twitter</a> | <a href=\"http://links.thatapiguy.tech/youtube\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">YouTube</a> | <a href=\"https://powerusers.microsoft.com/t5/user/viewprofilepage/user-id/9448\" target=\"_blank\" rel=\"noopener\">Community Profile</a> | <a href=\"http://links.thatapiguy.tech/github\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">GitHub</a></p><br><br><p>If this post helps, then please consider<b><i> Accept it as the solution </i></b>to help the other members find it more quickly.</p>\r\n</div>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-loop-faster-than-timer-control.md",
+      "title": "Loop faster than Timer Control",
+      "excerpt": "I succeeded in implementing a loop that is faster than Timer Control. This is about 30 times faster than the timer. Blog (Japanese):",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-loop-faster-than-timer-control/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-loop-faster-than-timer-control/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Loop-faster-than-Timer-Control/td-p/256147",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Takuma",
+            "type": "profile",
+            "name": "Takuma"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/136/2/FastLoopSample.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-03-22T13:57:00-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/136/1/capture.JPG",
+          "width": 571,
+          "height": 454,
+          "isCached": true
+        }
+      ],
+      "content": "<p><span>I succeeded in implementing a loop that is faster than Timer Control.</span></p><p><span>This is about 30 times faster than the timer.</span></p><p>&nbsp;</p><p><span><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"メディア2.gif\" style=\"width: 458px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/57865i6E001B5F6D5950D3/image-size/large?v=1.0&amp;px=999\" title=\"メディア2.gif\" alt=\"メディア2.gif\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/57865i6E001B5F6D5950D3?v=1.0\" li-image-display-id=\"'57865i6E001B5F6D5950D3'\" li-message-uid=\"'256147'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></span></p><p>&nbsp;</p><p><span>Blog (Japanese):&nbsp;<a href=\"https://qiita.com/github129/items/75f5f83d9842aab89da3\" target=\"_self\" rel=\"nofollow noopener noreferrer\">https://qiita.com/github129/items/75f5f83d9842aab89da3</a></span></p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-magic-8-ball.md",
+      "title": "Magic 8-Ball",
+      "excerpt": "Inspired by , and , my maiden attempt with accelerometer in #PowerApps to build the famous Magic 8-Ball Predictor app. Move your phone around to",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-magic-8-ball/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-magic-8-ball/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Magic-8-Ball/td-p/424646",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "AlanChai",
+            "type": "profile",
+            "name": "AlanChai"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/354/2/8%20Ball.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-12-11T13:11:00-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/354/1/Champs%20Cards%20and%20Advent.jpg",
+          "width": 1920,
+          "height": 1080,
+          "isCached": true
+        }
+      ],
+      "content": "<p>Inspired by&nbsp;<a href=\"/t5/user/viewprofilepage/user-id/44199\">@h-nagao</a>&nbsp;,&nbsp;<a href=\"/t5/user/viewprofilepage/user-id/16078\">@j-kodama</a>&nbsp; and&nbsp;<a href=\"/t5/user/viewprofilepage/user-id/70303\">@TAICHI</a>&nbsp;,&nbsp;my&nbsp;<span class=\"css-901oao css-16my406 r-1qd0xha r-ad9z0x r-bcqeeo r-qvutc0\">maiden attempt with accelerometer in <span class=\"r-18u37iz\"><a href=\"https://twitter.com/hashtag/PowerApps?src=hashtag_click\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">#PowerApps&nbsp;</a></span></span>to build the famous Magic 8-Ball Predictor app.&nbsp;</p><p>&nbsp;</p><p><span class=\"css-901oao css-16my406 r-1qd0xha r-ad9z0x r-bcqeeo r-qvutc0\">Move your phone around to reveal the decision after you press \"Ask Me!\" button each time.&nbsp;</span></p><p>&nbsp;</p><p><span class=\"css-901oao css-16my406 r-1qd0xha r-ad9z0x r-bcqeeo r-qvutc0\">To reset the answer, simply press \"Ask Me!\".&nbsp;</span></p><p>&nbsp;</p><p>When your device is flat on the horizon, the message should reveal.&nbsp;</p><div class=\"css-1dbjc4n r-xoduu5 r-1mlwlqe r-1d2f490 r-1udh08x r-u8s1d r-h9hxbl r-417010\"><div class=\"css-1dbjc4n r-1niwhzg r-vvn4in r-u6sd8q r-x3cy2q r-1p0dtai r-xoduu5 r-1pi2tsx r-1d2f490 r-u8s1d r-zchlnj r-ipm5af r-13qz1uu r-1wyyakw\">&nbsp;<div class=\"css-1dbjc4n r-1niwhzg r-vvn4in r-u6sd8q r-x3cy2q r-1p0dtai r-xoduu5 r-1pi2tsx r-1d2f490 r-u8s1d r-zchlnj r-ipm5af r-13qz1uu r-1wyyakw\"><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"Champs Cards and Advent.jpg\" style=\"width: 999px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/104459i8294CC9D72D74E13/image-size/large?v=1.0&amp;px=999\" title=\"Champs Cards and Advent.jpg\" alt=\"Champs Cards and Advent.jpg\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/104459i8294CC9D72D74E13?v=1.0\" li-image-display-id=\"'104459i8294CC9D72D74E13'\" li-message-uid=\"'424646'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></div></div></div><div class=\"css-1dbjc4n r-1niwhzg r-vvn4in r-u6sd8q r-x3cy2q r-1p0dtai r-xoduu5 r-1pi2tsx r-1d2f490 r-u8s1d r-zchlnj r-ipm5af r-13qz1uu r-1wyyakw\">&nbsp;</div><div class=\"css-1dbjc4n r-1niwhzg r-vvn4in r-u6sd8q r-x3cy2q r-1p0dtai r-xoduu5 r-1pi2tsx r-1d2f490 r-u8s1d r-zchlnj r-ipm5af r-13qz1uu r-1wyyakw\">The Magic 8-Ball is preloaded with the following possible answers:</div><div class=\"css-1dbjc4n r-1niwhzg r-vvn4in r-u6sd8q r-x3cy2q r-1p0dtai r-xoduu5 r-1pi2tsx r-1d2f490 r-u8s1d r-zchlnj r-ipm5af r-13qz1uu r-1wyyakw\">&nbsp;</div><div class=\"css-1dbjc4n r-1niwhzg r-vvn4in r-u6sd8q r-x3cy2q r-1p0dtai r-xoduu5 r-1pi2tsx r-1d2f490 r-u8s1d r-zchlnj r-ipm5af r-13qz1uu r-1wyyakw\">\"It is certain\"</div><div class=\"css-1dbjc4n r-1niwhzg r-vvn4in r-u6sd8q r-x3cy2q r-1p0dtai r-xoduu5 r-1pi2tsx r-1d2f490 r-u8s1d r-zchlnj r-ipm5af r-13qz1uu r-1wyyakw\">\"Without a doubt\"</div><div class=\"css-1dbjc4n r-1niwhzg r-vvn4in r-u6sd8q r-x3cy2q r-1p0dtai r-xoduu5 r-1pi2tsx r-1d2f490 r-u8s1d r-zchlnj r-ipm5af r-13qz1uu r-1wyyakw\">\"Yes - definitely\"</div><div class=\"css-1dbjc4n r-1niwhzg r-vvn4in r-u6sd8q r-x3cy2q r-1p0dtai r-xoduu5 r-1pi2tsx r-1d2f490 r-u8s1d r-zchlnj r-ipm5af r-13qz1uu r-1wyyakw\">\"Yes\"</div><div class=\"css-1dbjc4n r-1niwhzg r-vvn4in r-u6sd8q r-x3cy2q r-1p0dtai r-xoduu5 r-1pi2tsx r-1d2f490 r-u8s1d r-zchlnj r-ipm5af r-13qz1uu r-1wyyakw\">\"Ask again later\"</div><div class=\"css-1dbjc4n r-1niwhzg r-vvn4in r-u6sd8q r-x3cy2q r-1p0dtai r-xoduu5 r-1pi2tsx r-1d2f490 r-u8s1d r-zchlnj r-ipm5af r-13qz1uu r-1wyyakw\">\"Can't predict now\"</div><div class=\"css-1dbjc4n r-1niwhzg r-vvn4in r-u6sd8q r-x3cy2q r-1p0dtai r-xoduu5 r-1pi2tsx r-1d2f490 r-u8s1d r-zchlnj r-ipm5af r-13qz1uu r-1wyyakw\">\"No\"</div><div class=\"css-1dbjc4n r-1niwhzg r-vvn4in r-u6sd8q r-x3cy2q r-1p0dtai r-xoduu5 r-1pi2tsx r-1d2f490 r-u8s1d r-zchlnj r-ipm5af r-13qz1uu r-1wyyakw\">\"Very doubtful\"</div><div class=\"css-1dbjc4n r-1niwhzg r-vvn4in r-u6sd8q r-x3cy2q r-1p0dtai r-xoduu5 r-1pi2tsx r-1d2f490 r-u8s1d r-zchlnj r-ipm5af r-13qz1uu r-1wyyakw\">\"Don't count on it\"</div><div class=\"css-1dbjc4n r-1niwhzg r-vvn4in r-u6sd8q r-x3cy2q r-1p0dtai r-xoduu5 r-1pi2tsx r-1d2f490 r-u8s1d r-zchlnj r-ipm5af r-13qz1uu r-1wyyakw\">&nbsp;</div><div class=\"css-1dbjc4n r-1niwhzg r-vvn4in r-u6sd8q r-x3cy2q r-1p0dtai r-xoduu5 r-1pi2tsx r-1d2f490 r-u8s1d r-zchlnj r-ipm5af r-13qz1uu r-1wyyakw\">You can add/edit the preloaded answer in the the OnVisible Collection array.&nbsp;</div><div class=\"css-1dbjc4n r-1niwhzg r-vvn4in r-u6sd8q r-x3cy2q r-1p0dtai r-xoduu5 r-1pi2tsx r-1d2f490 r-u8s1d r-zchlnj r-ipm5af r-13qz1uu r-1wyyakw\">&nbsp;</div><div class=\"css-1dbjc4n r-1niwhzg r-vvn4in r-u6sd8q r-x3cy2q r-1p0dtai r-xoduu5 r-1pi2tsx r-1d2f490 r-u8s1d r-zchlnj r-ipm5af r-13qz1uu r-1wyyakw\">This solution does not use any Flow.&nbsp;</div><div class=\"css-1dbjc4n r-1niwhzg r-vvn4in r-u6sd8q r-x3cy2q r-1p0dtai r-xoduu5 r-1pi2tsx r-1d2f490 r-u8s1d r-zchlnj r-ipm5af r-13qz1uu r-1wyyakw\">&nbsp;</div><div class=\"css-1dbjc4n r-1niwhzg r-vvn4in r-u6sd8q r-x3cy2q r-1p0dtai r-xoduu5 r-1pi2tsx r-1d2f490 r-u8s1d r-zchlnj r-ipm5af r-13qz1uu r-1wyyakw\"><span class=\"css-901oao css-16my406 r-1qd0xha r-ad9z0x r-bcqeeo r-qvutc0\">You can check out more details about the how Magic 8-Ball started through wikipedia --&gt; </span><a title=\"https://bit.ly/2rmAugj\" href=\"https://t.co/G70v2BWOWN?amp=1\" target=\"_blank\" rel=\"noopener noreferrer nofollow noopener noreferrer\"><span class=\"css-901oao css-16my406 r-1qd0xha r-hiw28u r-ad9z0x r-bcqeeo r-qvutc0\">https://</span>bit.ly/2rmAugj</a></div><div class=\"css-1dbjc4n r-1niwhzg r-vvn4in r-u6sd8q r-x3cy2q r-1p0dtai r-xoduu5 r-1pi2tsx r-1d2f490 r-u8s1d r-zchlnj r-ipm5af r-13qz1uu r-1wyyakw\">&nbsp;</div><div class=\"css-1dbjc4n r-1niwhzg r-vvn4in r-u6sd8q r-x3cy2q r-1p0dtai r-xoduu5 r-1pi2tsx r-1d2f490 r-u8s1d r-zchlnj r-ipm5af r-13qz1uu r-1wyyakw\">More info on my <a href=\"https://twitter.com/alanchai/status/1204288507658805249?s=20\" target=\"_self\" rel=\"nofollow noopener noreferrer\">twitter post.</a>&nbsp;</div><div class=\"mceNonEditable lia-copypaste-placeholder\">&nbsp;</div><p><span class=\"videoUrl\">watch?v=W9V9DkwDKac</span></p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-matrix-clock-display.md",
+      "title": "Matrix Clock Display",
+      "excerpt": "I Express the &amp;quot;5x8 LCD Character Display&amp;quot; with PowerApps. This Apps is not using Images.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-matrix-clock-display/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-matrix-clock-display/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Matrix-Clock-Display/td-p/245961",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "R_t_A_n_M",
+            "type": "profile",
+            "name": "R_t_A_n_M"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/119/2/MatrixClockDisplay.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-03-04T08:40:00-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/119/1/MatrixClockDisplay.PNG",
+          "width": 1082,
+          "height": 611,
+          "isCached": true
+        }
+      ],
+      "content": "<p>I Express the \"5x8 LCD Character Display\" with PowerApps.</p><p><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"AMC1602AR-B-B6WTDW-I2C-2.jpg\" style=\"width: 400px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/54914i1738D4B25901E70F/image-size/medium?v=1.0&amp;px=400\" title=\"AMC1602AR-B-B6WTDW-I2C-2.jpg\" alt=\"AMC1602AR-B-B6WTDW-I2C-2.jpg\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/54914i1738D4B25901E70F?v=1.0\" li-image-display-id=\"'54914i1738D4B25901E70F'\" li-message-uid=\"'245961'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p><p>This Apps is not using Images.</p><p>&nbsp;</p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-motion-patterns-with-parametric-equations.md",
+      "title": "Motion Patterns with Parametric Equations",
+      "excerpt": "This application shows the implementation of motion patterns such as Lissajous, Rose, Spiral, and Hypothrochoid curves following parametric",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-motion-patterns-with-parametric-equations/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-motion-patterns-with-parametric-equations/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Motion-Patterns-with-Parametric-Equations/td-p/206073",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "SanAndresMan1",
+            "type": "profile",
+            "name": "SanAndresMan1"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/79/2/Parametric%20Motion.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-01-16T23:30:00-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/79/1/parametric02.png",
+          "width": 1656,
+          "height": 929,
+          "isCached": true
+        }
+      ],
+      "content": "<p>This application shows the implementation of motion patterns such as Lissajous, Rose, Spiral, and Hypothrochoid curves following parametric equations. Parametric equations are widely used in games to determine the trajectory of objects and outline&nbsp;paths during collisions.&nbsp;</p><p>&nbsp;</p><p><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"parametric01.png\" style=\"width: 999px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/48767i4825F7F01A8D1285/image-size/large?v=1.0&amp;px=999\" title=\"parametric01.png\" alt=\"parametric01.png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/48767i4825F7F01A8D1285?v=1.0\" li-image-display-id=\"'48767i4825F7F01A8D1285'\" li-message-uid=\"'206073'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p><p>As a user, you can change various parameters to alter the motion within the fundamentals of each equation, or you can change the equation altogether to create a totally new motion pattern. This app explores the use of timers, sliders, text input, button controls, and customizable interface to create the overall user experience.</p><p>&nbsp;</p><p><div class=\"video-embed-center video-embed\"><iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FMoe_BKoHXxI%3Ffeature%3Doembed&amp;display_name=YouTube&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DMoe_BKoHXxI&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FMoe_BKoHXxI%2Fhqdefault.jpg&amp;key=b0d40caa4f094c68be7c29880b16f56e&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"337\" scrolling=\"no\" title=\"YouTube embed\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen=\"true\"></iframe></div>&nbsp;<p><span class=\"videoUrl\">watch?v=7Bk0_cSGVXk</span></p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-navy-seal-tactical-breathing-technique.md",
+      "title": "Navy SEAL Tactical Breathing Technique",
+      "excerpt": "This technique, known as combat or tactical breathing, is an excellent way to reduce your stress and calm down. This breathing strategy has been used",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-navy-seal-tactical-breathing-technique/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-navy-seal-tactical-breathing-technique/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Navy-SEAL-Tactical-Breathing-Technique/td-p/210200",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "SanAndresMan1",
+            "type": "profile",
+            "name": "SanAndresMan1"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/85/2/SEAL%20Breather.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-01-25T00:54:00-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/85/1/SEALBreather.png",
+          "width": 1506,
+          "height": 848,
+          "isCached": true
+        }
+      ],
+      "content": "<p>This technique, known as combat or tactical breathing, is an excellent way to reduce your stress and calm down. This<br>breathing strategy has been used by first responders, the military and athletes to focus, gain control and manage<br>stress. In addition, it appears to help control worry and&nbsp;nervousness.</p><p>&nbsp;</p><p>Relax yourself by taking 3 to 5 breaths as described below.<br>Visualize each number as you count.<br>Breathe in counting 1, 2, 3, 4<br>Stop and hold your breath counting 1, 2, 3, 4<br>Exhale counting 1, 2, 3, 4<br>Repeat the breathing<br>Breath in counting 1, 2, 3, 4<br>Pause and hold your breathe counting 1, 2, 3, 4<br>Exhale counting 1, 2, 3, 4</p><p>&nbsp;</p><p>If all that sounds too complicated, then just use this app&nbsp;<img id=\"smileyvery-happy\" class=\"emoticon emoticon-smileyvery-happy\" src=\"/i/smilies/16x16_smiley-very-happy.png\" alt=\"Smiley Very Happy\" title=\"Smiley Very Happy\"></p><p><span class=\"videoUrl\">watch?v=k5sGc1pF5J0</span></p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-numeric-keypad.md",
+      "title": "Numeric Keypad",
+      "excerpt": "Numeric Keypad integration allows user to enter numeric input into multiple input fields. Mr. Dang was a tremendous help in working out the bugs and",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-numeric-keypad/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-numeric-keypad/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Numeric-Keypad/td-p/175267",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "KickingApps",
+            "type": "profile",
+            "name": "KickingApps"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/30/3/PhoneTemplate_NumKey%20(2).msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2018-11-01T13:28:00-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/30/1/Keypad.JPG",
+          "width": 435,
+          "height": 318,
+          "isCached": true
+        }
+      ],
+      "content": "<p>Numeric Keypad integration allows user to enter numeric input into multiple input fields.</p><p>&nbsp;</p><p>Mr. Dang was a tremendous help in working out the bugs and fine tuning.</p><p>&nbsp;</p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-numeric-updown-control-with-persisted-button-pressed-event-using-components.md",
+      "title": "Numeric Up/Down Control with persisted button pressed event using Components",
+      "excerpt": "This app implements and demonstrates the use of components to implement and numeric up/down control with persisted button press. Most numeric up/down",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-numeric-updown-control-with-persisted-button-pressed-event-using-components/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-numeric-updown-control-with-persisted-button-pressed-event-using-components/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Numeric-Up-Down-Control-with-persisted-button-pressed-event/td-p/257237",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "SanAndresMan1",
+            "type": "profile",
+            "name": "SanAndresMan1"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/139/2/NumericUpDown%20-%20App%20and%20Component.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-03-25T14:40:00-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/139/1/NumericUpDn11.png",
+          "width": 1599,
+          "height": 492,
+          "isCached": true
+        }
+      ],
+      "content": "<p>This app implements and demonstrates the use of components to implement and numeric up/down control with persisted button press. Most numeric up/down controls tend to be single-click events for the button actions, this is, you need to click (or tap, if on a mobile device) numerous times before you advance the numeric control to the desired value.</p><p>&nbsp;</p><p><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"NumericUpDn11.png\" style=\"width: 999px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/58129i1E1F7D22BEC8015D/image-size/large?v=1.0&amp;px=999\" title=\"NumericUpDn11.png\" alt=\"NumericUpDn11.png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/58129i1E1F7D22BEC8015D?v=1.0\" li-image-display-id=\"'58129i1E1F7D22BEC8015D'\" li-message-uid=\"'257237'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p><p>&nbsp;</p><p>By simply pressing the up or down button until the desired value is reached, a user can achieve efficiency on a device.&nbsp;</p><p>&nbsp;</p><p>You can read a full write up of this implementation on my blog, <a title=\"PowerApps Numeric Up/Down Control\" href=\"https://dynamicsgpblogster.blogspot.com/2019/03/powerapps-numeric-updown-control-with.html\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">here</a>.</p><p>&nbsp;</p><p><span class=\"videoUrl\">watch?v=9Wc_lLg36qQ</span></p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-one-more-colorpicker.md",
+      "title": "One More Colorpicker",
+      "excerpt": "A very simple Color Picker with SVG Example for gradient.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-one-more-colorpicker/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-one-more-colorpicker/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/One-More-Colorpicker/td-p/375980",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "VanlindtMarc",
+            "type": "profile",
+            "name": "VanlindtMarc"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/274/2/TestColor.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-10-03T21:39:00-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/274/1/2019-10-04%2013_37_28-TestColor%20-%20Enregistr%C3%A9es%20(non%20publi%C3%A9es)%20-%20PowerApps.png",
+          "width": 1061,
+          "height": 630,
+          "isCached": true
+        }
+      ],
+      "content": "<p>A very simple Color Picker with SVG Example for gradient.</p><p><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"2019-10-04 13_37_28-TestColor - Enregistrées (non publiées) - PowerApps.png\" style=\"width: 999px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/91073i11757D0B88BFDBE6/image-size/large?v=1.0&amp;px=999\" title=\"2019-10-04 13_37_28-TestColor - Enregistrées (non publiées) - PowerApps.png\" alt=\"2019-10-04 13_37_28-TestColor - Enregistrées (non publiées) - PowerApps.png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/91073i11757D0B88BFDBE6?v=1.0\" li-image-display-id=\"'91073i11757D0B88BFDBE6'\" li-message-uid=\"'375980'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-pendulum-simulator.md",
+      "title": "Pendulum Simulator",
+      "excerpt": "This app provides simulation of swinging pendulum and expains its background physics. In order to realize this app, I have introduced a method of",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-pendulum-simulator/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-pendulum-simulator/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Pendulum-Simulator/td-p/183547",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "h-nagao",
+            "type": "profile",
+            "name": "h-nagao"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/46/2/PendulumSimulator.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2018-11-22T23:34:00-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/46/1/%E3%82%B5%E3%83%A0%E3%83%8D%E3%82%A4%E3%83%AB.PNG",
+          "width": 2121,
+          "height": 1190,
+          "isCached": true
+        }
+      ],
+      "content": "<p>This app provides simulation of swinging pendulum and expains its background physics.</p><p>In order to realize this app, I have introduced a method of numerical calculation, called \"Runge-Kutta method\".</p><p>&nbsp;</p><p><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"pendulum.png\" style=\"width: 400px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/43042i4841B3B75078C691/image-size/medium?v=1.0&amp;px=400\" title=\"pendulum.png\" alt=\"pendulum.png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/43042i4841B3B75078C691?v=1.0\" li-image-display-id=\"'43042i4841B3B75078C691'\" li-message-uid=\"'183547'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"lesson.png\" style=\"width: 400px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/43043iCEA64BC5117B7126/image-size/medium?v=1.0&amp;px=400\" title=\"lesson.png\" alt=\"lesson.png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/43043iCEA64BC5117B7126?v=1.0\" li-image-display-id=\"'43043iCEA64BC5117B7126'\" li-message-uid=\"'183547'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-pomodoro-timer-app.md",
+      "title": "Pomodoro timer app",
+      "excerpt": "Hello Everyone!, This power app was built to check out features and what more can be achieved using a timer control in power apps. Main ambition of",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-pomodoro-timer-app/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-pomodoro-timer-app/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Pomodoro-timer-app/td-p/659179",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Krishna92",
+            "type": "profile",
+            "name": "Krishna92"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/615/1/Pomodoro%20App.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2020-08-14T08:20:00-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com/t5/image/serverpage/image-id/170298i5E5F29EA2639C420/image-size/large?v=1.0&px=999",
+          "width": 999,
+          "height": 556,
+          "isCached": true
+        }
+      ],
+      "content": "<p>Hello Everyone!,</p><p>&nbsp;</p><p>This power app was built to check out features and what more can be achieved using a timer control in power apps.</p><p>&nbsp;</p><p>&nbsp;</p><p>Main ambition of this app is to&nbsp;</p><p>&nbsp;</p><p>- Help users concentrate on tasks by setting task times</p><p>- Enable toggle timer creation in power apps.</p><p>- Utilize simple components to design the application most effective way.</p><p>&nbsp;</p><p>Here's the link for everyone to download the app and test it on your side.</p><p>I am also adding .msapp file.</p><p>&nbsp;</p><p>I encourage any feedback about the application.</p><p>You can also follow me at <a title=\"PowerCards\" href=\"https://technostack.co.in\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">PowerCards</a></p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-power-apps-calculating-various-dates-with-date-functions.md",
+      "title": "Power Apps - Calculating various dates with date functions",
+      "excerpt": "This video shows you how to leverage the DateDiff(), DateAdd(), Weekday(), DateValue(), and Day() functions to calculate any number of dates that are",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-power-apps-calculating-various-dates-with-date-functions/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-power-apps-calculating-various-dates-with-date-functions/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Power-Apps-Calculating-various-dates-with-date-functions/td-p/592175",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "SanAndresMan1",
+            "type": "profile",
+            "name": "SanAndresMan1"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/543/2/Date%20and%20Time.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2020-06-10T06:05:00-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/543/1/Thumbnail.jpg",
+          "width": 1519,
+          "height": 853,
+          "isCached": true
+        }
+      ],
+      "content": "<p><span>This video shows you how to leverage the DateDiff(), DateAdd(), Weekday(), DateValue(), and Day() functions to calculate any number of dates that are typical to business applications: first and last day of previous month, first and last day of previous quarter, first and last day of previous week, first and last day of current month, first and last day of current quarter, first and last day of current week, first and last day of next month, first and last day of next quarter, first and last day of next week, etc.&nbsp;Visit my blog to see all the calculations included.</span><br><br><span>Blog post: <a href=\"https://dynamicsgpblogster.blogspot.com/2020/06/powerapps-dates.html\" target=\"_self\" rel=\"nofollow noopener noreferrer\">Power Apps: Calculating various dates with date functions&nbsp;</a></span></p><p><span>Subscribe to my YouTube channel: <a href=\"https://youtube.com/mgomezb1\" target=\"_self\" rel=\"nofollow noopener noreferrer\">https://youtube.com/mgomezb1</a></span></p><p><span class=\"videoUrl\">watch?v=sOmZP6twlyM</span></p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-power-drum-kit.md",
+      "title": "Power Drum Kit",
+      "excerpt": "I am the head of the &amp;quot; Japan Power Apps Orchestra &amp;quot;. And Gift from Taichi Santa! This app is a musical instrument &amp;quot; Drum Kit &amp;quot;.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-power-drum-kit/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-power-drum-kit/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Power-Drum-Kit/td-p/432993",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "TAICHI",
+            "type": "profile",
+            "name": "TAICHI"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/370/2/Power_Drum_Kit_v5.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-12-24T00:45:00-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/370/1/Drum.png",
+          "width": 1033,
+          "height": 692,
+          "isCached": true
+        }
+      ],
+      "content": "<p>I am the head of the \" Japan Power Apps Orchestra \".</p><p>And Gift from Taichi Santa!</p><p>This app is a musical instrument \" Drum Kit \".</p><p>**The response is poor on iOS, so playing on Surface is best!</p><p>See the YouTube video for how to play.</p><p>&nbsp;</p><p>have fun!</p><p><span class=\"videoUrl\">watch?v=O-ZQf8Op3FM</span></p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-powerapp-to-download-f1-calendar-2020-2021-dutch-time.md",
+      "title": "PowerApp to download - F1 calendar 2020-2021 Dutch time",
+      "excerpt": "Hello, I've build my first app yesterday. It's a calendar with all F1 races and Dutch times. It uses an Excel sheet which can be adjusted in the App",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-powerapp-to-download-f1-calendar-2020-2021-dutch-time/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-powerapp-to-download-f1-calendar-2020-2021-dutch-time/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/PowerApp-to-download-F1-calendar-2020-2021-Dutch-time/td-p/465036",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "SBobbink",
+            "type": "profile",
+            "name": "SBobbink"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/424/2/N3a43c5b5-e5a3-4e0e-9007-9aea6fc73c30-document.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2020-02-08T21:20:00-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/424/3/Screenshot_20200209-144204_Power%20Apps.jpg",
+          "width": 1440,
+          "height": 2960,
+          "isCached": true
+        }
+      ],
+      "content": "<p>Hello,</p><p>&nbsp;</p><p>I've build my first app yesterday.</p><p>It's a calendar with all F1 races and Dutch times.</p><p>&nbsp;</p><p>It uses an Excel sheet which can be adjusted in the App itself so you can easy adapt it to your local time.</p><p>&nbsp;</p><p>Hope someone can use it!</p><p>&nbsp;</p><p>Have fun,</p><p>&nbsp;</p><p>&nbsp;</p><p>Sebastiaan</p><p>&nbsp;</p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-powerapps-challenge.md",
+      "title": "PowerApps Challenge",
+      "excerpt": "Solved: These apps / flows are a demo of the 3 tasks mentioned in this challenge by Audrie Gordon - Challenge Details Challenge 1. A PowerApp with 2",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-powerapps-challenge/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-powerapps-challenge/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/PowerApps-Challenge/td-p/213765",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "ThatAPIGuy",
+            "type": "profile",
+            "name": "ThatAPIGuy"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/88/2/N7a1d163d-5c2e-46ee-bfcd-0f404752bb88-document.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-02-02T15:32:00-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/88/1/PA%20Challenge.PNG",
+          "width": 921,
+          "height": 757,
+          "isCached": true
+        }
+      ],
+      "content": "<p>These apps / flows are a demo of the 3 tasks mentioned in this challenge by Audrie Gordon -</p><p><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRzJVkDds8yROvOeWrHDKUXBUMVM5SVA3TTFFNzZOMzBPR0pFUkM0NTBYTS4u\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Challenge Details</a></p><p>&nbsp;</p><p>Challenge 1. A PowerApp with 2 data sources such that the user can read the data but can't edit it.</p><p>Challenge 2. Tracking inventory of PowerApps Swag using Flow.</p><p>Challenge 3. Saving a photo to a Sharepoint Document library using Flow and adding some more meta-data to it.</p><p><span class=\"videoUrl\">watch?v=T7aLyuEwmw4</span></p>\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\r\n\t\t\t\r\n\t\t\t\t<div class='UserSignature lia-message-signature'>\r\n\t<p><br><b>Vivek Bavishi aka That API Guy</b><br><a href=\"http://links.thatapiguy.tech/mvp\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">PowerApps and Flow MVP</a><br><a href=\"http://links.thatapiguy.tech/blog\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">Blog</a> | <a href=\"http://links.thatapiguy.tech/twitter\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">Twitter</a> | <a href=\"http://links.thatapiguy.tech/youtube\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">YouTube</a> | <a href=\"https://powerusers.microsoft.com/t5/user/viewprofilepage/user-id/9448\" target=\"_blank\" rel=\"noopener\">Community Profile</a> | <a href=\"http://links.thatapiguy.tech/github\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">GitHub</a></p><br><br><p>If this post helps, then please consider<b><i> Accept it as the solution </i></b>to help the other members find it more quickly.</p>\r\n</div>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-powervideo-your-own-youtube-videos-deck.md",
+      "title": "PowerVideo - Your own YouTube videos deck",
+      "excerpt": "An app that helps you watch videos ONLY from the YouTube channels that you are interested in and not any algorithm recommendations. Stay focused!",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-powervideo-your-own-youtube-videos-deck/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-powervideo-your-own-youtube-videos-deck/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/PowerVideo-Your-own-YouTube-videos-deck/td-p/261670",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "ThatAPIGuy",
+            "type": "profile",
+            "name": "ThatAPIGuy"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/143/2/N3b299eb3-6c64-4d7a-afa1-42e1cf545853-document.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-04-02T22:44:00-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/143/1/youtube_deck_sample_First_Frame.png",
+          "width": 1584,
+          "height": 888,
+          "isCached": true
+        }
+      ],
+      "content": "<p>An app that helps you watch videos ONLY from the YouTube channels that you are interested in and not any algorithm recommendations.&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>Stay focused!<span>&nbsp;</span><img class=\"emoticon emoticon-smileyhappy\" src=\"/i/smilies/16x16_smiley-happy.png\" border=\"0\" alt=\"Smiley Happy\" title=\"Smiley Happy\"></p>\r\n<p>&nbsp;</p>\r\n<p>Install instructions -</p>\r\n<p>&nbsp;</p>\r\n<p>Please use this github link to download all files. The App gallery doesn't allow me to upload .zip files -</p>\r\n<p><a href=\"https://github.com/thatapiguy/Youtube-Deck-using-PowerApps-and-Flow\" target=\"_blank\" rel=\"nofollow noopener noreferrer noopener noreferrer\">https://github.com/thatapiguy/Youtube-Deck-using-PowerApps-and-Flow</a></p>\r\n<p>Import the .zip file in PowerApps and upload the excel file in your OneDrive . Delete the exisiting OneDrive connection in the PowerApp and then add a new OneDrive connection that connects to the 'Channels' table in the spreadsheet.</p>\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\r\n\t\t\t\r\n\t\t\t\t<div class='UserSignature lia-message-signature'>\r\n\t<p><br><b>Vivek Bavishi aka That API Guy</b><br><a href=\"http://links.thatapiguy.tech/mvp\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">PowerApps and Flow MVP</a><br><a href=\"http://links.thatapiguy.tech/blog\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">Blog</a> | <a href=\"http://links.thatapiguy.tech/twitter\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">Twitter</a> | <a href=\"http://links.thatapiguy.tech/youtube\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">YouTube</a> | <a href=\"https://powerusers.microsoft.com/t5/user/viewprofilepage/user-id/9448\" target=\"_blank\" rel=\"noopener\">Community Profile</a> | <a href=\"http://links.thatapiguy.tech/github\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">GitHub</a></p><br><br><p>If this post helps, then please consider<b><i> Accept it as the solution </i></b>to help the other members find it more quickly.</p>\r\n</div>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-powerweather-application-v10.md",
+      "title": "PowerWeather Application v1.0",
+      "excerpt": "Get your local weather in style with PowerApps and the MSN Weather connector. Features include: - Current local weather - Auto-refresh - Humidity -",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-powerweather-application-v10/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-powerweather-application-v10/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/PowerWeather-Application-v1-0/td-p/290862",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "SanAndresMan1",
+            "type": "profile",
+            "name": "SanAndresMan1"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/187/2/Weather.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-05-28T06:05:00-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/187/1/PowerWeather.png",
+          "width": 1920,
+          "height": 965,
+          "isCached": true
+        }
+      ],
+      "content": "<p><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"PowerWeather.png\" style=\"width: 999px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/67822i42F77EB021E9E803/image-size/large?v=1.0&amp;px=999\" title=\"PowerWeather.png\" alt=\"PowerWeather.png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/67822i42F77EB021E9E803?v=1.0\" li-image-display-id=\"'67822i42F77EB021E9E803'\" li-message-uid=\"'290862'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p><p>&nbsp;</p><p>Get your local weather in style with PowerApps and the MSN Weather connector. Features include:</p><p>&nbsp;</p><p>- Current local weather</p><p>- Auto-refresh</p><p>- Humidity</p><p>- Temperature</p><p>- UV Index</p><p>- Air pressure&nbsp;</p><p>- Dark theme</p><p>- Google Maps as a parametized component to the application (API key needed)</p><p>&nbsp;</p><p>What's left to do:</p><p>&nbsp;</p><p>1. Add a component or componentized gallery to deal with sky conditions</p><p>2. Additional local weather parameters</p><p>3. Reverse Geo-code (would be super nice to have)</p><p>&nbsp;</p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-puzzle.md",
+      "title": "Puzzle",
+      "excerpt": "(2019/08/21) Improved drag and drop response accuracy on mobile devices. (2019/08/19) Removed unnecessary connectors. ------ This is Character Puzzle",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-puzzle/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-puzzle/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Puzzle/td-p/343192",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "j-kodama",
+            "type": "profile",
+            "name": "j-kodama"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/225/4/puzzle.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-08-18T15:47:00-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/225/1/puzzle.png",
+          "width": 2413,
+          "height": 1253,
+          "isCached": true
+        }
+      ],
+      "content": "<p>(2019/08/21)</p><p><span>Improved drag and drop response accuracy on mobile devices.</span></p><p>&nbsp;</p><p>(2019/08/19)</p><p>Removed unnecessary connectors.</p><p>&nbsp;</p><p>------</p><p>This is Character Puzzle App.</p><p>&nbsp;</p><p>movie from Twitter<br><a href=\"https://twitter.com/KodamaJn/status/1162767190937833472\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">https://twitter.com/KodamaJn/status/1162767190937833472</a></p><p>&nbsp;</p><p>Characters can be moved by dragging and dropping. If the characters overlap, the positions are swapped automatically.</p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-rhythm-composer-pa-08.md",
+      "title": "Rhythm Composer PA-08",
+      "excerpt": "This Apps is Rhythm Composer. This Apps will record your voice, music, sounds for 16 channels and play them sequentially at the specified tempo. I",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-rhythm-composer-pa-08/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-rhythm-composer-pa-08/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Rhythm-Composer-PA-08/td-p/211197",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "R_t_A_n_M",
+            "type": "profile",
+            "name": "R_t_A_n_M"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/86/3/Rhythm%20Composer.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-01-28T15:15:00-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/86/1/%E3%82%AD%E3%83%A3%E3%83%97%E3%83%81%E3%83%A3.PNG",
+          "width": 1276,
+          "height": 633,
+          "isCached": true
+        }
+      ],
+      "content": "<p>This Apps is Rhythm Composer.</p><p><span>This Apps will record your voice, music, sounds for 16 channels and play them sequentially at the specified tempo.</span></p><p><span>I made with reference to Roland's TR-08.</span></p><p><span><a href=\"https://www.roland.com/jp/products/tr-08/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://www.roland.com/jp/products/tr-08/</a></span></p><p>&nbsp;</p><p><span>Your Enjoy Original Music Creation!</span></p><p>&nbsp;</p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-rotation-controller.md",
+      "title": "Rotation controller",
+      "excerpt": "I combined the controllers to create drag and drop. And I got a controller that can rotate. Blog (Japanese):",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-rotation-controller/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-rotation-controller/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Rotation-controller/td-p/254895",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "10mikiya",
+            "type": "profile",
+            "name": "10mikiya"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/135/2/RotationController.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-03-20T15:28:00-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/135/1/RotationController.png",
+          "width": 500,
+          "height": 608,
+          "isCached": true
+        }
+      ],
+      "content": "<p><span>I combined the controllers to create drag and drop.</span></p><p><span>And I got a controller that can rotate.</span></p><p>&nbsp;</p><p><span>Blog (Japanese):&nbsp;</span><a href=\"https://qiita.com/tomikiya/items/066fac850bfe12ab802e\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">https://qiita.com/tomikiya/items/066fac850bfe12ab802e</a></p><p>&nbsp;</p><p><span><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"ドラッグ&amp;ドロップ18.gif\" style=\"width: 613px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/57491iA0DFF69B990EC806/image-size/large?v=1.0&amp;px=999\" title=\"ドラッグ&amp;ドロップ18.gif\" alt=\"ドラッグ&amp;ドロップ18.gif\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/57491iA0DFF69B990EC806?v=1.0\" li-image-display-id=\"'57491iA0DFF69B990EC806'\" li-message-uid=\"'254895'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></span></p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-songwriting-app.md",
+      "title": "Songwriting App",
+      "excerpt": "Hi, I have created a songwriting app! This app is you can songwriting as you like. Please see the video about how to play. This is tweet that",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-songwriting-app/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-songwriting-app/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Songwriting-App/td-p/434189",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "korune",
+            "type": "profile",
+            "name": "korune"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/373/2/Songwriting.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-12-27T12:00:00-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/373/3/Songwriting.png",
+          "width": 1587,
+          "height": 892,
+          "isCached": true
+        }
+      ],
+      "content": "<p>Hi,&nbsp;I have created a songwriting app!</p><p>&nbsp;</p><p>This app is you can songwriting as you like.</p><p><span>Please see the video about how to play.</span></p><p>&nbsp;</p><p><span>This is tweet that <a href=\"/t5/user/viewprofilepage/user-id/70303\">@TAICHI</a>&nbsp; actually played!<br></span></p><blockquote><p>こんな感じ！ <a href=\"https://t.co/SJfk9wBAJp\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">pic.twitter.com/SJfk9wBAJp</a></p>— TAICHI (@artbreak_taichi) <a href=\"https://twitter.com/artbreak_taichi/status/1209477635748663296?ref_src=twsrc%5Etfw\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">December 24, 2019</a></blockquote><p>&nbsp;</p><p>Introduce the logic of the app easily.</p><p>&nbsp;</p><p>The music score is displayed by nesting collections as shown below.</p><p>If you want to adjust the length of the music score, adjust the number of records in the \"score\" of the collection.</p><p>&nbsp;</p><p>However, keep in mind that if you make it too long, the number of records will increase proportionately, which will make your app heavier.</p><p>If you like, I'm glad if you can write and enjoy the song!</p><p>&nbsp;</p><p><span class=\"videoUrl\">watch?v=w4zVCdzzQ9Y</span></p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    }
+  ],
+  "nextPage": 5
+}

@@ -1,0 +1,1274 @@
+{
+  "title": "Learning Resources",
+  "path": "_learning",
+  "page": 1,
+  "value": [
+    {
+      "path": "_learning/collections/dhruvin-shah-ai-builder-with-entity-extraction-model-step-by-step-series.md",
+      "title": "AI Builder with Entity Extraction Model - Step by Step Series",
+      "excerpt": "",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/collections/dhruvin-shah-ai-builder-with-entity-extraction-model-step-by-step-series/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/collections/dhruvin-shah-ai-builder-with-entity-extraction-model-step-by-step-series/",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "topItems": [
+        {
+          "path": "_learning/videos/dhruvin-shah-get-started-with-custom-entity-extraction-ai-model-using-ai-builder-ai-builder-entity-extraction.md",
+          "title": "Get Started with Custom Entity Extraction AI Model using AI Builder | AI Builder Entity Extraction",
+          "excerpt": "Welcome to Power Platform AI Builder Series. In this session, we will be discussing one of the important components of AI Builder which is Entity Extraction.  Entity Extraction AI model available in two forms – OOTB Entity Extraction AI Model and Custom Entity Extraction AI Model.  During this session",
+          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-get-started-with-custom-entity-extraction-ai-model-using-ai-builder-ai-builder-entity-extraction/index.json",
+          "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-get-started-with-custom-entity-extraction-ai-model-using-ai-builder-ai-builder-entity-extraction/",
+          "originalUrl": "https://youtube.com/watch?v=StWsJurUOTs",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/StWsJurUOTs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT11M1S",
+          "provider": {
+            "name": "Dhruvin Shah",
+            "domain": "youtube.com"
+          },
+          "publishedDateTime": "2020-06-21T19:03:44-07:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/StWsJurUOTs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "AI Builder"
+          ]
+        },
+        {
+          "path": "_learning/videos/dhruvin-shah-create-train-and-publish-an-entity-extraction-custom-ai-model.md",
+          "title": "Create, Train and Publish an Entity Extraction Custom AI Model",
+          "excerpt": "Welcome to Power Platform AI Builder Series. In this session, we will be discussing one of the important components of AI Builder which is Entity Extraction.  Entity Extraction AI model available in two forms – OOTB Entity Extraction AI Model and Custom Entity Extraction AI Model.  During this entire",
+          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-create-train-and-publish-an-entity-extraction-custom-ai-model/index.json",
+          "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-create-train-and-publish-an-entity-extraction-custom-ai-model/",
+          "originalUrl": "https://youtube.com/watch?v=PFEA4nkRyDs",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PFEA4nkRyDs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT17M16S",
+          "provider": {
+            "name": "Dhruvin Shah",
+            "domain": "youtube.com"
+          },
+          "publishedDateTime": "2020-06-21T19:33:43-07:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/PFEA4nkRyDs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "AI Builder"
+          ]
+        },
+        {
+          "path": "_learning/videos/dhruvin-shah-use-an-entity-extraction-custom-ai-model-in-power-apps-using-power-automate.md",
+          "title": "Use an Entity Extraction Custom AI Model in Power Apps Using Power Automate",
+          "excerpt": "Entity Extraction AI model available in two forms – OOTB Entity Extraction AI Model and Custom Entity Extraction AI Model.  During this entire series, we will be discussing the Custom Entity Extraction AI Model.  I have divided this entire series into three different parts. 1. Get Started with Custom",
+          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-use-an-entity-extraction-custom-ai-model-in-power-apps-using-power-automate/index.json",
+          "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-use-an-entity-extraction-custom-ai-model-in-power-apps-using-power-automate/",
+          "originalUrl": "https://youtube.com/watch?v=_SEIUmZc7lI",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_SEIUmZc7lI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT19M6S",
+          "provider": {
+            "name": "Dhruvin Shah",
+            "domain": "youtube.com"
+          },
+          "publishedDateTime": "2020-06-21T20:29:30-07:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/_SEIUmZc7lI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "AI Builder"
+          ]
+        },
+        {
+          "path": "_learning/videos/dhruvin-shah-use-custom-entity-extraction-ai-model-to-extract-the-useful-entities-from-your-business-data.md",
+          "title": "Use Custom Entity Extraction AI Model to Extract the Useful Entities from your Business Data",
+          "excerpt": "Welcome to Global AI Online Tour Pune 2020. This is a prerecorded session just before few hours ago for internal purpose and training.   This is a fast-forward session explaining end to end business process from developing custom Entity Extraction model from scratch.  As, this is a 30-minute session,",
+          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-use-custom-entity-extraction-ai-model-to-extract-the-useful-entities-from-your-business-data/index.json",
+          "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-use-custom-entity-extraction-ai-model-to-extract-the-useful-entities-from-your-business-data/",
+          "originalUrl": "https://youtube.com/watch?v=t8lRRhy2jAk",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/t8lRRhy2jAk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT26M43S",
+          "provider": {
+            "name": "Dhruvin Shah",
+            "domain": "youtube.com"
+          },
+          "publishedDateTime": "2020-06-21T21:03:48-07:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/t8lRRhy2jAk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "AI Builder"
+          ]
+        }
+      ],
+      "size": 4,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/StWsJurUOTs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/collections/dhruvin-shah-ai-builder-with-form-processing-step-by-step-series-power-platform-ai-builder.md",
+      "title": "AI Builder With Form Processing - Step by Step Series - Power Platform AI Builder",
+      "excerpt": "Welcome to PowerPlatform with AI series. During this entire series, we will talk about one of the important components of AI Builder which is – “Form Processing”.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/collections/dhruvin-shah-ai-builder-with-form-processing-step-by-step-series-power-platform-ai-builder/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/collections/dhruvin-shah-ai-builder-with-form-processing-step-by-step-series-power-platform-ai-builder/",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "topItems": [
+        {
+          "path": "_learning/videos/dhruvin-shah-overview-of-form-processing-model-using-power-platform-ai-builder-power-platform-ai-builder-series.md",
+          "title": "Overview of Form Processing Model using Power Platform AI Builder – Power Platform AI Builder Series",
+          "excerpt": "Welcome to PowerPlatform with AI series. During this entire series, we will talk about one of the important components of AI Builder which is – “Form Processing”.  I have divided this entire series into the following parts. 1. Overview of Form Processing model – Prerequisites, Scenario, and Limitations",
+          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-overview-of-form-processing-model-using-power-platform-ai-builder-power-platform-ai-builder-series/index.json",
+          "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-overview-of-form-processing-model-using-power-platform-ai-builder-power-platform-ai-builder-series/",
+          "originalUrl": "https://youtube.com/watch?v=9jKZhL6Q-FE",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9jKZhL6Q-FE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT10M6S",
+          "provider": {
+            "name": "Dhruvin Shah",
+            "domain": "youtube.com"
+          },
+          "publishedDateTime": "2020-04-08T21:54:33-07:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/9jKZhL6Q-FE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "AI Builder"
+          ]
+        },
+        {
+          "path": "_learning/videos/dhruvin-shah-get-started-to-build-with-form-processing-ai-model-power-platform-ai-builder-series-part-two.md",
+          "title": "Get Started to Build with Form Processing AI Model – Power Platform AI Builder Series – Part Two",
+          "excerpt": "Welcome to PowerPlatform with AI series. During this entire series, we will talk about one of the important components of AI Builder which is – “Form Processing”.  You are watching the second part of this series. In this video, we will discuss how we can build a model for Form Processing using AI Builder?",
+          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-get-started-to-build-with-form-processing-ai-model-power-platform-ai-builder-series-part-two/index.json",
+          "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-get-started-to-build-with-form-processing-ai-model-power-platform-ai-builder-series-part-two/",
+          "originalUrl": "https://youtube.com/watch?v=UDs3EIYCOTw",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UDs3EIYCOTw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT8M31S",
+          "provider": {
+            "name": "Dhruvin Shah",
+            "domain": "youtube.com"
+          },
+          "publishedDateTime": "2020-04-08T22:32:34-07:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/UDs3EIYCOTw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "AI Builder"
+          ]
+        },
+        {
+          "path": "_learning/videos/dhruvin-shah-how-to-train-and-publish-form-processing-ai-model-power-platform-ai-builder-series-part-three.md",
+          "title": "How to Train and Publish Form Processing AI Model? – Power Platform AI Builder Series – Part Three",
+          "excerpt": "Welcome to PowerPlatform with AI series. During this entire series, we will talk about one of the important components of AI Builder which is – “Form Processing”.  You are watching the third part of this series. In this video, we will discuss how we can train our Form Processing model and Publish the",
+          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-how-to-train-and-publish-form-processing-ai-model-power-platform-ai-builder-series-part-three/index.json",
+          "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-how-to-train-and-publish-form-processing-ai-model-power-platform-ai-builder-series-part-three/",
+          "originalUrl": "https://youtube.com/watch?v=OunHKFnIjqM",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OunHKFnIjqM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT5M4S",
+          "provider": {
+            "name": "Dhruvin Shah",
+            "domain": "youtube.com"
+          },
+          "publishedDateTime": "2020-04-09T00:02:15-07:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/OunHKFnIjqM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "AI Builder"
+          ]
+        },
+        {
+          "path": "_learning/videos/dhruvin-shah-build-power-apps-using-form-processing-ai-model-and-store-data-to-sharepoint-list-part-four.md",
+          "title": "Build Power Apps Using Form Processing AI Model and Store Data to SharePoint List – Part  Four",
+          "excerpt": "Welcome to PowerPlatform with AI series. During this entire series, we will talk about one of the important components of AI Builder which is – “Form Processing”.  You are watching the fourth part of this series. In this video, we will discuss how we can build a Power Apps consuming Form Processor Component,",
+          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-build-power-apps-using-form-processing-ai-model-and-store-data-to-sharepoint-list-part-four/index.json",
+          "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-build-power-apps-using-form-processing-ai-model-and-store-data-to-sharepoint-list-part-four/",
+          "originalUrl": "https://youtube.com/watch?v=lV-uhYWS_tE",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lV-uhYWS_tE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT14M49S",
+          "provider": {
+            "name": "Dhruvin Shah",
+            "domain": "youtube.com"
+          },
+          "publishedDateTime": "2020-04-09T00:52:44-07:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/lV-uhYWS_tE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "AI Builder"
+          ]
+        }
+      ],
+      "size": 5,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9jKZhL6Q-FE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/collections/dhruvin-shah-ai-builder-with-prediction-model-step-by-step-series.md",
+      "title": "AI Builder with Prediction Model - Step by Step Series",
+      "excerpt": "Welcome to Power Platform AI Builder Series. In this series, we will be talking about one of the most important components of AI Builder which is – Prediction Model ",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/collections/dhruvin-shah-ai-builder-with-prediction-model-step-by-step-series/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/collections/dhruvin-shah-ai-builder-with-prediction-model-step-by-step-series/",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "topItems": [
+        {
+          "path": "_learning/videos/dhruvin-shah-get-started-with-ai-builder-prediction-model-using-power-apps-canvas-app-through-power-automate.md",
+          "title": "Get Started with AI Builder Prediction Model Using Power Apps Canvas App through Power Automate",
+          "excerpt": "AI Builder - Prediction Model - Step by Step Series  Welcome to Power Platform AI Builder Series. In this series, we will be talking about one of the most important components of AI Builder which is – Prediction Model   During the first part of the series, we will be talking about What is Prediction",
+          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-get-started-with-ai-builder-prediction-model-using-power-apps-canvas-app-through-power-automate/index.json",
+          "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-get-started-with-ai-builder-prediction-model-using-power-apps-canvas-app-through-power-automate/",
+          "originalUrl": "https://youtube.com/watch?v=dO9n7LWWtXk",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dO9n7LWWtXk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT9M13S",
+          "provider": {
+            "name": "Dhruvin Shah",
+            "domain": "youtube.com"
+          },
+          "publishedDateTime": "2020-05-17T01:39:13-07:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/dO9n7LWWtXk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "AI Builder",
+            "Canvas apps"
+          ]
+        },
+        {
+          "path": "_learning/videos/dhruvin-shah-building-cds-model-to-build-prediction-ai-model-using-ai-builder-part-two.md",
+          "title": "Building CDS Model to Build Prediction AI Model using AI Builder – Part Two",
+          "excerpt": "Welcome to Power Platform AI Builder Series. In this series, we will be talking about one of the most important components of AI Builder which is – Prediction Model   During the first part of the series, we will be talking about What is Prediction and how it is useful with our business data to predict",
+          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-building-cds-model-to-build-prediction-ai-model-using-ai-builder-part-two/index.json",
+          "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-building-cds-model-to-build-prediction-ai-model-using-ai-builder-part-two/",
+          "originalUrl": "https://youtube.com/watch?v=zPliS2MezA8",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zPliS2MezA8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT6M35S",
+          "provider": {
+            "name": "Dhruvin Shah",
+            "domain": "youtube.com"
+          },
+          "publishedDateTime": "2020-05-17T01:51:09-07:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/zPliS2MezA8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "AI Builder"
+          ]
+        },
+        {
+          "path": "_learning/videos/dhruvin-shah-how-to-build-train-and-publish-prediction-model-using-ai-builder-part-3.md",
+          "title": "How to Build, Train and Publish Prediction Model using AI Builder? – Part 3",
+          "excerpt": "Welcome to Power Platform AI Builder Series. In this series, we will be talking about one of the most important components of AI Builder which is – Prediction Model   During the first part of the series, we will be talking about What is Prediction and how it is useful with our business data to predict",
+          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-how-to-build-train-and-publish-prediction-model-using-ai-builder-part-3/index.json",
+          "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-how-to-build-train-and-publish-prediction-model-using-ai-builder-part-3/",
+          "originalUrl": "https://youtube.com/watch?v=m0g7tH8xXms",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/m0g7tH8xXms\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT10M46S",
+          "provider": {
+            "name": "Dhruvin Shah",
+            "domain": "youtube.com"
+          },
+          "publishedDateTime": "2020-05-17T01:57:41-07:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/m0g7tH8xXms/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "AI Builder"
+          ]
+        },
+        {
+          "path": "_learning/videos/dhruvin-shah-use-your-prediction-ai-model-to-predict-the-future-data-using-power-apps-and-power-automate-part-4.md",
+          "title": "Use your Prediction AI Model to Predict the Future Data Using Power Apps and Power Automate – Part 4",
+          "excerpt": "Welcome to Power Platform AI Builder Series. In this series, we will be talking about one of the most important components of AI Builder which is – Prediction Model   During the first part of the series, we will be talking about What is Prediction and how it is useful with our business data to predict",
+          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-use-your-prediction-ai-model-to-predict-the-future-data-using-power-apps-and-power-automate-part-4/index.json",
+          "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-use-your-prediction-ai-model-to-predict-the-future-data-using-power-apps-and-power-automate-part-4/",
+          "originalUrl": "https://youtube.com/watch?v=dDHl1IvcJXA",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dDHl1IvcJXA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT20M58S",
+          "provider": {
+            "name": "Dhruvin Shah",
+            "domain": "youtube.com"
+          },
+          "publishedDateTime": "2020-05-17T02:00:41-07:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/dDHl1IvcJXA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "AI Builder"
+          ]
+        }
+      ],
+      "size": 4,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dO9n7LWWtXk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/collections/dhruvin-shah-ai-builder-with-text-classification-step-by-step-series.md",
+      "title": "AI Builder with Text Classification - Step by Step series",
+      "excerpt": "",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/collections/dhruvin-shah-ai-builder-with-text-classification-step-by-step-series/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/collections/dhruvin-shah-ai-builder-with-text-classification-step-by-step-series/",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "topItems": [
+        {
+          "path": "_learning/videos/dhruvin-shah-overview-of-category-classification-in-ai-builder-power-platform-ai-builder-series-part-one.md",
+          "title": "Overview of Category Classification in AI Builder – Power Platform AI Builder Series – Part One",
+          "excerpt": "Welcome to Power Platform with AI series. During this entire series, we will talk about one of the important components of AI Builder which is – “Text Classification”.  Category Classification with AI Builder: The first question arises in our mind is What is Text Classification and how does it help to",
+          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-overview-of-category-classification-in-ai-builder-power-platform-ai-builder-series-part-one/index.json",
+          "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-overview-of-category-classification-in-ai-builder-power-platform-ai-builder-series-part-one/",
+          "originalUrl": "https://youtube.com/watch?v=TGIAb47kg6M",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TGIAb47kg6M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT7M17S",
+          "provider": {
+            "name": "Dhruvin Shah",
+            "domain": "youtube.com"
+          },
+          "publishedDateTime": "2020-04-15T22:00:05-07:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/TGIAb47kg6M/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "AI Builder"
+          ]
+        },
+        {
+          "path": "_learning/videos/dhruvin-shah-how-to-import-text-classification-data-to-common-data-service-cds-ai-builder-series-part-two.md",
+          "title": "How to Import Text Classification Data to Common Data Service (CDS)? – AI Builder Series – Part Two",
+          "excerpt": "Welcome to Power Platform with AI series. During this entire series, we will talk about one of the important components of AI Builder which is – “Text Classification”.  Text Classification with AI Builder: The first question arises in our mind is What is Text Classification and how does it help to our",
+          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-how-to-import-text-classification-data-to-common-data-service-cds-ai-builder-series-part-two/index.json",
+          "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-how-to-import-text-classification-data-to-common-data-service-cds-ai-builder-series-part-two/",
+          "originalUrl": "https://youtube.com/watch?v=pcn09VZfvIw",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pcn09VZfvIw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT8M15S",
+          "provider": {
+            "name": "Dhruvin Shah",
+            "domain": "youtube.com"
+          },
+          "publishedDateTime": "2020-04-16T01:33:54-07:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/pcn09VZfvIw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "AI Builder",
+            "Common Data Service"
+          ]
+        },
+        {
+          "path": "_learning/videos/dhruvin-shah-create-a-text-classification-model-using-ai-builder-power-platform-ai-builder-series-part-three.md",
+          "title": "Create a Text Classification model using AI Builder – Power Platform AI Builder Series – Part Three",
+          "excerpt": "Welcome to Power Platform with AI series. During this entire series, we will talk about one of the important components of AI Builder which is – “Text Classification”.  Text Classification with AI Builder: Power Platform AI builder provides a facility to perform Text Classification and allows us to define",
+          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-create-a-text-classification-model-using-ai-builder-power-platform-ai-builder-series-part-three/index.json",
+          "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-create-a-text-classification-model-using-ai-builder-power-platform-ai-builder-series-part-three/",
+          "originalUrl": "https://youtube.com/watch?v=qgz5xCACXvs",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qgz5xCACXvs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT5M32S",
+          "provider": {
+            "name": "Dhruvin Shah",
+            "domain": "youtube.com"
+          },
+          "publishedDateTime": "2020-04-16T02:13:08-07:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/qgz5xCACXvs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "AI Builder"
+          ]
+        },
+        {
+          "path": "_learning/videos/dhruvin-shah-train-publish-and-test-text-classification-ai-model-power-platform-ai-builder-series-part-four.md",
+          "title": "Train, Publish and Test Text Classification AI Model – Power Platform AI Builder Series – Part Four",
+          "excerpt": "Welcome to Power Platform with AI series. During this entire series, we will talk about one of the important components of AI Builder which is – “Text Classification”. Text Classification with AI Builder: Power Platform AI builder provides a facility to perform Text Classification and allows us to define",
+          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-train-publish-and-test-text-classification-ai-model-power-platform-ai-builder-series-part-four/index.json",
+          "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-train-publish-and-test-text-classification-ai-model-power-platform-ai-builder-series-part-four/",
+          "originalUrl": "https://youtube.com/watch?v=IEs1jEfUxOo",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IEs1jEfUxOo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT5M21S",
+          "provider": {
+            "name": "Dhruvin Shah",
+            "domain": "youtube.com"
+          },
+          "publishedDateTime": "2020-04-16T02:21:42-07:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/IEs1jEfUxOo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "AI Builder"
+          ]
+        }
+      ],
+      "size": 5,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/TGIAb47kg6M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-using-the-powerapps-ai-builder-object-detector.md",
+      "title": "Using the PowerApps AI Builder Object Detector",
+      "excerpt": "Learn how to use the AI Builder for object detection. In this app build project, you'll see how to do automatic inventory by just taking pictures of what you want to inventory in PowerApps or Microsoft Flow.  Check out our great training at https://www.pragmaticworkstraining.com.   We love to build apps",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-using-the-powerapps-ai-builder-object-detector/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-using-the-powerapps-ai-builder-object-detector/",
+      "originalUrl": "https://youtube.com/watch?v=R4LYI8f46ic",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/R4LYI8f46ic\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M12S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2019-11-01T08:21:54-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/R4LYI8f46ic/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/videos/april-dunnam-powerapps-json-function-ai-builder.md",
+      "title": "PowerApps JSON Function & AI Builder",
+      "excerpt": "See how to use the new JSON function and Business Card Reader AI Control to OCR a business card, add it to a database, convert the image to JSON and add as a file in SharePoint.  All with zero code required.  Here's a link to the corresponding blog post: https://www.sharepointsiren.com/2019/06/ocr-and-image-upload-with-powerapps/",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-powerapps-json-function-ai-builder/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-powerapps-json-function-ai-builder/",
+      "originalUrl": "https://youtube.com/watch?v=zbOfgdrRRrk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zbOfgdrRRrk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M56S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-05-18T07:39:58-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/zbOfgdrRRrk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-build-power-apps-using-form-processing-ai-model-and-store-data-to-sharepoint-list-part-four.md",
+      "title": "Build Power Apps Using Form Processing AI Model and Store Data to SharePoint List – Part  Four",
+      "excerpt": "Welcome to PowerPlatform with AI series. During this entire series, we will talk about one of the important components of AI Builder which is – “Form Processing”.  You are watching the fourth part of this series. In this video, we will discuss how we can build a Power Apps consuming Form Processor Component,",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-build-power-apps-using-form-processing-ai-model-and-store-data-to-sharepoint-list-part-four/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-build-power-apps-using-form-processing-ai-model-and-store-data-to-sharepoint-list-part-four/",
+      "originalUrl": "https://youtube.com/watch?v=lV-uhYWS_tE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lV-uhYWS_tE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M49S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-04-09T00:52:44-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/lV-uhYWS_tE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-building-cds-model-to-build-prediction-ai-model-using-ai-builder-part-two.md",
+      "title": "Building CDS Model to Build Prediction AI Model using AI Builder – Part Two",
+      "excerpt": "Welcome to Power Platform AI Builder Series. In this series, we will be talking about one of the most important components of AI Builder which is – Prediction Model   During the first part of the series, we will be talking about What is Prediction and how it is useful with our business data to predict",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-building-cds-model-to-build-prediction-ai-model-using-ai-builder-part-two/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-building-cds-model-to-build-prediction-ai-model-using-ai-builder-part-two/",
+      "originalUrl": "https://youtube.com/watch?v=zPliS2MezA8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zPliS2MezA8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M35S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-05-17T01:51:09-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/zPliS2MezA8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-create-a-text-classification-model-using-ai-builder-power-platform-ai-builder-series-part-three.md",
+      "title": "Create a Text Classification model using AI Builder – Power Platform AI Builder Series – Part Three",
+      "excerpt": "Welcome to Power Platform with AI series. During this entire series, we will talk about one of the important components of AI Builder which is – “Text Classification”.  Text Classification with AI Builder: Power Platform AI builder provides a facility to perform Text Classification and allows us to define",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-create-a-text-classification-model-using-ai-builder-power-platform-ai-builder-series-part-three/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-create-a-text-classification-model-using-ai-builder-power-platform-ai-builder-series-part-three/",
+      "originalUrl": "https://youtube.com/watch?v=qgz5xCACXvs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qgz5xCACXvs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M32S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-04-16T02:13:08-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qgz5xCACXvs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-create-train-and-publish-an-entity-extraction-custom-ai-model.md",
+      "title": "Create, Train and Publish an Entity Extraction Custom AI Model",
+      "excerpt": "Welcome to Power Platform AI Builder Series. In this session, we will be discussing one of the important components of AI Builder which is Entity Extraction.  Entity Extraction AI model available in two forms – OOTB Entity Extraction AI Model and Custom Entity Extraction AI Model.  During this entire",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-create-train-and-publish-an-entity-extraction-custom-ai-model/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-create-train-and-publish-an-entity-extraction-custom-ai-model/",
+      "originalUrl": "https://youtube.com/watch?v=PFEA4nkRyDs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PFEA4nkRyDs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M16S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-06-21T19:33:43-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/PFEA4nkRyDs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-get-started-to-build-with-form-processing-ai-model-power-platform-ai-builder-series-part-two.md",
+      "title": "Get Started to Build with Form Processing AI Model – Power Platform AI Builder Series – Part Two",
+      "excerpt": "Welcome to PowerPlatform with AI series. During this entire series, we will talk about one of the important components of AI Builder which is – “Form Processing”.  You are watching the second part of this series. In this video, we will discuss how we can build a model for Form Processing using AI Builder?",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-get-started-to-build-with-form-processing-ai-model-power-platform-ai-builder-series-part-two/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-get-started-to-build-with-form-processing-ai-model-power-platform-ai-builder-series-part-two/",
+      "originalUrl": "https://youtube.com/watch?v=UDs3EIYCOTw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UDs3EIYCOTw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M31S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-04-08T22:32:34-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/UDs3EIYCOTw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-get-started-with-ai-builder-prediction-model-using-power-apps-canvas-app-through-power-automate.md",
+      "title": "Get Started with AI Builder Prediction Model Using Power Apps Canvas App through Power Automate",
+      "excerpt": "AI Builder - Prediction Model - Step by Step Series  Welcome to Power Platform AI Builder Series. In this series, we will be talking about one of the most important components of AI Builder which is – Prediction Model   During the first part of the series, we will be talking about What is Prediction",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-get-started-with-ai-builder-prediction-model-using-power-apps-canvas-app-through-power-automate/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-get-started-with-ai-builder-prediction-model-using-power-apps-canvas-app-through-power-automate/",
+      "originalUrl": "https://youtube.com/watch?v=dO9n7LWWtXk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dO9n7LWWtXk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M13S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-05-17T01:39:13-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dO9n7LWWtXk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-get-started-with-custom-entity-extraction-ai-model-using-ai-builder-ai-builder-entity-extraction.md",
+      "title": "Get Started with Custom Entity Extraction AI Model using AI Builder | AI Builder Entity Extraction",
+      "excerpt": "Welcome to Power Platform AI Builder Series. In this session, we will be discussing one of the important components of AI Builder which is Entity Extraction.  Entity Extraction AI model available in two forms – OOTB Entity Extraction AI Model and Custom Entity Extraction AI Model.  During this session",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-get-started-with-custom-entity-extraction-ai-model-using-ai-builder-ai-builder-entity-extraction/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-get-started-with-custom-entity-extraction-ai-model-using-ai-builder-ai-builder-entity-extraction/",
+      "originalUrl": "https://youtube.com/watch?v=StWsJurUOTs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/StWsJurUOTs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M1S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-06-21T19:03:44-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/StWsJurUOTs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-how-to-build-train-and-publish-prediction-model-using-ai-builder-part-3.md",
+      "title": "How to Build, Train and Publish Prediction Model using AI Builder? – Part 3",
+      "excerpt": "Welcome to Power Platform AI Builder Series. In this series, we will be talking about one of the most important components of AI Builder which is – Prediction Model   During the first part of the series, we will be talking about What is Prediction and how it is useful with our business data to predict",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-how-to-build-train-and-publish-prediction-model-using-ai-builder-part-3/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-how-to-build-train-and-publish-prediction-model-using-ai-builder-part-3/",
+      "originalUrl": "https://youtube.com/watch?v=m0g7tH8xXms",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/m0g7tH8xXms\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M46S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-05-17T01:57:41-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/m0g7tH8xXms/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-how-to-import-text-classification-data-to-common-data-service-cds-ai-builder-series-part-two.md",
+      "title": "How to Import Text Classification Data to Common Data Service (CDS)? – AI Builder Series – Part Two",
+      "excerpt": "Welcome to Power Platform with AI series. During this entire series, we will talk about one of the important components of AI Builder which is – “Text Classification”.  Text Classification with AI Builder: The first question arises in our mind is What is Text Classification and how does it help to our",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-how-to-import-text-classification-data-to-common-data-service-cds-ai-builder-series-part-two/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-how-to-import-text-classification-data-to-common-data-service-cds-ai-builder-series-part-two/",
+      "originalUrl": "https://youtube.com/watch?v=pcn09VZfvIw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pcn09VZfvIw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M15S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-04-16T01:33:54-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/pcn09VZfvIw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder",
+        "Common Data Service"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-how-to-train-and-publish-form-processing-ai-model-power-platform-ai-builder-series-part-three.md",
+      "title": "How to Train and Publish Form Processing AI Model? – Power Platform AI Builder Series – Part Three",
+      "excerpt": "Welcome to PowerPlatform with AI series. During this entire series, we will talk about one of the important components of AI Builder which is – “Form Processing”.  You are watching the third part of this series. In this video, we will discuss how we can train our Form Processing model and Publish the",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-how-to-train-and-publish-form-processing-ai-model-power-platform-ai-builder-series-part-three/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-how-to-train-and-publish-form-processing-ai-model-power-platform-ai-builder-series-part-three/",
+      "originalUrl": "https://youtube.com/watch?v=OunHKFnIjqM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OunHKFnIjqM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M4S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-04-09T00:02:15-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/OunHKFnIjqM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-overview-of-category-classification-in-ai-builder-power-platform-ai-builder-series-part-one.md",
+      "title": "Overview of Category Classification in AI Builder – Power Platform AI Builder Series – Part One",
+      "excerpt": "Welcome to Power Platform with AI series. During this entire series, we will talk about one of the important components of AI Builder which is – “Text Classification”.  Category Classification with AI Builder: The first question arises in our mind is What is Text Classification and how does it help to",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-overview-of-category-classification-in-ai-builder-power-platform-ai-builder-series-part-one/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-overview-of-category-classification-in-ai-builder-power-platform-ai-builder-series-part-one/",
+      "originalUrl": "https://youtube.com/watch?v=TGIAb47kg6M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TGIAb47kg6M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M17S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-04-15T22:00:05-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/TGIAb47kg6M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-overview-of-form-processing-model-using-power-platform-ai-builder-power-platform-ai-builder-series.md",
+      "title": "Overview of Form Processing Model using Power Platform AI Builder – Power Platform AI Builder Series",
+      "excerpt": "Welcome to PowerPlatform with AI series. During this entire series, we will talk about one of the important components of AI Builder which is – “Form Processing”.  I have divided this entire series into the following parts. 1. Overview of Form Processing model – Prerequisites, Scenario, and Limitations",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-overview-of-form-processing-model-using-power-platform-ai-builder-power-platform-ai-builder-series/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-overview-of-form-processing-model-using-power-platform-ai-builder-power-platform-ai-builder-series/",
+      "originalUrl": "https://youtube.com/watch?v=9jKZhL6Q-FE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9jKZhL6Q-FE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M6S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-04-08T21:54:33-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9jKZhL6Q-FE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-real-world-use-case-form-processing-with-ai-builder-in-power-apps-and-sharepoint-as-back-end.md",
+      "title": "Real World Use Case - Form Processing with AI Builder in Power Apps and SharePoint as Back end",
+      "excerpt": "This video demonstrates the Real World use case for Power Apps Form Processing AI Model.  The AI Builder is a new game changer for the Power Platform. Here we have taken an example of a Real-World Business Use case where User uploads the scanned document of their Rent Receipt. The Form Processing AI",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-real-world-use-case-form-processing-with-ai-builder-in-power-apps-and-sharepoint-as-back-end/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-real-world-use-case-form-processing-with-ai-builder-in-power-apps-and-sharepoint-as-back-end/",
+      "originalUrl": "https://youtube.com/watch?v=ty9yy14RQMY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ty9yy14RQMY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-04-09T18:31:11-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ty9yy14RQMY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-train-publish-and-test-text-classification-ai-model-power-platform-ai-builder-series-part-four.md",
+      "title": "Train, Publish and Test Text Classification AI Model – Power Platform AI Builder Series – Part Four",
+      "excerpt": "Welcome to Power Platform with AI series. During this entire series, we will talk about one of the important components of AI Builder which is – “Text Classification”. Text Classification with AI Builder: Power Platform AI builder provides a facility to perform Text Classification and allows us to define",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-train-publish-and-test-text-classification-ai-model-power-platform-ai-builder-series-part-four/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-train-publish-and-test-text-classification-ai-model-power-platform-ai-builder-series-part-four/",
+      "originalUrl": "https://youtube.com/watch?v=IEs1jEfUxOo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IEs1jEfUxOo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M21S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-04-16T02:21:42-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/IEs1jEfUxOo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-use-an-entity-extraction-custom-ai-model-in-power-apps-using-power-automate.md",
+      "title": "Use an Entity Extraction Custom AI Model in Power Apps Using Power Automate",
+      "excerpt": "Entity Extraction AI model available in two forms – OOTB Entity Extraction AI Model and Custom Entity Extraction AI Model.  During this entire series, we will be discussing the Custom Entity Extraction AI Model.  I have divided this entire series into three different parts. 1. Get Started with Custom",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-use-an-entity-extraction-custom-ai-model-in-power-apps-using-power-automate/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-use-an-entity-extraction-custom-ai-model-in-power-apps-using-power-automate/",
+      "originalUrl": "https://youtube.com/watch?v=_SEIUmZc7lI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_SEIUmZc7lI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M6S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-06-21T20:29:30-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_SEIUmZc7lI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-use-category-classification-or-text-classification-ai-model-in-power-apps-and-power-automate.md",
+      "title": "Use Category Classification or Text Classification AI Model in Power Apps and Power Automate",
+      "excerpt": "Welcome to Power Platform AI Builder Series. This is the same session I have represented to Global AI Online Tour - 2020 at Ahmedabad. This is a pre-recorded session.  During this session, I'm going to talk about Category Classification inside the AI Builder. The Category Classification was earlier known",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-use-category-classification-or-text-classification-ai-model-in-power-apps-and-power-automate/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-use-category-classification-or-text-classification-ai-model-in-power-apps-and-power-automate/",
+      "originalUrl": "https://youtube.com/watch?v=jQt1F6WXIQQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jQt1F6WXIQQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT34M7S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-10-04T22:39:45-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jQt1F6WXIQQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-use-custom-entity-extraction-ai-model-to-extract-the-useful-entities-from-your-business-data.md",
+      "title": "Use Custom Entity Extraction AI Model to Extract the Useful Entities from your Business Data",
+      "excerpt": "Welcome to Global AI Online Tour Pune 2020. This is a prerecorded session just before few hours ago for internal purpose and training.   This is a fast-forward session explaining end to end business process from developing custom Entity Extraction model from scratch.  As, this is a 30-minute session,",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-use-custom-entity-extraction-ai-model-to-extract-the-useful-entities-from-your-business-data/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-use-custom-entity-extraction-ai-model-to-extract-the-useful-entities-from-your-business-data/",
+      "originalUrl": "https://youtube.com/watch?v=t8lRRhy2jAk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/t8lRRhy2jAk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M43S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-06-21T21:03:48-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/t8lRRhy2jAk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-use-your-prediction-ai-model-to-predict-the-future-data-using-power-apps-and-power-automate-part-4.md",
+      "title": "Use your Prediction AI Model to Predict the Future Data Using Power Apps and Power Automate – Part 4",
+      "excerpt": "Welcome to Power Platform AI Builder Series. In this series, we will be talking about one of the most important components of AI Builder which is – Prediction Model   During the first part of the series, we will be talking about What is Prediction and how it is useful with our business data to predict",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-use-your-prediction-ai-model-to-predict-the-future-data-using-power-apps-and-power-automate-part-4/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-use-your-prediction-ai-model-to-predict-the-future-data-using-power-apps-and-power-automate-part-4/",
+      "originalUrl": "https://youtube.com/watch?v=dDHl1IvcJXA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dDHl1IvcJXA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M58S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-05-17T02:00:41-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dDHl1IvcJXA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-artificial-intelligence-in-powerapps-with-ai-builder.md",
+      "title": "Artificial Intelligence in PowerApps with AI Builder",
+      "excerpt": "Free training every Tuesday at 11am EST https://pragmaticworks.com/resources/...   Do you want to learn how to use Artificial Intelligence in PowerApps?    In this demo-heavy presentation, you'll see how to integrate PowerApps applications into Power BI reports making your reports actionable.  Pragmatic",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-artificial-intelligence-in-powerapps-with-ai-builder/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-artificial-intelligence-in-powerapps-with-ai-builder/",
+      "originalUrl": "https://youtube.com/watch?v=tVIpwCKwCxg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tVIpwCKwCxg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT57M9S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2019-10-31T05:11:26-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tVIpwCKwCxg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    }
+  ]
+}
