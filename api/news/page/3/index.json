@@ -2,6 +2,108 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-09-new-search-experience-and-quick-actions-in-power-apps.md",
+      "title": "New search experience and quick actions in Power Apps",
+      "excerpt": "With Power Apps 2021 release wave 1, new search is available for all relevance search customers in model-driven Power Apps. The new search is easy to use, fast, accurate and includes usability improvements that bring some of the most used actions closer to search results to help you complete your task",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/new-search-experience-and-quick-actions-in-power-apps/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/new-search-experience-and-quick-actions-in-power-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-08T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_news/2021-02-08-communicate-broadly-and-collaborate-effectively-with-two-new-power-apps.md",
+      "title": "Communicate broadly and collaborate effectively with two new Power Apps",
+      "excerpt": "Learn more about two new fully functional solutions build on Power Apps and Dataverse for Teams &#8211; Bulletins and Milestones. Bulletins enables you to effectively communicate important information to your team members. Milestones enables the team members to collaborate across functions on the most",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/communicate-broadly-and-collaborate-effectively-with-two-new-power-apps-solutions/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/communicate-broadly-and-collaborate-effectively-with-two-new-power-apps-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-08T04:19:28-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2021-02-08-ecolab-uses-microsoft-power-platform-to-create-a-unified-hub-for-sales-and-service-teams.md",
       "title": "Ecolab uses Microsoft Power Platform to create a unified HUB for Sales and Service teams",
       "excerpt": "The story of how Ecolab created a unified &#8220;HUB&#8221; experience for its sales and service staff to stay informed, view insights and complete tasks while on the go. The solution was created with Power Apps, Power Automate, Power BI, and Microsoft Dataverse. It integrates with Dynamics 365 and Azure",
@@ -1181,109 +1283,6 @@
       "topics": [
         "Power Apps",
         "AI Builder"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-announcing-dataflows-power-automate-connector-public-preview.md",
-      "title": "Announcing Dataflows Power Automate Connector public preview",
-      "excerpt": "Power Automate Dataflow connector along with templates and sample scenarios you can get started with right away. The new connector provides a new way to react to dataflow events to take action on dataflows. Combined with other Power Platform Products connectors and the 400+ connectors available in Power",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-dataflows-power-automate-connector-public-preview/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-dataflows-power-automate-connector-public-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-16T03:00:52-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-general-availability-of-power-bi-reports-as-system-dashboards-in-model-driven-apps.md",
-      "title": "General Availability of Power BI reports as system dashboards in model-driven apps",
-      "excerpt": "Embedding Power BI reports in model driven and Dynamics applications. ",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/general-availability-of-power-bi-reports-as-system-dashboards-in-model-driven-apps/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/general-availability-of-power-bi-reports-as-system-dashboards-in-model-driven-apps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-15T00:00:53-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps",
-        "Model-driven apps"
       ]
     }
   ],
