@@ -1,34 +1,26 @@
 ---
 category: news
 title: "Microsoft Build touts Power Apps, Cosmos DB enhancements to develop code faster"
-excerpt: "Microsoft emphasized speed and ease of development in announcements for Power Apps, Power BI, and Cosmos DB at Microsoft Build."
-publishedDateTime: 2021-05-31T00:20:00Z
-originalUrl: "https://venturebeat.com/2021/05/30/microsoft-build-touts-enhancements-to-power-apps-cosmos-db-to-develop-code-faster/"
-webUrl: "https://venturebeat.com/2021/05/30/microsoft-build-touts-enhancements-to-power-apps-cosmos-db-to-develop-code-faster/"
-ampWebUrl: "https://venturebeat.com/2021/05/30/microsoft-build-touts-enhancements-to-power-apps-cosmos-db-to-develop-code-faster/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/30/microsoft-build-touts-enhancements-to-power-apps-cosmos-db-to-develop-code-faster/amp/"
+excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net Microsoft emphasized speed and ease of development in announcements for Power Apps, Power BI ..."
+publishedDateTime: 2021-05-31T05:55:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/microsoft-build-touts-power-apps--cosmos-db-enhancements-to-develop-code-faster-10189341"
+webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-build-touts-power-apps--cosmos-db-enhancements-to-develop-code-faster-10189341"
 type: article
-quality: 93
-heat: 93
-published: true
+quality: 53
+heat: 53
+published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://everyday-cc.github.io/powerapps/assets/images/organizations/venturebeat.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/powerapps/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Power Apps
 
-images:
-  - url: "https://venturebeat.com/wp-content/uploads/2020/05/microsoft-build-2020.png?w=1200&strip=all"
-    width: 1200
-    height: 600
-    isCached: true
-
-secured: "CN55gV9bw4U2AJGlm26lXWfgA5815bwninUeHG3Lnhp+Wkv1aJXAa1hGWKR4f1Q8lhM99r7xaQ62RyanRoQwULc3a4YCS0efRKHMQbCXA3cXYbA4koDFN0tA/43N6lBZWsp713q2DM+/2bey5F3GZEzlr23T8RxSsOUouXNyOHz7OpCdm+hLJEvRRLj/cpb3Jd0nHvVUaUznZr6iJNBT7earhIW7IybYQMKxzAZr2yfptTBrW20cPrPachdNn+wa/zz1sWXXONLsVHtHjE2uNfw73vvYvBsEmjB49HVCmNzxOrCrrSrkFHyHgN6Hptk8p+OnJCE61H5Y28X1JmoKOe1yBy9d56lH/mMH1I/NGf0=;IS2nS4Yz4+RfZ2sUgNjNfg=="
+secured: "Si5aOsPBwDgquLZCCxPImMPsQDXZINmU9FOT9QpKenuZRNGmQcMJfj21zK6oNefBwUWcxkOSVb3pX0DsMQRUhW2SNqLnYoXUY0d6gde4Mac40ZESBt3CyuGnwLfMcNJ2JVSYmvYu5TCjALIlQr1R83qzmoFUEUMxjeHrMBMzKZ1suWPZQNV3RC3FjN7fyppAwZDrOA9krs7P1cZduWPQTN/LvuE4fx3KEiFnezBHHWU3i8xL6Ok3q64U+n8+0rbz6xAfb+IJ+/9xinTbeS9N+zFhIHhOG2Ou6zjRFSvXsuzykr+/WOhQTeIAwFgKK7kip9w/Md4RcrUhJQFPJKObwbEmwqL+hLJEcvAyxvzAVJs=;WlEuoI1tGfK48eHSDSwINQ=="
 ---
 
