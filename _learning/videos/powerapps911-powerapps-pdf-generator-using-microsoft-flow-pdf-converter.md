@@ -4,9 +4,9 @@ excerpt: "In this video, you will learn how to create a PDF using the power of P
 originalUrl: https://youtube.com/watch?v=2rfAQe1kK8M
 type: video
 price: Free
-length: PT25M50S
+length: PT25M52S
 publishedDateTime: 2018-08-18T21:24:13Z
-heat: 67
+heat: 68
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2rfAQe1kK8M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "BCOTaIfQRYNfymDlThoakDxYsoVNV6QrDmLg2I52PQdMsfKX6c0/IigfXaLZ9UT0NIuH85ZH7PuJTYleSXMlDbE0mCL2OQ15k8MHD8mc29AqmshlXWH6alUW7ffHwHR5DMfNlMR8xfRElIBhTRBiC1HRGWBGOUXU20h8hseXguY3zMVrrLjAk0vddljKAHl2pVlnFGoO4OivQO/s0QYotzRcuxB13G2tSiArJldeF/icquBOl+AN2dTpKFWzg4OT3PtSY/bmjXo7efxXYqVcvgP7LsUBm4LHUS4DHmofSDQBkp6Lt34BGDhV1K/yENyj6xKlAsseMtTueyC89rWzUTSqtPwi8/1vRdVsMyu90uu2kKs5nd9GkZC3lQAeVTqpNnh/VEKwEB3B+OCjxpmd/I12RTpIm3KeHJMMbMPYU3s=;sb3lykUoM3d8StqOIdZA7g=="
+secured: "20vvK7fX8m5r9qUy9cfvhTQaFf8Q6FD9uoTQsiR9jXqo19yJ/Q/S95qLzEDcfwbU2XAY3/wxP9kRk33Ou6PGlx6LtFwmCe4TEOyJC/BrGG3gs2h9c+VtvKd1orYGRJRJj8GEof3khZzXM2S3gvKu33t/iniR9g9On1wyjdq5wzJ/a2BI0udxpyFbvi3psROKoiP60QLzwI3eLQS83WsIVVicA3vBg5/vQIYY4eBAzcqs7yOtMd7tvoj8qSP5xiauHk00wFYGSgyuhVuxyevSQ2+bbziUY1Z/4ZiongSMXxipvtMY1ZBeF2myXCkvoz6Ubh7V7EHLlB8JPY4MmGbKJG41r1Of1GpEvOzoJhVuFUn9wITJcER8PSDHw17sfH0if8ujuzoM63TnF69Atofg9DJX51dRAYB9DTxVoqDTAcMGIQ52ZTt0WyKdzd0uraZK;sixRIwkOGv8GCnMv29y0kA=="
 ---
 

@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/navigation-canvas-app/",
       "length": "PT33M",
       "ratings": {
-        "count": 855,
-        "average": 4.694737
+        "count": 1109,
+        "average": 4.7312894
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,7 +29,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 51,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/navigation-canvas-app-social.png",
@@ -54,8 +54,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/how-to-build-ui-canvas-app/",
       "length": "PT41M",
       "ratings": {
-        "count": 750,
-        "average": 4.6853333
+        "count": 950,
+        "average": 4.7105265
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -72,7 +72,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 51,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/how-to-build-ui-canvas-app-social.png",
@@ -97,8 +97,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/controls-canvas-apps/",
       "length": "PT44M",
       "ratings": {
-        "count": 729,
-        "average": 4.6666665
+        "count": 900,
+        "average": 4.6966667
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -115,7 +115,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 51,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/controls-canvas-apps-social.png",

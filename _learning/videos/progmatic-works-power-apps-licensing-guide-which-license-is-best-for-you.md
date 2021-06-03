@@ -4,9 +4,9 @@ excerpt: "In this video, we discuss the various PowerApps licensing options you 
 originalUrl: https://youtube.com/watch?v=kX6tSpEftsk
 type: video
 price: Free
-length: PT11M30S
+length: PT11M29S
 publishedDateTime: 2020-03-20T13:35:02Z
-heat: 52
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kX6tSpEftsk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "V4geITpErwAaqAq76VFtjYBPN92l4bGmMT6Y1L82RyqvfwQXIkgZQWwXUmxU7uGEvXs+qQDbEbrE3xRZt9XPSpKYEw1fjoXs1Bu6/jcQLfBneNB/RpVhPoDW0iVfZdyxBWpOUxf9qNElF58v7RUL6ee9xvC4gVu3wqD+QfsMdpNUiqwU1UKpD+nzq8xHk68GtO3HAFOEBWccA8k4fLmUW7bmXzu1z37ErXogtnLkb4O+yJ5YaF2LA7vh2uSO2oHaoJZDHOHVsmWjUuxHNPY7i31qWLQQv+MTa4JzsGdGyTQcDkXF4vmT+Ve1RED8/Otlkvm8ghdNve+XJZ/fTmdQaF/6py6RUIb3efagivF1JjzgXDd/6sxkev/zqN3qu3FishM0MXxRRZ7+AIGKXCBg0fANKOf0+Cn/ClzdlvZKOsc=;CfcWohxUMXRNJDqFJKtr2A=="
+secured: "pW7rVBmpnVkcBvSYxkCGDa6N/M9dokCNcymkSBq2hQWVLdKgV327SCorJgfNXSvnQ42IAQolSMh3GTYOepofrFYJrGNwGmrd6TfRho9Xon8LShAgFOM7M8xR0gsBKIcxnQW4LuJSB8P9YcJncdqApVvu4h4D1AUvYHNh5dhdNFzQMoWR7Y/0eG9tajlPuftuyEIEJXLLbaN3Dvl87UEd4eQFCD6vCp4FDrXJ87Q62njI0k86tClu1M8dBgj96/+zU5Ic+9iu7KO7Gf7/FiFJ8up9Yh2YQ7erulX85PWBLgNqgI495klWtZbE9YptWSRVA0Kx/i4JMTjAE4uwGOZS9yqoMBEpiAV4zhS2pZ0ZBK2/E+GsipflbTbNImGS7ZP0fxcQGh5f5TQpzsM9axHq5KHW5IECDM4TvwRzler9FQc=;H7XtOZ4i9D4N4mrq8+z/5A=="
 ---
 

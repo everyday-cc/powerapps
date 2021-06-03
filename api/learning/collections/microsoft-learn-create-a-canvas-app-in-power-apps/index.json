@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-powerapps/",
       "length": "PT1H3M",
       "ratings": {
-        "count": 17342,
-        "average": 4.667397
+        "count": 21807,
+        "average": 4.6805153
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,7 +29,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 66,
+      "heat": 72,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/get-started-with-powerapps-social.png",
@@ -53,8 +53,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/customize-apps-in-powerapps/",
       "length": "PT38M",
       "ratings": {
-        "count": 8054,
-        "average": 4.6773033
+        "count": 9981,
+        "average": 4.6913133
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -71,7 +71,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 56,
+      "heat": 60,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
@@ -88,8 +88,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-apps-in-powerapps/",
       "length": "PT42M",
       "ratings": {
-        "count": 7148,
-        "average": 4.689284
+        "count": 9217,
+        "average": 4.701855
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -106,7 +106,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 56,
+      "heat": 61,
       "content": "\r\n",
       "type": "course",
       "price": "Free",

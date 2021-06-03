@@ -4,9 +4,9 @@ excerpt: "Learn how to use PowerApps to build a quick application to write data 
 originalUrl: https://youtube.com/watch?v=CubdnBklOzg
 type: video
 price: Free
-length: PT10M22S
+length: PT10M32S
 publishedDateTime: 2018-08-31T18:50:41Z
-heat: 102
+heat: 96
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CubdnBklOzg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "MvrmfUZZ1DQJOiK/58R9zsZNNHjGvpz52B88dwofOu0+FBRfxXVlV4NtnwAVrj+1KhK5PQDcQYm5ZmaYz9WFjAy+fuEKyaJn1BUy7p98vU9Vr47purs4l/SCScqLIaYkzUw/U9oR+iOPzrVfjTUVek5LNm3AxHyV/MOdfvdiIV2qY6JsTjRv0WNdLTZQFIIKTUwPWeaG4gqSZ6BxRojN+lHnrhoDX67385M0UC4Bnq7tVJWhcnmeu8WAJzqeup8w7Qck+m4rtDGQwP37HhXzMeETUQM0jZbucK8pXNB0F3qNBX8l2CE3w7sKtP80JTaMoJwutrKP7m7+Y2Ul2Z4JrgLdYoezjEVy7KRANA1nTZSlvjWl2nzqYdaE3qD0eA2wY1fIcziMBUHe6dOCXjNMSv4M+igJVAdgoGP9iHjyItMMTsdoTvzmmanvOtX4AswX;NR5klDUwqkF9pPXA8ej3vQ=="
+secured: "folWxIRWNQSZR9slF8bYSKIPij4KkSQj00WPf0ftIK/k5Cpa4FIvkN/cuFJgX1LT/UTLMvBkypmKn6KSHL9jFYkcfsRA00UVn9eK1acnG6XqUBCySqobJvz3v9d7zEc/FCOWtiVegC2JiP9DUXjlRqS7JtP6Z322bB5gxH7OyO6UnzoeOtCgRZOd0WgF+ZwWb8z5c2o5zaKdlWi6w8/tVCO9uc3Bj7Ig6Vi9RfkZuhC7uHKTiieMS9VtMKvaRX8jtPY44wkFmTMWAw6XgGa6rrfwQ0U/6aYxiSIHlJW0Yq8PEhi/GiCCL3aWSnZR+dQ8OOtIipNpLLKPZ6tkOJiieW2hA/+mbqXaNE9cacHmVHZQ57R3bpDi89ZUFrZcCijVEzcmW+ICBVr12z1bt/hZyoMbNax4veS3kC8kFN1iIkEossIDO0313991hi9u3xDo;ngzqXdJzyqRypLPYkSiRqg=="
 ---
 

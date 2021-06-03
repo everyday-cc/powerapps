@@ -17,7 +17,7 @@
         "domain": "youtube.com"
       },
       "publishedDateTime": "2019-09-02T20:48:40-07:00",
-      "heat": 55,
+      "heat": 56,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/ZywH_ejeq3E/maxresdefault.jpg",
@@ -47,7 +47,7 @@
         "domain": "youtube.com"
       },
       "publishedDateTime": "2019-09-02T20:48:40-07:00",
-      "heat": 58,
+      "heat": 59,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/sToM68hQoTw/maxresdefault.jpg",
@@ -77,7 +77,7 @@
         "domain": "youtube.com"
       },
       "publishedDateTime": "2019-09-02T20:48:40-07:00",
-      "heat": 51,
+      "heat": 52,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/TDzXuCHx_H4/maxresdefault.jpg",
@@ -107,7 +107,7 @@
         "domain": "youtube.com"
       },
       "publishedDateTime": "2019-09-02T20:48:40-07:00",
-      "heat": 52,
+      "heat": 51,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/MPLhEj4wWLk/maxresdefault.jpg",
@@ -227,7 +227,7 @@
         "domain": "youtube.com"
       },
       "publishedDateTime": "2019-10-23T03:55:30-07:00",
-      "heat": 52,
+      "heat": 51,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/RI6mMq7S6Es/maxresdefault.jpg",
@@ -441,6 +441,126 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/GZESXTi9C5Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/henry-ouang-power-automate-automatically-save-new-files-to-a-different-onedrive-account-folder.md",
+      "title": "Power Automate - Automatically Save New Files To A Different OneDrive Account Folder",
+      "excerpt": "In this video, I show you how to link Power Automate to two different one drive accounts and execute copy actions based on when one of the folders in one of the one drive accounts creates a new item. This was asked in my live stream earlier!   Let me know what you guys would like for the next video!",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/henry-ouang-power-automate-automatically-save-new-files-to-a-different-onedrive-account-folder/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/henry-ouang-power-automate-automatically-save-new-files-to-a-different-onedrive-account-folder/",
+      "originalUrl": "https://youtube.com/watch?v=nHsLdydUWzU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nHsLdydUWzU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M49S",
+      "provider": {
+        "name": "Henry Ouang",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-11-30T23:46:38-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/nHsLdydUWzU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/henry-ouang-one-click-excel-data-to-multiple-pdfs-no-powerapps-premium-demonstration.md",
+      "title": "One Click - Excel Data To Multiple PDFs (No PowerApps Premium!) - Demonstration",
+      "excerpt": "In this video, I revisit auto-generating PDFs. I made a video about generating PDFs with PowerApps about a year ago, but it required the paid version of powerapps. Many people were looking for a solution, and I finally came out with a better solution that is also free.  Please share this video if you",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/henry-ouang-one-click-excel-data-to-multiple-pdfs-no-powerapps-premium-demonstration/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/henry-ouang-one-click-excel-data-to-multiple-pdfs-no-powerapps-premium-demonstration/",
+      "originalUrl": "https://youtube.com/watch?v=yke5nEkZ5R4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yke5nEkZ5R4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M29S",
+      "provider": {
+        "name": "Henry Ouang",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2021-02-04T20:43:19-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/yke5nEkZ5R4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/henry-ouang-excel-data-to-multiple-pdfs-no-powerapps-premium-free-part-12.md",
+      "title": "Excel Data To Multiple PDFs (No PowerApps Premium, Free!) - Part 1/2",
+      "excerpt": "In this video, I revisit auto-generating PDFs. I made a video about generating PDFs with PowerApps about a year ago, but it required the paid version of powerapps. Many people were looking for a solution, and I finally came out with a better solution that is also free.  Let me know what you guys would",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/henry-ouang-excel-data-to-multiple-pdfs-no-powerapps-premium-free-part-12/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/henry-ouang-excel-data-to-multiple-pdfs-no-powerapps-premium-free-part-12/",
+      "originalUrl": "https://youtube.com/watch?v=GqD6bwzWdHE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GqD6bwzWdHE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M48S",
+      "provider": {
+        "name": "Henry Ouang",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2021-02-04T20:55:22-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GqD6bwzWdHE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/henry-ouang-excel-data-to-multiple-pdfs-no-powerapps-premium-free-part-22.md",
+      "title": "Excel Data To Multiple PDFs (No PowerApps Premium, Free!) - Part 2/2",
+      "excerpt": "In this video, I revisit auto-generating PDFs. I made a video about generating PDFs with PowerApps about a year ago, but it required the paid version of powerapps. Many people were looking for a solution, and I finally came out with a better solution that is also free.  Let me know what you guys would",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/henry-ouang-excel-data-to-multiple-pdfs-no-powerapps-premium-free-part-22/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/henry-ouang-excel-data-to-multiple-pdfs-no-powerapps-premium-free-part-22/",
+      "originalUrl": "https://youtube.com/watch?v=Ie0L_UfV810",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ie0L_UfV810\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M48S",
+      "provider": {
+        "name": "Henry Ouang",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2021-02-04T20:59:40-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Ie0L_UfV810/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

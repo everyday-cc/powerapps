@@ -4,604 +4,90 @@
   "page": 11,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-introduction-to-developing-with-power-platform.md",
-      "title": "Introduction to developing with Power Platform",
-      "excerpt": "So, you want to be a Power Platform developer! This learning path is the first step in learning about the platform, tools, and the ecosystem of Power Platform.",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/collections/microsoft-learn-introduction-to-developing-with-power-platform/index.json",
-      "webUrl": "https://everyday.cc/powerapps/learning/collections/microsoft-learn-introduction-to-developing-with-power-platform/",
-      "length": "PT2H22M",
+      "path": "_learning/videos/dhruvin-shah-apply-sort-on-multiple-column-in-power-apps.md",
+      "title": "Apply Sort on Multiple Column in Power Apps",
+      "excerpt": "Welcome to Power Apps Step by Step Beginner tutorial series. My self Dhruvin Shah you are watching the 15th part of the Power Apps Beginner Series. During this chapter, we will talk about how we can perform Sort operation on multiple columns of the Power Apps Grid.  The sort is the very basic functionality.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-apply-sort-on-multiple-column-in-power-apps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-apply-sort-on-multiple-column-in-power-apps/",
+      "originalUrl": "https://youtube.com/watch?v=lC7_7DYDDDE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lC7_7DYDDDE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M26S",
       "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
       },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-introduction-developing-power-platform.md",
-          "title": "Introduction to Power Platform developer resources",
-          "excerpt": "The goal of this module is to give a broad-scoped overview of the developer experience as it relates to the Power Platform.  It will cover a high-level introduction how the ecosystem is represented, with the intended audience being a software developer with limited experience in working with the Power Platform.",
-          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-introduction-developing-power-platform/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-developing-power-platform/",
-          "length": "PT37M",
-          "ratings": {
-            "count": 1166,
-            "average": 4.6586623
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Advanced"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/introduction-developing-power-platform-social.png",
-              "width": 642,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power Apps"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-use-developer-tools-extend.md",
-          "title": "Use developer tools to extend the Power Platform",
-          "excerpt": "This module will focus on the available developer tools that can help you perform development activities with the Microsoft Power Platform.",
-          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-use-developer-tools-extend/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-developer-tools-extend/",
-          "length": "PT1H5M",
-          "ratings": {
-            "count": 760,
-            "average": 4.5092106
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Advanced"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/use-developer-tools-extend-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power Apps"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-introduction-power-platform-extensibility-model.md",
-          "title": "Introduction to extending the Microsoft Power Platform",
-          "excerpt": "This module will focus on the underlying solution architecture from a technical perspective and what extensibility options exist. It will also cover the ever-important element of the Microsoft Power Platform development, which is the decision-making process of determining when to use configuration versus code.",
-          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-introduction-power-platform-extensibility-model/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-platform-extensibility-model/",
-          "length": "PT40M",
-          "ratings": {
-            "count": 760,
-            "average": 4.618421
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Advanced"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/introduction-power-platform-extensibility-model-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power Apps"
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 50,
+      "publishedDateTime": "2020-09-29T02:55:35-07:00",
+      "heat": 52,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-developing-power-platform-social.png",
-          "width": 642,
-          "height": 321,
+          "url": "https://i.ytimg.com/vi/lC7_7DYDDDE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "collection",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Power Apps"
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-use-the-ui-and-controls-in-a-canvas-app-in-power-apps.md",
-      "title": "Use the UI and controls in a canvas app in Power Apps",
-      "excerpt": "The app user experience often defines the success of your app. This learning path will focus on how to provide the best app navigation, and build the best UI using themes, icons, images, personalization, different form factors, and controls.",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/collections/microsoft-learn-use-the-ui-and-controls-in-a-canvas-app-in-power-apps/index.json",
-      "webUrl": "https://everyday.cc/powerapps/learning/collections/microsoft-learn-use-the-ui-and-controls-in-a-canvas-app-in-power-apps/",
-      "length": "PT1H58M",
+      "path": "_learning/videos/dhruvin-shah-gallery-vs-data-table-in-power-apps.md",
+      "title": "Gallery Vs Data table in Power Apps",
+      "excerpt": "Welcome to Power Apps Step by Step Beginner tutorial series. My self Dhruvin Shah you are watching the 13th part of the Power Apps Beginner Series. During this chapter, we will talk about what is the basic difference between Data table and Gallery control in Power Apps!  In our previous sessions we have",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-gallery-vs-data-table-in-power-apps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-gallery-vs-data-table-in-power-apps/",
+      "originalUrl": "https://youtube.com/watch?v=BsqqVFlDrLw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BsqqVFlDrLw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M57S",
       "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
       },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-navigation-canvas-app.md",
-          "title": "Navigation in a canvas app in Power Apps",
-          "excerpt": "App users can only navigate through the navigation options provided by an app developer, and this module is designed to help you build a good navigation experience for your canvas app.",
-          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-navigation-canvas-app/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/navigation-canvas-app/",
-          "length": "PT33M",
-          "ratings": {
-            "count": 855,
-            "average": 4.694737
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/navigation-canvas-app-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power Apps",
-            "Canvas apps"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-how-to-build-ui-canvas-app.md",
-          "title": "How to build the UI in a canvas app in Power Apps",
-          "excerpt": "Do you want to build a better UI for app users? This module helps you do that using themes, icons, images, personalization, different form factors, and controls.",
-          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-how-to-build-ui-canvas-app/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/how-to-build-ui-canvas-app/",
-          "length": "PT41M",
-          "ratings": {
-            "count": 750,
-            "average": 4.6853333
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/how-to-build-ui-canvas-app-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power Apps",
-            "Canvas apps"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-controls-canvas-apps.md",
-          "title": "Use and understand Controls in a canvas app in Power Apps",
-          "excerpt": "Controls help create a better experience for the user and collect the appropriate data. This module will help you understand and use Controls.",
-          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-controls-canvas-apps/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/controls-canvas-apps/",
-          "length": "PT44M",
-          "ratings": {
-            "count": 729,
-            "average": 4.6666665
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/controls-canvas-apps-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power Apps",
-            "Canvas apps"
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 50,
+      "publishedDateTime": "2020-09-15T21:57:56-07:00",
+      "heat": 52,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/navigation-canvas-app-social.png",
-          "width": 800,
-          "height": 400,
+          "url": "https://i.ytimg.com/vi/BsqqVFlDrLw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Power Apps",
-        "Canvas apps"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-work-with-data-in-a-power-apps-canvas-app.md",
-      "title": "Work with data in a Power Apps canvas app",
-      "excerpt": "Do you need to connect an app to access data? Then this learning path is for you. It will focus on how to connect to data sources. It also will show you how to use filtering, conditions, and other functions to shape your data and write data to your data source.",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/collections/microsoft-learn-work-with-data-in-a-power-apps-canvas-app/index.json",
-      "webUrl": "https://everyday.cc/powerapps/learning/collections/microsoft-learn-work-with-data-in-a-power-apps-canvas-app/",
-      "length": "PT2H44M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-work-with-external-data.md",
-          "title": "Work with external data in a Power Apps canvas app",
-          "excerpt": "Do you need to connect an app to access data? Then this module is for you. It focuses on connecting your app to a data source.",
-          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-work-with-external-data/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-external-data/",
-          "length": "PT58M",
-          "ratings": {
-            "count": 964,
-            "average": 4.549793
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 51,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power Apps",
-            "Canvas apps"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-shape-data.md",
-          "title": "Shape data in a Power Apps canvas app",
-          "excerpt": "When you create a canvas app, do you need to show the user all the data? What if you want to show only the data that is relevant to them? This module will help you address this issue.",
-          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-shape-data/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/shape-data/",
-          "length": "PT58M",
-          "ratings": {
-            "count": 720,
-            "average": 4.5902777
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power Apps",
-            "Canvas apps"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-write-data.md",
-          "title": "Write data in a Power Apps canvas app",
-          "excerpt": "Learn how to write data in a Power Apps canvas app.",
-          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-write-data/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/write-data/",
-          "length": "PT48M",
-          "ratings": {
-            "count": 692,
-            "average": 4.617052
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power Apps",
-            "Canvas apps"
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 50,
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Power Apps",
-        "Canvas apps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-administrating-power-platform-subscriptions.md",
-      "title": "Administer Microsoft Power Platform subscriptions",
-      "excerpt": "Many organizations implementing Dynamics 365 Customer Engagement apps on the Microsoft Power Platform are unaware of the amazing capabilities included with their subscription. By default, your subscription includes Microsoft Portals, Gamification, and Voice of the Customer surveys, in addition to technical capabilities like backup and restore, and integrated planning for updates and upgrades. This module focuses on showcasing the great default capabilities you have access to.",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-administrating-power-platform-subscriptions/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/administrating-power-platform-subscriptions/",
-      "length": "PT57M",
-      "ratings": {
-        "count": 464,
-        "average": 4.4396553
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/administrating-power-platform-subscriptions-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Power Apps"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-authentication-user-management.md",
-      "title": "Authentication and user management in Power Apps portals",
-      "excerpt": "Learn how to authenticate with Power Apps portals.",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-authentication-user-management/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/authentication-user-management/",
-      "length": "PT23M",
-      "ratings": {
-        "count": 17,
-        "average": 4.647059
-      },
+      "path": "_learning/videos/dhruvin-shah-how-to-publish-power-apps-canvas-app.md",
+      "title": "How to Publish Power Apps Canvas App?",
+      "excerpt": "During this video, we will learn how we can publish Power Apps Canvas App. Sometimes, there are situations where we need to share the Power Apps with the other users to work on. Before we do that, we need to Publish our Power Apps. During this session I’m going to explain the same procedure in detail.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-how-to-publish-power-apps-canvas-app/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-how-to-publish-power-apps-canvas-app/",
+      "originalUrl": "https://youtube.com/watch?v=l5YUg2p-ZZs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/l5YUg2p-ZZs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M47S",
       "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
       },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
+      "publishedDateTime": "2020-09-29T17:46:18-07:00",
+      "heat": 52,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/authentication-user-management-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://i.ytimg.com/vi/l5YUg2p-ZZs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power Apps",
-        "Portals"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-author-advanced-formulas.md",
-      "title": "Author an advanced formula that uses tables, records, and collections in a canvas app in Power Apps",
-      "excerpt": "Do you have need for a complex formula in your app? This module can help you author that formula.",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-author-advanced-formulas/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/author-advanced-formulas-powerapps/",
-      "length": "PT32M",
-      "ratings": {
-        "count": 441,
-        "average": 4.628118
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/author-advanced-formulas-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Power Apps",
@@ -609,42 +95,30 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-author-basic-forumla-change-behaviors-powerapps.md",
-      "title": "Author a basic formula to change behaviors in a Power Apps canvas app",
-      "excerpt": "Learn how to author a basic formula to change behaviors in a Power Apps canvas app.",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-author-basic-forumla-change-behaviors-powerapps/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/author-basic-formula-change-behaviors-powerapps/",
-      "length": "PT51M",
-      "ratings": {
-        "count": 732,
-        "average": 4.605191
-      },
+      "path": "_learning/videos/dhruvin-shah-manage-roles-in-power-apps-canvas-app-with-power-automate-and-sharepoint.md",
+      "title": "Manage Roles in Power Apps Canvas App with Power Automate and SharePoint",
+      "excerpt": "During this session, we will talk about how we can maintain different roles in Power Apps. When we create any business application using Power Apps, managing the role is the most important concept. During this session, I build one Power Apps with SharePoint as a data source. I maintain different roles",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-manage-roles-in-power-apps-canvas-app-with-power-automate-and-sharepoint/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-manage-roles-in-power-apps-canvas-app-with-power-automate-and-sharepoint/",
+      "originalUrl": "https://youtube.com/watch?v=N3TENlKHVVI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/N3TENlKHVVI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M54S",
       "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
       },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
+      "publishedDateTime": "2020-10-20T22:07:03-07:00",
+      "heat": 52,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/change-behaviors-social.png",
-          "width": 800,
-          "height": 400,
+          "url": "https://i.ytimg.com/vi/N3TENlKHVVI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Power Apps",
@@ -652,145 +126,107 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-automate-business-process-flow-client-script-power-platform.md",
-      "title": "Automate business process flows with client script",
-      "excerpt": "This module will focus on educating developers on how to perform common techniques in regard to automating business process flows, along with explaining the context of when these scenarios might be applied.",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-automate-business-process-flow-client-script-power-platform/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-business-process-flow-client-script-power-platform/",
-      "length": "PT1H31M",
-      "ratings": {
-        "count": 159,
-        "average": 4.6415095
-      },
+      "path": "_learning/videos/dhruvin-shah-source-code-file-for-power-apps-canvas-app.md",
+      "title": "Source Code File for Power Apps Canvas App",
+      "excerpt": "During this session, we will learn how we can maintain source code files for our Power Apps Canvas App. Mostly we have a question in our mind, can we work with multiple developers in Power Apps Canvas App? Can we maintain source control for our Power Apps Canvas App?, Can we push, pull and commit code",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-source-code-file-for-power-apps-canvas-app/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-source-code-file-for-power-apps-canvas-app/",
+      "originalUrl": "https://youtube.com/watch?v=tYyF3071F7Y",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tYyF3071F7Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M41S",
       "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
       },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
+      "publishedDateTime": "2021-02-16T20:05:05-08:00",
+      "heat": 52,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/automate-business-process-flow-client-script-power-platform-social.png",
-          "width": 800,
-          "height": 400,
+          "url": "https://i.ytimg.com/vi/tYyF3071F7Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/henry-ouang-generate-barcodes-inside-of-powerapps.md",
+      "title": "Generate Barcodes inside of PowerApps!",
+      "excerpt": "Thank you so much for the support. I love hearing from you guys and will do my best to get back!  In this video, I show you how to use barcodes4.me's free API service to generate unlimited free barcodes inside of PowerApps! Users can decide what information they want to have the barcode value be - could",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/henry-ouang-generate-barcodes-inside-of-powerapps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/henry-ouang-generate-barcodes-inside-of-powerapps/",
+      "originalUrl": "https://youtube.com/watch?v=3-GuyDtViXI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3-GuyDtViXI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M27S",
+      "provider": {
+        "name": "Henry Ouang",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-02-15T02:09:13-08:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3-GuyDtViXI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Power Apps"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-build-user-experience-portals.md",
-      "title": "Build user experience in Power Apps portals",
-      "excerpt": "A portal maker should consider specific details when designing and building portals. Implementing a portal solution requires knowledge of the specific business requirements and needs of the customer. Along with being simplistic and well-designed, a successful portal should provide functionality in consideration of geographical location, language, and accessibility needs. Additionally, portal makers should ensure that portal metadata is backed up to source control and deployed to test and production environments in a consistent and structured way.",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-build-user-experience-portals/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-user-experience-portals/",
-      "length": "PT40M",
-      "ratings": {
-        "count": 16,
-        "average": 4.8125
-      },
+      "path": "_learning/videos/henry-ouang-powerapps-scan-log-barcodes.md",
+      "title": "PowerApps - Scan & Log Barcodes",
+      "excerpt": "I show you how a PowerApp to scan and log barcodes into sharepoint works. This can be specifically useful in a logistics center where items need to be tracked.  If you have any questions, drop me an email or comment below!  admin@enteleca.com  Connect with me on LinkedIn: https://www.linkedin.com/in/henry-ouang-6a6162134/",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/henry-ouang-powerapps-scan-log-barcodes/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/henry-ouang-powerapps-scan-log-barcodes/",
+      "originalUrl": "https://youtube.com/watch?v=TDzXuCHx_H4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TDzXuCHx_H4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M39S",
       "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Henry Ouang",
+        "domain": "youtube.com"
       },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
+      "publishedDateTime": "2019-09-02T20:48:40-07:00",
+      "heat": 52,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/build-user-experience-portals-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://i.ytimg.com/vi/TDzXuCHx_H4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power Apps",
-        "Portals"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-common-actions-client-script-power-platform.md",
-      "title": "Performing common actions with client script",
-      "excerpt": "The goal of this module is to review how to achieve common user experience automation procedures through Client Script. This module is intended to serve as a practical guide for how to solve real-world scenarios that are frequently encountered during the Microsoft Power Platform implementations.",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-common-actions-client-script-power-platform/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/common-actions-client-script-power-platform/",
-      "length": "PT1H27M",
-      "ratings": {
-        "count": 175,
-        "average": 4.6514287
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/common-actions-client-script-power-platform-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Power Apps"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-configure-security.md",
-      "title": "Configure Power Apps portals security",
-      "excerpt": "The concept of exposing Common Data Service on a public webpage is appealing for addressing numerous business requirements. However, careful consideration is necessary to avoid exposing private or sensitive data. This module will focus on helping you understand and configure portal security to protect static and dynamic content and limit visibility to specific audiences.",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-configure-security/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-security/",
-      "length": "PT43M",
-      "ratings": {
-        "count": 14,
-        "average": 4.928571
-      },
+      "path": "_learning/videos/microsoft-end-to-end-demo-of-meeting-capture.md",
+      "title": "End-to-End Demo of Meeting Capture",
+      "excerpt": "This video provides an end-to-end functional demonstration for the Meeting Capture PowerApp sample template.   Learn more: https://powerapps.microsoft.com/en-us/blog/capture-meetings-notes-like-a-pro/",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/microsoft-end-to-end-demo-of-meeting-capture/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/microsoft-end-to-end-demo-of-meeting-capture/",
+      "originalUrl": "https://youtube.com/watch?v=mGyxyJL4gJk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mGyxyJL4gJk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M1S",
       "provider": {
-        "name": "Microsoft Learn",
+        "name": "Microsoft",
         "domain": "microsoft.com",
         "images": [
           {
@@ -801,149 +237,169 @@
           }
         ]
       },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
+      "publishedDateTime": "2018-08-20T09:01:10-07:00",
+      "heat": 52,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/configure-security-social.png",
-          "width": 800,
-          "height": 400,
+          "url": "https://i.ytimg.com/vi/mGyxyJL4gJk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
+      "type": "video",
       "price": "Free",
       "topics": [
-        "Power Apps",
-        "Portals"
+        "Power Apps"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-connect-other-data.md",
-      "title": "Connecting to other data in a Power Apps canvas app",
-      "excerpt": "Learn how to connect to other data in Power Apps canvas app.",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-connect-other-data/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-to-other-data-in-powerapps-canvas-app/",
-      "length": "PT32M",
-      "ratings": {
-        "count": 383,
-        "average": 4.6684074
-      },
+      "path": "_learning/videos/powerapps911-create-a-large-sharepoint-online-list-for-power-apps-and-power-automate.md",
+      "title": "Create a large SharePoint Online list for Power Apps and Power Automate",
+      "excerpt": "In this Quick Thursday Tip (QTT) I show you how to use the PowerShell script below to create a large SharePoint list for testing your Power Apps and Power Automate. Delegation, performance issues, and more are all things you can better learn when you have a large list at your disposal.  Learn PowerShell",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-create-a-large-sharepoint-online-list-for-power-apps-and-power-automate/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-create-a-large-sharepoint-online-list-for-power-apps-and-power-automate/",
+      "originalUrl": "https://youtube.com/watch?v=X99bx3vOEWM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/X99bx3vOEWM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M43S",
       "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
       },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
+      "publishedDateTime": "2020-11-19T07:00:10-08:00",
+      "heat": 52,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/connect-other-data-social.png",
-          "width": 800,
-          "height": 400,
+          "url": "https://i.ytimg.com/vi/X99bx3vOEWM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
+      "type": "video",
       "price": "Free",
       "topics": [
-        "Power Apps",
-        "Canvas apps"
+        "Power Apps"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-controls-canvas-apps.md",
-      "title": "Use and understand Controls in a canvas app in Power Apps",
-      "excerpt": "Controls help create a better experience for the user and collect the appropriate data. This module will help you understand and use Controls.",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-controls-canvas-apps/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/controls-canvas-apps/",
-      "length": "PT44M",
-      "ratings": {
-        "count": 729,
-        "average": 4.6666665
-      },
+      "path": "_learning/videos/powerapps911-create-teams-meeting-link-from-power-apps-and-power-automate-for-outlook.md",
+      "title": "Create Teams meeting link from Power Apps and Power Automate for Outlook",
+      "excerpt": "In this video, you will learn how to create an Outlook meeting request with a online Teams meeting link using Power Apps and Power Automate.  Link to Time Zone documentation https://support.microsoft.com/en-us/help/973627/microsoft-time-zone-index-values  Sign up for Power Apps Training and download",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-create-teams-meeting-link-from-power-apps-and-power-automate-for-outlook/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-create-teams-meeting-link-from-power-apps-and-power-automate-for-outlook/",
+      "originalUrl": "https://youtube.com/watch?v=hPRzHbMzoI0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hPRzHbMzoI0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M53S",
       "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
       },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
+      "publishedDateTime": "2020-09-29T12:35:22-07:00",
+      "heat": 52,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/controls-canvas-apps-social.png",
-          "width": 800,
-          "height": 400,
+          "url": "https://i.ytimg.com/vi/hPRzHbMzoI0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Power Apps",
-        "Canvas apps"
+        "Teams integration"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-create-define-calculation-rollup-fields.md",
-      "title": "Create and define calculation or rollup fields in Common Data Service",
-      "excerpt": "Do you want to use rollup or calculation fields? This module shows you how to build calculations or rollups that are defined and triggered within the data in Common Data Service, regardless of the app that accesses that data set.",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-create-define-calculation-rollup-fields/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-define-calculation-rollup-fields/",
-      "length": "PT42M",
-      "ratings": {
-        "count": 87,
-        "average": 4.609195
-      },
+      "path": "_learning/videos/powerapps911-power-apps-mailto-open-a-new-email-with-values-by-pressing-a-button.md",
+      "title": "Power Apps MailTo - Open a new email with values by pressing a button",
+      "excerpt": "This quick video on PowerApps MailTo combines the power of the Launch function with the ease of use of the HTML link concept of MailTo. This allows you to instead of sending the email for the user it just crafts a portion of the email and the opens their default client. Covers To, CC, BCC, Subject, and",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-power-apps-mailto-open-a-new-email-with-values-by-pressing-a-button/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-power-apps-mailto-open-a-new-email-with-values-by-pressing-a-button/",
+      "originalUrl": "https://youtube.com/watch?v=OGcofeqPFlc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OGcofeqPFlc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M12S",
       "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
       },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
+      "publishedDateTime": "2020-10-22T06:59:28-07:00",
+      "heat": 52,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/create-define-calculation-rollup-fields-social.png",
-          "width": 800,
-          "height": 400,
+          "url": "https://i.ytimg.com/vi/OGcofeqPFlc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/powerapps911-powerapps-azure-blob-storage-connector.md",
+      "title": "powerapps azure blob storage connector",
+      "excerpt": "In this video, you will learn about the PowerApps Azure Blob Storage connector. We will walk through how to setup an Azure Blob Storage account, how to use Azure Storage Explorer, and finally how to use Azure Blob Storage with PowerApps. If you need to work with files with your PowerApps you need this",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-powerapps-azure-blob-storage-connector/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-powerapps-azure-blob-storage-connector/",
+      "originalUrl": "https://youtube.com/watch?v=wF0MmiaGO_o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wF0MmiaGO_o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT35M59S",
+      "provider": {
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
+      },
+      "publishedDateTime": "2019-01-13T15:51:07-08:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wF0MmiaGO_o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/powerapps911-powerapps-common-data-service-option-sets-create-filter-patch-and-more.md",
+      "title": "PowerApps Common Data Service Option Sets  - Create, Filter, Patch, and More",
+      "excerpt": "In this video, you will learn about Power Apps CDS Option Sets. How to create them with a better default name, how to use them with Filter and Patch, and even how to edit them. Nothing terribly complex but some little things that will make your life easier.  Common Data Service Playlist https://www.youtube.com/playlist?list=PLCGGtLsUjhm0qVCMjmbb3R2lfNcunJruv",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-powerapps-common-data-service-option-sets-create-filter-patch-and-more/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-powerapps-common-data-service-option-sets-create-filter-patch-and-more/",
+      "originalUrl": "https://youtube.com/watch?v=1L633HIvNGE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1L633HIvNGE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M46S",
+      "provider": {
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
+      },
+      "publishedDateTime": "2020-07-05T10:50:33-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1L633HIvNGE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Power Apps",
@@ -951,290 +407,451 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-create-manage-entities.md",
-      "title": "Create and manage entities in Common Data Service",
-      "excerpt": "Common Data Service entities are similar to tables in a database. Every instance of a Common Data Service database includes a base set of entities that provide structure for data that is commonly used by business applications.",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-create-manage-entities/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-entities/",
-      "length": "PT44M",
-      "ratings": {
-        "count": 804,
-        "average": 4.630597
-      },
+      "path": "_learning/videos/powerapps911-powerapps-email-multiple-attachments.md",
+      "title": "PowerApps Email Multiple Attachments",
+      "excerpt": "In this video, you will learn how to send multiple email attachments with PowerApps via the Outlook connector. Turns out that if you build the collection in the format that the attachments property wants it is pretty easy to do. Check out the video for a couple of cool other concepts along the way also.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-powerapps-email-multiple-attachments/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-powerapps-email-multiple-attachments/",
+      "originalUrl": "https://youtube.com/watch?v=V3feURQfY3M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/V3feURQfY3M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M32S",
       "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
       },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
+      "publishedDateTime": "2018-05-30T09:10:55-07:00",
+      "heat": 52,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/create-manage-entities-social.png",
-          "width": 800,
-          "height": 400,
+          "url": "https://i.ytimg.com/vi/V3feURQfY3M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power Apps",
-        "Common Data Service"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-relationship-between-cds-entities.md",
-      "title": "Create a relationship between entities in Common Data Service",
-      "excerpt": "Do you need to create relationships between entities? This module will show how and why you can separate data into entities and how to relate between entities to build complex and robust business solutions. It will also explain the different kinds of relationships that you can define between entities in Common Data Service.",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-create-relationship-between-cds-entities/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-relationship-between-cds-entities/",
-      "length": "PT55M",
-      "ratings": {
-        "count": 113,
-        "average": 4.619469
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/create-relationship-between-cds-entities-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power Apps",
-        "Common Data Service"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-data-source-limits.md",
-      "title": "Work with data source limits (delegation limits) in a Power Apps canvas app",
-      "excerpt": "Delegate data with Power Apps.",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-data-source-limits/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-data-source-limits-powerapps-canvas-app/",
-      "length": "PT33M",
-      "ratings": {
-        "count": 419,
-        "average": 4.632458
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/data-source-limits-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power Apps",
-        "Canvas apps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-define-create-business-rules.md",
-      "title": "Define and create business rules in Common Data Service",
-      "excerpt": "The ability to build business rules that ensure consistent business logic regardless of the app accessing that data set is imperative to a successful business operation. This module will show you how you can build business rules that are triggered anytime they are used within Common Data Service.",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-define-create-business-rules/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/define-create-business-rules/",
-      "length": "PT44M",
-      "ratings": {
-        "count": 115,
-        "average": 4.695652
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/define-create-business-rules-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power Apps",
-        "Common Data Service"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-designing-power-platform-deployments.md",
-      "title": "Design Microsoft Power Platform Dynamics 365 Deployments",
-      "excerpt": "Design and deploy Microsoft Dynamics 365 apps on the Microsoft Power Platform. Best Practices during this process will decrease the chances of technical issues in the future related to poor application lifecycle management process and storage limitations. The first step before the customization and configuration of the solution takes place is the configuration of your online tenant and online environment",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-designing-power-platform-deployments/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/designing-power-platform-deployments/",
-      "length": "PT1H7M",
-      "ratings": {
-        "count": 652,
-        "average": 4.523006
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/designing-power-platform-deployments-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Power Apps"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-discover-customer-needs.md",
-      "title": "Discover customer needs as a Solution Architect for Dynamics 365 and Power Platform",
-      "excerpt": "Learn how to ask customers questions about their business processes and feature requirements to create a viable solution.",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-discover-customer-needs/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/discover-customer-needs/",
-      "length": "PT36M",
-      "ratings": {
-        "count": 460,
-        "average": 4.678261
-      },
+      "path": "_learning/videos/powerapps911-powerapps-tutorial-powerapps-string-functions-for-text-manipulation.md",
+      "title": "PowerApps Tutorial - PowerApps String Functions for Text Manipulation",
+      "excerpt": "In this PowerApps Tutorial, you will learn about the PowerApps String Functions. Often you find yourself needing to manipulate text with PowerApps and this is how you do it. Functions include:  Left, Right, Mid, Find, Replace, Upper, Lower, Proper, StartsWith, EndsWith, and more.  To learn more about",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-powerapps-tutorial-powerapps-string-functions-for-text-manipulation/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-powerapps-tutorial-powerapps-string-functions-for-text-manipulation/",
+      "originalUrl": "https://youtube.com/watch?v=MeMoi304rmM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MeMoi304rmM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M59S",
       "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
       },
-      "levels": [
-        "Advanced"
+      "publishedDateTime": "2019-06-30T12:20:15-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/MeMoi304rmM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
       ],
-      "heat": 50,
       "content": "\r\n",
-      "type": "course",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Power Apps"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-explore-portals-studio.md",
-      "title": "Explore Power Apps portals Studio",
-      "excerpt": "Portal makers spend the majority of their time configuring portals by using Microsoft Power Apps portals Studio. It is important that portal makers have a full understanding of the capabilities and also the limitations of using portals Studio. This module will focus on understanding and using Power Apps portals Studio to create and customize portal websites. Power Apps portals Studio allows makers to add and configure webpages, layout components, static content, custom CSS files, entity lists, and entity forms.",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-explore-portals-studio/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-portals-studio/",
-      "length": "PT40M",
-      "ratings": {
-        "count": 133,
-        "average": 4.6165414
-      },
+      "path": "_learning/videos/powerapps911-powerapps-tutorial-powerapps-string-functions.md",
+      "title": "PowerApps Tutorial - PowerApps String Functions",
+      "excerpt": "In this PowerApps Tutorial, you will learn about the PowerApps String Functions. Often times you find your self needing to manipulate text with PowerApps and this is how you do it. Functions include:  Left, Right, Mid, Find, Replace, Upper, Lower, Proper, StartsWith, EndsWith, and more.  To learn more",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-powerapps-tutorial-powerapps-string-functions/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-powerapps-tutorial-powerapps-string-functions/",
+      "originalUrl": "https://youtube.com/watch?v=MeMoi304rmM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MeMoi304rmM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M59S",
       "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
       },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
+      "publishedDateTime": "2019-06-30T12:20:15-07:00",
+      "heat": 52,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/explore-portals-studio-social.png",
-          "width": 642,
-          "height": 321,
+          "url": "https://i.ytimg.com/vi/MeMoi304rmM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/powerapps911-qtt-power-apps-play-sound-on-click.md",
+      "title": "QTT - Power Apps Play Sound on Click",
+      "excerpt": "Learn how to have a sound play when a user clicks on a button or while they are waiting on a loading screen with this fun, quick video. Seems silly but having audio feedback can help. And I wanted to add the camera sound to the camera app from Monday so enjoy. 📷  Power Apps Consulting and training at",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-qtt-power-apps-play-sound-on-click/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-qtt-power-apps-play-sound-on-click/",
+      "originalUrl": "https://youtube.com/watch?v=oRMSKfqPUbw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oRMSKfqPUbw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M10S",
+      "provider": {
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
+      },
+      "publishedDateTime": "2021-01-27T13:50:52-08:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/oRMSKfqPUbw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/powerapps911-understanding-sharepoint-columns-and-power-apps.md",
+      "title": "Understanding SharePoint columns and Power Apps",
+      "excerpt": "In this show, you will learn how to better work with SharePoint columns for PowerApps. We cover how to properly create columns (no spaces) and we talk about the different column types that I do and don't use when SharePoint is just a data source. Super helpful information.   Power Apps and Power Automate",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-understanding-sharepoint-columns-and-power-apps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-understanding-sharepoint-columns-and-power-apps/",
+      "originalUrl": "https://youtube.com/watch?v=mwXnJUkTug0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mwXnJUkTug0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M8S",
+      "provider": {
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
+      },
+      "publishedDateTime": "2020-11-04T14:25:38-08:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/mwXnJUkTug0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-adding-a-signature-line-to-powerapps-and-saving.md",
+      "title": "Adding a Signature Line to PowerApps and Saving",
+      "excerpt": "Learn how to save a signature line to a PowerApp and save it into a database as a binary column.   Register for the forever free class without a credit card: https://pragmaticworkstraining.com/virtual-aiad-free-registration/  We'd love to build your next app: https://pragmaticworks.com/consulting-services/managed-services/",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-adding-a-signature-line-to-powerapps-and-saving/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-adding-a-signature-line-to-powerapps-and-saving/",
+      "originalUrl": "https://youtube.com/watch?v=dQKs0cTRX9I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dQKs0cTRX9I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M5S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2019-09-03T08:36:47-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dQKs0cTRX9I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-building-your-first-model-driven-application-in-powerapps.md",
+      "title": "Building Your First Model Driven Application in PowerApps",
+      "excerpt": "Free trainings every Tuesday at 11am EST https://pragmaticworks.com/resources/free-webinars/   In this session, you’ll see how to store data into Common Data Services and build an easy to use application using PowerApps to compliment or replace your existing paperwork process.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-building-your-first-model-driven-application-in-powerapps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-building-your-first-model-driven-application-in-powerapps/",
+      "originalUrl": "https://youtube.com/watch?v=-S8rkDG9qDU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-S8rkDG9qDU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT56M58S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2019-06-05T07:05:04-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-S8rkDG9qDU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-extending-power-apps-by-building-a-progress-bar-component.md",
+      "title": "Extending Power Apps by Building a Progress Bar Component",
+      "excerpt": "Learn how to extend the capabilities of Power Apps with basic HTML and components. In this video, Brian shows how to create a reusable component in Power Apps to show the progress of an application. Then he makes it dynamics for the use of other developers and applies it into an application.    To update",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-extending-power-apps-by-building-a-progress-bar-component/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-extending-power-apps-by-building-a-progress-bar-component/",
+      "originalUrl": "https://youtube.com/watch?v=t4ze8VnGuOk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/t4ze8VnGuOk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M2S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2021-04-03T06:42:44-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/t4ze8VnGuOk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-power-apps-azure-active-directory-ad-connector-integration-example.md",
+      "title": "Power Apps Azure Active Directory (AD) Connector Integration Example",
+      "excerpt": "In this video, you'll learn how to integrate Active Directory or Office 365 Groups into your PowerApp to show or hide certain functions in the application based on being a member of certain groups. For example, you can use this technique to hide the administrator pieces of the app unless they're in an",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-power-apps-azure-active-directory-ad-connector-integration-example/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-power-apps-azure-active-directory-ad-connector-integration-example/",
+      "originalUrl": "https://youtube.com/watch?v=EjFKMXFbYzo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EjFKMXFbYzo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M7S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2020-02-14T07:02:41-08:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/EjFKMXFbYzo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-power-apps-sum-function-and-collections-basic-and-advanced.md",
+      "title": "Power Apps: Sum Function and Collections (Basic and Advanced)",
+      "excerpt": "In Power Apps, learn how you can do a basic sum of a column from your data source. Then go a step further and see how you can sum up a column with a filter applied to that table. Next, learn how you can sum up numbers from the inputs of your users in the application itself. Finally, learn how to collect",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-power-apps-sum-function-and-collections-basic-and-advanced/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-power-apps-sum-function-and-collections-basic-and-advanced/",
+      "originalUrl": "https://youtube.com/watch?v=MDokHi8nCwg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MDokHi8nCwg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M37S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2021-03-15T11:45:15-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/MDokHi8nCwg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-powerapps-canvas-vs-model-driven-applications.md",
+      "title": "PowerApps Canvas vs Model-Driven Applications",
+      "excerpt": "PowerApps a Day #26 - In this video, you'll learn the differences between Canvas and Model Driven Applications in PowerApps.   For more PowerApps training, visit http://www.pragmaticworkstraining.com  Or we're passionate about building apps for you: http://www.powerplatformpros.com  - - - - - - - - -",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-powerapps-canvas-vs-model-driven-applications/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-powerapps-canvas-vs-model-driven-applications/",
+      "originalUrl": "https://youtube.com/watch?v=fhIlC1mSO_4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fhIlC1mSO_4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M51S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2019-05-03T12:29:04-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/fhIlC1mSO_4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-powerapps-to-read-and-write-to-azure-sql-db-with-foreign-keys.md",
+      "title": "PowerApps to Read and Write to Azure SQL DB with Foreign Keys",
+      "excerpt": "PowerApps a Day Episode #2 (Time Card App) - In this application example, we're going to start building a time card application using PowerApps and Azure SQL DB. You'll learn how to build If..Then statements and use the Filter Statement.  You'll also see how to deal with database referential integrity",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-powerapps-to-read-and-write-to-azure-sql-db-with-foreign-keys/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-powerapps-to-read-and-write-to-azure-sql-db-with-foreign-keys/",
+      "originalUrl": "https://youtube.com/watch?v=rkPVrrA-qFQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rkPVrrA-qFQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M4S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2018-09-04T11:38:04-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rkPVrrA-qFQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-powerapps-with-a-sharepoint-list-tutorial.md",
+      "title": "PowerApps with a SharePoint List Tutorial",
+      "excerpt": "PowerApp a Day Episode #9 (HR Shoutout App) -  In this video, you'll see how to read and write data into SharePoint using PowerApps. We'll also explore some quirks with the people picker in SharePoint.    Power App and Power Platform Training : https://pragmaticworks.com/training/on-demand-training",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-powerapps-with-a-sharepoint-list-tutorial/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-powerapps-with-a-sharepoint-list-tutorial/",
+      "originalUrl": "https://youtube.com/watch?v=ukFsdsBEZBU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ukFsdsBEZBU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M58S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2018-09-13T11:27:04-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ukFsdsBEZBU/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-quick-power-apps-for-teams-tutorial.md",
+      "title": "Quick Power Apps for Teams Tutorial",
+      "excerpt": "Learn how to build an Power App in Teams using Power Apps for Teams and Dataverse, all included in your Teams license today. You'll see how to create your table and app and how to manage the tables afterwards.  Lastly see how to publish the app so it's attached to a given Team.  For more about our training,",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-quick-power-apps-for-teams-tutorial/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-quick-power-apps-for-teams-tutorial/",
+      "originalUrl": "https://youtube.com/watch?v=hkpjK4SZRwg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hkpjK4SZRwg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M47S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2021-04-17T06:30:28-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/hkpjK4SZRwg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Teams integration"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-step-by-step-power-apps-portals-tutorial-5-setting-default-values.md",
+      "title": "Step by Step Power Apps Portals Tutorial #5  - Setting Default Values",
+      "excerpt": "Ep5: Learn how to set default values in Power Apps Portals in this video by Brian Knight. This technique can be used to automatically set a date, user name or arbitrary column in a Power Apps Portal entity form or Web form.   Videos in this series:  Ep1. Creating Your Dataverse Tables - https://youtu.be/fOnCLY8CJ-U",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-step-by-step-power-apps-portals-tutorial-5-setting-default-values/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-step-by-step-power-apps-portals-tutorial-5-setting-default-values/",
+      "originalUrl": "https://youtube.com/watch?v=RU-vH0UmeZQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RU-vH0UmeZQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M59S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2021-02-23T12:19:45-08:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RU-vH0UmeZQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Power Apps",
@@ -1242,42 +859,30 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-explore-portals.md",
-      "title": "Explore Power Apps portals",
-      "excerpt": "Dynamics 365 starter portals are pre-configured portal solutions that are available to help accelerate deployment. Typical portal projects will have unique requirements, but a starter portal provides an environment that is immediately suitable for specific scenarios and audiences.",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-explore-portals/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-portals/",
-      "length": "PT44M",
-      "ratings": {
-        "count": 118,
-        "average": 4.6355934
-      },
+      "path": "_learning/videos/progmatic-works-step-by-step-power-apps-portals-tutorial-6-uploading-a-file-in-a-web-form.md",
+      "title": "Step by Step Power Apps Portals Tutorial #6  -   Uploading a File in a Web Form",
+      "excerpt": "Ep6: In this video, Brian Knight walks you through creating a form that can upload files as notes into a related table in Power Apps Portals and Dataverse (CDS). This versitile approach allows you to upload nearly any type of file or document while in a Power App Portal site to a record as a note.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-step-by-step-power-apps-portals-tutorial-6-uploading-a-file-in-a-web-form/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-step-by-step-power-apps-portals-tutorial-6-uploading-a-file-in-a-web-form/",
+      "originalUrl": "https://youtube.com/watch?v=RiF--czZ7LM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RiF--czZ7LM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M23S",
       "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
       },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
+      "publishedDateTime": "2021-02-23T12:25:25-08:00",
+      "heat": 52,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/explore-portals-social.png",
-          "width": 642,
-          "height": 321,
+          "url": "https://i.ytimg.com/vi/RiF--czZ7LM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Power Apps",
@@ -1285,326 +890,30 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-extend-power-app-portals.md",
-      "title": "Extend Power Apps portals",
-      "excerpt": "The world of business software applications has embraced a movement toward building apps that use low-code/no-code methods. This movement is one of the pillars of Microsoft Power Platform, including Power Apps portals. However, many projects often include functionality or features that can only be addressed with advanced software development techniques. This module explains how to extend portal functionality by using software development and how to use application lifecycle management (ALM) techniques to deploy portals.",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-extend-power-app-portals/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/extend-power-app-portals/",
-      "length": "PT37M",
-      "ratings": {
-        "count": 37,
-        "average": 4.4054055
-      },
+      "path": "_learning/videos/progmatic-works-step-by-step-power-apps-portals-tutorial-8-styling-your-power-apps-portals-design-with-css.md",
+      "title": "Step by Step Power Apps Portals Tutorial #8 - Styling Your Power Apps Portals Design With CSS",
+      "excerpt": "Ep8: Learn how to style your Power Apps Portal with simple theming and CSS. Bring your portal from blah to bling by using some of the CSS info below from Brian Knight.   Previous videos in this series:  Ep1. Creating Your Dataverse Tables - https://youtu.be/fOnCLY8CJ-U Ep2. Creating an Entity List -",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-step-by-step-power-apps-portals-tutorial-8-styling-your-power-apps-portals-design-with-css/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-step-by-step-power-apps-portals-tutorial-8-styling-your-power-apps-portals-design-with-css/",
+      "originalUrl": "https://youtube.com/watch?v=OqXUG4Mykr4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OqXUG4Mykr4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M11S",
       "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
       },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
+      "publishedDateTime": "2021-02-23T12:29:58-08:00",
+      "heat": 52,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/extend-power-app-portals-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://i.ytimg.com/vi/OqXUG4Mykr4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power Apps",
-        "Portals"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-fit-gap-analysis.md",
-      "title": "Perform fit gap analysis",
-      "excerpt": "Learn about performing a fit gap analysis as a solution architect for Dynamics 365 and Microsoft Power Platform.",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-fit-gap-analysis/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fit-gap-analysis/",
-      "length": "PT35M",
-      "ratings": {
-        "count": 402,
-        "average": 4.71393
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-get-started-security-roles.md",
-      "title": "Get started with security roles in Common Data Service",
-      "excerpt": "Do you want to use security roles to limit user permissions? This module will show you how you can set permissions to limit access to an environment or limit which users can view, edit, or delete data in an environment within Common Data Service.",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-get-started-security-roles/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-security-roles/",
-      "length": "PT48M",
-      "ratings": {
-        "count": 179,
-        "average": 4.5977654
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/get-started-security-roles-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power Apps",
-        "Common Data Service"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-how-to-build-ui-canvas-app.md",
-      "title": "How to build the UI in a canvas app in Power Apps",
-      "excerpt": "Do you want to build a better UI for app users? This module helps you do that using themes, icons, images, personalization, different form factors, and controls.",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-how-to-build-ui-canvas-app/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/how-to-build-ui-canvas-app/",
-      "length": "PT41M",
-      "ratings": {
-        "count": 750,
-        "average": 4.6853333
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/how-to-build-ui-canvas-app-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power Apps",
-        "Canvas apps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-implementation-recommendations.md",
-      "title": "Implementation recommendations for Power Automate environments",
-      "excerpt": "Do you want prescriptive recommendations for how organizations should choose to implement security and governance? This module will provide recommendations based on popular use cases, including Office 365 and Dynamics 365 configurations. In addition, edge cases such as custom and HTTP connectors are discussed. Tooling will also be discussed, including the DLP Editor Tool, from the Center of Excellence (COE) toolkit, which allows administrators to understand the impact of the DLP change that they are about to make.",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-implementation-recommendations/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implementation-recommendations/",
-      "length": "PT1H14M",
-      "ratings": {
-        "count": 76,
-        "average": 4.5789475
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-integrate-common-data-service.md",
-      "title": "Integrate Power Apps portals with Common Data Service",
-      "excerpt": "The ability to find and interact with Common Data Service data on a website is one of the core benefits of implementing a Power Apps portal. Several methods are available for you to display Common Data Service data. Learning and knowing about these different options will help you have successful portal implementations. This module will focus on the techniques that you can use to configure entity lists, entity forms, and web forms to build powerful web applications.",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-integrate-common-data-service/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-common-data-service/",
-      "length": "PT44M",
-      "ratings": {
-        "count": 12,
-        "average": 4.5
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/integrate-common-data-service-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power Apps",
-        "Common Data Service",
-        "Portals"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-cds-developers-power-platform.md",
-      "title": "Introduction to Common Data Service for developers",
-      "excerpt": "The goal of this module is to give an introductory overview of the Power Platform SDKs that are available from Microsoft via NuGet.",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-intro-cds-developers-power-platform/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-cds-developers-power-platform/",
-      "length": "PT30M",
-      "ratings": {
-        "count": 897,
-        "average": 4.677815
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-cds-developers-power-platform-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power Apps",
-        "Common Data Service"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-portals.md",
-      "title": "Introduction to Power Apps portals",
-      "excerpt": "Extend Common Data Service interaction to external and internal audiences such as customers, partners, and employees. Use portals to set up an interactive, web-based sales, services, support, and social engagement application platform to connect with customers, engage with communities, manage site content, and empower your channel partners. Empower anyone inside or outside your organization to interact with Common Data Service data by using portals.",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-intro-portals/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-portals/",
-      "length": "PT48M",
-      "ratings": {
-        "count": 177,
-        "average": 4.6101694
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-portals-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Power Apps",

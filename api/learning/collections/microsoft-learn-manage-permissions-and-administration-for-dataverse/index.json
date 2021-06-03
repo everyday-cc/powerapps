@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-security-roles/",
       "length": "PT48M",
       "ratings": {
-        "count": 179,
-        "average": 4.5977654
+        "count": 373,
+        "average": 4.605898
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,7 +29,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 51,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/get-started-security-roles-social.png",
@@ -54,8 +54,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-admin-options-cds/",
       "length": "PT35M",
       "ratings": {
-        "count": 166,
-        "average": 4.307229
+        "count": 418,
+        "average": 4.4473686
       },
       "provider": {
         "name": "Microsoft Learn",

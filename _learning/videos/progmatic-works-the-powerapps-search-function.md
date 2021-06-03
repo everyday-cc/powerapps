@@ -4,9 +4,9 @@ excerpt: "PowerApp a Day Episode #21 (Shoutout App) - Learn how use the Search f
 originalUrl: https://youtube.com/watch?v=YklmFVvNJWI
 type: video
 price: Free
-length: PT7M26S
+length: PT7M25S
 publishedDateTime: 2018-10-03T12:54:09Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YklmFVvNJWI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 360
     isCached: true
 
-secured: "K9HBA7up18vfErSsgaviQqijTbsvBnwTcmab0ejEAEkp90gYSuprB4xgBL3MwDBKr/YGHPjJUzqtlmY4fZRtO9zIKYMdLMZxm4k96bWwJm+yy8NQ34KA72hcreDReuVZvSAqNDKDjGd/FshGjOf0GrZo307RqM2n1s3t4760ANK5FUuAiH3iqN0yPw2t7rV+3HTP8ZDcNY6MKoAhSKb7RIRZClSySXxX2FNyA+QIG9DD30B4/4wy1Okme9G6HUUXrR3UxV/mP2vQx2reBF6amEHuMf9cAOrHoPeEBadj8qD6uYEUgIEz2sny09DEfLpENBuVYbbBaa/00wJ/9mleEH9HZMNAYMt53+DyuNO/20aRFq1ZFhACJsUCmD7IQ1J5q7uMl5grhzsM0UMqOjLmQLHddLpR7aRAE3hc3EueXc4=;LANYwqKiGmPd8718zYYHmA=="
+secured: "78pYHxbShQucCHYNJYIFpl6zGPWqFSmcwGQPwaAdVfRq4ekVEqRnAt19acNC2uYuVZJ5x4NYzjtXfKFzw83CGw7DofY6ZoxrTPuj8y2Bzq7xIx+OgsR8Oo+KSfaAJGZoZmd08tXslpYFPI9E481KJ0WVQjT4iuzHyvpoSechqhwE1RiFS3gdFTdC0OqHyMbPeVCEh6JDGGVc1nBEklc4+42vS8LluxWIYls6t6TkrCE7VUGiuqCZKH7f+3o4KdS3h7A8dGf4b//YUG92sGv7XQ1tzX2zhzFWq4ksnsnqCRUloaV8Uz+1WSBLaXEo4u/owz0HqeWsIahdWryIJxh/oajVapT56bNYyvS0q98TmAASlUUbML4iYd3hgySNsr1W8icqLlZkBHtal90hWp/oYs44Fx1XJBOOE9I33+CJ4cs=;2zlxODgZiFYnzTeoq2JE2Q=="
 ---
 

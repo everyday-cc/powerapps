@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-imperative-dev-techniques-powerapps-canvas-app/",
       "length": "PT46M",
       "ratings": {
-        "count": 519,
-        "average": 4.7206163
+        "count": 649,
+        "average": 4.7442217
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -54,8 +54,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/author-advanced-formulas-powerapps/",
       "length": "PT32M",
       "ratings": {
-        "count": 441,
-        "average": 4.628118
+        "count": 542,
+        "average": 4.6531367
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -97,8 +97,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-custom-updates-powerapps-canvas-app/",
       "length": "PT38M",
       "ratings": {
-        "count": 373,
-        "average": 4.699732
+        "count": 478,
+        "average": 4.719665
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -140,8 +140,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/testing-performance-checks-powerapps/",
       "length": "PT39M",
       "ratings": {
-        "count": 383,
-        "average": 4.7336817
+        "count": 529,
+        "average": 4.7637053
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -158,7 +158,7 @@
       "levels": [
         "Advanced"
       ],
-      "heat": 51,
+      "heat": 50,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/testing-performance-checks-social.png",

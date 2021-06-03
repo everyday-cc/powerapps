@@ -4,7 +4,7 @@ excerpt: "#PowerApps #MSIgnite This is my breakout session from Microsoft Ignite
 originalUrl: https://youtube.com/watch?v=UuIwB8YYKao
 type: video
 price: Free
-length: PT46M46S
+length: PT46M45S
 publishedDateTime: 2020-05-18T14:39:58Z
 heat: 51
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "UsM8znall4pgR3Jbzt3ZkYHhYvlwgXbYW2JMy4dCEv9hggFhEW1eMDS2x/LPB1Yg9kzmjxa0K8mdCBgnF+o8lQmKu73HAaar2EX39+CnuU50uj7gBT0RMujltuwIBOho+jfQ32Bt4s/69MVsarMplcmXYhxG/F9LgsGL+UDS82Lf57L0FEwFzVx4rsxxon9RQUGzOzSbKbRD2eoHtzV2xQnMps1yuPx3m0qj0L1WmyFBYW8JYzCfRpoO2RoJBV1sQ9uX1y9Ee/9gT3NWRO+9v5M9qx4mCUHYXuWEtpwEaqNPAL9nkrj3/fVNEK1aIlSua7nmA5MBZqL40gNT2hiogYnGbncmQI1rGbG2qTUsMr2Jubdanrtt2+iu3bLYOyQeOfU980u6EInh4tvyj+bwvkO0F2hl4TWux4okc2Y2geI=;4NHSyckgqziFAOW/knFgKA=="
+secured: "Lc6DMOVFIOwd/B76p5QDaw1n46/7INWuTgW7MQYPp+Ed1U2Gl+qVn1j5Fj4aj3gbBh5EcJjD89WXxod7Jf4dWw3iQLMGpXkF/6yNU5F/y1AZgy6Zyo8tVKlTH+fPULU9dhawYGEbt6AOjIEUdaJXqacrKc4aKD+RDpfTyFsRP+ldcw8531eDc90DTZsAPU8hzhNOlR/MA/qesElu17ND6PPisWlkHiWOQOwAgR5U2VmzFqbtBCM1Af+HAigpGw4yyIcW1hRh8JvCWnLmR0Ydw6+mo/Cs07si0YP91zkrFBVEnttMScRnYCV3MVKmdZlb+JE4crgCibnP9h474ODVDsJwJBBnHFAJ6Gjbg2ixWqc4RKwVHJdYd/97zHbPpxtAjVA+iMmVtOO9ZapZYzfzzLGAeKDw2sPE3VX8bzKyNzk=;SUnJ/q9+Dja70xfxW2TD7A=="
 ---
 

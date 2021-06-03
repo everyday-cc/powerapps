@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/author-basic-formula-change-properties-powerapps/",
       "length": "PT42M",
       "ratings": {
-        "count": 1125,
-        "average": 4.616889
+        "count": 1493,
+        "average": 4.626256
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,7 +29,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 51,
+      "heat": 52,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/change-properties-social.png",
@@ -54,8 +54,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/author-basic-formula-change-behaviors-powerapps/",
       "length": "PT51M",
       "ratings": {
-        "count": 732,
-        "average": 4.605191
+        "count": 929,
+        "average": 4.6124864
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -72,7 +72,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 51,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/change-behaviors-social.png",
@@ -97,8 +97,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/author-basic-formula-tables-records-powerapps/",
       "length": "PT43M",
       "ratings": {
-        "count": 675,
-        "average": 4.5792594
+        "count": 912,
+        "average": 4.6030703
       },
       "provider": {
         "name": "Microsoft Learn",

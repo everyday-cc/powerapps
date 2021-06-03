@@ -2,7 +2,7 @@
 title: "Intermediate Power Apps Topics by April Dunnam"
 excerpt: ""
 type: collection
-heat: 63
+heat: 62
 
 provider:
   name: April Dunnam
@@ -26,6 +26,13 @@ items:
   - videos/april-dunnam-power-apps-top-3-uses-for-the-html-control
   - videos/april-dunnam-3-uses-for-power-apps-timer-controls
   - videos/april-dunnam-powerapps-horizontal-progress-bar
+  - videos/april-dunnam-power-apps-custom-calendar-and-date-picker-component
+  - videos/april-dunnam-power-apps-editable-table
+  - videos/april-dunnam-print-in-power-apps-without-power-automate
+  - videos/april-dunnam-power-apps-filter-gallery-by-date-range
+  - videos/april-dunnam-intro-to-power-apps-components-and-custom-functions
+  - videos/april-dunnam-power-apps-validation-and-json-parsing-with-regex
+  - videos/april-dunnam-3-moves-that-made-me-a-millionaire-minimum-wage-to-7-figures
 
 topics:
   - Power Apps

@@ -1,0 +1,93 @@
+{
+  "title": "Create apps, chatbots, flows, and more with Microsoft Dataverse and Teams",
+  "path": "_learning/collections/microsoft-learn-create-apps-chatbots-flows-and-more-with-microsoft-dataverse-and-teams.md",
+  "page": 1,
+  "value": [
+    {
+      "path": "_learning/courses/microsoft-learn-get-started-dataverse-teams.md",
+      "title": "Get started with Microsoft Dataverse for Teams",
+      "excerpt": "This module introduces Microsoft Dataverse for Teams and how you can build apps, workflows, chatbots, and dashboards in it. You will learn how to provision Dataverse for Teams and then create a table for your data.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-get-started-dataverse-teams/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-dataverse-teams/",
+      "length": "PT16M",
+      "ratings": {
+        "count": 35,
+        "average": 4.857143
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/get-started-dataverse-teams-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Teams integration"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-build-app-dataverse-teams.md",
+      "title": "Build your first app with Power Apps and Dataverse for Teams",
+      "excerpt": "Learn how to build an app by using Microsoft Dataverse for Teams.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-build-app-dataverse-teams/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-app-dataverse-teams/",
+      "length": "PT24M",
+      "ratings": {
+        "count": 17,
+        "average": 4.8235292
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/build-app-dataverse-teams-social.png",
+          "width": 1280,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Teams integration"
+      ]
+    }
+  ]
+}

@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT37M
 ratings:
-  count: 2040
-  average: 4.5990195
-heat: 52
+  count: 2715
+  average: 4.60663
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - Model-driven apps
   - Common Data Service
 
-secured: "aFs/DCrBXxsSufM0w/J+jB8rdnSbKinly0lDyFyHVelDpyYd0iJFrIqcv6thsCYJKA53fFiSWfYlAD7jgX4fC4r+9boCF6HjHY3bzK7E1v2Y5UviYSwna7qmIU3veLBzHvgX9eSuyk0xBGxA/N/JwtZ6WK/b67Z6znztQQ3VrTff/+l8ozVtvEa2un7V78Ic0yOzrb3kgAJ/hrhuOA1WW8Kxq5G/5py5uHU1uAy3+aEr0cLT+WqDvg1hFShevNxpXmWRnLVpzxMO2LbT75nL0Z88kQU3pvqJ1q0Z7r2jkDQXW8diZaOZj6DQfatVZCUwGG4aka2Q/fir+cvNu3QmP8n/TARwDVSGB2icsc1PqN11LH7yUdW2IQmQZa9qaNASdFteCfqR6vjb7Y/4cANuQOQ+otzdJgt55BOOWJsM0Gg=;T+rxrvIfUR+rw/0tLLit/Q=="
+secured: "Y9c8cikwYJzSd0izt5s4G/xIb043qD8n6omVPsCWmv2kDM1io95vCwUjTE1mddsr6g3w5LNSAZklEpWQ+ky0ZiSdst4NzE631Wt4JsLMo7TgWIVwVYT9nPUko85X9sMnIsqTYNJoDvqZABma+y2RnEOJ4V32QqDP6aoN1MYZ8rLAP/h5MXDl6gBonBCLodvZeNvtD+3ex8PU+MLOFdW1fdG6vZ+1ThEYNrd+F24oOZ8fG0MnecKTf1xbIbJGEGnrcpsThou3mtvxqJjIix4fCnTI9sF7fmNZ8P52L1r1Fb05GBk4e8ZMx+q4x4C2jddkLUXlZo0b68eAxyDiYvXSm8+kwJiRc6KNdyynpzvCtqtv1eDUJuUQYs5fkj6ltAq6WZ8nqhK2/LP5oG1JgELbCrLvx0WdU2Mxlsmex9htnvE=;u00Ng2bpc2ojav3ALPsudg=="
 ---
 

@@ -18,7 +18,6 @@ levels:
   - Intermediate
 
 items:
-  - courses/microsoft-learn-web-resources-power-platform
   - courses/microsoft-learn-common-actions-client-script-power-platform
   - courses/microsoft-learn-automate-business-process-flow-client-script-power-platform
 
@@ -27,7 +26,7 @@ topics:
   - Model-driven apps
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/web-resources-power-platform-social.png
+  - url: https://docs.microsoft.com/learn/achievements/common-actions-client-script-power-platform-social.png
     width: 800
     height: 400
     isCached: true

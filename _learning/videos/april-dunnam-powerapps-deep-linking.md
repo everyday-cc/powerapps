@@ -4,9 +4,9 @@ excerpt: "#PowerApps #DeepLinking Learn how to create Deep Links in your PowerAp
 originalUrl: https://youtube.com/watch?v=EZyxlYtzqTQ
 type: video
 price: Free
-length: PT12M59S
+length: PT12M58S
 publishedDateTime: 2020-05-18T14:39:58Z
-heat: 53
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EZyxlYtzqTQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "mzNbQISnwk54+oCbLc4I4mtjM34YDLE9EN5qjRcOZSInkgi6bzPUqp3LQx0ausyJwaQXjzeiigC4fVvVzJ4gVsLbZble5gqyXt/+I26L2oTtHxl7e94tByzMH8L2r3iTJz0JMtIEcbhSBI4mNoVmPrgLNW2A3/JVMBbKhBPIloZwjEVBT4wmrX3OHZItB6C2pk1FWIqYtOJ6XSz7LrpEGnZheWVihMyq94+jcjcRWcqWW4NlGT+W1s5D7s28k1rJzyHkRAEggfL0ymuJx1zMeL0/53jzw6Y/qUc8KrwQlcgnFv4uQgYYglFpBdKOMNmq1WjsUTlqeLBdTCO5RU3DKq2JTJLY8j90vJvz6Pm3T8SvO2cVU14KcKcTsAshDepo+YojJa7AVIxuzM7TNTwpaQuqquqE1bUbUWdXPuSY4Vo=;yErk3qSrcvWMXXEg2gXTPw=="
+secured: "6xZKVNbJi1fW1hOiwGAANDrgnBvLSuntjjcpK0FfUYPkMTkEObHTX6a3vSYnR66yV2HAwzdFfh83DW3TlQU7w6YFuVmBr2QVKLudHZ9suYVGJxYudV5TUjmqT8Lvqky0Iv1j7kH6YwelQlsHflpcIH8uO//4v8eMrsTtfm+56LwKq76101rWlU0nTjxFkHQ47qlbMo9dg4SxA6jmL9iY7RBiybGpWiSjNsL7SfXIVu8JfSHaL0ScnXP/pZXApEZynkn8pwhROeGPIbd4V68gExqTkoi3uO11KyPCUySUaalFvTeQTesgpFP/6MLE93nXTluyjvNEYpzq8XZHWBOcIxqQcD3U3bu9hTzwMdZNAZbvmckoR8iU499f+LQWlr/RXjSsGsUEHlrV4tdHEw2HVUh8nx4ltG3ngDbvbWFf9XI=;OoqWCP7IHqq/gXVNptqFKg=="
 ---
 

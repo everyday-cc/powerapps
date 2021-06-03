@@ -35,6 +35,37 @@
       ]
     },
     {
+      "path": "_learning/videos/powerapps911-create-your-first-custom-app-for-microsoft-teams-with-power-apps-in-5-minutes-dataverse-for-teams.md",
+      "title": "Create your first custom app for Microsoft Teams with Power Apps in 5 minutes - Dataverse for Teams",
+      "excerpt": "In this video, you will learn how to build your first custom app in teams by using Power Apps. No fluff, no overview, just a quick dive into everything you need to know to build your first app thanks to the Microsoft Dataverse (Project Oakdale preview).   Power Apps Training https://training.powerapps911.com",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-create-your-first-custom-app-for-microsoft-teams-with-power-apps-in-5-minutes-dataverse-for-teams/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-create-your-first-custom-app-for-microsoft-teams-with-power-apps-in-5-minutes-dataverse-for-teams/",
+      "originalUrl": "https://youtube.com/watch?v=s6-C2xismq4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/s6-C2xismq4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M1S",
+      "provider": {
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
+      },
+      "publishedDateTime": "2020-09-21T16:21:44-07:00",
+      "heat": 66,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/s6-C2xismq4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Teams integration"
+      ]
+    },
+    {
       "path": "_learning/videos/powerapps911-create-your-first-custom-app-for-microsoft-teams-with-power-apps-in-5-minutes.md",
       "title": "Create your first custom app for Microsoft Teams with Power Apps in 5 minutes",
       "excerpt": "In this video, you will learn how to build your first custom app in teams by using Power Apps. No fluff, no overview, just a quick dive into everything you need to know to build your first app thanks to the Project Oakdale preview.   Power Apps Training https://training.powerapps911.com  Link to 43 minute",
@@ -79,10 +110,72 @@
         "domain": "powerapps911.com"
       },
       "publishedDateTime": "2020-09-21T15:41:18-07:00",
-      "heat": 56,
+      "heat": 57,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/o-0s3Pqh0TI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Teams integration"
+      ]
+    },
+    {
+      "path": "_learning/videos/powerapps911-power-apps-teams-integration.md",
+      "title": "Power Apps Teams Integration",
+      "excerpt": "In this video, you will learn about Power Apps Team Integration. You will see how to post messages to Teams from PowerApps and @ mention people, how to create channels, and a lot of the mechanics so you can integrate this critical data source.   Power Apps training at https://training.PowerApps911.com",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-power-apps-teams-integration/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-power-apps-teams-integration/",
+      "originalUrl": "https://youtube.com/watch?v=KONkjjSYvMI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KONkjjSYvMI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M57S",
+      "provider": {
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
+      },
+      "publishedDateTime": "2020-08-16T11:15:01-07:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/KONkjjSYvMI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Teams integration"
+      ]
+    },
+    {
+      "path": "_learning/videos/powerapps911-power-apps-dynamic-uploads-for-teams-or-sharepoint-via-flow-.md",
+      "title": "Power Apps Dynamic Uploads for Teams or SharePoint via Flow 🤩",
+      "excerpt": "I don't know how to explain this. Just watch the demo and be amazed. Basically I show you how to dynamically feed in the Team and Channel you want to upload a file to via PowerApps. BUT since Teams stores files in SharePoint it is really a lesson about dynamic locations in SharePoint. 🤑  Power Apps",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-power-apps-dynamic-uploads-for-teams-or-sharepoint-via-flow-/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-power-apps-dynamic-uploads-for-teams-or-sharepoint-via-flow-/",
+      "originalUrl": "https://youtube.com/watch?v=2gE0e_AsdMw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2gE0e_AsdMw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M",
+      "provider": {
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
+      },
+      "publishedDateTime": "2021-02-21T08:43:49-08:00",
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/2gE0e_AsdMw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -110,7 +203,7 @@
         "domain": "aprildunnam.com"
       },
       "publishedDateTime": "2020-05-18T07:42:05-07:00",
-      "heat": 55,
+      "heat": 54,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/UmMhQSom_EE/hqdefault.jpg",
@@ -128,23 +221,288 @@
       ]
     },
     {
-      "path": "_learning/videos/powerapps911-power-apps-teams-integration.md",
-      "title": "Power Apps Teams Integration",
-      "excerpt": "In this video, you will learn about Power Apps Team Integration. You will see how to post messages to Teams from PowerApps and @ mention people, how to create channels, and a lot of the mechanics so you can integrate this critical data source.   Power Apps training at https://training.PowerApps911.com",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-power-apps-teams-integration/index.json",
-      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-power-apps-teams-integration/",
-      "originalUrl": "https://youtube.com/watch?v=KONkjjSYvMI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KONkjjSYvMI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M57S",
+      "path": "_learning/videos/powerapps911-excel-add-in-for-dataverse-for-teams.md",
+      "title": "Excel add in for Dataverse for Teams",
+      "excerpt": "Learn how to bulk upload and edit your Dataverse for Teams tables using Excel. Nothing profound but when I was learning Dataverse this was the tool that really made the light bulb come on for me. 💡  Dataverse for Teams Training Class https://training.powerapps911.com/courses/create-apps-workflows-and-chatbots-for-microsoft-teams-live",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-excel-add-in-for-dataverse-for-teams/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-excel-add-in-for-dataverse-for-teams/",
+      "originalUrl": "https://youtube.com/watch?v=dvXhjqwmg3I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dvXhjqwmg3I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M13S",
       "provider": {
         "name": "PowerApps911",
         "domain": "powerapps911.com"
       },
-      "publishedDateTime": "2020-08-16T11:15:01-07:00",
-      "heat": 55,
+      "publishedDateTime": "2021-02-25T07:15:24-08:00",
+      "heat": 54,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/KONkjjSYvMI/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/dvXhjqwmg3I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Common Data Service",
+        "Teams integration"
+      ]
+    },
+    {
+      "path": "_learning/videos/powerapps911-create-teams-meeting-link-from-power-apps-and-power-automate-for-outlook.md",
+      "title": "Create Teams meeting link from Power Apps and Power Automate for Outlook",
+      "excerpt": "In this video, you will learn how to create an Outlook meeting request with a online Teams meeting link using Power Apps and Power Automate.  Link to Time Zone documentation https://support.microsoft.com/en-us/help/973627/microsoft-time-zone-index-values  Sign up for Power Apps Training and download",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-create-teams-meeting-link-from-power-apps-and-power-automate-for-outlook/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-create-teams-meeting-link-from-power-apps-and-power-automate-for-outlook/",
+      "originalUrl": "https://youtube.com/watch?v=hPRzHbMzoI0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hPRzHbMzoI0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M53S",
+      "provider": {
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
+      },
+      "publishedDateTime": "2020-09-29T12:35:22-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/hPRzHbMzoI0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Teams integration"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-quick-power-apps-for-teams-tutorial.md",
+      "title": "Quick Power Apps for Teams Tutorial",
+      "excerpt": "Learn how to build an Power App in Teams using Power Apps for Teams and Dataverse, all included in your Teams license today. You'll see how to create your table and app and how to manage the tables afterwards.  Lastly see how to publish the app so it's attached to a given Team.  For more about our training,",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-quick-power-apps-for-teams-tutorial/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-quick-power-apps-for-teams-tutorial/",
+      "originalUrl": "https://youtube.com/watch?v=hkpjK4SZRwg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hkpjK4SZRwg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M47S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2021-04-17T06:30:28-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/hkpjK4SZRwg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Teams integration"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-create-apps-chatbots-flows-and-more-with-microsoft-dataverse-and-teams.md",
+      "title": "Create apps, chatbots, flows, and more with Microsoft Dataverse and Teams",
+      "excerpt": "Learn how to create apps, flows, and more with Microsoft Dataverse for Teams",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/collections/microsoft-learn-create-apps-chatbots-flows-and-more-with-microsoft-dataverse-and-teams/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/collections/microsoft-learn-create-apps-chatbots-flows-and-more-with-microsoft-dataverse-and-teams/",
+      "length": "PT1H29M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-get-started-dataverse-teams.md",
+          "title": "Get started with Microsoft Dataverse for Teams",
+          "excerpt": "This module introduces Microsoft Dataverse for Teams and how you can build apps, workflows, chatbots, and dashboards in it. You will learn how to provision Dataverse for Teams and then create a table for your data.",
+          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-get-started-dataverse-teams/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-dataverse-teams/",
+          "length": "PT16M",
+          "ratings": {
+            "count": 35,
+            "average": 4.857143
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/get-started-dataverse-teams-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "Teams integration"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-build-app-dataverse-teams.md",
+          "title": "Build your first app with Power Apps and Dataverse for Teams",
+          "excerpt": "Learn how to build an app by using Microsoft Dataverse for Teams.",
+          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-build-app-dataverse-teams/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-app-dataverse-teams/",
+          "length": "PT24M",
+          "ratings": {
+            "count": 17,
+            "average": 4.8235292
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/build-app-dataverse-teams-social.png",
+              "width": 1280,
+              "height": 641,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "Teams integration"
+          ]
+        }
+      ],
+      "size": 2,
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/get-started-dataverse-teams-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Teams integration"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-get-started-dataverse-teams.md",
+      "title": "Get started with Microsoft Dataverse for Teams",
+      "excerpt": "This module introduces Microsoft Dataverse for Teams and how you can build apps, workflows, chatbots, and dashboards in it. You will learn how to provision Dataverse for Teams and then create a table for your data.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-get-started-dataverse-teams/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-dataverse-teams/",
+      "length": "PT16M",
+      "ratings": {
+        "count": 35,
+        "average": 4.857143
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/get-started-dataverse-teams-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Teams integration"
+      ]
+    },
+    {
+      "path": "_learning/videos/april-dunnam-build-teams-apps-with-power-apps-in-dataverse-for-teams-tips-tricks.md",
+      "title": "Build Teams apps with Power Apps in Dataverse for Teams | Tips & Tricks",
+      "excerpt": "Microsoft Cloud Advocate, April Dunnam (https://www.youtube.com/c/aprildunnam), shares tips & tricks about building Microsoft Teams apps with Power Apps in Dataverse for Teams.  Want to learn more? Check out https://aka.ms/learn-dataverse-for-teams",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-build-teams-apps-with-power-apps-in-dataverse-for-teams-tips-tricks/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-build-teams-apps-with-power-apps-in-dataverse-for-teams-tips-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=tSf9wHxQf9E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tSf9wHxQf9E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M24S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2021-04-13T15:28:20-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tSf9wHxQf9E/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -172,7 +530,7 @@
         "domain": "powerapps911.com"
       },
       "publishedDateTime": "2020-09-21T15:22:17-07:00",
-      "heat": 54,
+      "heat": 51,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/o6lHqSCPyOk/maxresdefault.jpg",
@@ -183,6 +541,92 @@
       ],
       "content": "\r\n",
       "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Teams integration"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-build-app-dataverse-teams.md",
+      "title": "Build your first app with Power Apps and Dataverse for Teams",
+      "excerpt": "Learn how to build an app by using Microsoft Dataverse for Teams.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-build-app-dataverse-teams/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-app-dataverse-teams/",
+      "length": "PT24M",
+      "ratings": {
+        "count": 17,
+        "average": 4.8235292
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/build-app-dataverse-teams-social.png",
+          "width": 1280,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Teams integration"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-transform-biz-software-auth-fusion-dev.md",
+      "title": "Transform business software authoring with fusion development teams",
+      "excerpt": "Increase software development efficiency and productivity with fusion development teams.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-transform-biz-software-auth-fusion-dev/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/transform-business-software-authoring-with-fusion-dev/",
+      "length": "PT17M",
+      "ratings": {
+        "count": 0,
+        "average": 0.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/transform-business-software-authoring-with-fusion-development-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Power Apps",
@@ -203,41 +647,10 @@
         "domain": "powerapps911.com"
       },
       "publishedDateTime": "2020-10-29T16:20:13-07:00",
-      "heat": 52,
+      "heat": 50,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/D8wNJ_0Oclo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps",
-        "Teams integration"
-      ]
-    },
-    {
-      "path": "_learning/videos/powerapps911-create-teams-meeting-link-from-power-apps-and-power-automate-for-outlook.md",
-      "title": "Create Teams meeting link from Power Apps and Power Automate for Outlook",
-      "excerpt": "In this video, you will learn how to create an Outlook meeting request with a online Teams meeting link using Power Apps and Power Automate.  Link to Time Zone documentation https://support.microsoft.com/en-us/help/973627/microsoft-time-zone-index-values  Sign up for Power Apps Training and download",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-create-teams-meeting-link-from-power-apps-and-power-automate-for-outlook/index.json",
-      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-create-teams-meeting-link-from-power-apps-and-power-automate-for-outlook/",
-      "originalUrl": "https://youtube.com/watch?v=hPRzHbMzoI0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hPRzHbMzoI0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M53S",
-      "provider": {
-        "name": "PowerApps911",
-        "domain": "powerapps911.com"
-      },
-      "publishedDateTime": "2020-09-29T12:35:22-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/hPRzHbMzoI0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

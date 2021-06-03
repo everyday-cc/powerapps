@@ -2,7 +2,7 @@
 title: "PowerApps Tutorials & Demonstrations by Henry Ouang"
 excerpt: ""
 type: collection
-heat: 66
+heat: 67
 
 provider:
   name: Henry Ouang
@@ -24,6 +24,10 @@ items:
   - videos/henry-ouang-powerapps-performance-optimization-one-simple-trick-2x-speeds-on-your-apps
   - videos/henry-ouang-differences-between-powerapps-ios-development-creating-a-button
   - videos/henry-ouang-powerapps-performance-optimization-measure-your-performance-improvements
+  - videos/henry-ouang-power-automate-automatically-save-new-files-to-a-different-onedrive-account-folder
+  - videos/henry-ouang-one-click-excel-data-to-multiple-pdfs-no-powerapps-premium-demonstration
+  - videos/henry-ouang-excel-data-to-multiple-pdfs-no-powerapps-premium-free-part-12
+  - videos/henry-ouang-excel-data-to-multiple-pdfs-no-powerapps-premium-free-part-22
 
 topics:
   - Power Apps

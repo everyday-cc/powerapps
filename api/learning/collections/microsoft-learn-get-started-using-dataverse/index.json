@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-environments/",
       "length": "PT42M",
       "ratings": {
-        "count": 979,
-        "average": 4.6036773
+        "count": 1511,
+        "average": 4.648577
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,7 +29,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 51,
+      "heat": 53,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/create-manage-environments-social.png",
@@ -47,15 +47,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-create-manage-entities.md",
-      "title": "Create and manage entities in Common Data Service",
-      "excerpt": "Common Data Service entities are similar to tables in a database. Every instance of a Common Data Service database includes a base set of entities that provide structure for data that is commonly used by business applications.",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-create-manage-entities/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-entities/",
-      "length": "PT44M",
+      "path": "_learning/courses/microsoft-learn-powerapps-common-data-service.md",
+      "title": "Get started with Common Data Service",
+      "excerpt": "Common Data Service lets you securely store and manage data that's used by business applications. Standard and custom entities within Common Data Service provide a secure and cloud-based storage option for your data.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-powerapps-common-data-service/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-powerapps-common-data-service/",
+      "length": "PT1H1M",
       "ratings": {
-        "count": 804,
-        "average": 4.630597
+        "count": 2930,
+        "average": 4.5604095
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -72,7 +72,42 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 50,
+      "heat": 53,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Common Data Service"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-create-manage-entities.md",
+      "title": "Create and manage entities in Common Data Service",
+      "excerpt": "Common Data Service entities are similar to tables in a database. Every instance of a Common Data Service database includes a base set of entities that provide structure for data that is commonly used by business applications.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-create-manage-entities/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-entities/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 1198,
+        "average": 4.672788
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/create-manage-entities-social.png",
@@ -97,8 +132,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-fields-within-entity/",
       "length": "PT1H3M",
       "ratings": {
-        "count": 413,
-        "average": 4.59322
+        "count": 779,
+        "average": 4.6264443
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -115,7 +150,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 51,
+      "heat": 52,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/create-manage-fields-within-entity-social.png",
@@ -140,8 +175,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/working-with-option-sets/",
       "length": "PT39M",
       "ratings": {
-        "count": 373,
-        "average": 4.6595173
+        "count": 655,
+        "average": 4.6931295
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -158,7 +193,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 50,
+      "heat": 51,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/working-with-option-sets-social.png",
@@ -183,8 +218,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/load-export-data-create-data-views/",
       "length": "PT40M",
       "ratings": {
-        "count": 412,
-        "average": 4.6529126
+        "count": 820,
+        "average": 4.7182927
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -201,7 +236,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 51,
+      "heat": 52,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/load-export-data-create-data-views-social.png",

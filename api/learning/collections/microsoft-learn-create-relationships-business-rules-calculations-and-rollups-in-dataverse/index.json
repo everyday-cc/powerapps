@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-relationship-between-cds-entities/",
       "length": "PT55M",
       "ratings": {
-        "count": 113,
-        "average": 4.619469
+        "count": 193,
+        "average": 4.626943
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -54,8 +54,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/define-create-business-rules/",
       "length": "PT44M",
       "ratings": {
-        "count": 115,
-        "average": 4.695652
+        "count": 185,
+        "average": 4.7027025
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -97,8 +97,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-define-calculation-rollup-fields/",
       "length": "PT42M",
       "ratings": {
-        "count": 87,
-        "average": 4.609195
+        "count": 165,
+        "average": 4.7151513
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -115,7 +115,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 130,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/create-define-calculation-rollup-fields-social.png",

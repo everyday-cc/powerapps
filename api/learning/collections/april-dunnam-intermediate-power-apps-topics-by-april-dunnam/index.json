@@ -17,7 +17,7 @@
         "domain": "aprildunnam.com"
       },
       "publishedDateTime": "2020-05-18T07:39:58-07:00",
-      "heat": 57,
+      "heat": 58,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/N8AsxE__Mw8/maxresdefault.jpg",
@@ -107,7 +107,7 @@
         "domain": "aprildunnam.com"
       },
       "publishedDateTime": "2020-05-18T07:39:58-07:00",
-      "heat": 53,
+      "heat": 52,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/uAQa-Zg3yGk/maxresdefault.jpg",
@@ -131,7 +131,7 @@
       "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-microsoft-powerapps-makeover-basic-to-beautiful/",
       "originalUrl": "https://youtube.com/watch?v=UuIwB8YYKao",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UuIwB8YYKao\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT46M46S",
+      "length": "PT46M45S",
       "provider": {
         "name": "April Dunnam",
         "domain": "aprildunnam.com"
@@ -167,7 +167,7 @@
         "domain": "aprildunnam.com"
       },
       "publishedDateTime": "2020-05-18T07:39:58-07:00",
-      "heat": 51,
+      "heat": 52,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/jvhhw-03Oks/maxresdefault.jpg",
@@ -221,13 +221,13 @@
       "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-powerapps-deep-linking/",
       "originalUrl": "https://youtube.com/watch?v=EZyxlYtzqTQ",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EZyxlYtzqTQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M59S",
+      "length": "PT12M58S",
       "provider": {
         "name": "April Dunnam",
         "domain": "aprildunnam.com"
       },
       "publishedDateTime": "2020-05-18T07:39:58-07:00",
-      "heat": 53,
+      "heat": 54,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/EZyxlYtzqTQ/maxresdefault.jpg",
@@ -257,7 +257,7 @@
         "domain": "aprildunnam.com"
       },
       "publishedDateTime": "2020-05-18T07:39:58-07:00",
-      "heat": 51,
+      "heat": 52,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/N03fzzhjzDE/maxresdefault.jpg",
@@ -341,7 +341,7 @@
       "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-powerapps-ai-object-detection-how-to/",
       "originalUrl": "https://youtube.com/watch?v=iivd7-WXT8o",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iivd7-WXT8o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M36S",
+      "length": "PT10M15S",
       "provider": {
         "name": "April Dunnam",
         "domain": "aprildunnam.com"
@@ -408,7 +408,7 @@
         "domain": "aprildunnam.com"
       },
       "publishedDateTime": "2020-05-18T07:39:58-07:00",
-      "heat": 50,
+      "heat": 51,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/23NvSB4cu5w/maxresdefault.jpg",
@@ -438,7 +438,7 @@
         "domain": "aprildunnam.com"
       },
       "publishedDateTime": "2020-06-08T21:07:25-07:00",
-      "heat": 55,
+      "heat": 56,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/HqsV8dO1OBM/maxresdefault.jpg",
@@ -498,10 +498,220 @@
         "domain": "aprildunnam.com"
       },
       "publishedDateTime": "2020-07-29T21:35:13-07:00",
-      "heat": 51,
+      "heat": 52,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/r-bTu1srBkY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/april-dunnam-power-apps-custom-calendar-and-date-picker-component.md",
+      "title": "Power Apps Custom Calendar and Date Picker Component",
+      "excerpt": "#PowerApps #Calendar If you have ever needed to limit the selection of weekends or change the week start date from Sunday to Monday but found that the out of the box date picker can't handle it then this video is for you!  I have created a FREE Power Apps Date Picker/Custom Calendar Component that addresses",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-power-apps-custom-calendar-and-date-picker-component/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-power-apps-custom-calendar-and-date-picker-component/",
+      "originalUrl": "https://youtube.com/watch?v=pl1YoItT1VM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pl1YoItT1VM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M50S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-11-24T20:43:59-08:00",
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/pl1YoItT1VM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/april-dunnam-power-apps-editable-table.md",
+      "title": "Power Apps Editable Table",
+      "excerpt": "#PowerApps #EditableTables #InlineEditing  In this video I'll walk you through all of the steps needed to create a repeating, inline editable table within Power Apps similar to what you would see in SharePoint's Quick Edit Mode, Excel and InfoPath repeating tables.   Here's a breakdown of what's covered:",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-power-apps-editable-table/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-power-apps-editable-table/",
+      "originalUrl": "https://youtube.com/watch?v=mj4mKS1hS7M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mj4mKS1hS7M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M42S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-09-02T20:29:13-07:00",
+      "heat": 65,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/mj4mKS1hS7M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/april-dunnam-print-in-power-apps-without-power-automate.md",
+      "title": "Print in Power Apps without Power Automate",
+      "excerpt": "#PowerApps #Printing  In this video I highlight a way to print tabular data directly in Power Apps, no need for Power Automate!  This is made possible by Microsoft MVP and MCT Yash Agarwal who created a fantastic PCF control that will allow you to print directly in Power Apps.  I'll walk you through",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-print-in-power-apps-without-power-automate/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-print-in-power-apps-without-power-automate/",
+      "originalUrl": "https://youtube.com/watch?v=tPAz1vJUe2k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tPAz1vJUe2k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M34S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-11-12T06:12:56-08:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tPAz1vJUe2k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/april-dunnam-power-apps-filter-gallery-by-date-range.md",
+      "title": "Power Apps Filter Gallery by Date Range",
+      "excerpt": "#PowerApps #Filtering  Learn how you can create a dropdown filter that allows you to filter your Power Apps galleries by a date range.  I show examples of how to filter by previous week, current week and pay period (2 weeks)!  You'll see a demo of it working in a Time Clock Power Apps application and",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-power-apps-filter-gallery-by-date-range/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-power-apps-filter-gallery-by-date-range/",
+      "originalUrl": "https://youtube.com/watch?v=AIA53Kt9tTg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AIA53Kt9tTg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M22S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2021-04-14T07:04:07-07:00",
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/AIA53Kt9tTg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/april-dunnam-intro-to-power-apps-components-and-custom-functions.md",
+      "title": "Intro to Power Apps Components and Custom Functions",
+      "excerpt": "#PowerAppsComponents  In this video, you'll learn everything you need to know about PowerApps Components and the brand new custom functions capability. Power Apps Components allow you to package and reuse controls and functionality throughout your app.  We can use Component Libraries to curate collections",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-intro-to-power-apps-components-and-custom-functions/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-intro-to-power-apps-components-and-custom-functions/",
+      "originalUrl": "https://youtube.com/watch?v=MQGqHwZdUes",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MQGqHwZdUes\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M44S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2021-04-20T13:05:35-07:00",
+      "heat": 59,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/MQGqHwZdUes/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/april-dunnam-power-apps-validation-and-json-parsing-with-regex.md",
+      "title": "Power Apps Validation and JSON Parsing with Regex",
+      "excerpt": "#PowerApps #Validation #JSON In this video we'll explore Power Apps Validation and JSON Parsing with Regex.  Regex or Regular Expressions are used to help us match a search pattern.  We can use them to validate data to make sure you've entered things like passwords, email address, phone numbers, times,",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-power-apps-validation-and-json-parsing-with-regex/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-power-apps-validation-and-json-parsing-with-regex/",
+      "originalUrl": "https://youtube.com/watch?v=2xWiFkBf294",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2xWiFkBf294\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M19S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2021-05-16T21:13:13-07:00",
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/2xWiFkBf294/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/april-dunnam-3-moves-that-made-me-a-millionaire-minimum-wage-to-7-figures.md",
+      "title": "3 Moves That Made Me A Millionaire (Minimum Wage to 7 Figures)",
+      "excerpt": "Revealing the 3 moves that made me a millionaire (Minimum Wage to 7 Figures)  Want to know how to become a millionaire? This video reveals the 3 moves I made that took me from minimum wage to 7 figure income in 2 years and how you can too!  If you’ve ever dreamed of making passive income and wondered",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-3-moves-that-made-me-a-millionaire-minimum-wage-to-7-figures/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-3-moves-that-made-me-a-millionaire-minimum-wage-to-7-figures/",
+      "originalUrl": "https://youtube.com/watch?v=ENIACMQ7E1M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ENIACMQ7E1M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2021-05-19T10:37:05-07:00",
+      "heat": 244,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ENIACMQ7E1M/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

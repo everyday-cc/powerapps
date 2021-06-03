@@ -4,6 +4,37 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/videos/april-dunnam-power-apps-canvas-vs-model-driven-vs-portals-explained.md",
+      "title": "Power Apps Canvas vs Model Driven vs Portals Explained",
+      "excerpt": "#PowerApps #PowerAppsTypes #Beginner Are you new to Power Apps?  Then this video is for you!  After you watch my video on \"How to Get Started with Power Apps\", this video is a good next step in that learning path.   I'll explain what Power Apps is and go over the three different types of Power Apps that",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-power-apps-canvas-vs-model-driven-vs-portals-explained/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-power-apps-canvas-vs-model-driven-vs-portals-explained/",
+      "originalUrl": "https://youtube.com/watch?v=M_tvnAmHMZY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/M_tvnAmHMZY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-09-17T07:11:46-07:00",
+      "heat": 67,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/M_tvnAmHMZY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Portals"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-administer-power-apps-portals.md",
       "title": "Administer Power Apps portals",
       "excerpt": "Learn how to administer Power Apps portals.",
@@ -34,8 +65,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/portals-administration/",
           "length": "PT13M",
           "ratings": {
-            "count": 30,
-            "average": 4.6
+            "count": 82,
+            "average": 4.6463413
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -77,8 +108,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/portals-integration/",
           "length": "PT19M",
           "ratings": {
-            "count": 24,
-            "average": 4.8333335
+            "count": 63,
+            "average": 4.7777777
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -120,8 +151,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/authentication-user-management/",
           "length": "PT23M",
           "ratings": {
-            "count": 17,
-            "average": 4.647059
+            "count": 54,
+            "average": 4.685185
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -163,8 +194,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/portals-maintenance-troubleshooting/",
           "length": "PT22M",
           "ratings": {
-            "count": 16,
-            "average": 4.75
+            "count": 59,
+            "average": 4.7966104
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -248,8 +279,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-portals/",
           "length": "PT48M",
           "ratings": {
-            "count": 177,
-            "average": 4.6101694
+            "count": 313,
+            "average": 4.6709266
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -291,8 +322,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-portals/",
           "length": "PT44M",
           "ratings": {
-            "count": 118,
-            "average": 4.6355934
+            "count": 207,
+            "average": 4.652174
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -334,8 +365,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/portal-features/",
           "length": "PT30M",
           "ratings": {
-            "count": 92,
-            "average": 4.5
+            "count": 140,
+            "average": 4.614286
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -377,8 +408,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/portals-architecture/",
           "length": "PT26M",
           "ratings": {
-            "count": 76,
-            "average": 4.5789475
+            "count": 137,
+            "average": 4.649635
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -462,8 +493,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-portals-studio/",
           "length": "PT40M",
           "ratings": {
-            "count": 133,
-            "average": 4.6165414
+            "count": 198,
+            "average": 4.6666665
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -505,8 +536,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/portals-metadata/",
           "length": "PT49M",
           "ratings": {
-            "count": 20,
-            "average": 4.65
+            "count": 45,
+            "average": 4.6666665
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -548,8 +579,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-common-data-service/",
           "length": "PT44M",
           "ratings": {
-            "count": 12,
-            "average": 4.5
+            "count": 32,
+            "average": 4.65625
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -592,8 +623,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/liquid-template-language/",
           "length": "PT44M",
           "ratings": {
-            "count": 13,
-            "average": 4.8461537
+            "count": 37,
+            "average": 4.7297297
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -647,6 +678,37 @@
       ]
     },
     {
+      "path": "_learning/videos/progmatic-works-step-by-step-power-apps-portals-tutorial-1-creating-your-dataverse-tables.md",
+      "title": "Step by Step Power Apps Portals Tutorial #1 Creating Your Dataverse Tables",
+      "excerpt": "Ep1 - This series walks through the step by step creation of a Power App Portal site. In this first video, Brian shows you the first step of every project, designing the Dataverse (CDS) tables that will be used throughout this full project. He'll walk through the design of our sample application for",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-step-by-step-power-apps-portals-tutorial-1-creating-your-dataverse-tables/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-step-by-step-power-apps-portals-tutorial-1-creating-your-dataverse-tables/",
+      "originalUrl": "https://youtube.com/watch?v=fOnCLY8CJ-U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fOnCLY8CJ-U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M47S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2021-02-23T10:29:16-08:00",
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/fOnCLY8CJ-U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Portals"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-introduction-to-power-apps-portals.md",
       "title": "Introduction to Power Apps portals",
       "excerpt": "Introduction to Power Apps portals",
@@ -654,8 +716,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-apps-portals/",
       "length": "PT25M",
       "ratings": {
-        "count": 470,
-        "average": 4.657447
+        "count": 1680,
+        "average": 4.661905
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -672,7 +734,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 60,
+      "heat": 56,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -683,37 +745,6 @@
       ],
       "content": "\r\n",
       "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power Apps",
-        "Portals"
-      ]
-    },
-    {
-      "path": "_learning/videos/april-dunnam-power-apps-canvas-vs-model-driven-vs-portals-explained.md",
-      "title": "Power Apps Canvas vs Model Driven vs Portals Explained",
-      "excerpt": "#PowerApps #PowerAppsTypes #Beginner Are you new to Power Apps?  Then this video is for you!  After you watch my video on \"How to Get Started with Power Apps\", this video is a good next step in that learning path.   I'll explain what Power Apps is and go over the three different types of Power Apps that",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-power-apps-canvas-vs-model-driven-vs-portals-explained/index.json",
-      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-power-apps-canvas-vs-model-driven-vs-portals-explained/",
-      "originalUrl": "https://youtube.com/watch?v=M_tvnAmHMZY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/M_tvnAmHMZY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M",
-      "provider": {
-        "name": "April Dunnam",
-        "domain": "aprildunnam.com"
-      },
-      "publishedDateTime": "2020-09-17T07:11:46-07:00",
-      "heat": 59,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/M_tvnAmHMZY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
       "price": "Free",
       "topics": [
         "Power Apps",
@@ -738,6 +769,223 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/hwazNDRqLNU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Portals"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-step-by-step-power-apps-portals-tutorial-2-creating-an-entity-list.md",
+      "title": "Step by Step Power Apps Portals Tutorial #2 Creating an Entity List",
+      "excerpt": "Ep2: In this second video in the series, Brian shows you how to create an entity list to show data from a Dataverse table in Power Apps Portals.   Videos in this series:  Ep1. Creating Your Dataverse Tables - https://youtu.be/fOnCLY8CJ-U Ep2. Creating an Entity List - https://youtu.be/M1VaZ5t7bNA Ep3.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-step-by-step-power-apps-portals-tutorial-2-creating-an-entity-list/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-step-by-step-power-apps-portals-tutorial-2-creating-an-entity-list/",
+      "originalUrl": "https://youtube.com/watch?v=M1VaZ5t7bNA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/M1VaZ5t7bNA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M28S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2021-02-23T11:43:14-08:00",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/M1VaZ5t7bNA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Portals"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-step-by-step-power-apps-portals-tutorial-4-creating-an-entity-form-and-web-form.md",
+      "title": "Step by Step Power Apps Portals Tutorial #4  Creating an Entity Form and Web Form",
+      "excerpt": "Ep4: In this video, Brian shows you how to create an Entity Form to enter data in a Power App Portal and a more elaborate Web Form to create the look of a wizard to enter data. He also shows you how to add the web form into the Portal.  Ep1. Creating Your Dataverse Tables - https://youtu.be/fOnCLY8CJ-U",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-step-by-step-power-apps-portals-tutorial-4-creating-an-entity-form-and-web-form/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-step-by-step-power-apps-portals-tutorial-4-creating-an-entity-form-and-web-form/",
+      "originalUrl": "https://youtube.com/watch?v=nndAjymowmc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nndAjymowmc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M21S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2021-02-23T12:16:11-08:00",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/nndAjymowmc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Portals"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-step-by-step-power-apps-portals-tutorial-3-securing-an-entity-list-with-entity-permissions.md",
+      "title": "Step by Step Power Apps Portals Tutorial #3  - Securing an Entity List with Entity Permissions",
+      "excerpt": "Ep3: In this video, Brian walks you through securing the entity list to make sure you can only see your own records in Power Apps Portals. Once complete, you'll be able to sign in after creating a contact login and only see records with row or account-level security. You'll also see how to send initiations",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-step-by-step-power-apps-portals-tutorial-3-securing-an-entity-list-with-entity-permissions/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-step-by-step-power-apps-portals-tutorial-3-securing-an-entity-list-with-entity-permissions/",
+      "originalUrl": "https://youtube.com/watch?v=R0aI6r4NvGY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/R0aI6r4NvGY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M20S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2021-02-23T12:03:40-08:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/R0aI6r4NvGY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Portals"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-using-javascript-in-power-apps-portals-to-hide-and-show-fields.md",
+      "title": "Using JavaScript in Power Apps Portals to Hide and Show Fields",
+      "excerpt": "In this video, you'll see how to integrate JavaScript into Power Apps Portals to show and hide fields based on another input. With this same method, you can also do field validation and masking.  Code used in this video to show and hide the other manufacturer field based on a drop-down selection:  $(document).ready(function",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-using-javascript-in-power-apps-portals-to-hide-and-show-fields/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-using-javascript-in-power-apps-portals-to-hide-and-show-fields/",
+      "originalUrl": "https://youtube.com/watch?v=XKkyNgByqf4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XKkyNgByqf4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M1S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2021-04-27T06:38:32-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/XKkyNgByqf4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Portals"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-step-by-step-power-apps-portals-tutorial-5-setting-default-values.md",
+      "title": "Step by Step Power Apps Portals Tutorial #5  - Setting Default Values",
+      "excerpt": "Ep5: Learn how to set default values in Power Apps Portals in this video by Brian Knight. This technique can be used to automatically set a date, user name or arbitrary column in a Power Apps Portal entity form or Web form.   Videos in this series:  Ep1. Creating Your Dataverse Tables - https://youtu.be/fOnCLY8CJ-U",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-step-by-step-power-apps-portals-tutorial-5-setting-default-values/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-step-by-step-power-apps-portals-tutorial-5-setting-default-values/",
+      "originalUrl": "https://youtube.com/watch?v=RU-vH0UmeZQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RU-vH0UmeZQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M59S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2021-02-23T12:19:45-08:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RU-vH0UmeZQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Portals"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-step-by-step-power-apps-portals-tutorial-6-uploading-a-file-in-a-web-form.md",
+      "title": "Step by Step Power Apps Portals Tutorial #6  -   Uploading a File in a Web Form",
+      "excerpt": "Ep6: In this video, Brian Knight walks you through creating a form that can upload files as notes into a related table in Power Apps Portals and Dataverse (CDS). This versitile approach allows you to upload nearly any type of file or document while in a Power App Portal site to a record as a note.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-step-by-step-power-apps-portals-tutorial-6-uploading-a-file-in-a-web-form/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-step-by-step-power-apps-portals-tutorial-6-uploading-a-file-in-a-web-form/",
+      "originalUrl": "https://youtube.com/watch?v=RiF--czZ7LM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RiF--czZ7LM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M23S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2021-02-23T12:25:25-08:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RiF--czZ7LM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Portals"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-step-by-step-power-apps-portals-tutorial-8-styling-your-power-apps-portals-design-with-css.md",
+      "title": "Step by Step Power Apps Portals Tutorial #8 - Styling Your Power Apps Portals Design With CSS",
+      "excerpt": "Ep8: Learn how to style your Power Apps Portal with simple theming and CSS. Bring your portal from blah to bling by using some of the CSS info below from Brian Knight.   Previous videos in this series:  Ep1. Creating Your Dataverse Tables - https://youtu.be/fOnCLY8CJ-U Ep2. Creating an Entity List -",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-step-by-step-power-apps-portals-tutorial-8-styling-your-power-apps-portals-design-with-css/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-step-by-step-power-apps-portals-tutorial-8-styling-your-power-apps-portals-design-with-css/",
+      "originalUrl": "https://youtube.com/watch?v=OqXUG4Mykr4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OqXUG4Mykr4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M11S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2021-02-23T12:29:58-08:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/OqXUG4Mykr4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -783,6 +1031,37 @@
       ]
     },
     {
+      "path": "_learning/videos/progmatic-works-step-by-step-power-apps-portals-tutorial-7-conditions-in-web-forms.md",
+      "title": "Step by Step Power Apps Portals Tutorial #7  -  Conditions in Web Forms",
+      "excerpt": "Ep7: Learn how to branch the your web forms based on inputs from a customer in this video from Brian Knight. With conditions in Power Apps web forms, you can drive users into multiple directions based on previous inputs. You'll also learn how to redirect the user to a list after the for has been successfully",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-step-by-step-power-apps-portals-tutorial-7-conditions-in-web-forms/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-step-by-step-power-apps-portals-tutorial-7-conditions-in-web-forms/",
+      "originalUrl": "https://youtube.com/watch?v=mHbkNn-Zx7o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mHbkNn-Zx7o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M59S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2021-02-23T12:27:49-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/mHbkNn-Zx7o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Portals"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-extend-power-apps-portals.md",
       "title": "Extend Power Apps portals",
       "excerpt": "Learn how to extend Power Apps portals.",
@@ -813,8 +1092,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/portals-access-common-data-service/",
           "length": "PT50M",
           "ratings": {
-            "count": 54,
-            "average": 4.4074073
+            "count": 101,
+            "average": 4.6138616
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -857,8 +1136,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/extend-power-app-portals/",
           "length": "PT37M",
           "ratings": {
-            "count": 37,
-            "average": 4.4054055
+            "count": 78,
+            "average": 4.6153846
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -900,8 +1179,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/portal-custom-web/",
           "length": "PT55M",
           "ratings": {
-            "count": 47,
-            "average": 4.4680853
+            "count": 104,
+            "average": 4.6634617
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -962,8 +1241,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/authentication-user-management/",
       "length": "PT23M",
       "ratings": {
-        "count": 17,
-        "average": 4.647059
+        "count": 54,
+        "average": 4.685185
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1005,8 +1284,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-user-experience-portals/",
       "length": "PT40M",
       "ratings": {
-        "count": 16,
-        "average": 4.8125
+        "count": 41,
+        "average": 4.804878
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1048,8 +1327,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-security/",
       "length": "PT43M",
       "ratings": {
-        "count": 14,
-        "average": 4.928571
+        "count": 37,
+        "average": 4.7297297
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1091,8 +1370,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-portals-studio/",
       "length": "PT40M",
       "ratings": {
-        "count": 133,
-        "average": 4.6165414
+        "count": 198,
+        "average": 4.6666665
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1134,8 +1413,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-portals/",
       "length": "PT44M",
       "ratings": {
-        "count": 118,
-        "average": 4.6355934
+        "count": 207,
+        "average": 4.652174
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1177,8 +1456,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/extend-power-app-portals/",
       "length": "PT37M",
       "ratings": {
-        "count": 37,
-        "average": 4.4054055
+        "count": 78,
+        "average": 4.6153846
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1220,8 +1499,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-common-data-service/",
       "length": "PT44M",
       "ratings": {
-        "count": 12,
-        "average": 4.5
+        "count": 32,
+        "average": 4.65625
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1264,8 +1543,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-portals/",
       "length": "PT48M",
       "ratings": {
-        "count": 177,
-        "average": 4.6101694
+        "count": 313,
+        "average": 4.6709266
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1307,8 +1586,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/liquid-template-language/",
       "length": "PT44M",
       "ratings": {
-        "count": 13,
-        "average": 4.8461537
+        "count": 37,
+        "average": 4.7297297
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1350,8 +1629,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/portal-custom-web/",
       "length": "PT55M",
       "ratings": {
-        "count": 47,
-        "average": 4.4680853
+        "count": 104,
+        "average": 4.6634617
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1393,8 +1672,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/portal-features/",
       "length": "PT30M",
       "ratings": {
-        "count": 92,
-        "average": 4.5
+        "count": 140,
+        "average": 4.614286
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1436,8 +1715,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/portals-access-common-data-service/",
       "length": "PT50M",
       "ratings": {
-        "count": 54,
-        "average": 4.4074073
+        "count": 101,
+        "average": 4.6138616
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1480,8 +1759,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/portals-administration/",
       "length": "PT13M",
       "ratings": {
-        "count": 30,
-        "average": 4.6
+        "count": 82,
+        "average": 4.6463413
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1514,240 +1793,7 @@
         "Power Apps",
         "Portals"
       ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-portals-architecture.md",
-      "title": "Power Apps portals architecture",
-      "excerpt": "This module focuses on the Power Apps portals architecture, such as how the various components work together to build a portal. Additionally, it explains how the components are installed and come to together in a working portal. The module also describes the maker and configuration tools that you can use to build and customize Power Apps portals.",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-portals-architecture/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/portals-architecture/",
-      "length": "PT26M",
-      "ratings": {
-        "count": 76,
-        "average": 4.5789475
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/portals-architecture-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power Apps",
-        "Portals"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-portals-integration.md",
-      "title": "Integrate Power Apps portals with web-based technologies",
-      "excerpt": "Learn how to integrate Power Apps portals with web-based technologies.",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-portals-integration/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/portals-integration/",
-      "length": "PT19M",
-      "ratings": {
-        "count": 24,
-        "average": 4.8333335
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/portals-integration-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power Apps",
-        "Portals"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-portals-maintenance-troubleshooting.md",
-      "title": "Power Apps portals maintenance and troubleshooting",
-      "excerpt": "When building a Microsoft Power Apps portal, administrators should consider various techniques, best practices, and features. This module will cover the various troubleshooting tools that are available and explain the importance of using the Portal Checker tool.",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-portals-maintenance-troubleshooting/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/portals-maintenance-troubleshooting/",
-      "length": "PT22M",
-      "ratings": {
-        "count": 16,
-        "average": 4.75
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/portals-maintenance-troubleshooting-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power Apps",
-        "Portals"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-portals-metadata.md",
-      "title": "Work with Power Apps portals metadata",
-      "excerpt": "Makers are required to understand the various Power Apps portals metadata components so they can configure the portals app for a variety of unique requirements. This module uses the Portal Management app to configure various portals features by editing the portals metadata.",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-portals-metadata/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/portals-metadata/",
-      "length": "PT49M",
-      "ratings": {
-        "count": 20,
-        "average": 4.65
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/portals-metadata-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power Apps",
-        "Portals"
-      ]
-    },
-    {
-      "path": "_learning/videos/progmatic-works-powerapps-portals-external-authentication-with-facebook.md",
-      "title": "PowerApps Portals External Authentication with Facebook",
-      "excerpt": "Episode 36: Learn how to use external authentication provider, Facebook with PowerApps Portals to allow users to register and login to your site easily.   Check out our free PowerApps App In A Day Class: http://success.pragmaticworks.com/aiad  We'd love to build an app for you: http://www.pragmaticworks.com",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-powerapps-portals-external-authentication-with-facebook/index.json",
-      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-powerapps-portals-external-authentication-with-facebook/",
-      "originalUrl": "https://youtube.com/watch?v=egfnaXIqpwU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/egfnaXIqpwU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M5S",
-      "provider": {
-        "name": "Progmatic Works",
-        "domain": "pragmaticworks.com"
-      },
-      "publishedDateTime": "2019-07-22T14:07:31-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/egfnaXIqpwU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps",
-        "Portals"
-      ]
-    },
-    {
-      "path": "_learning/videos/progmatic-works-powerapps-portals-external-authentication-with-linkedin.md",
-      "title": "PowerApps Portals External Authentication with LinkedIn",
-      "excerpt": "Episode 35: Learn how to use external authentication provider, LinkedIn with PowerApps Portals to allow users to register and login to your site easily.   Check out our free PowerApps App In A Day Class: http://success.pragmaticworks.com/aiad  We'd love to build an app for you: http://www.pragmaticworks.com",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-powerapps-portals-external-authentication-with-linkedin/index.json",
-      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-powerapps-portals-external-authentication-with-linkedin/",
-      "originalUrl": "https://youtube.com/watch?v=8Zx2RBhwV4I",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8Zx2RBhwV4I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M10S",
-      "provider": {
-        "name": "Progmatic Works",
-        "domain": "pragmaticworks.com"
-      },
-      "publishedDateTime": "2019-07-19T13:21:44-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8Zx2RBhwV4I/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps",
-        "Portals"
-      ]
     }
-  ]
+  ],
+  "nextPage": 2
 }

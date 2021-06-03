@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT1H1M
 ratings:
-  count: 2327
-  average: 4.5616674
-heat: 51
+  count: 2930
+  average: 4.5604095
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Power Apps
   - Common Data Service
 
-secured: "VU8uR+rli5jGcPwEMDIl2O3wYEQava7ynRCYx0qasTpGMuyMshOqZWzzqMjLIF1HfS+Q4SJ8GSKjCKPDLp8GEuFt5lpQ0Xrb1ZmqKSkvyckY3aijjWOZAuUVn+e0qkLAGg4I+glLmWcRtPmMwSlwAHzu/wHOHhjSkxSd+XVTL/NJaFzGAPyv4AyPHIgAvZf3BbiClKD/7A2uchhBFKM+x55zPsIlw6e8vYcii+D9Rl9voG/rWYLOFHAyTX72d8tTifkWXQPw5ibrVt/heC8+XSrK+LL9AoVQJZIzVboHr/XQSb7j611hBT97eq9HhOCIaTIq0t2EQ51uBjXHRnKWC57Pguh4A7chWO9tvSEBuMgPndyoh1kmOIccal/PBr3Dz0tAFKxC6zHlRrApLQuf8aImqbCjw2cdmbuOuKmF3xE=;oyKzfLuKE2E4Y6V+btVLmQ=="
+secured: "OAkBpiQZygwbxH+QOTkPJsIM2QOUMAFLaFZpuGR29L84A6WbfunjUTCpG/Es5EdxomkEKahpDnBJ3Ui6t/9Z3rxINmuGkxSrPFERLeXRcbmWi/EHFEenM5il+K1viI9N/1GIXB52ftczC/X1KT5jfq2CRzWo4P7SfiZnDOwgUzP0Fmz+Al5faIvfMqkzNhJ4ILGWOKL6LAD5MVePSH6e1qOTzAwM6D59Zr+TGU6sV1ZlKqatmjasCFO2dboZa4IlAhJb8mWzxV2GFB2F9KTe3WCmnbvw3/NRl1R/S1qTSmfbt9kIBxlE3A0qwFCZE7d2Tw4HmCx07XuUbS0beg0XxkOqL3ssWeS2fB4GYUi7OIM3ZZzErOMbawGnQKrbFemrD+MBA6DnR/GrHnkEGfKC+lZEPn/SaRHEbZGy/6Aan7o=;axhZR6hrsBv//Z1JT+tK7A=="
 ---
 

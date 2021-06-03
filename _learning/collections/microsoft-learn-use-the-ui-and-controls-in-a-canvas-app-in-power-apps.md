@@ -4,7 +4,7 @@ excerpt: "The app user experience often defines the success of your app. This le
 type: collection
 price: Free
 length: PT1H58M
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn

@@ -4,9 +4,9 @@ excerpt: "In this video, you will get an introduction to the Common Data Service
 originalUrl: https://youtube.com/watch?v=49O1UW-tkyo
 type: video
 price: Free
-length: PT30M19S
+length: PT30M21S
 publishedDateTime: 2020-07-05T17:59:42Z
-heat: 58
+heat: 59
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/49O1UW-tkyo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -25,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Y/KkOtIYJApyElo3rUY7Ku5aH4kJjh+LNwGrsdIy9Bx2JE+fLLI5hs57/ddWf8hb1lpGU16f7rzlg8osqKLRVDjyzm5KDpwUKvWG+QNDTdCQupIgA3JEkmi9A52V3MzssMCKJQIHTvZX6U81gCU1NSTwgNLDpXc3KlktOimgwL9TkZdH0AbggCFeh0X1ALW2Nli8p45bJmzeSCm5z8z9SI7JuETceW+HwHRrq9CGERzqrvEA5rvdSw5dgzu6J92mpft8x6tbYhMczias6sbIrTwOoJkCiRBuj9fFm4Wb4H53qeqHZmEJr8vZXd0/TecZeQsnB731ZwJiH9T04h4VxR7ehOUMJWC9Aw/GGuTWV9PcfshJ03oLDUdZRtbj598PI2zjd4APwWH+bRFNI3xyxIx9ZNzw2UF/QEYekqn4A2M=;FZeFTANYUG4CBt9plKWAdw=="
+secured: "D9LW2rBBwnqtB8/bwdBpAOaysswsQ67WGShBBW9OqKfrudBYMuSCA9ZtpMpCCOeUCKBgupmBlW2FyRUKZp03TIlyDUijx2nkulSVsCaH0mS0ic4hBwyu3tDCffMiucyCXEj8GeUrhdyB3M0bjoxqBFtag6OMIyJ0nERti6CsxYzEiQdVvAyqiSoTM7rYj2rl4iIHD7zy+djk0lZqnZhEJ793qYr6hDYeUSyfRP7WBk3MvHiDXyEFjEg+QhF/uWfFHMehXoIfpCvslFFZUowBNXM5MS8xIVaOQxXCEs6BVmgv+5R5QhU1dY3SwRrOKV/AT/Z+aYc2ae8zYkzJYyGfz/j9y7Yz7uUQwuFGafeYXgp7v6CZ9yUxpF2pfovmV28tRv9cV3eToZT/IF3iUY8rCAm19bx/fU3Wv4VdQIS2gWM=;rqPjRWhWt4PLaJ00gVXygQ=="
 ---
 

@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-model-driven-apps-common-data-service/",
       "length": "PT37M",
       "ratings": {
-        "count": 2040,
-        "average": 4.5990195
+        "count": 2715,
+        "average": 4.60663
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,7 +29,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 52,
+      "heat": 53,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
@@ -47,8 +47,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-powerapps-common-data-service/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 2327,
-        "average": 4.5616674
+        "count": 2930,
+        "average": 4.5604095
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -65,7 +65,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 51,
+      "heat": 53,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
@@ -82,8 +82,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-model-driven-apps-in-powerapps/",
       "length": "PT1H14M",
       "ratings": {
-        "count": 2973,
-        "average": 4.548604
+        "count": 3330,
+        "average": 4.5540543
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -100,7 +100,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 51,
+      "heat": 52,
       "content": "\r\n",
       "type": "course",
       "price": "Free",

@@ -2,7 +2,7 @@
 title: "Power Apps - Step by Step Tutorial Guide for Beginners by Dhruvin Shah"
 excerpt: "Welcome to Power Apps Beginner Series. This series is dedicated to all Power Apps Beginners. Anyone who wanted to add their first step in Power Apps, they can go through this series. These are Power Apps beginner’s tutorial. The entire Power Apps Beginner tutorial is free of cost. I divided the entire Power Apps beginner series into 20 different parts."
 type: collection
-heat: 67
+heat: 79
 
 provider:
   name: Dhruvin Shah
@@ -31,6 +31,13 @@ items:
   - videos/dhruvin-shah-access-management-for-power-apps-canvas-app-sharing-power-apps-canvas-app
   - videos/dhruvin-shah-restore-previous-version-of-the-canvas-app-in-power-apps
   - videos/dhruvin-shah-manage-roles-in-power-apps-canvas-app-with-power-automate-and-sharepoint
+  - videos/dhruvin-shah-multi-step-form-in-power-apps-canvas-app
+  - videos/dhruvin-shah-source-code-file-for-power-apps-canvas-app
+  - videos/dhruvin-shah-create-map-using-geospatial-component-in-power-apps
+  - videos/dhruvin-shah-select-and-pin-location-to-geospatial-maps-in-power-apps
+  - videos/dhruvin-shah-address-input-component-with-geospatial-map-in-power-apps
+  - videos/dhruvin-shah-draw-and-insert-shape-into-geospatial-maps-in-power-apps
+  - videos/dhruvin-shah-all-you-should-know-about-power-apps-components-library
 
 topics:
   - Power Apps

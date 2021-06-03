@@ -4,7 +4,7 @@ excerpt: "In this video, I show how to set up and use the new AI Object Detector
 originalUrl: https://youtube.com/watch?v=iivd7-WXT8o
 type: video
 price: Free
-length: PT9M36S
+length: PT10M15S
 publishedDateTime: 2020-05-18T14:39:58Z
 heat: 50
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "70R2K84qQZFtwXcENdBicQSC7EfPrMBo850QRnVwRGsN3L+dQwitZaZldnA2XhZK1oC6LUh3Z6eAi6clW2lYAO5+z53sbFBzsxZE1xTZcjd8kF7omKxUngJHKgpNNH+f9Bo2scI72d+b5g1CCcUQsA7I24xDC+CxhpH3dQqD2JHRdYfF3/SVQJn2DYRNZcQ1FYRqLHogwXD0Qulvr5/CDGpp7IZwwl8eaTv42CRAGjqiPepS5hqsKnupmseKFqNBo34tyNvkxhY/Ff93Gd0ZE6ox2li3Q20nLSgbISzGVvCLFqAD3cGxhDKDKjeWuSkrwdGwRwwQvOWnWRyAzXQS1Wj0GXGQ6AffzQOeGMgrSwjIF+CXPrQ+zeWS+hmcogEoVl1vqTEwNPrkMWlER5wRGj/tpiMJYNckIBP8YmN+8WU=;l40GtJqnfha6WV4EuyxgyQ=="
+secured: "POur8F906x9rnLpcSencuWPkr5kCmyMYc/Mf0RYjdrap4sFm/wARamEdsYKUfk/h+ypDdainTQnDSIylCXTlIE+9XGfz4FCEHof85GKwJJi9wCo7JXIKIKG5f+819iDMU5xsOVm5G2JqxeKyWq5JsFln2Wh2KgCvnBHaf+3VudzSXMKxcbDOmFxpWo7YdLrzyEEIJeVyWhp/PI55BDlWy4LLtORqdK6y9ckdJp6a8oWUEQQK/0I0cdlMQtvOrUNqC53e28Fs4tt+PD+9iO/pJ7NQu5DsS9irlAqTdn1Ie5DSdwqsy9mBV19AaTLuLTmh4Ic1hFk71gdcnoV2l6qyBtH+uvIz3hla4bcvNqraQ9/DtWGREx6ZaNlOW53PGibiZH71UF60vkvmPwZ3H9XVqFT75jAUDt83VpVtbfugGbE=;32b7s881EtVAXPrG33Gpzw=="
 ---
 

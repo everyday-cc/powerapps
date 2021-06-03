@@ -4,7 +4,7 @@ excerpt: "In this video, you will learn how to get started using Azure SQL Datab
 originalUrl: https://youtube.com/watch?v=CO6xfbjnYwc
 type: video
 price: Free
-length: PT27M49S
+length: PT27M48S
 publishedDateTime: 2018-04-13T20:14:42Z
 heat: 55
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "VFNvFtEfVOPtYXQx7JIv+4h1BMTODY1ty5MlaVBFbDSAMtjArrO9K7sP6MNcC9FuMe9WnYlz3S8O5eUwnuueiqWdfN04Z4iwtjbBbkdYdXLXZvfeud9FAvH2MwUzxgz+vdEvPh9PLxr9c5yBKxzWHmjQO4SnsSMcbBTCo88trmorJGOt9Edn6goffbwrxER2uutYcA6N6q+QghDb8lrWS0pAyyek/JJKLzOwBp7an6kItMll1/Roa4EvD1/kKzlhmFys9GByn+J4kQd3mbUlbSKOat5hCjX1XIQKCQKSfmQeMgXSTkmD6JHrTifsC6IYdIYL0S9+VK/ilWhs8dRVFc37FMnVp3SfDg+p06NSkidOGrrlJ5Sl6tmJxF98ybLVQWzstpypd1myyYv0kwQP60+E9j8Omlk9bpKsfTmLQOw=;+OFTjoChjq11aEIOLYM1YA=="
+secured: "i1dzwrh9VVtf58/kEjW9YGARj4UCPLzHNzP5VZl4YM/Bz/pO25uDQ7f5t1XV4EyUptzLdlyMO2/8q0MoJlWEQwDEVJVSxOuuzuNaycQLQMKO4Ge6Cknreyt0dxsEronF2axi9K5mfsgBPHWgGnN0qIQvjAs1DSTdVBcHG7pQRNzv0ZuNa40231kB1jNDx43dFTxvUOiS7CMQTzdgXiNc6GhZvFG+66NbQQEyMRLhQPv90ak95iLU7uCD8/jSQrSOHR0L2I7AmpRMb0+RXWFs39YedRGMMwOqoDJHE8SC6xoFAHYsPMbWsV6tOMl1hvjn4ob1EYrB8UISgD7F5i+MqvqJRXuAVh10uZ53r064vdReWO9OPArA0GJbmHr+dac/idOXdDuGqJBkYAXOFGYHlzehdnWx/tI2J6H9kfDqPqw=;Df28PtsNFHBl0UAhPArXEw=="
 ---
 

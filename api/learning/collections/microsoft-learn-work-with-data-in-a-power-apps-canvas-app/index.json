@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-external-data/",
       "length": "PT58M",
       "ratings": {
-        "count": 964,
-        "average": 4.549793
+        "count": 1179,
+        "average": 4.585242
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -46,8 +46,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/shape-data/",
       "length": "PT58M",
       "ratings": {
-        "count": 720,
-        "average": 4.5902777
+        "count": 851,
+        "average": 4.615746
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -81,8 +81,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/write-data/",
       "length": "PT48M",
       "ratings": {
-        "count": 692,
-        "average": 4.617052
+        "count": 26,
+        "average": 4.923077
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -99,7 +99,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 47,
       "content": "\r\n",
       "type": "course",
       "price": "Free",

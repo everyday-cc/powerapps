@@ -4,9 +4,9 @@ excerpt: "In this video, you will learn about PowerApps Forms. This is the first
 originalUrl: https://youtube.com/watch?v=yT4gGVunU0o
 type: video
 price: Free
-length: PT20M21S
+length: PT20M20S
 publishedDateTime: 2018-08-03T16:30:27Z
-heat: 74
+heat: 76
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yT4gGVunU0o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "FVLwnhjX/Odc5kNUHTBdUYU510bEMqe+PwLHivEnV48Cd9WeOtW/3ebswUbkIkD3tXEvanmw7D4O4XxbJiyt4wPEVe8zHJmLTKBDn4o12rIAckYQ1qxcuHQaYgtEYpKulCNNEt/Gfe40oddLPWb5IDQgCDieCbnw6vujdamlKaHyiVJnDQ2quIjiETiQP1N8LbhVsFOml+yhwPfAPKJOZLnUoQIoTUJdlUvfv3ZkNmbYfGNz/UqRhWYTxzOMPOrRwQwvGkeWXRZaOyM97OfkvuXVsv9U9thhouAyp1qar2Vr2gSljuI7IMmKvAIEgABrE6T9q8+1ifrnf1qWG/0ONK8Z3iU2+N/QuE70p+4WPKVXVFcMVlEr9VVGYZlLBicfB9mWtwxSpEpus0r3ElHpWeNSljeQJQuEEc92E3i0OsIP2eqBFzJStfNaFP3yut2k;H0i+Jd8lkDQQMupY/dneNA=="
+secured: "gohI+7kZb9hp6NDlHGvBjJfwxerP6YAwkUA0yeIs0+dmif23eC/7gpLV66goCwS6/2f4bojw+jVNAvFnJPo+TsP42Yn2WHqBcnRL2JdnN0Fm/nBQfpFJsqlWsuBWaP0Jhh2u01FKDvR1fxi2ZZifzcAOA38OFnK5ERVZCND6WM5eAP80NaYsZEErcTL93kPYj6qpyNpKPzVgkpcYeiLCw9fUoLksgeg6xr7ZmLr8ZWNQ6OmjVPB7puj7oB9I3zlxhRWTEMt2xrWusT6qeGOIaH/QhS5cpxIpLuaqoGKMLCIA4BzxTCnDDYgmmCGHaRWyPp5dkgLUX0Af81BI/gjr+nOWXIXS1rJZElm3vy/vUvtZmRdSm7WgcAVZQGEySnkdu1JJNCR8OaHjNwvvBLLQs4wjB82YxYIenrWufc4EEMuDB8zWmyu/IVtbh/cYm1Z2;sx/SxWFqNIvGauPSgwZaMQ=="
 ---
 

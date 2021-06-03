@@ -4,6 +4,37 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/videos/progmatic-works-power-apps-model-driven-app-in-5-minutes.md",
+      "title": "Power Apps - Model Driven App in 5 minutes",
+      "excerpt": "Learn how to use PowerApps to build a quick application to log phone calls for your company. In this quick tutorial you'll leverage the tables within Dataverse to build this model driven app quickly.  If you enjoy this video and are interested in formal training on Power BI, Power Apps, Azure, or other",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-power-apps-model-driven-app-in-5-minutes/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-power-apps-model-driven-app-in-5-minutes/",
+      "originalUrl": "https://youtube.com/watch?v=xBQoCd2sBpM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xBQoCd2sBpM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M55S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2021-05-04T09:52:56-07:00",
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xBQoCd2sBpM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Model-driven apps"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-intro-model-driven-apps-common-data-service.md",
       "title": "Introduction to model-driven apps and Common Data Service",
       "excerpt": "Do you want to quickly build apps with little to no code? This module will focus on the building blocks of Common Data Service and model-driven apps. These key components will help you build quick business apps in your organization.",
@@ -11,8 +42,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-model-driven-apps-common-data-service/",
       "length": "PT37M",
       "ratings": {
-        "count": 2040,
-        "average": 4.5990195
+        "count": 2715,
+        "average": 4.60663
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,7 +60,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 52,
+      "heat": 53,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
@@ -47,8 +78,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-model-driven-apps-in-powerapps/",
       "length": "PT1H14M",
       "ratings": {
-        "count": 2973,
-        "average": 4.548604
+        "count": 3330,
+        "average": 4.5540543
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -65,7 +96,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 51,
+      "heat": 52,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
@@ -98,48 +129,6 @@
       ],
       "topItems": [
         {
-          "path": "_learning/courses/microsoft-learn-web-resources-power-platform.md",
-          "title": "Introduction to web resources",
-          "excerpt": "This module will focus on educating developers on how to write HTML web resources in support of presenting custom presentation logic within the Microsoft Power Platform user experience.",
-          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-web-resources-power-platform/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/web-resources-power-platform/",
-          "length": "PT43M",
-          "ratings": {
-            "count": 229,
-            "average": 4.633188
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/web-resources-power-platform-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power Apps"
-          ]
-        },
-        {
           "path": "_learning/courses/microsoft-learn-common-actions-client-script-power-platform.md",
           "title": "Performing common actions with client script",
           "excerpt": "The goal of this module is to review how to achieve common user experience automation procedures through Client Script. This module is intended to serve as a practical guide for how to solve real-world scenarios that are frequently encountered during the Microsoft Power Platform implementations.",
@@ -147,8 +136,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/common-actions-client-script-power-platform/",
           "length": "PT1H27M",
           "ratings": {
-            "count": 175,
-            "average": 4.6514287
+            "count": 204,
+            "average": 4.6715684
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -189,8 +178,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-business-process-flow-client-script-power-platform/",
           "length": "PT1H31M",
           "ratings": {
-            "count": 159,
-            "average": 4.6415095
+            "count": 200,
+            "average": 4.63
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -224,11 +213,11 @@
           ]
         }
       ],
-      "size": 3,
+      "size": 2,
       "heat": 50,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/web-resources-power-platform-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/common-actions-client-script-power-platform-social.png",
           "width": 800,
           "height": 400,
           "isCached": true

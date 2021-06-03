@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/portals-administration/",
       "length": "PT13M",
       "ratings": {
-        "count": 30,
-        "average": 4.6
+        "count": 82,
+        "average": 4.6463413
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -54,8 +54,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/portals-integration/",
       "length": "PT19M",
       "ratings": {
-        "count": 24,
-        "average": 4.8333335
+        "count": 63,
+        "average": 4.7777777
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -97,8 +97,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/authentication-user-management/",
       "length": "PT23M",
       "ratings": {
-        "count": 17,
-        "average": 4.647059
+        "count": 54,
+        "average": 4.685185
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -140,8 +140,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/portals-maintenance-troubleshooting/",
       "length": "PT22M",
       "ratings": {
-        "count": 16,
-        "average": 4.75
+        "count": 59,
+        "average": 4.7966104
       },
       "provider": {
         "name": "Microsoft Learn",

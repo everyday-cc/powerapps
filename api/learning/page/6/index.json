@@ -4,83 +4,23 @@
   "page": 6,
   "value": [
     {
-      "path": "_learning/videos/powerapps911-flow-and-powerapps-export-package-use-export-and-import-to-move-a-working-app.md",
-      "title": "Flow and PowerApps Export Package - Use Export and Import to move a working app",
-      "excerpt": "In this video, you will learn how to use PowerApps Export Package and Import Package to move an App to a new tenant including the associated Flows!   PowerApps Training at https://training.PowerApps911.com",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-flow-and-powerapps-export-package-use-export-and-import-to-move-a-working-app/index.json",
-      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-flow-and-powerapps-export-package-use-export-and-import-to-move-a-working-app/",
-      "originalUrl": "https://youtube.com/watch?v=XeMj0Ywf3UM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XeMj0Ywf3UM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M5S",
+      "path": "_learning/videos/powerapps911-common-data-service-relationships-and-lookups-with-power-apps-canvas-apps.md",
+      "title": "Common Data Service Relationships and Lookups with Power Apps canvas apps",
+      "excerpt": "In this video, you will learn how to setup and use Lookup columns in the Common Data Service aka CDS aka Dataflex. We talk about Filter, Patch, Collections, Forms, and more all while helping you build better relationships in your Power Apps Canvas Apps. I also skip all of the \"relationship\" jokes I wanted",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-common-data-service-relationships-and-lookups-with-power-apps-canvas-apps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-common-data-service-relationships-and-lookups-with-power-apps-canvas-apps/",
+      "originalUrl": "https://youtube.com/watch?v=kVEtj7QdRYY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kVEtj7QdRYY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M47S",
       "provider": {
         "name": "PowerApps911",
         "domain": "powerapps911.com"
       },
-      "publishedDateTime": "2019-10-11T16:36:14-07:00",
-      "heat": 54,
+      "publishedDateTime": "2020-08-09T09:28:27-07:00",
+      "heat": 57,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/XeMj0Ywf3UM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/powerapps911-power-apps-number-sequence-function-forall-concat-date-times-and-strings.md",
-      "title": "Power Apps Number Sequence function + ForAll, Concat, Date Times, and strings",
-      "excerpt": "In this video, you will learn how to generate a table of numbers using the Sequence function. Then after covering the basics we dive into how to use sequence with dates, text, random numbers, controls, ForAll, Concat, LookUp, Patch and more. Lots of little things in this video.  Power Apps Training at",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-power-apps-number-sequence-function-forall-concat-date-times-and-strings/index.json",
-      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-power-apps-number-sequence-function-forall-concat-date-times-and-strings/",
-      "originalUrl": "https://youtube.com/watch?v=oKJkVx2gehw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oKJkVx2gehw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M28S",
-      "provider": {
-        "name": "PowerApps911",
-        "domain": "powerapps911.com"
-      },
-      "publishedDateTime": "2020-07-27T13:40:19-07:00",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/oKJkVx2gehw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/powerapps911-power-apps-power-automate-microsoft-teams-and-project-oakdale-preview-for-pros.md",
-      "title": "Power Apps, Power Automate, Microsoft Teams, and Project Oakdale preview for Pros",
-      "excerpt": "In this video, you will learn all of the things you need to know to start building Power Apps and Flows with Project Oakdale preview. There are a lot of little difference and I do my best in this video to speed up your learning curve by showing you the things I struggled with.  Power Apps Training https://training.powerapps911.com",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-power-apps-power-automate-microsoft-teams-and-project-oakdale-preview-for-pros/index.json",
-      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-power-apps-power-automate-microsoft-teams-and-project-oakdale-preview-for-pros/",
-      "originalUrl": "https://youtube.com/watch?v=o6lHqSCPyOk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/o6lHqSCPyOk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M29S",
-      "provider": {
-        "name": "PowerApps911",
-        "domain": "powerapps911.com"
-      },
-      "publishedDateTime": "2020-09-21T15:22:17-07:00",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/o6lHqSCPyOk/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/kVEtj7QdRYY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -91,27 +31,28 @@
       "price": "Free",
       "topics": [
         "Power Apps",
-        "Teams integration"
+        "Common Data Service",
+        "Canvas apps"
       ]
     },
     {
-      "path": "_learning/videos/powerapps911-power-apps-print-directly-to-a-printer-with-an-api-pdfs-labels-barcodes-and-more-with-flow.md",
-      "title": "Power Apps Print directly to a printer with an API - PDFs, Labels, Barcodes, and more with Flow",
-      "excerpt": "In this video, you will learn how to Print from Power Apps using a 3rd party API called PrintNode. By passing settings to flow you can print PDFs, labels, barcodes, forms and more directly. Does require subscribing to their service and a premium flow but in the video I give you ideas on how to handle",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-power-apps-print-directly-to-a-printer-with-an-api-pdfs-labels-barcodes-and-more-with-flow/index.json",
-      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-power-apps-print-directly-to-a-printer-with-an-api-pdfs-labels-barcodes-and-more-with-flow/",
-      "originalUrl": "https://youtube.com/watch?v=m4Fu9af2h1c",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/m4Fu9af2h1c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M35S",
+      "path": "_learning/videos/powerapps911-intro-powerapps-components-including-input-and-output-properties.md",
+      "title": "Intro PowerApps Components including Input and Output properties",
+      "excerpt": "In this video, you will learn about PowerApps Components. This new feature allows you to package and reuse controls and functionality throughout your app. The video covers what are Components, how to pass data into components, and how to pass data from components.  For more information on PowerApps please",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-intro-powerapps-components-including-input-and-output-properties/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-intro-powerapps-components-including-input-and-output-properties/",
+      "originalUrl": "https://youtube.com/watch?v=AqZkUQ78e50",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AqZkUQ78e50\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M32S",
       "provider": {
         "name": "PowerApps911",
         "domain": "powerapps911.com"
       },
-      "publishedDateTime": "2020-10-23T13:56:32-07:00",
-      "heat": 54,
+      "publishedDateTime": "2019-03-31T11:36:47-07:00",
+      "heat": 57,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/m4Fu9af2h1c/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/AqZkUQ78e50/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -125,23 +66,23 @@
       ]
     },
     {
-      "path": "_learning/videos/powerapps911-powerapps-addcolumns-showcolumns.md",
-      "title": "PowerApps AddColumns ShowColumns",
-      "excerpt": "In this video, you will learn to use PowerApps AddColumns and ShowColumns along with other functions to better manipulate your data. Sometimes you don't control your data so you need to fix it up after you bring it into your app. This video will show you some of the tricks of the trade to do so.   Video",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-powerapps-addcolumns-showcolumns/index.json",
-      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-powerapps-addcolumns-showcolumns/",
-      "originalUrl": "https://youtube.com/watch?v=Gtzs1-IuXuY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Gtzs1-IuXuY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT25M13S",
+      "path": "_learning/videos/powerapps911-power-apps-ama-i-answer-all-of-your-questions-about-sharepoint-flow-dataverse-and-more.md",
+      "title": "Power Apps AMA - I answer all of your questions about SharePoint, Flow, Dataverse and more",
+      "excerpt": "This is a cleaned up recording of a YouTube live. Remember, if you subscribe you could be part of this next time.   0:00 Start 2:27 overview of a sign in and sign out app 4:24 Search, StartsWith, and Delegation 7:22 Sharing your app 8:39 Video link - SharePoint Permissions video with flow https://www.youtube.com/watch?v=_Qnz4YeHses",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-power-apps-ama-i-answer-all-of-your-questions-about-sharepoint-flow-dataverse-and-more/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-power-apps-ama-i-answer-all-of-your-questions-about-sharepoint-flow-dataverse-and-more/",
+      "originalUrl": "https://youtube.com/watch?v=jifdtQJ675o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jifdtQJ675o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT33M15S",
       "provider": {
         "name": "PowerApps911",
         "domain": "powerapps911.com"
       },
-      "publishedDateTime": "2018-09-26T16:43:13-07:00",
-      "heat": 54,
+      "publishedDateTime": "2021-04-12T12:18:36-07:00",
+      "heat": 57,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Gtzs1-IuXuY/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/jifdtQJ675o/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -155,23 +96,23 @@
       ]
     },
     {
-      "path": "_learning/videos/powerapps911-powerapps-attachments-saved-to-azure-blob-storage-with-sharepoint-and-sql.md",
-      "title": "PowerApps Attachments - Saved to Azure Blob Storage with SharePoint and SQL",
-      "excerpt": "In this video, you will learn about using PowerApps attachments as part of expense report, purchase orders, and apps where you need to save data in a one to many format. The attachments, which can be images, PDF, Excel, etc will be saved in Azure Blob Storage. We will then use SharePoint and SQL to manage",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-powerapps-attachments-saved-to-azure-blob-storage-with-sharepoint-and-sql/index.json",
-      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-powerapps-attachments-saved-to-azure-blob-storage-with-sharepoint-and-sql/",
-      "originalUrl": "https://youtube.com/watch?v=ZOz3HvKDWMk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZOz3HvKDWMk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT33M25S",
+      "path": "_learning/videos/powerapps911-power-apps-setfocus-and-scroll-to-top-of-a-form.md",
+      "title": "Power Apps SetFocus and Scroll to top of a Form",
+      "excerpt": "Do you want to put the user's cursor into a specific text input? SetFocus is the answer. And now you know that did you know you can also use it to take the user to the top of a form? Even if the form doesn't have text inputs? 😲  Power Apps Consulting and training at https://www.PowerApps911.com",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-power-apps-setfocus-and-scroll-to-top-of-a-form/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-power-apps-setfocus-and-scroll-to-top-of-a-form/",
+      "originalUrl": "https://youtube.com/watch?v=dDsY3kap0rw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dDsY3kap0rw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M10S",
       "provider": {
         "name": "PowerApps911",
         "domain": "powerapps911.com"
       },
-      "publishedDateTime": "2019-04-22T09:48:47-07:00",
-      "heat": 54,
+      "publishedDateTime": "2021-04-14T09:50:43-07:00",
+      "heat": 57,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/ZOz3HvKDWMk/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/dDsY3kap0rw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -185,23 +126,23 @@
       ]
     },
     {
-      "path": "_learning/videos/powerapps911-powerapps-barcode-scanner-app.md",
-      "title": "PowerApps Barcode Scanner App",
-      "excerpt": "WARNING - This function has changed. See my pinned comments for more info.   updated 3/2/2019 PowerApps Barcode Scanner - Updated! https://youtu.be/kWUvttbYpu4 this new video is what you need.   In this video, you will learn how to use the PowerApps Barcode Scanner function. Turns out the Barcode Scanner",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-powerapps-barcode-scanner-app/index.json",
-      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-powerapps-barcode-scanner-app/",
-      "originalUrl": "https://youtube.com/watch?v=60ondObDBH0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/60ondObDBH0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M2S",
+      "path": "_learning/videos/powerapps911-powerapps-repeating-tables-like-infopath-part-2-view-and-edit-the-data.md",
+      "title": "PowerApps Repeating Tables like InfoPath Part 2 - View and edit the data",
+      "excerpt": "In this video, you will learn how to view and edit the data that was entered via the repeating table for this expense report example. You will create cascading galleries to view the data and then use a form to edit the data. There is also a delete button for good measure. Lots of new little tricks here",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-powerapps-repeating-tables-like-infopath-part-2-view-and-edit-the-data/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-powerapps-repeating-tables-like-infopath-part-2-view-and-edit-the-data/",
+      "originalUrl": "https://youtube.com/watch?v=DylxsXIUyDc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DylxsXIUyDc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M24S",
       "provider": {
         "name": "PowerApps911",
         "domain": "powerapps911.com"
       },
-      "publishedDateTime": "2018-08-12T06:34:24-07:00",
-      "heat": 54,
+      "publishedDateTime": "2018-06-21T07:40:15-07:00",
+      "heat": 57,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/60ondObDBH0/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/DylxsXIUyDc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -215,23 +156,23 @@
       ]
     },
     {
-      "path": "_learning/videos/powerapps911-powerapps-collection-send-emails-sum-and-format.md",
-      "title": "PowerApps Collection - Send emails, sum, and format",
-      "excerpt": "In this video, you will learn about the PowerApps collection. The first video covered the basics so this video build upon that with how to send an email of the entire collection, how to use Sum, CountRows, and CountIf, and then finally some formatting tricks.   Content includes: * Office365.SendEmail",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-powerapps-collection-send-emails-sum-and-format/index.json",
-      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-powerapps-collection-send-emails-sum-and-format/",
-      "originalUrl": "https://youtube.com/watch?v=DF4KX1oSrVI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DF4KX1oSrVI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M53S",
+      "path": "_learning/videos/powerapps911-powerapps-sql-lookups-and-relationships.md",
+      "title": "PowerApps SQL LookUps and Relationships",
+      "excerpt": "In this video, you will learn about setting and using PowerApps SQL Lookups and Relationships. If you have a proper key structure in SQL and you need to learn how to make it work in PowerApps then this is the video for you. \r \r Getting started with SQL and PowerApps - https://www.youtube.com/watch?v=CO6xfbjnYwc",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-powerapps-sql-lookups-and-relationships/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-powerapps-sql-lookups-and-relationships/",
+      "originalUrl": "https://youtube.com/watch?v=jmh8eeQVAIc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jmh8eeQVAIc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M44S",
       "provider": {
         "name": "PowerApps911",
         "domain": "powerapps911.com"
       },
-      "publishedDateTime": "2018-03-06T11:31:33-08:00",
-      "heat": 54,
+      "publishedDateTime": "2018-06-29T05:51:53-07:00",
+      "heat": 57,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/DF4KX1oSrVI/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/jmh8eeQVAIc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -245,23 +186,23 @@
       ]
     },
     {
-      "path": "_learning/videos/powerapps911-powerapps-password-screen.md",
-      "title": "PowerApps Password Screen",
-      "excerpt": "In this video, you will learn how to password protect a PowerApps screen and to make it more fun you will also learn how to send them to timeout if they try unsuccessfully more than 3 times. Lots of fun.   Video on conditional formatting and PopUps https://www.youtube.com/watch?v=IvapIsBbM-U  Video on",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-powerapps-password-screen/index.json",
-      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-powerapps-password-screen/",
-      "originalUrl": "https://youtube.com/watch?v=GiN47Is_634",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GiN47Is_634\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M41S",
+      "path": "_learning/videos/powerapps911-powerapps-user-function-and-intro-to-office-365-user-connector.md",
+      "title": "PowerApps User Function and intro to Office 365 User connector",
+      "excerpt": "In this video, you will learn about the PowerApps User Function. You can use this function to pull info about the currently logged in user. You may use it to show their name or their picture but most often we take advantage of the email property to facilitate information to controls or even hide controls.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-powerapps-user-function-and-intro-to-office-365-user-connector/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-powerapps-user-function-and-intro-to-office-365-user-connector/",
+      "originalUrl": "https://youtube.com/watch?v=FpXrF5NDZbI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FpXrF5NDZbI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M9S",
       "provider": {
         "name": "PowerApps911",
         "domain": "powerapps911.com"
       },
-      "publishedDateTime": "2018-04-05T11:06:50-07:00",
-      "heat": 54,
+      "publishedDateTime": "2018-04-21T11:18:07-07:00",
+      "heat": 57,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/GiN47Is_634/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/FpXrF5NDZbI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -275,23 +216,23 @@
       ]
     },
     {
-      "path": "_learning/videos/powerapps911-powerapps-scrollable-screen.md",
-      "title": "PowerApps Scrollable Screen",
-      "excerpt": "In this show, you will learn how the Power Apps Scrollable Screen also sometimes called Canvas1. The idea is the control gives you flexibility to have dynamic content on the screen that will automatically scroll if it gets too big. So fun!  Power Apps Training at https://training.PowerApps911.com",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-powerapps-scrollable-screen/index.json",
-      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-powerapps-scrollable-screen/",
-      "originalUrl": "https://youtube.com/watch?v=0lNK9Bx4QKE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0lNK9Bx4QKE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M13S",
+      "path": "_learning/videos/powerapps911-qtt-why-do-you-keep-using-the-powerapps-refresh-function.md",
+      "title": "QTT - Why do you keep using the Powerapps refresh function?",
+      "excerpt": "Stop it! In this video, I break down the nitty gritty of the Refresh function and why you shouldn't use it. Unless, of course, you enjoy triple refreshing your data for no reason? 🤔  Power Apps training available at https://training.powerapps911.com",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-qtt-why-do-you-keep-using-the-powerapps-refresh-function/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-qtt-why-do-you-keep-using-the-powerapps-refresh-function/",
+      "originalUrl": "https://youtube.com/watch?v=gmYlJIjHS2M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gmYlJIjHS2M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M46S",
       "provider": {
         "name": "PowerApps911",
         "domain": "powerapps911.com"
       },
-      "publishedDateTime": "2020-09-06T12:37:07-07:00",
-      "heat": 54,
+      "publishedDateTime": "2020-12-17T15:50:21-08:00",
+      "heat": 57,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/0lNK9Bx4QKE/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/gmYlJIjHS2M/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -305,180 +246,167 @@
       ]
     },
     {
-      "path": "_learning/videos/powerapps911-powerapps-with-function.md",
-      "title": "PowerApps With Function",
-      "excerpt": "In this video, you will learn how to use the PowerApps With Function. This makes for cleaner formulas and better performance.  PowerApps Training https://www.PowerApps911.com/training",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-powerapps-with-function/index.json",
-      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-powerapps-with-function/",
-      "originalUrl": "https://youtube.com/watch?v=AYD2oWue7fw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AYD2oWue7fw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M40S",
+      "path": "_learning/collections/microsoft-learn-create-components-with-power-apps-component-framework.md",
+      "title": "Create components with Power Apps Component Framework",
+      "excerpt": "Learn how to build custom components and controls with Power Apps component framework.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/collections/microsoft-learn-create-components-with-power-apps-component-framework/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/collections/microsoft-learn-create-components-with-power-apps-component-framework/",
+      "length": "PT2H26M",
       "provider": {
-        "name": "PowerApps911",
-        "domain": "powerapps911.com"
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2019-09-06T17:17:48-07:00",
-      "heat": 54,
+      "levels": [
+        "Advanced"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-build-power-app-component.md",
+          "title": "Build a Power Apps component",
+          "excerpt": "Learn how to build a custom Power Apps component, create a code component solution package, and then test and debug a code component.",
+          "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-build-power-app-component/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-power-app-component/",
+          "length": "PT50M",
+          "ratings": {
+            "count": 186,
+            "average": 4.6344085
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 56,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/build-power-app-component-social.png",
+              "width": 642,
+              "height": 322,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power Apps"
+          ]
+        }
+      ],
+      "size": 1,
+      "heat": 56,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/AYD2oWue7fw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://docs.microsoft.com/learn/achievements/build-power-app-component-social.png",
+          "width": 642,
+          "height": 322,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
+      "type": "collection",
       "price": "Free",
       "topics": [
         "Power Apps"
       ]
     },
     {
-      "path": "_learning/videos/powerapps911-understanding-sharepoint-columns-and-power-apps.md",
-      "title": "Understanding SharePoint columns and Power Apps",
-      "excerpt": "In this show, you will learn how to better work with SharePoint columns for PowerApps. We cover how to properly create columns (no spaces) and we talk about the different column types that I do and don't use when SharePoint is just a data source. Super helpful information.   Power Apps and Power Automate",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-understanding-sharepoint-columns-and-power-apps/index.json",
-      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-understanding-sharepoint-columns-and-power-apps/",
-      "originalUrl": "https://youtube.com/watch?v=mwXnJUkTug0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mwXnJUkTug0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M8S",
-      "provider": {
-        "name": "PowerApps911",
-        "domain": "powerapps911.com"
+      "path": "_learning/courses/microsoft-learn-build-power-app-component.md",
+      "title": "Build a Power Apps component",
+      "excerpt": "Learn how to build a custom Power Apps component, create a code component solution package, and then test and debug a code component.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-build-power-app-component/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-power-app-component/",
+      "length": "PT50M",
+      "ratings": {
+        "count": 186,
+        "average": 4.6344085
       },
-      "publishedDateTime": "2020-11-04T14:25:38-08:00",
-      "heat": 54,
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 56,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/mwXnJUkTug0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://docs.microsoft.com/learn/achievements/build-power-app-component-social.png",
+          "width": 642,
+          "height": 322,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Power Apps"
       ]
     },
     {
-      "path": "_learning/videos/progmatic-works-creating-a-powerapps-loading-screen-spinner-image.md",
-      "title": "Creating a PowerApps Loading Screen Spinner Image",
-      "excerpt": "PowerApp a Day Episode #12 (HR Shoutout App) -  Do you have a PowerApps screen that's sluggish? A loading image can help with your user satisfaction. In this video, you'll learn two techniques for creating a loading spinner icon.    Power App and Power Platform Training : https://pragmaticworks.com/training/on-demand-training",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-creating-a-powerapps-loading-screen-spinner-image/index.json",
-      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-creating-a-powerapps-loading-screen-spinner-image/",
-      "originalUrl": "https://youtube.com/watch?v=YfYf-AkY1P8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YfYf-AkY1P8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M28S",
-      "provider": {
-        "name": "Progmatic Works",
-        "domain": "pragmaticworks.com"
+      "path": "_learning/courses/microsoft-learn-introduction-to-power-apps-portals.md",
+      "title": "Introduction to Power Apps portals",
+      "excerpt": "Introduction to Power Apps portals",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-introduction-to-power-apps-portals/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-apps-portals/",
+      "length": "PT25M",
+      "ratings": {
+        "count": 1680,
+        "average": 4.661905
       },
-      "publishedDateTime": "2018-09-18T13:03:29-07:00",
-      "heat": 54,
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 56,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/YfYf-AkY1P8/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/progmatic-works-integrating-power-bi-into-powerapps.md",
-      "title": "Integrating Power BI into PowerApps",
-      "excerpt": "PowerApp a Day Episode #6 (Time Card App) -  Ever heard the term, use the right tool for the job? For reporting and graphs, Power BI fits the bill for your PowerApps. See how to integrate a dashboard in Power BI into PowerApps.   Power App and Power Platform Training : https://pragmaticworks.com/training/on-demand-training",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-integrating-power-bi-into-powerapps/index.json",
-      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-integrating-power-bi-into-powerapps/",
-      "originalUrl": "https://youtube.com/watch?v=8CdUxw9jUGA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8CdUxw9jUGA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M20S",
-      "provider": {
-        "name": "Progmatic Works",
-        "domain": "pragmaticworks.com"
-      },
-      "publishedDateTime": "2018-09-10T11:15:42-07:00",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8CdUxw9jUGA/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/progmatic-works-powerapp-nested-galleries-and-the-office365-user-functions.md",
-      "title": "PowerApp Nested Galleries and the Office365 User Functions",
-      "excerpt": "PowerApp a Day Episode #3 (Time Card App) - We're now going to build an application from scratch using PowerApps to allow people to enter their time. You'll learn how to use nested galleries and integrate with the Office365 Functions to capture the user's email address.  Power Platform and PowerApps",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-powerapp-nested-galleries-and-the-office365-user-functions/index.json",
-      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-powerapp-nested-galleries-and-the-office365-user-functions/",
-      "originalUrl": "https://youtube.com/watch?v=8TwFJC1C6x0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8TwFJC1C6x0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M37S",
-      "provider": {
-        "name": "Progmatic Works",
-        "domain": "pragmaticworks.com"
-      },
-      "publishedDateTime": "2018-09-05T12:25:06-07:00",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8TwFJC1C6x0/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/progmatic-works-powerapps-portals-for-external-users.md",
-      "title": "PowerApps Portals for External Users",
-      "excerpt": "Do you want to learn how to build your first PowerApps Portal?   In this demo-heavy session, Brian will discuss how to best use PowerApps Portals and show you how to build your first portal so you can interact with your customer in new and exciting ways.  - - - - - - - - - - - - - - - - - - - - - - -",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-powerapps-portals-for-external-users/index.json",
-      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-powerapps-portals-for-external-users/",
-      "originalUrl": "https://youtube.com/watch?v=hwazNDRqLNU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hwazNDRqLNU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT57M25S",
-      "provider": {
-        "name": "Progmatic Works",
-        "domain": "pragmaticworks.com"
-      },
-      "publishedDateTime": "2019-08-21T08:47:40-07:00",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/hwazNDRqLNU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Power Apps",
@@ -486,113 +414,23 @@
       ]
     },
     {
-      "path": "_learning/videos/progmatic-works-push-notifications-and-emails-from-powerapps.md",
-      "title": "Push Notifications and Emails from PowerApps",
-      "excerpt": "PowerApp a Day Episode #5 (Time Card App) - When an employee enters a time card, the employee's manager and project manager want to be notified for review. In this webinar you'll see how to notify people on their applications and  integrate into Office to send out emails.  Pragmatic Works Training :",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-push-notifications-and-emails-from-powerapps/index.json",
-      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-push-notifications-and-emails-from-powerapps/",
-      "originalUrl": "https://youtube.com/watch?v=crsG3324dLo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/crsG3324dLo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M30S",
-      "provider": {
-        "name": "Progmatic Works",
-        "domain": "pragmaticworks.com"
-      },
-      "publishedDateTime": "2018-09-07T11:54:04-07:00",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/crsG3324dLo/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/progmatic-works-search-an-employee-directory-in-powerapps-w-the-office365users-connector.md",
-      "title": "Search an Employee Directory in PowerApps w/ the Office365Users Connector",
-      "excerpt": "PowerApp a Day Episode #8 (Shoutout App) - In this video, you'll see how to search an Office 365 user directory to select a given user.   Pragmatic Works Training : https://pragmaticworks.com/training/on-demand-training  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-search-an-employee-directory-in-powerapps-w-the-office365users-connector/index.json",
-      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-search-an-employee-directory-in-powerapps-w-the-office365users-connector/",
-      "originalUrl": "https://youtube.com/watch?v=ytiGr0sH0co",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ytiGr0sH0co\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M2S",
-      "provider": {
-        "name": "Progmatic Works",
-        "domain": "pragmaticworks.com"
-      },
-      "publishedDateTime": "2018-09-11T13:16:39-07:00",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ytiGr0sH0co/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/reza-dorrni-part-1-powerapps-delegation-with-sharepoint-as-a-data-source.md",
-      "title": "Part 1 - PowerApps Delegation with SharePoint as a Data Source",
-      "excerpt": "This is part 1 of my PowerApps delegation Vlog series   This video will walk through the concept of Delegation in PowerApps Delegation is an important concept to understand in order to work with large data sets  Link to SharePoint connector delegation information: https://docs.microsoft.com/en-us/connectors/sharepointonline/",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/reza-dorrni-part-1-powerapps-delegation-with-sharepoint-as-a-data-source/index.json",
-      "webUrl": "https://everyday.cc/powerapps/learning/videos/reza-dorrni-part-1-powerapps-delegation-with-sharepoint-as-a-data-source/",
-      "originalUrl": "https://youtube.com/watch?v=gwiErbYtRdA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gwiErbYtRdA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M36S",
-      "provider": {
-        "name": "Reza Dorrni",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-10-29T20:31:00-07:00",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/gwiErbYtRdA/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/april-dunnam-power-apps-branding-screen-and-theme.md",
-      "title": "Power Apps Branding Screen and Theme",
-      "excerpt": "#PowerApps #PowerAppsPyramid   In this video I show how you can create a branding screen in your Power Apps applications that mimics your company brand standard and use that screen to create a custom re-usable theme.    This is an expansion on my \"App Makeover: Quick Tips for Beautiful PowerApps\" talk",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-power-apps-branding-screen-and-theme/index.json",
-      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-power-apps-branding-screen-and-theme/",
-      "originalUrl": "https://youtube.com/watch?v=uAQa-Zg3yGk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uAQa-Zg3yGk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M32S",
+      "path": "_learning/videos/april-dunnam-power-apps-data-sources-explained.md",
+      "title": "Power Apps Data Sources Explained",
+      "excerpt": "#PowerApps #Data  One of the fundamental pieces of Power Apps are data sources.  In this video I explain:  ✅  How Power Apps connects to data ✅  The differences between the types of data sources ✅  Guidance on choosing between tabular data sources (Excel, SharePoint, Dataverse, SQL)  🔗 Links 🔗  🔗",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-power-apps-data-sources-explained/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-power-apps-data-sources-explained/",
+      "originalUrl": "https://youtube.com/watch?v=qLFAohRMcR0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qLFAohRMcR0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M26S",
       "provider": {
         "name": "April Dunnam",
         "domain": "aprildunnam.com"
       },
-      "publishedDateTime": "2020-05-18T07:39:58-07:00",
-      "heat": 53,
+      "publishedDateTime": "2021-04-07T10:30:27-07:00",
+      "heat": 56,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/uAQa-Zg3yGk/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/qLFAohRMcR0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -606,23 +444,23 @@
       ]
     },
     {
-      "path": "_learning/videos/april-dunnam-power-apps-creating-a-filter-control.md",
-      "title": "Power Apps: Creating A Filter Control",
-      "excerpt": "#PowerApps #Filter In this video I show two ways that you can create a Filter Control to refine the results in a gallery.",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-power-apps-creating-a-filter-control/index.json",
-      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-power-apps-creating-a-filter-control/",
-      "originalUrl": "https://youtube.com/watch?v=o1muoWFxIO4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/o1muoWFxIO4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M23S",
+      "path": "_learning/videos/april-dunnam-power-apps-how-to-create-a-dialog-box-in-3-steps.md",
+      "title": "Power Apps - How to Create a Dialog Box in 3 Steps",
+      "excerpt": "#PowerApps #DialogBox Dialog Boxes (also known as Modal windows or pop up boxes) are a great tool to have in your Power Apps Tool belt.  These temporary pop up windows allow you to gather additional information from your users.    In this video I show one of the most common use cases for a Dialog Box",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-power-apps-how-to-create-a-dialog-box-in-3-steps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-power-apps-how-to-create-a-dialog-box-in-3-steps/",
+      "originalUrl": "https://youtube.com/watch?v=FLHVJdoDSNE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FLHVJdoDSNE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M42S",
       "provider": {
         "name": "April Dunnam",
         "domain": "aprildunnam.com"
       },
-      "publishedDateTime": "2020-05-31T20:25:02-07:00",
-      "heat": 53,
+      "publishedDateTime": "2020-05-18T07:31:56-07:00",
+      "heat": 56,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/o1muoWFxIO4/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/FLHVJdoDSNE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -636,23 +474,23 @@
       ]
     },
     {
-      "path": "_learning/videos/april-dunnam-power-apps-creating-tabs.md",
-      "title": "Power Apps:  Creating Tabs",
-      "excerpt": "#PowerApps #Tabs In this video I walk you through how to create a tabbed interface in your Power Apps.  I discuss the different use cases for tabs and approaches to implementing.  Tabs are a great way to improve the UX of your apps and an important concept for any beginning #PowerAddict to grasp.",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-power-apps-creating-tabs/index.json",
-      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-power-apps-creating-tabs/",
-      "originalUrl": "https://youtube.com/watch?v=GugRoM2v494",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GugRoM2v494\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M12S",
+      "path": "_learning/videos/april-dunnam-power-apps-top-3-uses-for-the-html-control.md",
+      "title": "Power Apps: Top 3 Uses for the HTML Control",
+      "excerpt": "#PowerApps #HTML In this video I share my top 3 use cases for the HTML Control in Power Apps.  This one control can really take your apps to the next level.  Learn how you can use this control for all kinds of uses in your apps like:  ✅ Custom Visuals  ✅ Displaying Rich Text from SharePoint ✅ Printing",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-power-apps-top-3-uses-for-the-html-control/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-power-apps-top-3-uses-for-the-html-control/",
+      "originalUrl": "https://youtube.com/watch?v=HqsV8dO1OBM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HqsV8dO1OBM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M46S",
       "provider": {
         "name": "April Dunnam",
         "domain": "aprildunnam.com"
       },
-      "publishedDateTime": "2020-05-31T15:49:01-07:00",
-      "heat": 53,
+      "publishedDateTime": "2020-06-08T21:07:25-07:00",
+      "heat": 56,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/GugRoM2v494/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/HqsV8dO1OBM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -666,23 +504,23 @@
       ]
     },
     {
-      "path": "_learning/videos/april-dunnam-powerapps-deep-linking.md",
-      "title": "PowerApps Deep Linking",
-      "excerpt": "#PowerApps #DeepLinking Learn how to create Deep Links in your PowerApps applications.  Deep Links enabled you to navigate your users directly to another screen nested in your app.  You can use the Param() function in PowerApps to look for parameters in your URL and move to the appropriate screen.  I",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-powerapps-deep-linking/index.json",
-      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-powerapps-deep-linking/",
-      "originalUrl": "https://youtube.com/watch?v=EZyxlYtzqTQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EZyxlYtzqTQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M59S",
+      "path": "_learning/videos/april-dunnam-power-apps-when-to-use-set-or-updatecontext.md",
+      "title": "Power Apps: When to Use Set or UpdateContext",
+      "excerpt": "#PowerApps #Variables In this video I try to demystify the Set and UpdateContext functions in Power Apps.  I explain what a variable is, what each function does, how to use them and guidelines on when to use each.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-power-apps-when-to-use-set-or-updatecontext/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-power-apps-when-to-use-set-or-updatecontext/",
+      "originalUrl": "https://youtube.com/watch?v=yYqrUpCH1Ao",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yYqrUpCH1Ao\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M33S",
       "provider": {
         "name": "April Dunnam",
         "domain": "aprildunnam.com"
       },
-      "publishedDateTime": "2020-05-18T07:39:58-07:00",
-      "heat": 53,
+      "publishedDateTime": "2020-05-18T07:31:56-07:00",
+      "heat": 56,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/EZyxlYtzqTQ/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/yYqrUpCH1Ao/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -696,83 +534,23 @@
       ]
     },
     {
-      "path": "_learning/videos/april-dunnam-powerapps-sharepoint-multi-select-lookup-columns.md",
-      "title": "PowerApps SharePoint Multi-Select Lookup Columns",
-      "excerpt": "#PowerApps #SharePoint #LookupColumns In this video I show how you can take the values from a SharePoint Multi-Select Lookup field and combine them into a String and into values for a dropdown in PowerApps.   This approach uses the With(), Concat(), Mid() and Len() functions.  For more info on the With()",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-powerapps-sharepoint-multi-select-lookup-columns/index.json",
-      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-powerapps-sharepoint-multi-select-lookup-columns/",
-      "originalUrl": "https://youtube.com/watch?v=VGfCGvhDqEU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VGfCGvhDqEU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M59S",
+      "path": "_learning/videos/april-dunnam-pre-populate-fields-in-powerapps.md",
+      "title": "Pre-populate Fields in PowerApps",
+      "excerpt": "#PowerApps #PrePopulate #DefaultValues In this video I show how you can pre-populate fields in PowerApps including:  date, choice, person and single line of text fields.  Some additional concepts you'll learn include: ✅  How to check the form mode ✅  Default Date field to todays date ✅  Default person",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-pre-populate-fields-in-powerapps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-pre-populate-fields-in-powerapps/",
+      "originalUrl": "https://youtube.com/watch?v=7QSoGVh75iQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7QSoGVh75iQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M53S",
       "provider": {
         "name": "April Dunnam",
         "domain": "aprildunnam.com"
       },
-      "publishedDateTime": "2020-05-18T07:39:58-07:00",
-      "heat": 53,
+      "publishedDateTime": "2020-08-05T19:45:42-07:00",
+      "heat": 56,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/VGfCGvhDqEU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/daves-tech-tips-sql-query-from-power-apps-using-flow-2019.md",
-      "title": "SQL Query from Power Apps using Flow (2019)",
-      "excerpt": "In this Microsoft PowerApps video Tutorial we look at how to query SQL tables from PowerApps and more specifically by using the infamous 'in' operator against a string array! Unfortunately this is not support directly from PowerApps (yet), but Flow to the rescue!  We will be using Flow to query the SQL",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/daves-tech-tips-sql-query-from-power-apps-using-flow-2019/index.json",
-      "webUrl": "https://everyday.cc/powerapps/learning/videos/daves-tech-tips-sql-query-from-power-apps-using-flow-2019/",
-      "originalUrl": "https://youtube.com/watch?v=DII10gK715I",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DII10gK715I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT31M45S",
-      "provider": {
-        "name": "Dave's Tech Tips",
-        "domain": "ukuvuma.co.za"
-      },
-      "publishedDateTime": "2019-08-06T09:57:04-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DII10gK715I/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/daves-tech-tips-sql-query-from-power-apps-using-flow-tutorial.md",
-      "title": "SQL Query from Power Apps using Flow (Tutorial)",
-      "excerpt": "In this Microsoft PowerApps video Tutorial we look at how to query SQL tables from PowerApps and more specifically by using the infamous 'in' operator against a string array! Unfortunately this is not support directly from PowerApps (yet), but Flow to the rescue!  We will be using Flow to query the SQL",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/daves-tech-tips-sql-query-from-power-apps-using-flow-tutorial/index.json",
-      "webUrl": "https://everyday.cc/powerapps/learning/videos/daves-tech-tips-sql-query-from-power-apps-using-flow-tutorial/",
-      "originalUrl": "https://youtube.com/watch?v=DII10gK715I",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DII10gK715I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT31M45S",
-      "provider": {
-        "name": "Dave's Tech Tips",
-        "domain": "ukuvuma.co.za"
-      },
-      "publishedDateTime": "2019-08-06T09:57:04-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DII10gK715I/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/7QSoGVh75iQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -799,7 +577,7 @@
         "domain": "youtube.com"
       },
       "publishedDateTime": "2020-09-13T09:37:19-07:00",
-      "heat": 53,
+      "heat": 56,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/bxUpIUu3vE4/maxresdefault.jpg",
@@ -830,40 +608,10 @@
         "domain": "youtube.com"
       },
       "publishedDateTime": "2020-09-13T09:10:01-07:00",
-      "heat": 53,
+      "heat": 56,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/uw6Aud_O-1Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-how-to-call-power-automate-flow-from-power-apps-with-parameters.md",
-      "title": "How to Call Power Automate Flow from Power Apps with Parameters?",
-      "excerpt": "During this video, we will learn how to Call Flow from Power Apps with Input Parameters and Return response data back to Power Apps? We will call the Power Automate flow form the Power Apps with Input Parameters. In response – “Respond to Power Apps” action we will return some variables as a response",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-how-to-call-power-automate-flow-from-power-apps-with-parameters/index.json",
-      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-how-to-call-power-automate-flow-from-power-apps-with-parameters/",
-      "originalUrl": "https://youtube.com/watch?v=1MC7hAJTPdU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1MC7hAJTPdU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M52S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-09-29T02:55:35-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/1MC7hAJTPdU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -890,10 +638,349 @@
         "domain": "youtube.com"
       },
       "publishedDateTime": "2020-09-13T08:11:09-07:00",
-      "heat": 53,
+      "heat": 56,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/7VH7vQXcl70/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/henry-ouang-learn-powerapps-learn-how-to-link-powerapps-with-excel.md",
+      "title": "Learn PowerApps - Learn How to Link PowerApps with Excel",
+      "excerpt": "Thank you so much for the support. I love hearing from you guys and love keeping in touch!  I show you how to create PowerApps that are linked with Microsoft Excel documents and specific tables within.  This process is specifically useful for databases that are used within the Microsoft Power Platform.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/henry-ouang-learn-powerapps-learn-how-to-link-powerapps-with-excel/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/henry-ouang-learn-powerapps-learn-how-to-link-powerapps-with-excel/",
+      "originalUrl": "https://youtube.com/watch?v=ZywH_ejeq3E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZywH_ejeq3E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M41S",
+      "provider": {
+        "name": "Henry Ouang",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-09-02T20:48:40-07:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ZywH_ejeq3E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-integrate-microsoft-planner-into-powerapps-with-quicktask.md",
+      "title": "How to integrate Microsoft Planner into PowerApps with QuickTask",
+      "excerpt": "Discover how to integrate Microsoft Planner into PowerApps with the QuickTask sample template. QuickTask allows you to triage your Outlook emails quickly into plans using Microsoft Planner.   Learn more: https://web.powerapps.com/home?sampleapp_preview=quicktask",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/microsoft-how-to-integrate-microsoft-planner-into-powerapps-with-quicktask/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/microsoft-how-to-integrate-microsoft-planner-into-powerapps-with-quicktask/",
+      "originalUrl": "https://youtube.com/watch?v=9c2NMT74xUA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9c2NMT74xUA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M25S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-08-24T14:12:01-07:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9c2NMT74xUA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/powerapps911-a-better-powerapps-data-model-flexible-and-fast.md",
+      "title": "A better PowerApps Data Model - Flexible and fast",
+      "excerpt": "In this video, you will learn how to implement a better data model for PowerApps. Instead of one giant, wide list you will use several skinny lists to restructure your data. This will end in you building apps faster, let user maintain themselves, and more flexibility across the board. This is a must",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-a-better-powerapps-data-model-flexible-and-fast/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-a-better-powerapps-data-model-flexible-and-fast/",
+      "originalUrl": "https://youtube.com/watch?v=7XXo9wjnJvc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7XXo9wjnJvc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M52S",
+      "provider": {
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
+      },
+      "publishedDateTime": "2020-04-26T12:01:38-07:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7XXo9wjnJvc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/powerapps911-create-a-sort-button-in-powerapps.md",
+      "title": "Create a sort button in PowerApps",
+      "excerpt": "In this video we continue building from our first PowerApp with SharePoint and look at how the sort button works. This exposes us to contextual variables and my tricks for figuring out what is going on. Pretty fun stuff.  Link to the video on making your first PowerApp with SharePoint. https://youtu.be/BnYe_7fpZRM",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-create-a-sort-button-in-powerapps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-create-a-sort-button-in-powerapps/",
+      "originalUrl": "https://youtube.com/watch?v=7CpRC5AM_Is",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7CpRC5AM_Is\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M36S",
+      "provider": {
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
+      },
+      "publishedDateTime": "2017-12-27T13:49:39-08:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7CpRC5AM_Is/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/powerapps911-power-apps-errors-function-when-using-patch-and-other-data-source-changes.md",
+      "title": "Power Apps Errors Function when using Patch and other data source changes",
+      "excerpt": "Learn how to add logic to check if there was an Error when working with your data source thanks to the PowerApps Error function.  Get Power Apps and Power Automate training at https://training.powerapps911.com   Power Apps Consulting and training at https://www.PowerApps911.com",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-power-apps-errors-function-when-using-patch-and-other-data-source-changes/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-power-apps-errors-function-when-using-patch-and-other-data-source-changes/",
+      "originalUrl": "https://youtube.com/watch?v=EzHA3jgMwVI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EzHA3jgMwVI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M55S",
+      "provider": {
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
+      },
+      "publishedDateTime": "2021-02-02T12:42:20-08:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/EzHA3jgMwVI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/powerapps911-power-apps-tables-vs-records-vs-fields.md",
+      "title": "Power Apps Tables vs  Records vs  Fields",
+      "excerpt": "Do you want to build better apps? Would you like troubleshooting to be less trouble? Then this is your video. Here we break down into small pieces what is a table vs. a record vs. a Field from a Power Apps point of view. The goal is to help you build better apps while troubleshooting those pesky errors.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-power-apps-tables-vs-records-vs-fields/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-power-apps-tables-vs-records-vs-fields/",
+      "originalUrl": "https://youtube.com/watch?v=d1xR-YZifxo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/d1xR-YZifxo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M27S",
+      "provider": {
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
+      },
+      "publishedDateTime": "2021-02-04T11:31:26-08:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/d1xR-YZifxo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/powerapps911-power-apps-teams-integration.md",
+      "title": "Power Apps Teams Integration",
+      "excerpt": "In this video, you will learn about Power Apps Team Integration. You will see how to post messages to Teams from PowerApps and @ mention people, how to create channels, and a lot of the mechanics so you can integrate this critical data source.   Power Apps training at https://training.PowerApps911.com",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-power-apps-teams-integration/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-power-apps-teams-integration/",
+      "originalUrl": "https://youtube.com/watch?v=KONkjjSYvMI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KONkjjSYvMI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M57S",
+      "provider": {
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
+      },
+      "publishedDateTime": "2020-08-16T11:15:01-07:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/KONkjjSYvMI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Teams integration"
+      ]
+    },
+    {
+      "path": "_learning/videos/powerapps911-power-apps-validate-input-dropdowns-date-pickers-and-text-inputs.md",
+      "title": "Power Apps Validate Input - Dropdowns, date pickers, and Text Inputs",
+      "excerpt": "Nothing fancy here just learning how to PowerApps Validate Input. We cover a bunch of If, IsMatch, IsBlank, Contains, And, Or, and so much more. All using Dropdowns, textinputs, and datepickers. If you want to understand all of the different ways you can validate the info being provided to you before",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-power-apps-validate-input-dropdowns-date-pickers-and-text-inputs/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-power-apps-validate-input-dropdowns-date-pickers-and-text-inputs/",
+      "originalUrl": "https://youtube.com/watch?v=s85i8UWw2QM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/s85i8UWw2QM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT32M29S",
+      "provider": {
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
+      },
+      "publishedDateTime": "2020-10-18T16:05:13-07:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/s85i8UWw2QM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/powerapps911-powerapps-on-premise-data-gateway.md",
+      "title": "Powerapps on premise data gateway",
+      "excerpt": "In this video, you will learn how to install and configure the PowerApps on premise data gateway. This will allow you to connect to your on prem SharePoint, SQL, and other data sources from PowerApps out in the cloud.   PowerApps Gateway Docs https://docs.microsoft.com/en-us/powerapps/gateway-reference",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-powerapps-on-premise-data-gateway/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-powerapps-on-premise-data-gateway/",
+      "originalUrl": "https://youtube.com/watch?v=uqx_h4Ym8ng",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uqx_h4Ym8ng\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M16S",
+      "provider": {
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
+      },
+      "publishedDateTime": "2018-03-08T13:48:28-08:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/uqx_h4Ym8ng/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/powerapps911-powerapps-pen-input-to-sharepoint.md",
+      "title": "PowerApps Pen Input to SharePoint",
+      "excerpt": "In this video, you will learn how to save PowerApps Pen Input to SharePoint, OneDrive, PDF, and Email. Using a combination of the JSON Function and Microsoft Flow.  Link to PowerApps Training https://www.PowerApps911.com/training",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-powerapps-pen-input-to-sharepoint/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-powerapps-pen-input-to-sharepoint/",
+      "originalUrl": "https://youtube.com/watch?v=RFZfvTuDmP0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RFZfvTuDmP0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M4S",
+      "provider": {
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
+      },
+      "publishedDateTime": "2019-10-02T12:32:24-07:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RFZfvTuDmP0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/powerapps911-powerapps-timer-control.md",
+      "title": "PowerApps Timer Control",
+      "excerpt": "In this video, you will learn about the PowerApps Timer Control. We build an example timer app that logs data to a collection, we look at how to use the timer to control navigation (put people in timeout), how to do a PowerApps Timer Reset, start, stop, and more. Fun times.  Video: PowerApps Collections",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-powerapps-timer-control/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-powerapps-timer-control/",
+      "originalUrl": "https://youtube.com/watch?v=Xe2NI2aTGvY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Xe2NI2aTGvY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M27S",
+      "provider": {
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
+      },
+      "publishedDateTime": "2018-03-30T21:07:15-07:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Xe2NI2aTGvY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

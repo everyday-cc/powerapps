@@ -1,0 +1,923 @@
+{
+  "title": "Learning Resources",
+  "path": "_learning",
+  "page": 17,
+  "value": [
+    {
+      "path": "_learning/videos/april-dunnam-opening-mobile-applications-from-powerapps.md",
+      "title": "Opening Mobile Applications From PowerApps",
+      "excerpt": "Have you tried using the Launch() function in PowerApps to open up a website but wished you could have it open up the actual app on your mobile device instead?  In this video, I walk you through how you can do that with PowerApps.  I'll show demos on how to open the native phone applications for Twitter,",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-opening-mobile-applications-from-powerapps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-opening-mobile-applications-from-powerapps/",
+      "originalUrl": "https://youtube.com/watch?v=3Puf3Ki8wbk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3Puf3Ki8wbk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M54S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-05-18T07:39:58-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3Puf3Ki8wbk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/april-dunnam-power-apps-timer-value-to-hours-minutes-seconds.md",
+      "title": "Power Apps Timer Value to Hours, Minutes, Seconds",
+      "excerpt": "#PowerApps #TimerControl Have you ever needed to track how long it's taking to complete a process in your Power App?  Using the Timer Control you can do that, however, the output of that timer value is stored in an unfriendly format.  In this video, I show how you can take that timer value and format",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-power-apps-timer-value-to-hours-minutes-seconds/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-power-apps-timer-value-to-hours-minutes-seconds/",
+      "originalUrl": "https://youtube.com/watch?v=dDjOVwR1AXc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dDjOVwR1AXc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M14S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-05-18T07:39:58-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dDjOVwR1AXc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/april-dunnam-powerapps-ai-object-detection-how-to.md",
+      "title": "PowerApps AI Object Detection How To",
+      "excerpt": "In this video, I show how to set up and use the new AI Object Detector component in PowerApps.  I show how to create the model, train it and use it within a PowerApps Inventory tracker application.    For more details on the Objection Detection capabilities, check out the Microsoft documentation:  https://docs.microsoft.com/en-us/ai-builder/object-detector-component-in-powerapps",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-powerapps-ai-object-detection-how-to/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-powerapps-ai-object-detection-how-to/",
+      "originalUrl": "https://youtube.com/watch?v=iivd7-WXT8o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iivd7-WXT8o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M15S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-05-18T07:39:58-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/iivd7-WXT8o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/april-dunnam-powerapps-json-function-ai-builder.md",
+      "title": "PowerApps JSON Function & AI Builder",
+      "excerpt": "See how to use the new JSON function and Business Card Reader AI Control to OCR a business card, add it to a database, convert the image to JSON and add as a file in SharePoint.  All with zero code required.  Here's a link to the corresponding blog post: https://www.sharepointsiren.com/2019/06/ocr-and-image-upload-with-powerapps/",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-powerapps-json-function-ai-builder/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-powerapps-json-function-ai-builder/",
+      "originalUrl": "https://youtube.com/watch?v=zbOfgdrRRrk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zbOfgdrRRrk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M56S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-05-18T07:39:58-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/zbOfgdrRRrk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/videos/april-dunnam-powerapps-security-trimming.md",
+      "title": "PowerApps Security Trimming",
+      "excerpt": "#PowerApps #SharePoint #PowerAppsSecurity In this video, I outline a method to implement Security Trimming/Custom Permissions inside your PowerApps application.  This approach utilizes a SharePoint list and native PowerApps functionality to accomplish the security trimming in three easy steps: 1) create",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-powerapps-security-trimming/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-powerapps-security-trimming/",
+      "originalUrl": "https://youtube.com/watch?v=uBAVcXrHWK0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uBAVcXrHWK0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M46S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-05-18T07:39:58-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/uBAVcXrHWK0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/daves-tech-tips-comment-code-in-powerapps-beginner-tip.md",
+      "title": "Comment Code in PowerApps (Beginner Tip)",
+      "excerpt": "One of the best beginner tips for PowerApps has to be to comment you code. One day someone will be supporting your apps....This might include you.  In this tutorial we will show you the various ways that this can be done.  Come on, be the person who comments his\\her code. Make the world a better place.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/daves-tech-tips-comment-code-in-powerapps-beginner-tip/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/daves-tech-tips-comment-code-in-powerapps-beginner-tip/",
+      "originalUrl": "https://youtube.com/watch?v=dnreydsFSHw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dnreydsFSHw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M1S",
+      "provider": {
+        "name": "Dave's Tech Tips",
+        "domain": "ukuvuma.co.za"
+      },
+      "publishedDateTime": "2019-12-20T11:59:12-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dnreydsFSHw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/daves-tech-tips-enable-spell-check-in-power-apps-.md",
+      "title": "Enable Spell Check in Power Apps ✅",
+      "excerpt": "Very short video Tutorial to show how to enable spell check on Text Input Controls for both single and multi line modes in Microsoft Power Apps",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/daves-tech-tips-enable-spell-check-in-power-apps-/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/daves-tech-tips-enable-spell-check-in-power-apps-/",
+      "originalUrl": "https://youtube.com/watch?v=3FT4RzyWCA8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3FT4RzyWCA8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT54S",
+      "provider": {
+        "name": "Dave's Tech Tips",
+        "domain": "ukuvuma.co.za"
+      },
+      "publishedDateTime": "2019-12-02T23:13:28-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3FT4RzyWCA8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/daves-tech-tips-powerapps-advanced-bpm-using-flow-part-1-introduction-tutorial.md",
+      "title": "PowerApps - Advanced BPM Using Flow | Part 1. Introduction (Tutorial)",
+      "excerpt": "Part 1 of PowerApps BPM & Workflow  - Using Flow series: https://www.youtube.com/playlist?list=PLxhCbU5zMGwslg6Xc40eNaSI_vKV83ugL  In this video, we will go through the basics of BPM and give a high-level overview of what could be achieved with this method of using PowerApps and Flow.  If you have any",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/daves-tech-tips-powerapps-advanced-bpm-using-flow-part-1-introduction-tutorial/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/daves-tech-tips-powerapps-advanced-bpm-using-flow-part-1-introduction-tutorial/",
+      "originalUrl": "https://youtube.com/watch?v=WCm9iX8MfOs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WCm9iX8MfOs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M36S",
+      "provider": {
+        "name": "Dave's Tech Tips",
+        "domain": "ukuvuma.co.za"
+      },
+      "publishedDateTime": "2019-06-04T17:33:42-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/WCm9iX8MfOs/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/daves-tech-tips-powerapps-app-exit-confirmation-prompt-message-tutorial.md",
+      "title": "PowerApps - App Exit Confirmation Prompt Message (Tutorial)",
+      "excerpt": "In this video, we do a quick introduction to the new exit confirmation message functionality in PowerApps. Previously we had to create a message box (from scratch) to achieve the same functionality!  What makes me even more excited is that this seems to hint that Microsoft is starting to spend time on",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/daves-tech-tips-powerapps-app-exit-confirmation-prompt-message-tutorial/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/daves-tech-tips-powerapps-app-exit-confirmation-prompt-message-tutorial/",
+      "originalUrl": "https://youtube.com/watch?v=k8asxVCQ9Ro",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/k8asxVCQ9Ro\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M37S",
+      "provider": {
+        "name": "Dave's Tech Tips",
+        "domain": "ukuvuma.co.za"
+      },
+      "publishedDateTime": "2019-05-29T23:25:35-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/k8asxVCQ9Ro/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/daves-tech-tips-powerapps-creating-a-command-bar-instead-of-buttons-tutorial.md",
+      "title": "PowerApps - Creating a Command Bar Instead of Buttons (Tutorial)",
+      "excerpt": "PowerApps Button controls are hugely powerful things that we use A LOT, but there are some very good reasons to consider using a gallery as a Command Bar to make it easier to manage the 'buttons', logic and business rules in your apps.  In this beginners video tutorial we will demonstrate how to create",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/daves-tech-tips-powerapps-creating-a-command-bar-instead-of-buttons-tutorial/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/daves-tech-tips-powerapps-creating-a-command-bar-instead-of-buttons-tutorial/",
+      "originalUrl": "https://youtube.com/watch?v=jl89-y78EO8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jl89-y78EO8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M39S",
+      "provider": {
+        "name": "Dave's Tech Tips",
+        "domain": "ukuvuma.co.za"
+      },
+      "publishedDateTime": "2020-03-04T12:38:15-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jl89-y78EO8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/daves-tech-tips-powerapps-flow-tutorial-filter-sharepoint-date-column-with-odata-using-flow.md",
+      "title": "PowerApps & Flow Tutorial: Filter SharePoint Date Column with Odata using Flow",
+      "excerpt": "Date Filters on SharePoint lists are not delegatable which can be a bit if a challenge. In this video we go through a demo of how Microsoft Flow can be used to overcome this.  Other resources: SharePoint delegatable actions https://docs.microsoft.com/en-us/connectors/sharepointonline/  Odata Operators",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/daves-tech-tips-powerapps-flow-tutorial-filter-sharepoint-date-column-with-odata-using-flow/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/daves-tech-tips-powerapps-flow-tutorial-filter-sharepoint-date-column-with-odata-using-flow/",
+      "originalUrl": "https://youtube.com/watch?v=m_j_xN7-LjU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/m_j_xN7-LjU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M53S",
+      "provider": {
+        "name": "Dave's Tech Tips",
+        "domain": "ukuvuma.co.za"
+      },
+      "publishedDateTime": "2019-04-23T09:22:29-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/m_j_xN7-LjU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/daves-tech-tips-powerapps-with-function-basic-introduction-tutorial.md",
+      "title": "PowerApps With Function - Basic Introduction (Tutorial)",
+      "excerpt": "PowerApps released the With function recently and we can see so much potential for it. Where Set() creates global variables that could be used throughout the app, and UpdateContext() creates variables that are only accessible on one screen, With() allows for variables to be used in context of one specific",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/daves-tech-tips-powerapps-with-function-basic-introduction-tutorial/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/daves-tech-tips-powerapps-with-function-basic-introduction-tutorial/",
+      "originalUrl": "https://youtube.com/watch?v=anENfEVzCsk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/anENfEVzCsk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M6S",
+      "provider": {
+        "name": "Dave's Tech Tips",
+        "domain": "ukuvuma.co.za"
+      },
+      "publishedDateTime": "2019-08-17T01:09:24-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/anENfEVzCsk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-address-input-component-with-geospatial-map-in-power-apps.md",
+      "title": "Address Input Component with Geospatial Map in Power Apps",
+      "excerpt": "During this session, we will talk about Address Input Component in Power Apps. Address Input component is used to take Input address from the end users. Based on the user input it suggests the address. During this video we took a combination of Map and Address Input component in Power Apps. User will",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-address-input-component-with-geospatial-map-in-power-apps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-address-input-component-with-geospatial-map-in-power-apps/",
+      "originalUrl": "https://youtube.com/watch?v=cZNebh4VPms",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cZNebh4VPms\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M5S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2021-03-15T01:45:32-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/cZNebh4VPms/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-build-power-apps-using-form-processing-ai-model-and-store-data-to-sharepoint-list-part-four.md",
+      "title": "Build Power Apps Using Form Processing AI Model and Store Data to SharePoint List – Part  Four",
+      "excerpt": "Welcome to PowerPlatform with AI series. During this entire series, we will talk about one of the important components of AI Builder which is – “Form Processing”.  You are watching the fourth part of this series. In this video, we will discuss how we can build a Power Apps consuming Form Processor Component,",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-build-power-apps-using-form-processing-ai-model-and-store-data-to-sharepoint-list-part-four/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-build-power-apps-using-form-processing-ai-model-and-store-data-to-sharepoint-list-part-four/",
+      "originalUrl": "https://youtube.com/watch?v=lV-uhYWS_tE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lV-uhYWS_tE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M49S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-04-09T00:52:44-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/lV-uhYWS_tE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-building-cds-model-to-build-prediction-ai-model-using-ai-builder-part-two.md",
+      "title": "Building CDS Model to Build Prediction AI Model using AI Builder – Part Two",
+      "excerpt": "Welcome to Power Platform AI Builder Series. In this series, we will be talking about one of the most important components of AI Builder which is – Prediction Model   During the first part of the series, we will be talking about What is Prediction and how it is useful with our business data to predict",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-building-cds-model-to-build-prediction-ai-model-using-ai-builder-part-two/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-building-cds-model-to-build-prediction-ai-model-using-ai-builder-part-two/",
+      "originalUrl": "https://youtube.com/watch?v=zPliS2MezA8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zPliS2MezA8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M35S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-05-17T01:51:09-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/zPliS2MezA8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-create-a-text-classification-model-using-ai-builder-power-platform-ai-builder-series-part-three.md",
+      "title": "Create a Text Classification model using AI Builder – Power Platform AI Builder Series – Part Three",
+      "excerpt": "Welcome to Power Platform with AI series. During this entire series, we will talk about one of the important components of AI Builder which is – “Text Classification”.  Text Classification with AI Builder: Power Platform AI builder provides a facility to perform Text Classification and allows us to define",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-create-a-text-classification-model-using-ai-builder-power-platform-ai-builder-series-part-three/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-create-a-text-classification-model-using-ai-builder-power-platform-ai-builder-series-part-three/",
+      "originalUrl": "https://youtube.com/watch?v=qgz5xCACXvs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qgz5xCACXvs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M32S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-04-16T02:13:08-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qgz5xCACXvs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-create-train-and-publish-an-entity-extraction-custom-ai-model.md",
+      "title": "Create, Train and Publish an Entity Extraction Custom AI Model",
+      "excerpt": "Welcome to Power Platform AI Builder Series. In this session, we will be discussing one of the important components of AI Builder which is Entity Extraction.  Entity Extraction AI model available in two forms – OOTB Entity Extraction AI Model and Custom Entity Extraction AI Model.  During this entire",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-create-train-and-publish-an-entity-extraction-custom-ai-model/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-create-train-and-publish-an-entity-extraction-custom-ai-model/",
+      "originalUrl": "https://youtube.com/watch?v=PFEA4nkRyDs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PFEA4nkRyDs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M16S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-06-21T19:33:43-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/PFEA4nkRyDs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-get-started-to-build-with-form-processing-ai-model-power-platform-ai-builder-series-part-two.md",
+      "title": "Get Started to Build with Form Processing AI Model – Power Platform AI Builder Series – Part Two",
+      "excerpt": "Welcome to PowerPlatform with AI series. During this entire series, we will talk about one of the important components of AI Builder which is – “Form Processing”.  You are watching the second part of this series. In this video, we will discuss how we can build a model for Form Processing using AI Builder?",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-get-started-to-build-with-form-processing-ai-model-power-platform-ai-builder-series-part-two/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-get-started-to-build-with-form-processing-ai-model-power-platform-ai-builder-series-part-two/",
+      "originalUrl": "https://youtube.com/watch?v=UDs3EIYCOTw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UDs3EIYCOTw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M31S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-04-08T22:32:34-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/UDs3EIYCOTw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-get-started-with-ai-builder-prediction-model-using-power-apps-canvas-app-through-power-automate.md",
+      "title": "Get Started with AI Builder Prediction Model Using Power Apps Canvas App through Power Automate",
+      "excerpt": "AI Builder - Prediction Model - Step by Step Series  Welcome to Power Platform AI Builder Series. In this series, we will be talking about one of the most important components of AI Builder which is – Prediction Model   During the first part of the series, we will be talking about What is Prediction",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-get-started-with-ai-builder-prediction-model-using-power-apps-canvas-app-through-power-automate/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-get-started-with-ai-builder-prediction-model-using-power-apps-canvas-app-through-power-automate/",
+      "originalUrl": "https://youtube.com/watch?v=dO9n7LWWtXk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dO9n7LWWtXk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M13S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-05-17T01:39:13-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dO9n7LWWtXk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-get-started-with-custom-entity-extraction-ai-model-using-ai-builder-ai-builder-entity-extraction.md",
+      "title": "Get Started with Custom Entity Extraction AI Model using AI Builder | AI Builder Entity Extraction",
+      "excerpt": "Welcome to Power Platform AI Builder Series. In this session, we will be discussing one of the important components of AI Builder which is Entity Extraction.  Entity Extraction AI model available in two forms – OOTB Entity Extraction AI Model and Custom Entity Extraction AI Model.  During this session",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-get-started-with-custom-entity-extraction-ai-model-using-ai-builder-ai-builder-entity-extraction/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-get-started-with-custom-entity-extraction-ai-model-using-ai-builder-ai-builder-entity-extraction/",
+      "originalUrl": "https://youtube.com/watch?v=StWsJurUOTs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/StWsJurUOTs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M1S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-06-21T19:03:44-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/StWsJurUOTs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-how-to-build-train-and-publish-prediction-model-using-ai-builder-part-3.md",
+      "title": "How to Build, Train and Publish Prediction Model using AI Builder? – Part 3",
+      "excerpt": "Welcome to Power Platform AI Builder Series. In this series, we will be talking about one of the most important components of AI Builder which is – Prediction Model   During the first part of the series, we will be talking about What is Prediction and how it is useful with our business data to predict",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-how-to-build-train-and-publish-prediction-model-using-ai-builder-part-3/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-how-to-build-train-and-publish-prediction-model-using-ai-builder-part-3/",
+      "originalUrl": "https://youtube.com/watch?v=m0g7tH8xXms",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/m0g7tH8xXms\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M46S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-05-17T01:57:41-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/m0g7tH8xXms/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-how-to-import-text-classification-data-to-common-data-service-cds-ai-builder-series-part-two.md",
+      "title": "How to Import Text Classification Data to Common Data Service (CDS)? – AI Builder Series – Part Two",
+      "excerpt": "Welcome to Power Platform with AI series. During this entire series, we will talk about one of the important components of AI Builder which is – “Text Classification”.  Text Classification with AI Builder: The first question arises in our mind is What is Text Classification and how does it help to our",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-how-to-import-text-classification-data-to-common-data-service-cds-ai-builder-series-part-two/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-how-to-import-text-classification-data-to-common-data-service-cds-ai-builder-series-part-two/",
+      "originalUrl": "https://youtube.com/watch?v=pcn09VZfvIw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pcn09VZfvIw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M15S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-04-16T01:33:54-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/pcn09VZfvIw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder",
+        "Common Data Service"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-how-to-train-and-publish-form-processing-ai-model-power-platform-ai-builder-series-part-three.md",
+      "title": "How to Train and Publish Form Processing AI Model? – Power Platform AI Builder Series – Part Three",
+      "excerpt": "Welcome to PowerPlatform with AI series. During this entire series, we will talk about one of the important components of AI Builder which is – “Form Processing”.  You are watching the third part of this series. In this video, we will discuss how we can train our Form Processing model and Publish the",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-how-to-train-and-publish-form-processing-ai-model-power-platform-ai-builder-series-part-three/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-how-to-train-and-publish-form-processing-ai-model-power-platform-ai-builder-series-part-three/",
+      "originalUrl": "https://youtube.com/watch?v=OunHKFnIjqM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OunHKFnIjqM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M4S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-04-09T00:02:15-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/OunHKFnIjqM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-mixed-reality-in-power-apps-measure-in-mr-take-measurements-of-distance-area-and-volume-in-mr.md",
+      "title": "Mixed Reality in Power Apps – Measure in MR – Take Measurements of Distance, Area and Volume in MR",
+      "excerpt": "How to Measure Area and Volume with Power Apps Mixed Reality?  This video answers you how we can measure Area, Volume, and distance with the Mixed reality component – “View in MR”. During this video, we will use the “Measure in MR” component to measure Distance, Area, and Volume in Mixed Reality. “Measure",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-mixed-reality-in-power-apps-measure-in-mr-take-measurements-of-distance-area-and-volume-in-mr/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-mixed-reality-in-power-apps-measure-in-mr-take-measurements-of-distance-area-and-volume-in-mr/",
+      "originalUrl": "https://youtube.com/watch?v=jC8ukyvaSb0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jC8ukyvaSb0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT36M48S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-10-09T03:08:15-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jC8ukyvaSb0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-mixed-reality-in-power-apps-step-by-step-series-part-one.md",
+      "title": "Mixed Reality in Power Apps – Step by Step Series – Part One",
+      "excerpt": "Welcome to Power Apps Mixed Reality Step by Step Series. During this video, we will learn how we can use Mixed Reality in Power Apps. I have divided this entire series in 5 different parts. This is the introduction part of this series and we will give you an overview of What is Mixed Reality and how",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-mixed-reality-in-power-apps-step-by-step-series-part-one/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-mixed-reality-in-power-apps-step-by-step-series-part-one/",
+      "originalUrl": "https://youtube.com/watch?v=Vi3lfKdMwow",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Vi3lfKdMwow\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M10S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-10-06T04:38:41-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Vi3lfKdMwow/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-mixed-reality-in-power-apps-view-in-3d-component.md",
+      "title": "Mixed Reality in Power Apps – View in 3D Component",
+      "excerpt": "During this video, I will demonstrate first Mixed Reality Component which is – “View in 3D”.  With “View in 3D” Component we can view objects in 3D manner. This will add one 3D component on our Power Apps Canvass App screen. This is the experimental feature. We can call this as 3D Viewer or 3D explorer",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-mixed-reality-in-power-apps-view-in-3d-component/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-mixed-reality-in-power-apps-view-in-3d-component/",
+      "originalUrl": "https://youtube.com/watch?v=GmYOjyUP9Hk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GmYOjyUP9Hk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M34S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-10-06T05:11:07-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GmYOjyUP9Hk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-mixed-reality-in-power-apps-view-in-mr-component.md",
+      "title": "Mixed Reality in Power Apps - View in MR Component",
+      "excerpt": "During this video, I will demonstrate second Mixed Reality Component which is – “View in MR”. With “View in MR” Component we can view 3D Objects in Mixed Reality. We can use “View in MR” component in the Power Apps to let users see how a particular item might fit within a specific space. Here, I have",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-mixed-reality-in-power-apps-view-in-mr-component/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-mixed-reality-in-power-apps-view-in-mr-component/",
+      "originalUrl": "https://youtube.com/watch?v=wjB54iD5qzo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wjB54iD5qzo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M6S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-10-07T06:00:47-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wjB54iD5qzo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-mixed-reality-in-power-apps-view-shape-in-mr.md",
+      "title": "Mixed Reality in Power Apps – View Shape in MR",
+      "excerpt": "During this video, we will be talking about one more Mixed Reality component which is “View Shape in MR”. View Shape in MR component places a cube into Mixed Reality. Using View Shape in MR Component we can check if the specified cube will fit into a specific space or not.  So, stay tuned with me throughout",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-mixed-reality-in-power-apps-view-shape-in-mr/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-mixed-reality-in-power-apps-view-shape-in-mr/",
+      "originalUrl": "https://youtube.com/watch?v=vOYfUXNvno8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vOYfUXNvno8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M39S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-10-10T05:59:31-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/vOYfUXNvno8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-overview-of-category-classification-in-ai-builder-power-platform-ai-builder-series-part-one.md",
+      "title": "Overview of Category Classification in AI Builder – Power Platform AI Builder Series – Part One",
+      "excerpt": "Welcome to Power Platform with AI series. During this entire series, we will talk about one of the important components of AI Builder which is – “Text Classification”.  Category Classification with AI Builder: The first question arises in our mind is What is Text Classification and how does it help to",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-overview-of-category-classification-in-ai-builder-power-platform-ai-builder-series-part-one/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-overview-of-category-classification-in-ai-builder-power-platform-ai-builder-series-part-one/",
+      "originalUrl": "https://youtube.com/watch?v=TGIAb47kg6M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TGIAb47kg6M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M17S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-04-15T22:00:05-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/TGIAb47kg6M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-overview-of-form-processing-model-using-power-platform-ai-builder-power-platform-ai-builder-series.md",
+      "title": "Overview of Form Processing Model using Power Platform AI Builder – Power Platform AI Builder Series",
+      "excerpt": "Welcome to PowerPlatform with AI series. During this entire series, we will talk about one of the important components of AI Builder which is – “Form Processing”.  I have divided this entire series into the following parts. 1. Overview of Form Processing model – Prerequisites, Scenario, and Limitations",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-overview-of-form-processing-model-using-power-platform-ai-builder-power-platform-ai-builder-series/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-overview-of-form-processing-model-using-power-platform-ai-builder-power-platform-ai-builder-series/",
+      "originalUrl": "https://youtube.com/watch?v=9jKZhL6Q-FE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9jKZhL6Q-FE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M6S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-04-08T21:54:33-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9jKZhL6Q-FE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    }
+  ],
+  "nextPage": 18
+}

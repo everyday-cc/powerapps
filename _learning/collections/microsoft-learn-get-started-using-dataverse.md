@@ -4,7 +4,7 @@ excerpt: "Do you want to learn how to build solutions that can leverage a standa
 type: collection
 price: Free
 length: PT4H15M
-heat: 61
+heat: 63
 
 provider:
   name: Microsoft Learn
@@ -19,6 +19,7 @@ levels:
 
 items:
   - courses/microsoft-learn-create-manage-environments
+  - courses/microsoft-learn-powerapps-common-data-service
   - courses/microsoft-learn-create-manage-entities
   - courses/microsoft-learn-create-manage-fields-within-entity
   - courses/microsoft-learn-working-with-option-sets

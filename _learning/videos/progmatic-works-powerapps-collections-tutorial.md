@@ -4,9 +4,9 @@ excerpt: "PowerApps App a Day Ep 25. Learn how to use the Collect, ClearCollect,
 originalUrl: https://youtube.com/watch?v=2WkM9DgBIWY
 type: video
 price: Free
-length: PT14M35S
+length: PT14M34S
 publishedDateTime: 2019-05-03T12:29:27Z
-heat: 53
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2WkM9DgBIWY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "NjF0mBBfJBM8h9h5x8nNN/YkEzS0xPdTyo8x9+L5hSxvk63lRfQh2lqWTtiCQygwTvqqZl8obCNt7iZBev1EVF+aQyKeGxIg0w5tNm1GpMcWt5BMUwxO0fswYARdUAeLuFMBZMkQf5JVvrFsT1jYTyw7em5o9LQ8ryPNdqEAZjSL/7XANJ7L0c/xffLNIlZv0x+ftqWAWOwh9HSk1nWyeO7vjFIKM7xTPgfkL0fTzFE70Qfv8iK2hihGoX85YeY2k9fWMuz1okN6tpT0w0EUwgoLeZiKLhHFjSNCmK3rUEb0AZHMNO+JDLXmaTSY0cFPLIWnmpVxhB1CM0wpGIA7f+mH1xP3kd0Eg7DVErydRagy8Slci6MhV/8Wm1LAExQchg+F5VEX7PO5h3HThhaAIe3P2VFy5KMNjl/JBNFfdS4=;S9zLL1FxahuzqHE+PBRLcA=="
+secured: "FSIxghksjhF7TT9POpimVQd86M4zBqvqydKlEYCU5kRkmsDccb0Hf2nbWNgbERROF5fx8GAcnph1f4XDf6hMxQuShhYRC5v5CvpbYiPvUIGm+crXBQ/lFFuLOlgF7YU8UthQFhvJ15ND4JmsnZ7skSfuFh/+geJ+lLSunJMd0vrDeT/5t7Eg5N/p9K98OVUmz7IsSbcQCk+CZNITloQdQE1ypH+5Us2/rHEK6/jsKTlpyl8QEENMVbx85OfmcGuUmkF6vx07AoBSDTJEmcH1n83xbBE9ZClwKdRZAuB/NiwlJq1ti05niV6eoX8AjZcAdc9rCcodVUAZJ7q8XajjA3m0qEov1vHxfgeR1r833QZpwNIm1pReAy1LeJePCNi+ZouO+HYf2McY5tDwz+6GSbPuZ3QL2wxKOUJLYUWAJYI=;uVZG0pk9Jeg5Tveb5kt7ZA=="
 ---
 

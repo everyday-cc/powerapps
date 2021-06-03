@@ -1,0 +1,102 @@
+{
+  "title": "Learning Resources",
+  "path": "_learning",
+  "page": 20,
+  "value": [
+    {
+      "path": "_learning/videos/reza-dorrni-component-libraries-overview-power-apps.md",
+      "title": "Component Libraries Overview - Power Apps",
+      "excerpt": "Component Libraries enable reusing components across Apps within an environment. The components within a component library act like a master copy of the component.   Read more: https://docs.microsoft.com/en-us/power-platform-release-plan/2020wave1/microsoft-powerapps/canvas-components-are-generally",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/reza-dorrni-component-libraries-overview-power-apps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/reza-dorrni-component-libraries-overview-power-apps/",
+      "originalUrl": "https://youtube.com/watch?v=KR9d3meY9BE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KR9d3meY9BE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M45S",
+      "provider": {
+        "name": "Reza Dorrni",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-03-23T12:58:28-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/KR9d3meY9BE/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/reza-dorrni-power-apps-captcha-component-responsive-reusable-control.md",
+      "title": "Power Apps Captcha Component - Responsive Reusable Control",
+      "excerpt": "Step by step walkthrough of building a responsive & reusable Captcha Component in Power Apps.  Donwload Component:  https://github.com/rdorrani/PowerApps/blob/master/Components/Captcha/CaptchaComponent.msapp  Components Playlist: https://www.youtube.com/playlist?list=PLTyFh-qDKAiF_WeYXLbMt5NmRg3T35WRS",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/reza-dorrni-power-apps-captcha-component-responsive-reusable-control/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/reza-dorrni-power-apps-captcha-component-responsive-reusable-control/",
+      "originalUrl": "https://youtube.com/watch?v=Fon5zzghWHA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Fon5zzghWHA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M12S",
+      "provider": {
+        "name": "Reza Dorrni",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-04-26T16:07:00-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Fon5zzghWHA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-write-data.md",
+      "title": "Write data in a Power Apps canvas app",
+      "excerpt": "Learn how to write data in a Power Apps canvas app.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-write-data/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/write-data/",
+      "length": "PT48M",
+      "ratings": {
+        "count": 26,
+        "average": 4.923077
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 47,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    }
+  ]
+}
