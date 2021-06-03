@@ -4,7 +4,7 @@ excerpt: "Hello, inspired by a video by Audrie Gordon ( https://www.youtube.com/
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Conference-and-Events-App-for-Attendees/td-p/199250
 type: download
 publishedDateTime: 2019-01-02T10:19:00Z
-heat: 56
+heat: 55
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/71/2/Conference%20App%20Template.msapp"
@@ -31,7 +31,7 @@ images:
     height: 571
     isCached: true
 
-secured: "H85pEYB6LSEMVMeodM0TlaWrlzysT5NA/dc+IIBBrKwyamVIZKonKXZrmfytchzq/FE+ii+SOxqAcAhE2ndG6LRsVIdCP+K8TvrCEwDDUq42Doj+z69fFIHYAy5HtWf6r/cy/KsRZPUUJTmSf5HFHbjpERrvrsUfBIOWN4Hu4uGBlmw71776vjPQHupiRab6jt4GPZgLAvVs3PtsjGJX8P8MJhqML8C6AH797WS+U9vLZ4x1Li5Z/g/s2rAqF1uf2nFRbenz0ikz63zu+PMvE2IbRZO/5T2HdufJRbOX2rwbrV9JW/xJF4xl6sk8gtkXOb5F068P5wOM22mSUaqGeRM0lBlE7JIS/zN/vTMsleh3l4k1yVkkvn4B7MzwClsVwwmz40FhLZiQ8vWhQVa3526OavWgovSg6HZv/9DARHdgt9o6OB8ux7LQoMroun55;83rbOws9k88Auof2pg4P5g=="
+secured: "bwIY8yZk1II23P4sMN4tbH1zteStRf1eEweRPCRH3HrROsrb46nHf95IqtqAcJALFVT2OfjMlltCa8wqA1kUtieyyAlgYJwiXpt1SCt1JOMf0YwYFmE6Vxni2me+ys+fsniMD45cvAQc7eV7EJTq3Ji9DGBbGc5ot6V2UYOarz4YsWWOal5HcUEm8NNVFa1tDwUdpkoK04cx37YIh1307iLPyLl0S09lccYAllE7W2alBCkUwjegIlbzl1weEAe/RzIoO48y9HQQaucWObZkJdEUCM2fCdEBOvXzegdQvlaiSFFSf0YVlcRnvbSpulTozj8TiRwxvffmqjKmjv7RDkrjeVi/Y1aoQi5ZHIWtFFnBPKMBWWNt0v6+5XVQJ7aDRYIYA1yQpT0lhxa4pU7JRrSy1OPgclCd3TKpHzAnXsUltlLh1l1SRd+XNiLL7oC/;5gtjMRD+MG4kw+aAOD6r6Q=="
 ---
 <p>Hello,<br><br>inspired by a video by Audrie Gordon (<a href="https://www.youtube.com/watch?v=1rsyyYiI4sU" target="_blank" rel="noopener nofollow noopener noreferrer">https://www.youtube.com/watch?v=1rsyyYiI4sU</a>) and by a few conversations with Martin Lee and a few people in my organization, I decided to develop a PowerApps template for attendees of a conference.<br>The template covers two use cases:<br><br>1. On the day of the event, for attendees to view the agenda, speakers, refreshment and transport options, provide feedback on sessions etc<br>2. If you're a member of a network at work, the second app would allow you to view events upcoming for that group/network, learn about opportunities etc. This could be enhanced to volunteer to speak, or suggest events.</p>
 <p><br>All data in the template, including the navigation options, is coming from collections set in the OnVisible event of the first screens. The company colors are also set in the OnVisible event of the first screen.<br><br>Here are some screenshots of the app:</p>

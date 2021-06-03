@@ -4,7 +4,7 @@ excerpt: "Hello everyone! In this tutorial app, I walk you through the process o
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Add-a-Notification-Dot-to-PowerApps-Controls/td-p/442857
 type: download
 publishedDateTime: 2020-01-12T00:47:00Z
-heat: 53
+heat: 52
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/391/3/PowerApps_NotificationDots.msapp"
@@ -31,7 +31,7 @@ images:
     height: 180
     isCached: true
 
-secured: "HSramUEi0WcSWn/SVS4TC0aHGiTgLhtS0MxmN5TqwvO/lr0yIVLFwgdI8fyBQIGeM5xKVbPgd33EiezS76XcasvMzHDwffr+NvCHhNNXir2LlOhfawnquzppLJX/CZ/Fj1HC2tR9YvWLnS4ZjkpfgYQ3ZHt8UCQGbYLMf0zw3tio2Sr9AizfQPePde4WqnrmvqzoxlJTwJNGPUhZ6S+eUedBSIJ1dNofivjcziTzV1NPJZRaslIa7iVB3fYLYdlRns8uJy5Ex0WOXFugDScpF6z/zmFL1kbmjImbFlrx8s3om4+xX9vMd2evGZnMxyh7YazSuQFwS0mWNUYF/cRXW1gOXO8KdT3kxR4+CSwhBhwHkQX7gPcsIgGUV9gugKDYFEnbih8omTMQmuGBOJXmYzG67JL0RbEk/iC4oasQFumAwRqjt0edp62iSyN/MxeZ;nWZTPPN3Ty35sES5wN0mcw=="
+secured: "Hd5WksQU2llpvSBwk3ZxUk7h7nYFZEulrDn9OxZxrdtxIechoQlggx7g+C8RNnboF8MrNm9QkJ9Ytp+9yEEwwio0LlrLDcqZhDfVRInvpVnAYzdMZ4RS+3EPaAfmRdROFhPK/n1M5zRsv/C0UkKYKfMtsGDhQd/IK7aTxi28E1zn42QKhhNPSKoumUmlpHd2VTWGoRoyTwKsWfCoaOfF4Y+MNlftA5el8Ta1jYfD33SQIrJ/RJHy88WB8GjZfF98almSAV0Ct5KOqGMr8ffzT9qIMRvRVtNsPj+/R4p92UlcmLRTiRgwup7rh3VRhvoV7nne/NFtbKE6gUGQT5waf32t27uoS5dhAGmvmWrP5uzYG9g5owpYJ+33UnuvblnDdCdnAjEb5FrU1ngUesEY/WQZyHAc5zytISy2/NrrBXaYmgZnsB0sZVAesEzzUcY5;8HDGhxzK5V48BdHOLer5Pg=="
 ---
 <p><span class="lia-inline-image-display-wrapper lia-image-align-inline" image-alt="PowerApps_2.png" style="width: 955px;"><img src="https://powerusers.microsoft.com/t5/image/serverpage/image-id/110073i1E1400DF51099E88/image-size/large?v=1.0&amp;px=999" title="PowerApps_2.png" alt="PowerApps_2.png" li-image-url="https://powerusers.microsoft.com/t5/image/serverpage/image-id/110073i1E1400DF51099E88?v=1.0" li-image-display-id="'110073i1E1400DF51099E88'" li-message-uid="'442857'" li-messages-message-image="true" li-bindable="" class="lia-media-image" tabindex="0" li-bypass-lightbox-when-linked="true" li-use-hover-links="false"></span></p><p>Hello everyone! In this tutorial app, I walk you through the process of adding a notification dot to a button.</p><p>This process can be used to get a user's attention that there are items that need to be seen in a certain portion of your app. In my example, you can add sample requests, which are displayed as notifications on a button below.</p><p>Please let me know what you think and let me know if there are any errors! Thank you</p><p>&nbsp;</p>
 

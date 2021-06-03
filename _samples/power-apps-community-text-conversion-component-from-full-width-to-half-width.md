@@ -31,7 +31,7 @@ images:
     height: 584
     isCached: true
 
-secured: "EIdl/xrBCGmbCir4jrhEHfKB+te2kq1Wc82ZQTxvizOd+RIu4v5vHpkofn9wJfp3Av0F9TyIio4iJnVpt2AKO8UL96gT9+DgQFmNDn0EYU4gkp9i2Bu30anBHQkPjb2IAFvDZociemloOBUYepq5NbmWja6ZhsOc2647Wa/hY7VnazEBZi/p+FvZ/jpR6FywFVcKvtretn4agEXmbwVTKYjjXP4PMn075s2mPCjgP9QF7/RZankZHuHADbwN1FbdM1zd348yYw6wi2m2/zXJI/qA5D720rxO940Vabu4THRM4vmiXrepDBdIhg4gl/4moigYPBC68EbC0TXHjev2aC00qdwrSZbB4JLLxNsBRTVmtmPGQNuredbzB6h1E+PMhFxTWccdSYIFhk1obrTggrTjuK/i1QvnobSCv0pn5avJnl5maivfAF2QEky3BH8Z;RWewtBVAm69p3sFyql7gvw=="
+secured: "fIOvK4lk/kr1N3l28Dj+EX9esR37OtKMJxyUl6VLbxUK8cDVNopGep2RwNeI8CXM9iQ3/D6HJabNW7goIsAAJF6eXzoPdnSsrKgebJVi9BgzTLq9PI9nrN8svQXQ+diyYAvbC8zXllM6FoRSGKL+czCBvXdXqnaIe12JBOLmxzZjxPS7E3Aq9rgWdXiM1fNzLfbdeHcc/TK1DdG7uC4iwNrpEpzzkH9IFk/gIVSUDAQPQO8hgqT6JoqvBR6nK4hkdldi7jDwqSTpFZXSzkJXFpe5gbJ8tM9uxWnyxIxeFtf0athMEF5QAJRrBA83SO9qUE5xF4bQYLO5o26FRyFfxt1j0G83+6QFFINJZbifYTEmAYUBjDlutB4WFzmVVR4xMnCmBLJliI81re5MTjnqt2uY4Avf6fYxqGWh1SaR/it0YOPsn/8CRlhE3NHC40Oy;MAOV7v9bJhYFdd5Qv3OzJQ=="
 ---
 <p>This is simple component converting Text including Full-width alphanumeric character to only half-width character text</p><p>e.g. ＴｅｘｔＩｎｐｕｔ&nbsp; --&gt; TextInput or&nbsp;TextInput --&gt;&nbsp;ＴｅｘｔＩｎｐｕｔ&nbsp;&nbsp;</p><p>&nbsp;</p><p>*That is specific for multi-byte language country (See, discussion&nbsp;<a href="https://powerusers.microsoft.com/t5/Building-Power-Apps-Formerly/Half-width-character-input-issue/m-p/411932" target="_blank" rel="noopener">https://powerusers.microsoft.com/t5/Building-Power-Apps-Formerly/Half-width-character-input-issue/m-...</a>)</p><p>&nbsp;</p><p>(Update)</p><p>Add Output property that converts half width to full width&nbsp;</p>
 

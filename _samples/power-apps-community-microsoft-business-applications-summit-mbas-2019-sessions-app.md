@@ -4,7 +4,7 @@ excerpt: "Use this app to share all the sessions at Microsoft Business Applicati
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Microsoft-Business-Applications-Summit-MBAS-2019-Sessions-App/td-p/319894
 type: download
 publishedDateTime: 2019-07-11T16:39:00Z
-heat: 52
+heat: 51
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/206/3/MBAS-2019-PowerApps-and-Flow-Sessions.msapp"
@@ -31,7 +31,7 @@ images:
     height: 951
     isCached: true
 
-secured: "qwZ4Zsjs9L+OUvZDE4LfvUD+6Y6xtRQ8kmBWzm+79ZpzKGfQPtSsFA7lt4KEEi2Q8l4zEktN8lBfEEWgCn04jCPGUHqfGeBBWySBDVf65RJasmTunkl0VBF5uoagXIikL8YTuvxWpe38q9RNKHzfw+L/hIMw903Lo5e8AZeaLULMIHfxNPMFCSBBfhYsnOCemd8e594826YHgmxb8sWRsiQBRbA+ZnB82RGOXDaPY5w0mq06NZW4ZMtbJoHZALO57XnXnwvv/Lq+FsE6NsEkaA5a1y0Vxb8wYwQmxbtWadpgb4P3gB9kxUQ0DHRPxhhpcrJsb1AzOe3xhTjtCDTRHn1Xg7/L885LDHiDpJk80Y+OcIEWLMPv+Z5ahr37tRvK7UPxXMhe57EkDFB/BOHy+fz7miYYQH4dag25ZIRXnXWhF1hD/x67l7Pt+aAJBpbP;Lu0Yo+C2LjsQC/evvN/UrA=="
+secured: "FC7C5N70Ra5T8n5RSpdhkZdOuyzTY+oP6FHccwX+bdUm+WTeXWgGfZPfh3ZvcnVTEJSaeWxWNsHP7Qyp6j6kxOKFpdCYCQz4Aqi+ebmaH+xgj5MlckGTJLFs0yHdehEZ+p0gNrc/d84XNPGqIuajca522OxHRJOTdMcEZtqULts+lDa6nCTOqzpJjEpedRwUR/Uq1ScE1vtf0w5HWPu1vRcEy7fnAkLnrxViYQEzJo7hc1vC2tjMkkBdFb3YHT8JRHQo45MmEqe+xJM8smSSe9ukMPwxvvoRT25geB6nFwWNJKAMJaLAgVveKGQ7tqNhiSym2uW0gy5wgtN64zkVw+R7PxjtonPlqLbMzSq82Gxj5EafbJAm72FBfpISAMH16P1+vYKY7EdspMLmLJaLsWY6xjqzpOVxPsUsa8r329n1cf6jAkRZuPeW4M0eB32M;dbLDYjtDFUeTxBXALaR12w=="
 ---
 <p>Use this app to share all the sessions at&nbsp;Microsoft Business Applications Summit (MBAS) 2019 related to PowerApps, Microsoft Flow, CDS &amp; AI Builder.&nbsp; The excel sheet (static data) used in this app can be <a title="Download the Excel sheet used as static data in the App" href="https://pahandsonlab.blob.core.windows.net/documents/MBAS_SessionList_Data.xlsx" target="_blank" rel="noopener nofollow noopener noreferrer">downloaded from here</a>.</p>
 					

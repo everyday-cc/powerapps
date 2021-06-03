@@ -4,7 +4,7 @@ excerpt: "Formativ_ is an app I showcased during an Open House livestream I held
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Design-Patterns-from-Mr-Dang-Part-2/td-p/198929
 type: download
 publishedDateTime: 2019-01-01T17:50:00Z
-heat: 61
+heat: 62
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/70/2/formativ_.msapp"
@@ -31,7 +31,7 @@ images:
     height: 3000
     isCached: true
 
-secured: "Krdr62owyZJOyhxtt2dyM7NIXeItB7l4uMPTCeR4RWtOagKawmkuk48ZCcZubF93X3gWE0W02SzOBxoiwhZkcj01zk7A7PQnEvhqcNLSHNOdqAmv0KZcZgCsKaRSBvrVFFZ5fSPGFA18cYLyxKVdTf4vrrwGLKDYXPaTKBRWSaeDb6CHJQodp6Z8Vi47Fr/utYI6wPqK75umaqmDXUfgNY4F0eA9JElvLkGzSFaA/wA+7sNPBEbveMn2l4VM7uN3ptP1/eWfA7p4nfDzG9ZHEzu5mphFBjXmHLHmnUKh5ykye6TbVQ/buKe3RW1iIQvkBF32DFj79gofyvdXiwwlkp82oncVKuOVkUzby4Ke5gt5I4l2NaXiqyIWMm4YQKROiuJ26M8F+0J3XNBbsnr9104xfw+M/CLvoFzoOZCR77snKxBhyJIrvwpMke47wTYJ;WePqJBCXvqPL3rIt/iQ20A=="
+secured: "wOtMWZSANXEi29u0EtS1C+Gy1/+ZG/c4jp8rHfKHtre/J8sx5stgxvmrVESVp2Q71EcAbwUAx3dxRj/V9LDcr8vWdc+YWQFSJvf0AWcWilrjhk4gXM7o5LiuB7v4F21IsAj577aLzQOThXQQXit8pzXDoHt4LN7z4w0eTVhEzqyQQSNR/NV2QbMPBJ0UULhpoxq7RAMj69n5UT3+avp97ZdluJgJd16ClV4jPtaY675D/4tZ+hTFH+Faz/I52w99T2480C6mFSBWbTIdABbmGgvEYTcLctMhnYfDFBkqrnLlfuTv543/DDTjGJfP6oxE0N8ZTrRdSwIIJbuocBTGZnM6qD7RWSMFiIACcZJQRuCyWHvvGRiE4/NMDgJBi41dyx6m+6SiMbdif07i2afYxFxIqm3eWLuyDsun+V+zGb3QHrk+nLqtFqRtltegsa3v;+Vp/YFBjTY4Q6hB80Za3gQ=="
 ---
 <p>Formativ_ is an app I showcased during an Open House livestream I held a few months ago:</p>
 <p><a href="https://www.youtube.com/watch?v=Qbl4MujHB9U" target="_blank" rel="nofollow noopener noreferrer">https://www.youtube.com/watch?v=Qbl4MujHB9U</a></p>

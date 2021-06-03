@@ -4,7 +4,7 @@ excerpt: "Translation apps from the app store are good. Microsoft translator has
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Retranslator/td-p/426863
 type: download
 publishedDateTime: 2019-12-15T22:14:00Z
-heat: 51
+heat: 50
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/358/3/Retranslator%20(1).msapp"
@@ -31,7 +31,7 @@ images:
     height: 3000
     isCached: true
 
-secured: "cKciaJ2m1O18YQJevvspzttRDNrsRrpxrZz9eDCEMDEqYOXlFj8du6FKLICrMBEAyMbNOYniy5Y1EtBb6Vn11dZf5mxSSfQxsW6ullPy/Dp+GZghK5pCVdylCVFnHkiunhDXhER+ZfEHwNgUeIJfVaJHmxcBdjFEqzBVF2nOwxruR00OXGmIUy/LVS9ovo1d6QyncFc7xPZTp1J5vtazfEwWRc8A5kT/cVZzFz8NLANptZj9m6+QjBbH4+T1VJswXwT6ieYOs90eBPkCuhfgnHw+DqAHwVCGdnH6ln9uPMUcEhPOrbg86ij+zMLh+8UjenK7CjlpbwC96CxfRx+NU7UlY//BONI3aEYXZHKROsiTIY0tExBWJjrARI7lT2EG0GRJ6ZMkLGMbQS2Jxt/xpbiJdbFH8r29oiaVv922E97VjFI9PuvXsGgxOV587D5L;r3/t6oL98DAK4tea+T+zHg=="
+secured: "QwqW8xmw8lAZVtiWqP3w4556itU+SK2qZYIfLCT1ovJAjGDlNtWIs3YQpWLkv6Q8HHfh9teXRge0a6VfqCe5XmYet1ifKUqQUnizgnL1dVfaqtCENSEiXXAQTWrT0IVSlK4hjVPyhttXRgAHVmY3ARFcTlwuSXaC/wI0cNvhVL6l1yvRLCJLxOf3zL9/GNmtXnRrogESyBcNLdj/njxAhb+1ZixCa44W438PC7/OpwiszwEiQmatc5ShccnhivbJgXino0vnMprPA8/V/wI0rGXlFUP5cumzfoq7q0vtszxXPqqkEcR/rAG+qEGrD7fSAxwS+RSTfRW0WR3WRjXfDSDJQicUli+DFnvbgfWThCAbdtmLEneTPZ6gPjCl3wj3hnDB6XLvvX0yEj714QZPhKdEqjc/SWKdOY5wZVxDI5CeBqUBF19L/rLiObK9lynI;Y8gNF6sOo6mIinp/dN80cg=="
 ---
 <p>Translation apps from the app store are good. Microsoft translator has a thoughtful UI for taking turns speaking. Google Translator has a camera with AR capabilities.</p>
 <p>&nbsp;</p>

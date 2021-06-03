@@ -4,7 +4,7 @@ excerpt: "I have been working on an app using the App Maker connector that would
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/App-Creator-Portal-Version-1/td-p/246245
 type: download
 publishedDateTime: 2019-03-05T06:29:00Z
-heat: 70
+heat: 64
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/122/2/App%20Creator%20Portal%20(3).msapp"
@@ -31,7 +31,7 @@ images:
     height: 566
     isCached: true
 
-secured: "zv8XshaGimOiHWO/ZdloKZUmr+yTam2JYuVIf3Xwmjdyy5oWhUTSgdZVhIVhRxi/vXcXrTBA3USChQhos70ySIJvYQo0kwq9nyJCm0Q2opNK8YtN0YVXfA+SIXA7msxwLquCXqqNkBYO25otiab7aNUcx6hcuJJpCcJx2vQ+AY047Mv3Uak+UZI4PEYwLX3JIUkzdG2APjC4Q4GFqbCrZV2D9eYXDlCopNmkuT7hSlwS8L7pqObjeGWOhMLRwnX9NBhMFXTa9rnzaXnJ0himArTbSngfP1DJA6p08/fw8+TBTgZuY0d505sYFyvRLOA7/z7LX/9sIiM8cTaoCq6nDAoG2cAx1DlbqhwpuWWuCMJfFzuYQ+kZdMuF4SQJU3dnPUHLcueNFJsAE8Kic+1gJwDr/mXDrxwynukRhWtaFFmvb9K5E/gUSDZ82UGnvEkB;g49fY+KWhMPXg6HYFaWL2w=="
+secured: "2S33Eh8d6zj2bO9qSjFtxKRt/1FMQi2z62o7pEc4yzv/dLR0EWe9q3ONitbCStlo4U0bYZbo1t8/N75ypsMD64rlpRRuWD1RKoKhWTrclxGdNuTcnQlZWPgpnuZNZWuFDAW48msIM1IkWqVGVNGo4oZXv43+2/za4prjQ3B7kRoSlb0l296E3lM+6G7NdLOX7Dgm+tyIq+aDKGpr32+BBGqMi1FY1bgi5JuGmpT5Yw5wrDW5hGCalt6LpQdmGbnFTJo6+NuLM78CFEAxdlHwl5Q5UQqVewe+hxY8P2Zi/UAM71APe2aDoG0CpTP/kBWiI7Ya0hwFRdkuQ8fnAcd+A6SyNuqz5Bsa43hW08lZUKZnGxidod0T+ELwr5EFETxcoyhCDHFn4NYtuv15GI/qSGFvQ7luFW5Io/Cb7RBsYyXCEVd50rJvdccXJXI2nyzU;jFWK0+l2AsYMb3r1kuu+mw=="
 ---
 <p>I have been working on an app using the App Maker connector that would bring governance and support documentation closer to the app creator.</p>
 <p>The app will show users their apps, and allow them to check compliance status and submit a support form.&nbsp;</p>

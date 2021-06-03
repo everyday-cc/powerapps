@@ -4,7 +4,7 @@ excerpt: "(if you downloaded this before 12:40 Jan 20th 2019, please re-download
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Branding-Template-App-V2/td-p/363582
 type: download
 publishedDateTime: 2019-09-17T17:24:00Z
-heat: 87
+heat: 100
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/245/12/iAm_ManCat%20Branding%20Template%20App%20Tablet%20V2.msapp"
@@ -31,7 +31,7 @@ images:
     height: 519
     isCached: true
 
-secured: "lPGSnCXOHKXV6GTF6eh2gAXoXP5/u5OA2cbtT6lASH8VeF+xyQS7wr14AAv+yXFhBjucd4CmtCTCeyz+5BFvvXqSQ0x/iM3TMLJMqGQq5U90RstP6hSOvrSHrN7hPNK43bYtE2cG5HDMb180yF9nPs/xz3QZcwfBBKTOBqc/S4mVH77HpdZqIqrkPqVEeFnQjfGoH3i6wLo2OsNYt9turW1r9z1m+3tgwRkziBsqNohW69NsARdaakht8gPuwzwXgARGZQMPWR4KOY/N5tbWywPrS073+/qeKSUXnP4NFEkHiijBYHdjNijCo/YQuzPktebgyVY99uBxKp3paHP9GIXQAqa+qdgFxEpn4lqkEcUiK9Y1awxFJmysMYM5u9vwR+CsEvJkJPWTPJq0gNOYvIU80jMIOmw4byfE3g4oURA7GBRHW7KGZ5k9CRKemCrg;SOKhUo6hMA6Pbxauztk/Bg=="
+secured: "n6LunkJegwC18N765metXJD7NLPKqlVkHJ2j2b0x83CRs5loDMtFEu93lOQTWPnxW6pvKtVqUqDOf6sV8j7XALFcdVFpxIDENSO5MpGANl0R5AV2LBAB8Wj4XcPNfqRBBux8PJKJfzhYqzf07dKFjFzUGMKKVO4ksOaoWDEHSJ2TaPSdlCvkSfAdd7tsmWsLl0auWKfHow96RhA2rayVt3j2pIobmreQXtvz9kf7AZpp/1ks0lWN3cFptPFmDcTw6tSMpaDDBrWK5XZrdwDFh8n2eONAAQgGr28bBGE2XPCX947Tm/qXsszp7KZpcdA+ztl/xtSCXowvVTDPDULoPyndUCEQRsagAeX5zV/nheLrraUGj10fsSNu0V7YMhsTJtFK3zl7YTzrMpXnTv+vRkXy18SwjrKaIUPuOVcuGl5hu+yu7IlBaaLuJG98RPpU;Fd1vLWn+8p1t4emHQ3C+DQ=="
 ---
 <p align="center"><font size="5">(if you downloaded this before 12:40 Jan 20th 2019, please re-download!)</font></p>
 <p align="center">&nbsp;</p>

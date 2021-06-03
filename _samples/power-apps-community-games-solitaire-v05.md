@@ -31,7 +31,7 @@ images:
     height: 2794
     isCached: true
 
-secured: "5nRMDlKbman5Mqb5aE+T2+sQrKR1zqjNRy+V+HNCHx315HiPQMjK+cBEFGImdNJphi2taoj7t9NTkt5i4W4PMUAYWdyNocsmkHeDpbu1z8BK7RMT8/LbfGUuhNsXJje7vOAQ/ZaLWg3tfiHLmZ9+kAkHz7eLh2tAkePUehuoSVnmklAw4JalY8BOnR63Kd06M2ETUflFZvjAeCOsEFifHDMuZOPBOqCyjmRU5CspqeTUte+MDKYAlotxVng+ZqXrkQrQ8R3bUoVMbXl7DpSZyQ7eMdGj0KJ+ytqbnHvv713ozdpfBF3H0nFfKHSV/VgQdi/pBlyVguVYu5Jv5GL34eWNACp52PPOdTaruUbQuMm18MjIzG50x9Qm7YghXtqsyx0KAv1evliqxNpGa0VsKst9ym0NIAUpRegnY6UsF0VBWB6Q/UfG2/raU3x5J/rI;3wve9j/u4wmHp9IGYNOYbg=="
+secured: "g6du3/l6tYGvSrWhOr9fjGnQciysGT/YRxe1ifoJ9jBIMiOc7jF54NeQZn33gFH7BoKg4JKPe1QpZwhWfiqrcdZcx85KfG9vvo2hWsOu+SWqnu77MbrqY24UZi2b3d8cfc65cLXwTR+TThxOx+gSKwLvP9/mEKHd+DpC77o4gxLqt4Qvp8zBoJgqytAh+gIxBqgsFY1Skc1nlS1RKq4tL3vU9UpK0F7F12qZdbYIgFiGJhk7g1k1xZlGGo+QjKQbewa0vZ9a9tIaqD42Ves7bDyooKHiRPwuB9UE7byVdaWX6NibGHScgTHVUacYRZympiDlOXuuiK0PsNTRyLaJcvBJ6vgeOSgAIiaPtk2yJItn957yAEwQ2hVywYRXoxW8Y/EVkqlUbAbqSt44OwgdVnwy3SWA3BALxTaj3E5WT+uyITOP9loiM7r3+lpls2xh;36k9Ec0SlxqKRTOcceyNlQ=="
 ---
 <p>I've made a few iterations of Solitaire. The oldest one has the most features including undo/redo and auto-solve, but it's not very efficient. Each new version I've made, I've learned or applied something new.&nbsp;</p>
 <p>&nbsp;</p>

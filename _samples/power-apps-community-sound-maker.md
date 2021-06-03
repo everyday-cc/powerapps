@@ -31,7 +31,7 @@ images:
     height: 1280
     isCached: true
 
-secured: "p53xYG9k07YzWJmVvb+TtNC8b82g8v03CmgVVigXI8fh4p2iCq8HBN1BHmdO8HCdUmctq8wOs+KxiJfzRCqCFn8R8zEIz8JbC834id1PhcIq7ruTRcOuqpFRtukGe+Nss+sVjy/Hyh/TXaCHhMRz0FBvvT6YDr5cKICWbwA+C6YUzjYW1tQQowEg4PA7zAdHNsd7Fcrzc1WMgpgISvMUs8f71K/J9W7TTt1WAJbKaeApp5gzzK6u376qiatmeAQjo69NFmpbmIjCIcSxlckfmE88K94umLGH9E2a6XaLveK3cXN/AQxA2mj9OsotVMf65wndkvPXFe76P7VBHFAOLrvFip+e1FiAUiM+XdQF4lU24Ofr2odc4cDQX8AyEGQiMnjHmm9PKQYsp9QgsuP+sFFNJOzEOUlREdX8vuXIUzx9HFefmLdkofJSgqdKpHws;bYeFjwcyM7qQM8y4vYNl5g=="
+secured: "Zkg6M4QjKjKnnezC2vaTfLSR3CU67jy5eAO/yQhp+5ftNKxVwSiXqF4etq5uhJ2J+GP7lCpQW/sHf+ho0hipbRtWvOO9nXp/UtdPpY4K3jscU5Z+88PuYn6N3PuNSUX70sSR2CN+IE0yZlxLfzZgo6rNMA4r2u6co1oIhXEY5FABbSMY+REl1oejdbsVXsuiwoxwfWtK/E1cao9iq/47r09UDvS5PwqhF4qazQdZvIxLdDEguH+HG0Wvv6ppldqpolWNaJ5WYbp3ZQJFcwK2JS+nj9kJgChKBW20I/+xH0kOT5iVHa8Q4WUV41WHi1RPxay83hBWXr4Ena/oPr5E9aU/bKW53HkLW8WxwuUqdDEgcU8c+U4PLJOwp//pI5l0cnEhQlssCZ74VKw3aGrJg82bLONpvwNoOEfDEWeipmM8gEBTlqh4QIzmdUcMtK93;ybkPaNh30MiDeVU2KM7O4A=="
 ---
 <p><span>It's a musical score creation &amp; playing app.</span></p><p>&nbsp;</p><p><span>You can input 2 parts and 32 notes per part.</span></p><p>There are the following restrictions:</p><ul><li><span>Possible input scales is between C4 to G5.</span></li><li><span>Sharp, flat, and dotted notes are cannot be used.</span></li><li><span>As playback is delayed on iOS, I recommend using it on Android or PC.</span></li></ul><p>&nbsp;</p><p><span>Play fun!</span></p><p>&nbsp;</p>
 

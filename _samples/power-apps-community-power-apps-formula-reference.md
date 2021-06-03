@@ -4,7 +4,7 @@ excerpt: "Announcing the Power Apps Formula Reference! I am very excited to anno
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Power-Apps-Formula-Reference/td-p/650191
 type: download
 publishedDateTime: 2020-08-06T08:27:00Z
-heat: 81
+heat: 78
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/595/1/Power%20Apps%20Formula%20Reference.msapp"
@@ -31,7 +31,7 @@ images:
     height: 433
     isCached: true
 
-secured: "RNALUgiHC6VXJFueszYG2qeJwMsBqJXt45uzJe+zTZP5Z3nv4T0XEzXIIhpJQEYPFpcYzI8pYe00BfWwkulTDwBbL34uHly5zZKqrR8wuFcgOjOCc0P1maKmD4KdhKPsq1d16VhsB416GVjpAxMmH98TgJWfm8JxDOya9bkZY/KOkA+LIi1+oXf3r6xeFhDYyfTkaW3jReQBzaVB0BbhpKizZ/q64YzO4FmgLxzyLykSL8asSOhIrNiYFxQMT0UN1maqCo6TIPDgXhqMxwFvhoTNCkFyEWPYF4cGtAFjrVFTc354SIPz59Z1I29Y45fehTBk2wjrA3dCNRMGFVpygIeBUdXV88zuWD7ZiaEYPjbwup/OSnMdFA7FAiwBE1eVnU2/EBCEFoB9pFLRAY6rzJB3O2iXwTIJAxyPBzPdAicX4cXOs45760IzUexBT11P;AIWiDpGTom0FJz29ZkVAmQ=="
+secured: "APdBkHqbn5nxTSIVg3SzdSMKCCHUdc483bMSfgKyYyse4gXeO1LHwHlLC9ZmI1pH3Y0YZLam5tGy6+q11aEN3PyWNWPLORHDmhdiyMYqzvccIRRmtXtZyv8YLw4H+iOjdNjOSIs1ZSfQCMHKnEitQ4e5M0axDznE/L2FgzfDFF9WNT6pNjTyuo45ih7NHWVb01lYlBblVoFfT+Q32JCB5ztN6FsrLJUoXCRq2Mg577PCFxQz5MogZQzmCvVTDBHKFj6GrFUOqbTEgrP2FfTYSK6B+21/x288Rnix5pYJFNwLmRbxet0egUhaqnqwPxin+ab0BhjMMCKXDsvmVusamSS+Gm18guUwTOzekM+Nz9hHd51E6JlPD4HR9GdQVLgL+CdDYkMevGn3cZzOqxfFXIgdNsI+CtvuoDQkaWERGSUjep5QE3fTC2g39fbgiZum;lr6CPzYW9qvWuUsU/CF0mg=="
 ---
 <h2 id="toc-hId-1763716600"><strong>Announcing the Power Apps Formula Reference!</strong></h2>
 <p>I am very excited to announce the release of an app that I have been working on for a few months now! Use it if you are looking for a one stop shop for all Power Apps formulas to use as a reference. Or simply share it with someone who is getting started on this beautiful journey! It provides an interactive illustration for each formula. As a result, users not only see the syntax, but also enter their own data and see what the formula does! So enter text/numbers, pick a date, or choose a value from a dropdown and see the magic unfold!</p>

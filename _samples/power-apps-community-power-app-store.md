@@ -4,7 +4,7 @@ excerpt: "This demo is a proof of concept/template for adding an app store to a 
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Power-App-Store/td-p/442805
 type: download
 publishedDateTime: 2020-01-11T13:16:00Z
-heat: 53
+heat: 54
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/390/3/Power%20App%20Store%20Demo.msapp"
@@ -31,7 +31,7 @@ images:
     height: 900
     isCached: true
 
-secured: "8Agigjs38IUr4bUcSGWlurH/aRo9sFc/zShHxI/49+5OHER48k9XTWWwcY79psEkzTl71GpfJlvsRFMokfTvK6eip59xMP1hi/MfHoqrCAa693XLKskfhjGIV4K4MPjoI8fw580KBH/Zw46fRV8/KlqnzZH3rf56MgzWqXwuv/kxPvzG3b7uCo+uWOxv12jgErgbNyc1MZB6Vcez15i3rs29p49zIHUaQqz21z6ApmW6OHzjaSkLtZOfhlchGRz0pONfe/ePpiu+Pq47ByZUp9+OobhrCT4MwqZeX+LiaqkAmz1x+gyHfiByCg9Slm1M0se2I9QJcg+VP5AlxOdEHF0U9GiRPDHMDjFFod9Msp1yJPwbW7aVx+dWkNo7bGaxBgcQYR2Ux7TUt8gNI6Si90rEtX83xcmunTUHjo+J9Tkn13n5Ur4+n/nzWBs24gRp;PjVKpPdGA87TP2bD+Y6DhQ=="
+secured: "YyXqTRZ0r6o+UWX22MYU+iqnl/Lt4yGxIVXHUCWZ5iI86GbzwRKDDQEqaSire6hdEC/39ucXdTeeNVwkO3lnvbv62UvEBhUgj+8keBqmcmaI/BIIP+DOObU3kTlXQAuZdKGldTt8qpZ8LDdLeA1PConxSA0QFMV0PgiiTrPr4ZCjT+WHP2U60UTjLed/IoJS6F88dA6HO4CDb9VRQVoHcaL2cM4bWoznH+C/g1TVBhmzHaVt//q/m9fNlaTStTeU/AeEaWSLnwJbGoWcmTnT0xu03BvQlHbf0E6rrWRP1kW7DXL9p2tLt5zZH8d6oUwsNXikVrgfFAVbA6jg0n9FhMBMWwe33cEvv4l6H9q5UUjMmYFGDt5V5E7NQNbOPsg5/UBdFkJDZ+N+NpzteiiKmj8fRh3a7RZN7NryXP6pLyNWSh9sJs+/9Z2lFzdIUKIJ;IlfS7xAeLYXd5c0p9oiklw=="
 ---
 <p><span class="lia-inline-image-display-wrapper lia-image-align-inline" image-alt="PowerAppStore.png" style="width: 999px;"><img src="https://powerusers.microsoft.com/t5/image/serverpage/image-id/110341i6FB3A9450EF04664/image-size/large?v=1.0&amp;px=999" title="PowerAppStore.png" alt="Power App Store" li-image-url="https://powerusers.microsoft.com/t5/image/serverpage/image-id/110341i6FB3A9450EF04664?v=1.0" li-image-display-id="'110341i6FB3A9450EF04664'" li-message-uid="'442805'" li-messages-message-image="true" li-bindable="" class="lia-media-image" tabindex="0" li-bypass-lightbox-when-linked="true" li-use-hover-links="false"><span class="lia-inline-image-caption" onclick="event.preventDefault();">Power App Store</span></span></p>
 <p>This demo is a proof of concept/template for adding an app store to a Power App as well as a simple SharePoint-based file viewer with dynamic icons.</p>

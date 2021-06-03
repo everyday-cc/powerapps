@@ -4,7 +4,7 @@ excerpt: "This video shows how to leverage the power of PowerApps and the capabi
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Power-Platform-Having-fun-with-NASA-APIs-PowerApps-and-Flow/td-p/393750
 type: download
 publishedDateTime: 2019-10-30T11:06:00Z
-heat: 51
+heat: 50
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/304/2/NASA-APOD.msapp"
@@ -31,7 +31,7 @@ images:
     height: 853
     isCached: true
 
-secured: "6MJq0zipXi/uErW7hor2U1BSYWohVSSf8rPypRqEc1MFyQ7REXx++4xCWlqtywMdKkllp/Io/V8lDzIq74el3c/lKoY4VQCi+fQR8uzF2t5GN5/OUNJsy9yFUXC8canK/yqR0uUJkIrlYuHwPGbtArEFL5AOBlAUYMsffFBt6Z5v0xlQkKhLQoe7iQaU5kaqCYbjYxiLimUQ2GP6QGwlTjlrMBWGTYnHzxEp5/NgfF2b5b8NAT9Etvy2nQ+4fgtLnFsUxQqgI9NdCWOtrtcQWwovlPXRDbfV5P+k4HhOhOo5rMOJsMXV9zgzbtc3qGSDJwIOGY7SLzmepIlwsqKD2hBkpfJ9VXCH4uxdxRNr7cgni0aWpb+Vmb1uOtsfByHC5BEc0cvfmFMVYkgHnnPZGRooIbNo7Xr2JVhSsXtkT1u/w0f8X9I8MvKcpfdNhvQ5;XdbVN8pISU4FrVF3XjsOaQ=="
+secured: "GYhxW/SNl5YilO15uCspb4fYL30aygpG+W3P+wVanqjfU7i2fr3p9/FZ69utw5adyJlmL3WPSLLONV0aKfh9wIPiXlYtfAxYVx1tBb2bdArHmloPD3LrUK+eVD+PwLr+N2O9YShMhu27/aRcwtIJVrMfHeeSbtpjZT4xr4Noc4NX5wzD7k7D/r9sTFVjWiq07Mj+GwonHJw2vZytn0LJ+LcfdGZ0KLRN/739fc1gpEhfbFDAA8VyIYb8ifDKxVo//d/cEu2I4U8jP2Px01XIC+aTbWOgOg7Be+VnJGuLjdrQ4D/HGO2SKu/1/AjMZuthSPar+IlADBeQtPEuc0bQHNW17aAjnpI3oauuLoimWo2iyaJmgQPE0bfRSIKOp+ezSXb0uuGnWX7CP3c9z21Osml5hx4YFz9Pv6/YoLlP8emsvY9oEBcp2I++1wTpTF7A;Edf7YhzLPWBcSDu5uAfzUA=="
 ---
 <p>This video shows how to leverage the power of PowerApps and the capabilities of Microsoft Flow to call NASA's Astronomy Picture of the Day API. The resulting picture title, URL, and explanation are used to create a nice app to display the latest NASA space picture prowess.</p><p>&nbsp;</p><p>Reference:<br>Using the HTTP action to make requests with Microsoft Flow - <a href="https://flow.microsoft.com/en-us/blog/http-card-tutorial/" target="_blank" rel="nofollow noopener noreferrer">https://flow.microsoft.com/en-us/blog/http-card-tutorial/</a></p><p>&nbsp;</p><p>Music:<br>Summer - <a href="http://www.bensound.com" target="_blank" rel="nofollow noopener noreferrer">www.bensound.com</a> (Royalty free music from Bensound)</p><p><span class="videoUrl">watch?v=AoNo0G7kvxE</span></p>
 

@@ -31,7 +31,7 @@ images:
     height: 590
     isCached: true
 
-secured: "Q00j7y0F6PqmwlRganrR2dEHaLMss62p9JkYj/FYNHs/4OIXWsx6WYRAYCprjlFvvViXHjcTR+vvYMogsnLPUlFwJSuw9pgctUE07xRKaPa53jbRn7pZh1OfosQSJAueGhBpGKh7h/pKiaujLNR2URQrjPSOr7PqXc3vHo2bNjC0yusyjRGirAOlwwx1rk9SBsIGfD3lGeoGImbHiKkqMQfghR9thhG6sj2XfV0UiWm1ZDPasXj8Z89N0NtmX+zBjbVm5TXmLUWpS9jm5g7PpUuI886kPHK5wlN9na+gqfCJ/EwnzQYVuUv2EZUJ3qAFTwHHyCOpWT1HWlXM64Hx2mkEOrkAF6mikzBEBjZ2sL2kNoVFb7UR96k6T1GNiKOJfJS7+daApKPxuT0mk8yHxQHhFDa/YIeURnVEOoEBzWW0p/0ClLdw4dXq8tONLjMV;EH1BLxnMVs8F0r7UZyeqUg=="
+secured: "K9wNeoetiLQz3tICQecE4bwdG4j7xxVvg+eMliM12Kksy8XshCiHaUj8t7qPeNbjqSgyjJ55hbH0OF06svdHTRzzfgvEAK965J9xQZyPccCr5gHjwxX+aM81qTJyD3oIt9mHNoY2YHN3qHmEQx7UuXwnEV5ugr6xgI4lWmasVbX3HdPxsJIKxnNiFhAOiJwnVoKBzLckqETJqZLtWtXBCLqSwkEFYsh4EHqkuhL04cyM3eISo9u/DqsvqaxTxqGrzKOv5L+ZVPQO+LBT3OdJcmv4XLaFluKBcyOf6Esem2lqCudtN0FlCcHTP37hsYNDBcws0CP6DCMYscznyA6OHgAofzLFbdUwUQp4pXekeZqqekOxsCzk65lwYIZygS8s98/jU+66dVmhoioymN30CZM1cVXiidLEjD4FjHEb/JENJD+Cq7ZQR/dqfc3e0Gfj;uAtQM2JUWGKxfdoLj7Iy5A=="
 ---
 <p>This app is a stand-alone application to allow a manager to manager their teams user info, roles and teams in D365CE.</p><p>&nbsp;</p><p>This utilises a custom connector as well as the CDS connector to retrieve and update user information, including Security roles and teams</p><p>&nbsp;</p><p>App is linked below</p><p>&nbsp;</p><p>Walkthrough of App can be seen here</p><p>&nbsp;</p><p><a href="https://linked365.home.blog/2019/06/10/user-admin-powerapp-part-1/" target="_blank" rel="nofollow noopener noreferrer">https://linked365.home.blog/2019/06/10/user-admin-powerapp-part-1/</a></p>
 

@@ -4,6 +4,465 @@
   "page": 5,
   "value": [
     {
+      "path": "_samples/power-apps-community-powerapps-challenge.md",
+      "title": "PowerApps Challenge",
+      "excerpt": "Solved: These apps / flows are a demo of the 3 tasks mentioned in this challenge by Audrie Gordon - Challenge Details Challenge 1. A PowerApp with 2",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-powerapps-challenge/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-powerapps-challenge/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/PowerApps-Challenge/td-p/213765",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "ThatAPIGuy",
+            "type": "profile",
+            "name": "ThatAPIGuy"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/88/2/N7a1d163d-5c2e-46ee-bfcd-0f404752bb88-document.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-02-02T15:32:00-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/88/1/PA%20Challenge.PNG",
+          "width": 921,
+          "height": 757,
+          "isCached": true
+        }
+      ],
+      "content": "<p>These apps / flows are a demo of the 3 tasks mentioned in this challenge by Audrie Gordon -</p><p><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRzJVkDds8yROvOeWrHDKUXBUMVM5SVA3TTFFNzZOMzBPR0pFUkM0NTBYTS4u\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Challenge Details</a></p><p>&nbsp;</p><p>Challenge 1. A PowerApp with 2 data sources such that the user can read the data but can't edit it.</p><p>Challenge 2. Tracking inventory of PowerApps Swag using Flow.</p><p>Challenge 3. Saving a photo to a Sharepoint Document library using Flow and adding some more meta-data to it.</p><p><span class=\"videoUrl\">watch?v=T7aLyuEwmw4</span></p>\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\r\n\t\t\t\r\n\t\t\t\t<div class='UserSignature lia-message-signature'>\r\n\t<p><br><b>Vivek Bavishi aka That API Guy</b><br><a href=\"http://links.thatapiguy.tech/mvp\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">PowerApps and Flow MVP</a><br><a href=\"http://links.thatapiguy.tech/blog\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">Blog</a> | <a href=\"http://links.thatapiguy.tech/twitter\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">Twitter</a> | <a href=\"http://links.thatapiguy.tech/youtube\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">YouTube</a> | <a href=\"https://powerusers.microsoft.com/t5/user/viewprofilepage/user-id/9448\" target=\"_blank\" rel=\"noopener\">Community Profile</a> | <a href=\"http://links.thatapiguy.tech/github\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">GitHub</a></p><br><br><p>If this post helps, then please consider<b><i> Accept it as the solution </i></b>to help the other members find it more quickly.</p>\r\n</div>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-powervideo-your-own-youtube-videos-deck.md",
+      "title": "PowerVideo - Your own YouTube videos deck",
+      "excerpt": "An app that helps you watch videos ONLY from the YouTube channels that you are interested in and not any algorithm recommendations. Stay focused!",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-powervideo-your-own-youtube-videos-deck/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-powervideo-your-own-youtube-videos-deck/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/PowerVideo-Your-own-YouTube-videos-deck/td-p/261670",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "ThatAPIGuy",
+            "type": "profile",
+            "name": "ThatAPIGuy"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/143/2/N3b299eb3-6c64-4d7a-afa1-42e1cf545853-document.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-04-02T22:44:00-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/143/1/youtube_deck_sample_First_Frame.png",
+          "width": 1584,
+          "height": 888,
+          "isCached": true
+        }
+      ],
+      "content": "<p>An app that helps you watch videos ONLY from the YouTube channels that you are interested in and not any algorithm recommendations.&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>Stay focused!<span>&nbsp;</span><img class=\"emoticon emoticon-smileyhappy\" src=\"/i/smilies/16x16_smiley-happy.png\" border=\"0\" alt=\"Smiley Happy\" title=\"Smiley Happy\"></p>\r\n<p>&nbsp;</p>\r\n<p>Install instructions -</p>\r\n<p>&nbsp;</p>\r\n<p>Please use this github link to download all files. The App gallery doesn't allow me to upload .zip files -</p>\r\n<p><a href=\"https://github.com/thatapiguy/Youtube-Deck-using-PowerApps-and-Flow\" target=\"_blank\" rel=\"nofollow noopener noreferrer noopener noreferrer\">https://github.com/thatapiguy/Youtube-Deck-using-PowerApps-and-Flow</a></p>\r\n<p>Import the .zip file in PowerApps and upload the excel file in your OneDrive . Delete the exisiting OneDrive connection in the PowerApp and then add a new OneDrive connection that connects to the 'Channels' table in the spreadsheet.</p>\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\r\n\t\t\t\r\n\t\t\t\t<div class='UserSignature lia-message-signature'>\r\n\t<p><br><b>Vivek Bavishi aka That API Guy</b><br><a href=\"http://links.thatapiguy.tech/mvp\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">PowerApps and Flow MVP</a><br><a href=\"http://links.thatapiguy.tech/blog\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">Blog</a> | <a href=\"http://links.thatapiguy.tech/twitter\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">Twitter</a> | <a href=\"http://links.thatapiguy.tech/youtube\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">YouTube</a> | <a href=\"https://powerusers.microsoft.com/t5/user/viewprofilepage/user-id/9448\" target=\"_blank\" rel=\"noopener\">Community Profile</a> | <a href=\"http://links.thatapiguy.tech/github\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">GitHub</a></p><br><br><p>If this post helps, then please consider<b><i> Accept it as the solution </i></b>to help the other members find it more quickly.</p>\r\n</div>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-powerweather-application-v10.md",
+      "title": "PowerWeather Application v1.0",
+      "excerpt": "Get your local weather in style with PowerApps and the MSN Weather connector. Features include: - Current local weather - Auto-refresh - Humidity -",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-powerweather-application-v10/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-powerweather-application-v10/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/PowerWeather-Application-v1-0/td-p/290862",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "SanAndresMan1",
+            "type": "profile",
+            "name": "SanAndresMan1"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/187/2/Weather.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-05-28T06:05:00-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/187/1/PowerWeather.png",
+          "width": 1920,
+          "height": 965,
+          "isCached": true
+        }
+      ],
+      "content": "<p><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"PowerWeather.png\" style=\"width: 999px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/67822i42F77EB021E9E803/image-size/large?v=1.0&amp;px=999\" title=\"PowerWeather.png\" alt=\"PowerWeather.png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/67822i42F77EB021E9E803?v=1.0\" li-image-display-id=\"'67822i42F77EB021E9E803'\" li-message-uid=\"'290862'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p><p>&nbsp;</p><p>Get your local weather in style with PowerApps and the MSN Weather connector. Features include:</p><p>&nbsp;</p><p>- Current local weather</p><p>- Auto-refresh</p><p>- Humidity</p><p>- Temperature</p><p>- UV Index</p><p>- Air pressure&nbsp;</p><p>- Dark theme</p><p>- Google Maps as a parametized component to the application (API key needed)</p><p>&nbsp;</p><p>What's left to do:</p><p>&nbsp;</p><p>1. Add a component or componentized gallery to deal with sky conditions</p><p>2. Additional local weather parameters</p><p>3. Reverse Geo-code (would be super nice to have)</p><p>&nbsp;</p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-puzzle.md",
+      "title": "Puzzle",
+      "excerpt": "(2019/08/21) Improved drag and drop response accuracy on mobile devices. (2019/08/19) Removed unnecessary connectors. ------ This is Character Puzzle",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-puzzle/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-puzzle/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Puzzle/td-p/343192",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "j-kodama",
+            "type": "profile",
+            "name": "j-kodama"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/225/4/puzzle.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-08-18T15:47:00-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/225/1/puzzle.png",
+          "width": 2413,
+          "height": 1253,
+          "isCached": true
+        }
+      ],
+      "content": "<p>(2019/08/21)</p><p><span>Improved drag and drop response accuracy on mobile devices.</span></p><p>&nbsp;</p><p>(2019/08/19)</p><p>Removed unnecessary connectors.</p><p>&nbsp;</p><p>------</p><p>This is Character Puzzle App.</p><p>&nbsp;</p><p>movie from Twitter<br><a href=\"https://twitter.com/KodamaJn/status/1162767190937833472\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">https://twitter.com/KodamaJn/status/1162767190937833472</a></p><p>&nbsp;</p><p>Characters can be moved by dragging and dropping. If the characters overlap, the positions are swapped automatically.</p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-retranslator.md",
+      "title": "Retranslator",
+      "excerpt": "Translation apps from the app store are good. Microsoft translator has a thoughtful UI for taking turns speaking. Google Translator has a camera with",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-retranslator/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-retranslator/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Retranslator/td-p/426863",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Mr-Dang-MSFT",
+            "type": "profile",
+            "name": "Mr-Dang-MSFT"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/358/3/Retranslator%20(1).msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-12-15T14:14:00-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/358/1/Screenshot%20(831).png",
+          "width": 4500,
+          "height": 3000,
+          "isCached": true
+        }
+      ],
+      "content": "<p>Translation apps from the app store are good. Microsoft translator has a thoughtful UI for taking turns speaking. Google Translator has a camera with AR capabilities.</p>\r\n<p>&nbsp;</p>\r\n<p>But one thing is missing: what is the quality of a translation? If I were to translate content, how would it actually be received? The only way to find out is to retranslate a translation.</p>\r\n<p>&nbsp;</p>\r\n<p>This app will translate text from one language to another. Then it translates back to the original language so you can check the quality of the translation.</p>\r\n<p>&nbsp;</p>\r\n<ol>\r\n<li>Download the .msapp file.</li>\r\n<li>Go to Power Apps Studio.</li>\r\n<li>File &gt; Open &gt; Browse &gt; locate the .msapp file.</li>\r\n<li>Replace the Microsoft Translator connector if you need to.</li>\r\n</ol>\r\n<p>&nbsp;</p>\r\n<p><span class=\"lia-inline-image-display-wrapper lia-image-align-center\" image-alt=\"Screenshot (831).png\" style=\"width: 999px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/105144i80AA355C9D3109E2/image-size/large?v=1.0&amp;px=999\" title=\"Screenshot (831).png\" alt=\"Screenshot (831).png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/105144i80AA355C9D3109E2?v=1.0\" li-image-display-id=\"'105144i80AA355C9D3109E2'\" li-message-uid=\"'426863'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p>\r\n<p>&nbsp;</p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-rhythm-composer-pa-08.md",
+      "title": "Rhythm Composer PA-08",
+      "excerpt": "This Apps is Rhythm Composer. This Apps will record your voice, music, sounds for 16 channels and play them sequentially at the specified tempo. I",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-rhythm-composer-pa-08/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-rhythm-composer-pa-08/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Rhythm-Composer-PA-08/td-p/211197",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "R_t_A_n_M",
+            "type": "profile",
+            "name": "R_t_A_n_M"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/86/3/Rhythm%20Composer.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-01-28T15:15:00-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/86/1/%E3%82%AD%E3%83%A3%E3%83%97%E3%83%81%E3%83%A3.PNG",
+          "width": 1276,
+          "height": 633,
+          "isCached": true
+        }
+      ],
+      "content": "<p>This Apps is Rhythm Composer.</p><p><span>This Apps will record your voice, music, sounds for 16 channels and play them sequentially at the specified tempo.</span></p><p><span>I made with reference to Roland's TR-08.</span></p><p><span><a href=\"https://www.roland.com/jp/products/tr-08/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://www.roland.com/jp/products/tr-08/</a></span></p><p>&nbsp;</p><p><span>Your Enjoy Original Music Creation!</span></p><p>&nbsp;</p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-rotation-controller.md",
+      "title": "Rotation controller",
+      "excerpt": "I combined the controllers to create drag and drop. And I got a controller that can rotate. Blog (Japanese):",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-rotation-controller/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-rotation-controller/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Rotation-controller/td-p/254895",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "10mikiya",
+            "type": "profile",
+            "name": "10mikiya"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/135/2/RotationController.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-03-20T15:28:00-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/135/1/RotationController.png",
+          "width": 500,
+          "height": 608,
+          "isCached": true
+        }
+      ],
+      "content": "<p><span>I combined the controllers to create drag and drop.</span></p><p><span>And I got a controller that can rotate.</span></p><p>&nbsp;</p><p><span>Blog (Japanese):&nbsp;</span><a href=\"https://qiita.com/tomikiya/items/066fac850bfe12ab802e\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">https://qiita.com/tomikiya/items/066fac850bfe12ab802e</a></p><p>&nbsp;</p><p><span><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"ドラッグ&amp;ドロップ18.gif\" style=\"width: 613px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/57491iA0DFF69B990EC806/image-size/large?v=1.0&amp;px=999\" title=\"ドラッグ&amp;ドロップ18.gif\" alt=\"ドラッグ&amp;ドロップ18.gif\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/57491iA0DFF69B990EC806?v=1.0\" li-image-display-id=\"'57491iA0DFF69B990EC806'\" li-message-uid=\"'254895'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></span></p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-shoutouts-powerapps-sample-template-with-likes-from-powerapps-january-2019-community-call.md",
+      "title": "Shoutouts PowerApps Sample Template - With Likes - From PowerApps January 2019 Community Call",
+      "excerpt": "The S h outouts PowerApps Sample Template, enhanced with 'Like' functionality. Watch the PowerApps Community Call from January 2019 to learn more",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-shoutouts-powerapps-sample-template-with-likes-from-powerapps-january-2019-community-call/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-shoutouts-powerapps-sample-template-with-likes-from-powerapps-january-2019-community-call/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Shoutouts-PowerApps-Sample-Template-With-Likes-From-PowerApps/td-p/205643",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "ToddBaginski",
+            "type": "profile",
+            "name": "ToddBaginski"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/78/2/Shoutouts%20-%20Tablet%20-%20With%20Likes%20-%20PowerAppsCC.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-01-16T10:18:00-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/78/1/Shoutouts%20With%20Likes.png",
+          "width": 998,
+          "height": 565,
+          "isCached": true
+        }
+      ],
+      "content": "<p><span>The S</span><span>h</span><span>outouts PowerApps Sample Template, enhanced with 'Like' functionality.&nbsp; Watch the PowerApps Community Call from January 2019 to learn more about this PowerApp and how to edit your Excel sheet to support the&nbsp;</span><span>'Like'&nbsp;</span><span>functionality.&nbsp; You can also&nbsp;</span><span>reference&nbsp;</span><a href=\"http://toddbaginski.com/blog/how-to-add-like-functionality-to-powerapps/\" target=\"_self\" rel=\"nofollow noopener noreferrer\">this blog post<span>&nbsp;</span></a><span>where I walk through adding&nbsp;</span><span>'Likes'&nbsp;</span><span>to the older version of the Shoutouts PowerApps Sample T</span><span>e</span><span>mplate.</span></p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-songwriting-app.md",
+      "title": "Songwriting App",
+      "excerpt": "Hi, I have created a songwriting app! This app is you can songwriting as you like. Please see the video about how to play. This is tweet that",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-songwriting-app/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-songwriting-app/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Songwriting-App/td-p/434189",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "korune",
+            "type": "profile",
+            "name": "korune"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/373/2/Songwriting.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-12-27T12:00:00-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/373/3/Songwriting.png",
+          "width": 1587,
+          "height": 892,
+          "isCached": true
+        }
+      ],
+      "content": "<p>Hi,&nbsp;I have created a songwriting app!</p><p>&nbsp;</p><p>This app is you can songwriting as you like.</p><p><span>Please see the video about how to play.</span></p><p>&nbsp;</p><p><span>This is tweet that <a href=\"/t5/user/viewprofilepage/user-id/70303\">@TAICHI</a>&nbsp; actually played!<br></span></p><blockquote><p>こんな感じ！ <a href=\"https://t.co/SJfk9wBAJp\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">pic.twitter.com/SJfk9wBAJp</a></p>— TAICHI (@artbreak_taichi) <a href=\"https://twitter.com/artbreak_taichi/status/1209477635748663296?ref_src=twsrc%5Etfw\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">December 24, 2019</a></blockquote><p>&nbsp;</p><p>Introduce the logic of the app easily.</p><p>&nbsp;</p><p>The music score is displayed by nesting collections as shown below.</p><p>If you want to adjust the length of the music score, adjust the number of records in the \"score\" of the collection.</p><p>&nbsp;</p><p>However, keep in mind that if you make it too long, the number of records will increase proportionately, which will make your app heavier.</p><p>If you like, I'm glad if you can write and enjoy the song!</p><p>&nbsp;</p><p><span class=\"videoUrl\">watch?v=w4zVCdzzQ9Y</span></p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_samples/power-apps-community-sound-maker.md",
       "title": "Sound Maker",
       "excerpt": "It's a musical score creation &amp; playing app. You can input 2 parts and 32 notes per part. There are the following restrictions: Possible input scales",
@@ -355,6 +814,108 @@
         }
       ],
       "content": "<p>In my 4 part video series I demonstrate how to use PowerApps, Flow and Common Data Service to convert time zones.</p><p><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"Time Zone Convert Demo app\" style=\"width: 400px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/48072iBEA305CE662FFA39/image-size/medium?v=1.0&amp;px=400\" title=\"PowerApps Video - Time Zone Converter Demo - Example.png\" alt=\"Time Zone Convert Demo app\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/48072iBEA305CE662FFA39?v=1.0\" li-image-display-id=\"'48072iBEA305CE662FFA39'\" li-message-uid=\"'203741'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"><span class=\"lia-inline-image-caption\" onclick=\"event.preventDefault();\">Time Zone Convert Demo app</span></span></p><ul><li>Part 1: <a href=\"https://youtu.be/9DVtlhQRcok\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Creating a Flow and using the Convert Time Zone action</a></li><li>Part 2: <a href=\"https://youtu.be/YlgUau8fDPA\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Build the app in PowerApps</a></li><li>Part 3: <a href=\"https://youtu.be/WLFZkGfYAxQ\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Get list of time zones from CDS</a></li><li>Part 4: <a href=\"https://youtu.be/rJ887seEcSA\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Connect Flow and CDS to the app in PowerApps</a></li></ul><p>View the whole series here:</p><p><a href=\"https://www.youtube.com/playlist?list=PLdfisYaY-FyG73gKCdXnBzhqFhRf8aUnG\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://www.youtube.com/playlist?list=PLdfisYaY-FyG73gKCdXnBzhqFhRf8aUnG</a></p><p>&nbsp;</p><p><span class=\"videoUrl\">watch?v=9DVtlhQRcok</span></p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-tower-of-hanoi.md",
+      "title": "Tower of Hanoi",
+      "excerpt": "This app is a educational apps. Drag and drop the left tower to the right tower. Dtails (Japanese)",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-tower-of-hanoi/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-tower-of-hanoi/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Tower-of-Hanoi/td-p/431514",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "10mikiya",
+            "type": "profile",
+            "name": "10mikiya"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/364/2/Tower%20of%20Hanoi.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-12-19T21:13:00-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/364/1/TowerOfHanoi.png",
+          "width": 1562,
+          "height": 886,
+          "isCached": true
+        }
+      ],
+      "content": "<p><span>This app is a educational apps.</span></p><p><span>Drag and drop the left tower to the right tower.</span></p><p>&nbsp;</p><p>Dtails (Japanese)</p><p><a href=\"https://qiita.com/tomikiya/items/9e5de06195b9aeeb8a4b\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://qiita.com/tomikiya/items/9e5de06195b9aeeb8a4b</a></p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p><span class=\"videoUrl\">watch?v=K2JvvHBsnHQ</span></p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-visualization-of-beautiful-mathematics.md",
+      "title": "Visualization of Beautiful Mathematics",
+      "excerpt": "This app represents beautiful trajectory of circular motions of two balls. You can set period and radius of motion, and you will see the beauty of",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-visualization-of-beautiful-mathematics/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-visualization-of-beautiful-mathematics/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Visualization-of-Beautiful-Mathematics/td-p/260215",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "h-nagao",
+            "type": "profile",
+            "name": "h-nagao"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/141/2/BeautyOfMath.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-03-31T15:44:00-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/141/1/beautyofmath.PNG",
+          "width": 1245,
+          "height": 659,
+          "isCached": true
+        }
+      ],
+      "content": "<p>This app represents beautiful trajectory of circular motions of two balls.</p><p>You can set period and radius of motion, and you will see the beauty of nature <img class=\"lia-deferred-image lia-image-emoji\" src=\"/html/emoticons/1f642.png\" alt=\":slightly_smiling_face:\" title=\":slightly_smiling_face:\"></p><p><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"beautyofmath.PNG\" style=\"width: 999px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/58986i7B43E819685C7C20/image-size/large?v=1.0&amp;px=999\" title=\"beautyofmath.PNG\" alt=\"beautyofmath.PNG\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/58986i7B43E819685C7C20?v=1.0\" li-image-display-id=\"'58986i7B43E819685C7C20'\" li-message-uid=\"'260215'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p><p>&nbsp;</p><p>for a reference of background mathematics, see&nbsp;<a href=\"http://www.sci-museum.jp/files/pdf/study/research/2011/pb21_029-036.pdf\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">http://www.sci-museum.jp/files/pdf/study/research/2011/pb21_029-036.pdf</a></p><p>* I cdnt find English article, above is in Japanese.</p><p>&nbsp;</p><p>Enjoy PowerMath!</p><p>&nbsp;</p>\r\n\r\n",
       "type": "download",
       "topics": [
         "Power Apps"

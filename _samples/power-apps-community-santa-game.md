@@ -4,7 +4,7 @@ excerpt: "This apps is a game Santa gathers presents. Let's get presents within 
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Santa-Game/td-p/184143
 type: download
 publishedDateTime: 2018-11-26T03:50:00Z
-heat: 52
+heat: 53
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/47/2/SantaGame.msapp"
@@ -31,7 +31,7 @@ images:
     height: 926
     isCached: true
 
-secured: "H8sfJVDDef6Ma8YrAz42blUhesEpz17efMszyzt2aH7VZSDnV487VZUW8Rn8kp2V8rzu+fHq93fHHvlJwDPH5uFM0Jye8n2GjAlUVcN6yeX+73WHmhWA9jOx2PKdMQyg7f6lGjuVWIOY0V5b8jz5+kJAADjwCnNw5yiPZi2mj/odnIuyL0TfKyJMoEf2Me6iw1naZ+hQGsnr+poNpZdKDruX2qzs52xDbTeq3lBDiUXEH/ZZ42u4gZHQQqEUYbQOeJl589DsiGnhL3mzaijvmCpkez4nFLc0lc0zOyWHjwxslUYdoTfe8X+ATK3DzG2AGGJz88zlW5XDpn193eLIO93qN9EcFntfiNiQSHqqOon92qs5AMrynD7/MEQqQ0KiyG0VgzDGIfoskjNiesx1x113AR/nYX2RmuTdbr09EZH3SXLEE2VrUEOdi3G4oycF;Z0YNUfQ0k9QDNF7+yXYSeA=="
+secured: "2OHyv8wbyJxcZe31/cDpD/2UGSgX8QgN0kwYsieXVHQUVFtG9CFVzRt5Gp6eWCGxRl1+d1zo2ftMFy3axCPpEy3QrChvZXV0dIDw8t3Cg2s+RJs1NoezmGyuEG8QLhWg8wmoIBiSFscZNfS/A1N8xdnzhcvsHDjA8DIWmbZtY8nj08ovBAO0/Y47zhbGJ9SUcykd7h1CkuV2BfZFAZIosvA8+I+iBV5+qfdC3+Zxu1csfoCMP34PQ4WkcX6ETineSIUjZEa4ELTyeV+OZ1Ai3YT6Uo6AJ1psepNnEiNdz6U//FFDy8keRbgUIurAgzI32nh6vr6CpSG6vlhgqX1j7TPdaw1aAeSEZ+2t0wUzRXhuUvRgM5DeDt7R+eyJLPQ95rFGtz/BS5AGCsJRYnQgek/22j1HYbp+ovdgtxnMqcI5uTIrMnHK6l6t1dvfexlq;TqPrsBiz0a51hJiCHolAgg=="
 ---
 <p>This apps is a game Santa gathers presents.</p><p>Let's&nbsp;get&nbsp;presents within the time limit.&nbsp;</p><p>&nbsp;</p><p>blog(<span>Japanese</span>) : <a href="https://qiita.com/tomikiya/items/a9095bfb74c9b342bd0f" target="_blank" rel="nofollow noopener noreferrer">https://qiita.com/tomikiya/items/a9095bfb74c9b342bd0f</a></p><p><span class="videoUrl">watch?v=ZTMoB74P7sI</span></p>
 

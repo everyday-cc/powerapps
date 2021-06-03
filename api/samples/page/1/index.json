@@ -4,57 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_samples/power-apps-community-29-seconds-a-fun-game-to-play-with-your-colleagues-with-ms-teams.md",
-      "title": "29 seconds! A fun game to play with your colleagues with MS Teams!",
-      "excerpt": "-----------download file is at the bottom of the page, click on 29 seconds_final_v1.msapp to download---------------- Hi everyone! First, let me",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-29-seconds-a-fun-game-to-play-with-your-colleagues-with-ms-teams/index.json",
-      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-29-seconds-a-fun-game-to-play-with-your-colleagues-with-ms-teams/",
-      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/29-seconds-A-fun-game-to-play-with-your-colleagues-with-MS-Teams/td-p/536670",
-      "provider": {
-        "name": "Power Apps Community",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "dENNtoetert",
-            "type": "profile",
-            "name": "dENNtoetert"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/507/2/29%20Seconds_final_v1.msapp",
-          "type": "download",
-          "title": "Download Source Code",
-          "attribution": "Power Apps Community"
-        }
-      ],
-      "publishedDateTime": "2020-04-22T22:49:00-07:00",
-      "heat": 114,
-      "images": [
-        {
-          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/507/1/thumbnail_29seconds.png",
-          "width": 1694,
-          "height": 949,
-          "isCached": true
-        }
-      ],
-      "content": "<p><font color=\"#FF0000\"><strong><em>-----------download file is at the bottom of the page, click on 29 seconds_final_v1.msapp to download----------------</em></strong></font></p><p>&nbsp;</p><p>Hi everyone!</p><p>&nbsp;</p><p>First, let me introduce myself. My name is Dennis Toet, i'm a technical consultant for the company PROACT.</p><p>&nbsp;</p><p>Since almost everyone is working from home these days because of the COVID-19, I personally noticed that the amount of non-work related interaction I had with other colleagues drastically decreased. So I figured I wouldn't be alone on this and thought about a way to incorporate a fun game in MS Teams via PowerApps.</p><p>&nbsp;</p><p>I built the game: 29 seconds! Which is based of the very popular board game in the Netherlands called: 30 seconds <img class=\"lia-deferred-image lia-image-emoji\" src=\"/html/emoticons/1f609.png\" alt=\":winking_face:\" title=\":winking_face:\">&nbsp;</p><p>&nbsp;</p><p><strong>GAME MECHANICS - BRIEF SUMMARY</strong></p><p>So you play this game with a minimum of 2 teams and a maximum of 4 teams. There is no technical limit of players per team, but to keep the meeting organized we would set the cap at 4 players per team, minimum is 2.</p><p>&nbsp;</p><p>You play as a team against the other team(s). When it's a team's turn (each round only 1 team plays), 1 player of that team draws a 'card'. On that card are 5 words. That player needs to describe the words on the card to his or her team without mentioning the word, a part of the word, translating it or reference the alphabet (like. it starts with the 4th letter of the alphabet or.. starts with the letter M).&nbsp;That player has 29 seconds to do so. The other players of that team will guess the words.</p><p>Each word that is guessed correctly is 1 point for that team. After 29 seconds, it's the other team's turn.</p><p>&nbsp;</p><p>So only 1 team plays per turn. And this go on till the win condition (no. of correctly guessed words) has been met which has been set by the host.&nbsp;</p><p>&nbsp;</p><p><strong><font color=\"#FF0000\">DETAILED EXPLANATION:</font></strong></p><p><strong>SETUP:</strong></p><p><font color=\"#FF0000\">Watch the installation video!</font> It describes the steps below:<br>1. Download the file which is at the bottom the page: 29 Seconds_final.msapp</p><p>2. Open the .msapp file in your organization via&nbsp;<a href=\"https://create.powerapps.com/studio/#&nbsp;\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">https://create.powerapps.com/studio/#&nbsp;</a></p><p>3. Save the PowerApp</p><p>4. Share it with your colleagues. It's possible to share it with everyone, just type in Everyone.</p><p>5. Add the PowerApp to MS Teams via a tab in a team/channel.</p><p>&nbsp;</p><p><font color=\"#FF0000\">Watch the rules video!</font>&nbsp;It describes the steps below:</p><p>6. Create a team meeting and invite everyone who wants to play and join the meeting.</p><p>7. Only 1 player has the role:&nbsp;Host and player!&nbsp;Everyone else has the role:&nbsp;Player!</p><p>8. The host will share his/her Teams window, <font color=\"#FF0000\"><strong>not the desktop</strong></font>! Because the host doesn't want the others to see his/her words!</p><p>9. Everyone needs to go towards the 29 seconds tab which has been created when the PowerApp was added to the Team.</p><p>10. Everyone picks their role. Remember, only the host will pick&nbsp;Host and player!&nbsp;the rest will pick&nbsp;Player!.&nbsp;</p><p>11. If everything is setup correctly you have the host sharing the teams screen which has the timer open. The rest of the players have the shared window at the top left of their screen so they see the timer. And a big button with:&nbsp;Show me the words!&nbsp;in front of them. Don't click it when it's not your turn!</p><p><em>11a. The players (not the host) can click on the little globe in Teams which will open the game in a browser so they can have the shared screen of the host at the normal size so they can see the other players aswell.</em></p><p>12. The host sets up the game using the button:&nbsp;Configure game session. He/she will select the # of teams, add the players and select the wincodition of how many words that needs to be guessed correctly. After that he/she keeps pressing the button: Divide players randomly so that players will get assigned to a team.&nbsp;</p><p>13. Game on!</p><p>14. The game will decide which team begins.</p><p>15. The players of that team will decide which player is going to start with describing the words (we usually begin from the top of the players list)</p><p>16. The player that is going to describe the words needs to countdown 3,2,1... so the host can start the timer.&nbsp;</p><p>17. After the countdown the player presses the button to show his/her card with the 5 words. He/she then has 29 seconds to describe the words to his/her team without&nbsp;mentioning the word, a part of the word, translating it or reference the alphabet (like. it starts with the 4th letter of the alphabet or.. starts with the letter M).&nbsp;</p><p>18. When the timer stops the players will see the timer going from green to red. The host will hear a gong sound.&nbsp;</p><p>19. The host will award the team points. 1 correctly guessed word = is 1 point.</p><p>20. Now it's the other team's turn where you repeat the process.&nbsp;</p><p><strong>21. The only exception is when it's the host's turn. He/she will not have the button: Show me the words! He/she will <font color=\"#FF0000\">FIRST&nbsp;</font>press the button: Words for the host&nbsp;and <font color=\"#FF0000\">immediately after</font> start the timer.&nbsp;This button: Words for the host will open a browser screen with the 5 random words. <font color=\"#FF0000\">And since the host only shares the MS Teams screen the other players will not see the browser session.&nbsp;</font></strong></p><p><strong>The other players will need to let the host know (or the host hears the gong) when the timer ran out.</strong></p><p>22. This continues until&nbsp;the wincondition has been met.</p><p>23. Congratulations!</p><p>&nbsp;</p><p>If you want to know more about this game, future updates or contact us if you have any questions/suggestions... please visit:<br><a href=\"https://29seconds.peopleware.nl/\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">https://29seconds.peopleware.nl/</a></p><p>or send us an email:&nbsp;<br><a href=\"mailto:29seconds@peopleware.nl\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">Mail us</a></p><p>&nbsp;</p><p>I've added 2 Youtube video's, 1 is for the installation and 1 is for the rules.&nbsp;<font color=\"#FF0000\"><strong>These are in Dutch! However, you can still see the steps I take and within the PowerApp itself is a button: \"How-to\" which explains it in English, in text.</strong></font></p><p>&nbsp;</p><p>Installation:</p><p><div class=\"video-embed-center video-embed\"><iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F6H_wQZqPbkY&amp;display_name=YouTube&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6H_wQZqPbkY&amp;key=b0d40caa4f094c68be7c29880b16f56e&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"337\" scrolling=\"no\" title=\"YouTube embed\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen=\"true\"></iframe></div><p><br>Rules:</p><p><div class=\"video-embed-center video-embed\"><iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F9DHIFFmEGkM&amp;display_name=YouTube&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D9DHIFFmEGkM&amp;key=b0d40caa4f094c68be7c29880b16f56e&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"337\" scrolling=\"no\" title=\"YouTube embed\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen=\"true\"></iframe></div><p><br><br></p><p>We hope everyone has a lot of fun with this game during these times!</p><p>&nbsp;</p><p>Kind regards,</p><p>Dennis Toet</p><p><a href=\"https://www.linkedin.com/in/dennis-toet-8904343b/\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">https://www.linkedin.com/in/dennis-toet-8904343b/</a></p><p>&nbsp;</p><p><span class=\"videoUrl\">watch?v=9DHIFFmEGkM</span></p>\r\n\r\n",
-      "type": "download",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
       "path": "_samples/power-apps-community-branding-template-app-v2.md",
       "title": "Branding Template App V2",
       "excerpt": "(if you downloaded this before 12:40 Jan 20th 2019, please re-download!) Having demo'd this version for the first time at Microsoft Ignite The Tour",
@@ -90,7 +39,7 @@
         }
       ],
       "publishedDateTime": "2019-09-17T10:24:00-07:00",
-      "heat": 87,
+      "heat": 100,
       "images": [
         {
           "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/245/7/Branding%20Template%20Cover%20Image.png",
@@ -100,57 +49,6 @@
         }
       ],
       "content": "<p align=\"center\"><font size=\"5\">(if you downloaded this before 12:40 Jan 20th 2019, please re-download!)</font></p>\r\n<p align=\"center\">&nbsp;</p>\r\n<p align=\"center\"><font size=\"5\">Having demo'd this version for the first time at Microsoft Ignite The Tour London,<br>I have now released this for you all to use and remix!</font></p>\r\n<p align=\"center\"><font size=\"5\">I have completely re-vamped the method of theming Power Apps.<br>No longer do you have to rely on a static set of colours, or a screen of controls to copy.</font></p>\r\n<p align=\"center\"><font size=\"5\">Make theme changes on-the-fly, enable accessibility as a default option.</font></p>\r\n<p align=\"center\"><font size=\"5\">Save yourself time by using this template, or create your own template<br>that works for you by remixing the work I have already done.</font></p>\r\n<p align=\"center\">&nbsp;</p>\r\n<p align=\"center\"><font size=\"5\">There are (at the time of writing this) 2.5 <u>million</u> Power Apps developers. If each of us is only spending 1 hour in their entire lifetime changing the properties of controls, then we've collectively spent:</font></p>\r\n<p align=\"center\"><font size=\"5\">2.5 Million Hours</font></p>\r\n<p align=\"center\"><font size=\"5\">= 104,166 days</font></p>\r\n<p align=\"center\"><font size=\"5\">= 285 Years<br><br></font></p>\r\n<p align=\"center\"><font size=\"5\">And I'm sure we can safely say that we've all spent a lot more than just one <br>hour changing every colour property of every control in an on-brand App.</font></p>\r\n<p align=\"center\"><u><strong><font size=\"5\"><br>There had to be a better way!</font></strong></u></p>\r\n<p align=\"center\">&nbsp;</p>\r\n<p align=\"center\"><font size=\"5\">Imagine being able to create .msapp files that your client can open or import <br>as part of a solution and start using straight away with their brand as a default!</font></p>\r\n<p align=\"center\"><font size=\"5\">Or templates that you can give to your citizen developers to empower them to create <br>beautiful Apps with minimal effort allowing them to focus on the LOB functionality!</font></p>\r\n<p>&nbsp;</p>\r\n<p><font size=\"4\">Power Apps already lets us create Apps in a fraction of the time of standard development, however, there are some things that still take us a fair amount of time and lack certain accessibility features.</font></p>\r\n<p>&nbsp;</p>\r\n<ul>\r\n<li><font size=\"4\">How do we do more in less time and with less energy and time required? #LessCodeMorePower</font></li>\r\n<li><font size=\"4\">How can we empower our citizen developers to create better Apps and with standardised branding &amp; colours while maintaining accessibility functions?</font></li>\r\n<li><font size=\"4\">How can we make PowerApps save us <u>EVEN MORE</u> time than it already does for development?</font></li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p><font size=\"4\">The company I work for had 7+ brands until recently (4 unique colours, a logo and explicit branding guidelines each), which meant a <u><strong>LOT</strong></u> of configuration of Apps and <u><strong>thousands</strong></u> of Control property changes to meet these requirements every time.</font></p>\r\n<p>&nbsp;</p>\r\n<p><font size=\"5\"><strong>There had to be a better way! </strong>(Spoiler Alert: <strong>\"There is always a better way</strong>)</font></p>\r\n<p>&nbsp;</p>\r\n<p><font size=\"4\">This App will allow you to pre-brand any inserted controls or screens without having to manually edit any properties of controls or of screens. It will also allow your user to jump between themes while using the App and comes with two accessibility themes (a dark-mode and light-mode version)</font></p>\r\n<p>&nbsp;</p>\r\n<p><font size=\"4\">This App is intended for:</font><br><font size=\"4\">- Anyone who’s ever spent time changing the branding colours of every item and object within your PowerApps (everyone?)</font></p>\r\n<p><font size=\"4\">- Anyone who feels strongly about accessibility - these features should be there by default!!</font><br><font size=\"4\">- Anyone who wants to empower their citizen developers to develop amazing-looking Apps without having to spend their time modifying each property of every Control</font><br><font size=\"4\">- Anyone who wants to create pre-branded Templates for their clients that enable them to develop Apps within their company colours.</font></p>\r\n<p><font size=\"4\">- Everybody else! Seriously, everyone should be using something like this to make their development process even faster than Power Apps already makes it, and without having to spend so much time on themes or branding!</font></p>\r\n<p>&nbsp;</p>\r\n<p><br><font size=\"4\">So here's how to use it: You open (not import) the .msapp file from Power Apps and choose from the Theme Palette Screen, or if you would like to, you can edit the App's OnStart to either have the startup colours changed (comments and explanations are included within the App), you can also add additional themes, Menus etc (or remove the existing ones) by editing the OnStart.</font></p>\r\n<p>&nbsp;</p>\r\n<p><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"image.png\" style=\"width: 400px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/111698iE649D4C2A7F50DA7/image-size/medium?v=1.0&amp;px=400\" title=\"image.png\" alt=\"Initial Screen when opening App\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/111698iE649D4C2A7F50DA7?v=1.0\" li-image-display-id=\"'111698iE649D4C2A7F50DA7'\" li-message-uid=\"'363582'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"><span class=\"lia-inline-image-caption\" onclick=\"event.preventDefault();\">Initial Screen when opening App</span></span></p>\r\n<p>&nbsp;</p>\r\n<p><font size=\"4\">The current default theme is Microsoft Light Blue ( a slight alteration on their default theme so that it works correctly when theming), a DarkMode version of that, a Light and Dark Monochrome theme for accessibility, as well as my purple and green themes (these last two are Definitely not for production use, just for fun!)</font></p>\r\n<p>&nbsp;</p>\r\n<p><font size=\"4\">You can add your own Theme settings quite easily by editing the array of themes, each has three colours, and then three text colours that should contrast those colours correctly, then a default label that will be used on any new labels or background-contrasted labels. Any themes you add to the OnStart Themes array will automatically populate the Theme Palette screen.</font></p>\r\n<p>&nbsp;</p>\r\n<p><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"image.png\" style=\"width: 400px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/111705i9A5656E7D8CF6A77/image-size/medium?v=1.0&amp;px=400\" title=\"image.png\" alt=\"image.png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/111705i9A5656E7D8CF6A77?v=1.0\" li-image-display-id=\"'111705i9A5656E7D8CF6A77'\" li-message-uid=\"'363582'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p>\r\n<p><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"image.png\" style=\"width: 400px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/111704i079386B201D82898/image-size/medium?v=1.0&amp;px=400\" title=\"image.png\" alt=\"image.png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/111704i079386B201D82898?v=1.0\" li-image-display-id=\"'111704i079386B201D82898'\" li-message-uid=\"'363582'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p>\r\n<p>&nbsp;</p>\r\n<p><font size=\"4\">I highly suggest using the Theme Tester screen to play around with your theme quicker than typing out the colours.</font></p>\r\n<p><font size=\"4\">Change the box Fills and colours at the top as well as setting the default label colour and whether it is darkmode.</font></p>\r\n<p><font size=\"4\">Darkmode here affects how the backgrounds are set and will affect the background colour of the checkboxes and options.</font></p>\r\n<p>&nbsp;</p>\r\n<p><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"image.png\" style=\"width: 400px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/111706iBF7CD9447F30C5FD/image-size/medium?v=1.0&amp;px=400\" title=\"image.png\" alt=\"image.png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/111706iBF7CD9447F30C5FD?v=1.0\" li-image-display-id=\"'111706iBF7CD9447F30C5FD'\" li-message-uid=\"'363582'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p>\r\n<p>&nbsp;</p>\r\n<p><font size=\"4\">Now I know what you're thinking, This is just like the theme editor, well let me clarify a few things around that:</font></p>\r\n<ul>\r\n<li><font size=\"4\">The Theme Editor is <strong>static</strong>, you set the colours and then the default item colour or settings <strong>can never be changed</strong> without creating a new file using the Theme Editor</font></li>\r\n<li><font size=\"4\">Without changing the properties of every Control to a variable manually (meaning more painful hours doing this), the theme editor doesn't allow changes on the fly - <strong>my App template allows instant theme changes</strong>.</font></li>\r\n<li><font size=\"4\"><strong><u>Any New inserted or existing items</u></strong> in the Branding Template App have their colours set to variables. <strong>VARIABLES! (think of the possibilities)</strong></font></li>\r\n<li><font size=\"4\">You can hardcode the desired theme colours into the App start (and then potentially get rid of or hide the Theme Palette if you don't want it). All of the settings are applied during the App's On</font>Start!</li>\r\n<li><strong>YOU DONT HAVE TO EDIT EVERY NEW ITEM</strong></li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p><font size=\"4\">Ok, so onto the demo-ing, the default colour is set to the Microsoft Blue to keep users comfortable with building with the colours and interface they are used to. Create a new screen and just pop in a Few Controls using the insert menu:</font></p>\r\n<p>&nbsp;</p>\r\n<p><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"image.png\" style=\"width: 400px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/111712i473ADED586E18935/image-size/medium?v=1.0&amp;px=400\" title=\"image.png\" alt=\"image.png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/111712i473ADED586E18935?v=1.0\" li-image-display-id=\"'111712i473ADED586E18935'\" li-message-uid=\"'363582'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p>\r\n<p>&nbsp;</p>\r\n<p><strong><font size=\"4\">NOW:</font></strong></p>\r\n<p><font size=\"4\">Instead of going through and changing all of these objects to match our brand colours, we choose another Theme from our Theme Palette (i.e our accessibility theme for those with low-vision or colour-blindness)</font></p>\r\n<p><font size=\"4\">- this automatically rebrands the controls:</font></p>\r\n<p><br><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"image.png\" style=\"width: 400px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/111713i7BD13D3E8DEDD5F0/image-size/medium?v=1.0&amp;px=400\" title=\"image.png\" alt=\"image.png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/111713i7BD13D3E8DEDD5F0?v=1.0\" li-image-display-id=\"'111713i7BD13D3E8DEDD5F0'\" li-message-uid=\"'363582'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p>\r\n<p><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"image.png\" style=\"width: 400px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/111715i36599D75689052F3/image-size/medium?v=1.0&amp;px=400\" title=\"image.png\" alt=\"image.png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/111715i36599D75689052F3?v=1.0\" li-image-display-id=\"'111715i36599D75689052F3'\" li-message-uid=\"'363582'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p>\r\n<p><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"image.png\" style=\"width: 259px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/111716i2D8F275951E511B5/image-size/medium?v=1.0&amp;px=400\" title=\"image.png\" alt=\"image.png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/111716i2D8F275951E511B5?v=1.0\" li-image-display-id=\"'111716i2D8F275951E511B5'\" li-message-uid=\"'363582'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p>\r\n<p>&nbsp;</p>\r\n<p><font size=\"4\">Some things you may not have noticed from this:</font></p>\r\n<ul>\r\n<li><font size=\"4\">Pen Input is a different default colour depending on the theme</font></li>\r\n<li><font size=\"4\">Input Text fields have a clear button by default</font></li>\r\n<li><font size=\"4\"><strong>Date Picker is branded out-of-the-box, no components needed!</strong></font></li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p><font size=\"4\">All controls default as branded. Additionally, timer text is slightly larger so that it’s easy to read (let’s be honest, we all hide our timers, so the text size is purely for us!). Gallery defaults to Branded Colours as well.</font></p>\r\n<p>&nbsp;</p>\r\n<p><font size=\"4\">There is now a screen for determining the default graph colours used within all controls - simply change the fill colours of the boxes to have them apply to all new and existing graphs:</font></p>\r\n<p>&nbsp;</p>\r\n<p><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"image.png\" style=\"width: 400px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/111717iE37E50D85683D454/image-size/medium?v=1.0&amp;px=400\" title=\"image.png\" alt=\"image.png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/111717iE37E50D85683D454?v=1.0\" li-image-display-id=\"'111717iE37E50D85683D454'\" li-message-uid=\"'363582'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p>\r\n<p><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"image.png\" style=\"width: 400px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/111718i467BF59D6E15A6E0/image-size/medium?v=1.0&amp;px=400\" title=\"image.png\" alt=\"image.png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/111718i467BF59D6E15A6E0?v=1.0\" li-image-display-id=\"'111718i467BF59D6E15A6E0'\" li-message-uid=\"'363582'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p>\r\n<p>&nbsp;</p>\r\n<p><font size=\"4\"><strong>But wait, there's more!</strong></font></p>\r\n<p><font size=\"4\"><strong>The default Insert Screen options are also branded by default:</strong></font></p>\r\n<p>&nbsp;</p>\r\n<p><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"image.png\" style=\"width: 400px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/111719iBE60BFCB103A61BD/image-size/medium?v=1.0&amp;px=400\" title=\"image.png\" alt=\"image.png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/111719iBE60BFCB103A61BD?v=1.0\" li-image-display-id=\"'111719iBE60BFCB103A61BD'\" li-message-uid=\"'363582'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p>\r\n<p>&nbsp;</p>\r\n<p><font size=\"4\">We also have new abilities like <strong>using buttons to trigger code</strong>, an <strong>admin overlay for buttons</strong> to show only to certain administrators and to <strong>keep your code contained</strong> to one place, some example galleries and menus to give any entry-level Power App makers some inspiration of how the galleries don't need to look like this:</font></p>\r\n<p>&nbsp;</p>\r\n<p><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"image.png\" style=\"width: 258px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/111720i0BA63005E8CFCB07/image-size/medium?v=1.0&amp;px=400\" title=\"image.png\" alt=\"image.png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/111720i0BA63005E8CFCB07?v=1.0\" li-image-display-id=\"'111720i0BA63005E8CFCB07'\" li-message-uid=\"'363582'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p>\r\n<p>&nbsp;</p>\r\n<p>And could instead look like this:</p>\r\n<p><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"image.png\" style=\"width: 400px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/111721i4169B097377ED4F4/image-size/medium?v=1.0&amp;px=400\" title=\"image.png\" alt=\"image.png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/111721i4169B097377ED4F4?v=1.0\" li-image-display-id=\"'111721i4169B097377ED4F4'\" li-message-uid=\"'363582'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p><font size=\"5\"><strong>After reading all of this, your reaction right now should be:</strong></font></p>\r\n<p><a href=\"https://www.youtube.com/watch?v=uwmeH6Rnj2E\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">https://www.youtube.com/watch?v=uwmeH6Rnj2E</a></p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>I've included two versions of the App - the reasoning is that Power App's <u>current</u> <em>Insert Screen</em> function incorrectly creates items if you change the App Orientation <em>after</em> you have created an App in one orientation (I'm sure they'll resolve that eventually but for now: two versions).</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p><strong>FOR THOSE WHO WANT TO KNOW HOW I DID THIS: (video coming soon!)</strong><br>I deconstructed the .msapp file after using a file identifier to determine the type of file a .msapp is (spoiler alert: it's a zip), then I extracted out the Themes.JSON file within References, structured it so it's easier to read (its about 4k+ lines when properly JSON formatted) then I changed <em><u><strong>ONE</strong></u></em> property to <font style=\"--darkreader-inline-color: #ff3333;\" color=\"#FF0000\" data-darkreader-inline-color=\"\">RGBA(255,0,0,0),</font> I then I had to create an App using that modified file and insert every possible control and screen to see where it was being used. Then I did the same process for the next property, etc ad infinitum. There are about 3700 lines of code that are properties, so roughly 900+ properties to do. Then you also have to create Relative properties within the top section for each of the values that you define to be a variable.</p>\r\n<p>&nbsp;</p>\r\n<p>This is exactly why I have done this for you - imagine if thousands of us are then wasting time doing all of this <em><strong>when instead</strong> </em>only one of us needs to go through and do it so that the rest can benefit.</p>\r\n<p>&nbsp;</p>\r\n<p>So I did.</p>\r\n<div id=\"tinyMceEditoriAm_ManCat_0\" class=\"mceNonEditable lia-copypaste-placeholder\">&nbsp;</div>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>If you have any thoughts about these or want to ask questions please feel free to give me a shout on Twitter - there will be a video within the next two weeks covering ALL sorts of details <img class=\"lia-deferred-image lia-image-emoji\" src=\"/html/emoticons/1f642.png\" alt=\":slightly_smiling_face:\" title=\":slightly_smiling_face:\"></p>\r\n<p>&nbsp;</p>\r\n<p>[</p>\r\n<p><em>If you want to edit your existing App to do granular edits to the .json files inside, extract it to a folder, do your editing, and then run the following powershell script (within this repository) from within that extracted folder after you've done modifications, which will reconstitute it into a .msapp file:</em></p>\r\n<p><a href=\"https://github.com/iAmManCat/PowerApps-Branding-Template/tree/master/V2\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">https://github.com/iAmManCat/PowerApps-Branding-Template/tree/master/V2</a></p>\r\n<p>]</p>\r\n<p>&nbsp;</p>\r\n<p>Original (V1) post is here: <a href=\"https://www.iammancat.dev/2019/09/branding-template/\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">https://www.iammancat.dev/2019/09/branding-template/</a></p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>Cheers,</p>\r\n<p>Sancho Harker (iAm_ManCat)</p>\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\r\n\t\t\t\r\n\t\t\t\t<div class='UserSignature lia-message-signature'>\r\n\t<table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\" bgcolor=\"#ffffff\"><tbody><tr style=\"color: #000000; background: #ffffff; font-size: 16px; padding 5px 5px 5px 5px\" align=\"center\"><td><a href=\"http://www.twitter.com/iAm_ManCat\" rel=\"nofollow noopener noreferrer\">@iAm_ManCat</a></td></tr><br><tr style=\"background: #491A50; color: #ffffff; font-size: 14px; padding: 50px 20px 50px 20px;\" align=\"middle\" valign=\"middle\" width=\"100%\"><td><span><br><p style=\"padding-left: 30px; padding-right: 30px;\">Please 'Mark as Solution' if someone's post answered your question and always 'Thumbs Up' the posts you like or that helped you!</p><br></span></td></tr><tr style=\"background: #ffffff; color: #4d4d4d; font-size: 12px;\" align=\"center\"><td><p style=\"padding-left: 30px; padding-right: 30px;\">Thanks! <br>You and everyone else in the community make it the awesome and welcoming place it is, keep your questions coming and make sure to 'like' anything that makes you 'Appy <br>Sancho Harker, MVP</p><br></td></tr></tbody></table>\r\n</div>\r\n\r\n",
-      "type": "download",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_samples/power-apps-community-power-apps-formula-reference.md",
-      "title": "Power Apps Formula Reference",
-      "excerpt": "Announcing the Power Apps Formula Reference! I am very excited to announce the release of an app that I have been working on for a few months now!",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-power-apps-formula-reference/index.json",
-      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-power-apps-formula-reference/",
-      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Power-Apps-Formula-Reference/td-p/650191",
-      "provider": {
-        "name": "Power Apps Community",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "PowerAddict",
-            "type": "profile",
-            "name": "PowerAddict"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/595/1/Power%20Apps%20Formula%20Reference.msapp",
-          "type": "download",
-          "title": "Download Source Code",
-          "attribution": "Power Apps Community"
-        }
-      ],
-      "publishedDateTime": "2020-08-06T01:27:00-07:00",
-      "heat": 81,
-      "images": [
-        {
-          "url": "https://powerusers.microsoft.com/t5/image/serverpage/image-id/167596i84085114732BE585/image-size/large?v=1.0&px=999",
-          "width": 768,
-          "height": 433,
-          "isCached": true
-        }
-      ],
-      "content": "<h2 id=\"toc-hId-1763716600\"><strong>Announcing the Power Apps Formula Reference!</strong></h2>\r\n<p>I am very excited to announce the release of an app that I have been working on for a few months now! Use it if you are looking for a one stop shop for all Power Apps formulas to use as a reference. Or simply share it with someone who is getting started on this beautiful journey! It provides an interactive illustration for each formula. As a result, users not only see the syntax, but also enter their own data and see what the formula does! So enter text/numbers, pick a date, or choose a value from a dropdown and see the magic unfold!</p>\r\n<h2 id=\"toc-hId--788440361\"><strong>Story</strong></h2>\r\n<p>This all started with a Lunch &amp; Learn session at Hitachi Solutions. It was an introductory session where we introduced formulas and showed a couple of examples! As a result, I thought about how awesome it would be to have that experience for all formulas. That realization, in turn, resulted in the creation of this app! This was a fun project. However, the biggest challenge was to to come up with working/interactive examples for each formula without adding any datasource.</p>\r\n<h2 id=\"toc-hId-954369974\"><strong>Features</strong></h2>\r\n<ul>\r\n<li>150+ interactive illustrations covering (almost) all Power Apps formulas</li>\r\n<li>Instructions to guide users through the illustrations</li>\r\n<li>Search through the list using formula name or keywords</li>\r\n<li>Self contained data and no external data sources</li>\r\n<li>Videos for formulas that require a datasource for illustration</li>\r\n<li>Supports both online and offline usage</li>\r\n<li>A simple illustration of offline capabilities</li>\r\n<li>Links to official Microsoft Docs pages for detailed explanations</li>\r\n<li>Provide feedback (better illustration ideas, corrections etc.) with one click</li>\r\n</ul>\r\n<h2 id=\"toc-hId--1597786987\"><strong>What this is not</strong></h2>\r\n<ul>\r\n<li>This supplements<span>&nbsp;</span><a href=\"https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/formula-reference\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">Microsoft Docs</a>, not replace them. Therefore, use the docs for detailed explanations of each formula</li>\r\n<li>This does not illustrate how formulas can be used with each other to solve more complex problems</li>\r\n</ul>\r\n<p>To summarize, if you want to have fun with Power Apps formulas, go ahead and download this app!</p>\r\n\r\n",
       "type": "download",
       "topics": [
         "Power Apps"
@@ -192,7 +90,7 @@
         }
       ],
       "publishedDateTime": "2019-01-03T00:33:00-08:00",
-      "heat": 81,
+      "heat": 82,
       "images": [
         {
           "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/74/1/QRGen.PNG",
@@ -202,6 +100,108 @@
         }
       ],
       "content": "<p>This app allows you to generate QR code image and Scan any QR image (&amp; open in browser).</p><p>Core tech. of this app is using Google Chart API to generate image.</p><p>*This API is Free to use.</p><p><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"GenQR.PNG\" style=\"width: 242px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/47192iE11FD4B7CA2E664C/image-size/large?v=1.0&amp;px=999\" title=\"GenQR.PNG\" alt=\"GenQR.PNG\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/47192iE11FD4B7CA2E664C?v=1.0\" li-image-display-id=\"'47192iE11FD4B7CA2E664C'\" li-message-uid=\"'199745'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-29-seconds-a-fun-game-to-play-with-your-colleagues-with-ms-teams.md",
+      "title": "29 seconds! A fun game to play with your colleagues with MS Teams!",
+      "excerpt": "-----------download file is at the bottom of the page, click on 29 seconds_final_v1.msapp to download---------------- Hi everyone! First, let me",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-29-seconds-a-fun-game-to-play-with-your-colleagues-with-ms-teams/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-29-seconds-a-fun-game-to-play-with-your-colleagues-with-ms-teams/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/29-seconds-A-fun-game-to-play-with-your-colleagues-with-MS-Teams/td-p/536670",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "dENNtoetert",
+            "type": "profile",
+            "name": "dENNtoetert"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/507/2/29%20Seconds_final_v1.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2020-04-22T22:49:00-07:00",
+      "heat": 81,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/507/1/thumbnail_29seconds.png",
+          "width": 1694,
+          "height": 949,
+          "isCached": true
+        }
+      ],
+      "content": "<p><font color=\"#FF0000\"><strong><em>-----------download file is at the bottom of the page, click on 29 seconds_final_v1.msapp to download----------------</em></strong></font></p><p>&nbsp;</p><p>Hi everyone!</p><p>&nbsp;</p><p>First, let me introduce myself. My name is Dennis Toet, i'm a technical consultant for the company PROACT.</p><p>&nbsp;</p><p>Since almost everyone is working from home these days because of the COVID-19, I personally noticed that the amount of non-work related interaction I had with other colleagues drastically decreased. So I figured I wouldn't be alone on this and thought about a way to incorporate a fun game in MS Teams via PowerApps.</p><p>&nbsp;</p><p>I built the game: 29 seconds! Which is based of the very popular board game in the Netherlands called: 30 seconds <img class=\"lia-deferred-image lia-image-emoji\" src=\"/html/emoticons/1f609.png\" alt=\":winking_face:\" title=\":winking_face:\">&nbsp;</p><p>&nbsp;</p><p><strong>GAME MECHANICS - BRIEF SUMMARY</strong></p><p>So you play this game with a minimum of 2 teams and a maximum of 4 teams. There is no technical limit of players per team, but to keep the meeting organized we would set the cap at 4 players per team, minimum is 2.</p><p>&nbsp;</p><p>You play as a team against the other team(s). When it's a team's turn (each round only 1 team plays), 1 player of that team draws a 'card'. On that card are 5 words. That player needs to describe the words on the card to his or her team without mentioning the word, a part of the word, translating it or reference the alphabet (like. it starts with the 4th letter of the alphabet or.. starts with the letter M).&nbsp;That player has 29 seconds to do so. The other players of that team will guess the words.</p><p>Each word that is guessed correctly is 1 point for that team. After 29 seconds, it's the other team's turn.</p><p>&nbsp;</p><p>So only 1 team plays per turn. And this go on till the win condition (no. of correctly guessed words) has been met which has been set by the host.&nbsp;</p><p>&nbsp;</p><p><strong><font color=\"#FF0000\">DETAILED EXPLANATION:</font></strong></p><p><strong>SETUP:</strong></p><p><font color=\"#FF0000\">Watch the installation video!</font> It describes the steps below:<br>1. Download the file which is at the bottom the page: 29 Seconds_final.msapp</p><p>2. Open the .msapp file in your organization via&nbsp;<a href=\"https://create.powerapps.com/studio/#&nbsp;\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">https://create.powerapps.com/studio/#&nbsp;</a></p><p>3. Save the PowerApp</p><p>4. Share it with your colleagues. It's possible to share it with everyone, just type in Everyone.</p><p>5. Add the PowerApp to MS Teams via a tab in a team/channel.</p><p>&nbsp;</p><p><font color=\"#FF0000\">Watch the rules video!</font>&nbsp;It describes the steps below:</p><p>6. Create a team meeting and invite everyone who wants to play and join the meeting.</p><p>7. Only 1 player has the role:&nbsp;Host and player!&nbsp;Everyone else has the role:&nbsp;Player!</p><p>8. The host will share his/her Teams window, <font color=\"#FF0000\"><strong>not the desktop</strong></font>! Because the host doesn't want the others to see his/her words!</p><p>9. Everyone needs to go towards the 29 seconds tab which has been created when the PowerApp was added to the Team.</p><p>10. Everyone picks their role. Remember, only the host will pick&nbsp;Host and player!&nbsp;the rest will pick&nbsp;Player!.&nbsp;</p><p>11. If everything is setup correctly you have the host sharing the teams screen which has the timer open. The rest of the players have the shared window at the top left of their screen so they see the timer. And a big button with:&nbsp;Show me the words!&nbsp;in front of them. Don't click it when it's not your turn!</p><p><em>11a. The players (not the host) can click on the little globe in Teams which will open the game in a browser so they can have the shared screen of the host at the normal size so they can see the other players aswell.</em></p><p>12. The host sets up the game using the button:&nbsp;Configure game session. He/she will select the # of teams, add the players and select the wincodition of how many words that needs to be guessed correctly. After that he/she keeps pressing the button: Divide players randomly so that players will get assigned to a team.&nbsp;</p><p>13. Game on!</p><p>14. The game will decide which team begins.</p><p>15. The players of that team will decide which player is going to start with describing the words (we usually begin from the top of the players list)</p><p>16. The player that is going to describe the words needs to countdown 3,2,1... so the host can start the timer.&nbsp;</p><p>17. After the countdown the player presses the button to show his/her card with the 5 words. He/she then has 29 seconds to describe the words to his/her team without&nbsp;mentioning the word, a part of the word, translating it or reference the alphabet (like. it starts with the 4th letter of the alphabet or.. starts with the letter M).&nbsp;</p><p>18. When the timer stops the players will see the timer going from green to red. The host will hear a gong sound.&nbsp;</p><p>19. The host will award the team points. 1 correctly guessed word = is 1 point.</p><p>20. Now it's the other team's turn where you repeat the process.&nbsp;</p><p><strong>21. The only exception is when it's the host's turn. He/she will not have the button: Show me the words! He/she will <font color=\"#FF0000\">FIRST&nbsp;</font>press the button: Words for the host&nbsp;and <font color=\"#FF0000\">immediately after</font> start the timer.&nbsp;This button: Words for the host will open a browser screen with the 5 random words. <font color=\"#FF0000\">And since the host only shares the MS Teams screen the other players will not see the browser session.&nbsp;</font></strong></p><p><strong>The other players will need to let the host know (or the host hears the gong) when the timer ran out.</strong></p><p>22. This continues until&nbsp;the wincondition has been met.</p><p>23. Congratulations!</p><p>&nbsp;</p><p>If you want to know more about this game, future updates or contact us if you have any questions/suggestions... please visit:<br><a href=\"https://29seconds.peopleware.nl/\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">https://29seconds.peopleware.nl/</a></p><p>or send us an email:&nbsp;<br><a href=\"mailto:29seconds@peopleware.nl\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">Mail us</a></p><p>&nbsp;</p><p>I've added 2 Youtube video's, 1 is for the installation and 1 is for the rules.&nbsp;<font color=\"#FF0000\"><strong>These are in Dutch! However, you can still see the steps I take and within the PowerApp itself is a button: \"How-to\" which explains it in English, in text.</strong></font></p><p>&nbsp;</p><p>Installation:</p><p><div class=\"video-embed-center video-embed\"><iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F6H_wQZqPbkY&amp;display_name=YouTube&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6H_wQZqPbkY&amp;key=b0d40caa4f094c68be7c29880b16f56e&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"337\" scrolling=\"no\" title=\"YouTube embed\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen=\"true\"></iframe></div><p><br>Rules:</p><p><div class=\"video-embed-center video-embed\"><iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F9DHIFFmEGkM&amp;display_name=YouTube&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D9DHIFFmEGkM&amp;key=b0d40caa4f094c68be7c29880b16f56e&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"337\" scrolling=\"no\" title=\"YouTube embed\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen=\"true\"></iframe></div><p><br><br></p><p>We hope everyone has a lot of fun with this game during these times!</p><p>&nbsp;</p><p>Kind regards,</p><p>Dennis Toet</p><p><a href=\"https://www.linkedin.com/in/dennis-toet-8904343b/\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">https://www.linkedin.com/in/dennis-toet-8904343b/</a></p><p>&nbsp;</p><p><span class=\"videoUrl\">watch?v=9DHIFFmEGkM</span></p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-power-apps-formula-reference.md",
+      "title": "Power Apps Formula Reference",
+      "excerpt": "Announcing the Power Apps Formula Reference! I am very excited to announce the release of an app that I have been working on for a few months now!",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-power-apps-formula-reference/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-power-apps-formula-reference/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Power-Apps-Formula-Reference/td-p/650191",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "PowerAddict",
+            "type": "profile",
+            "name": "PowerAddict"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/595/1/Power%20Apps%20Formula%20Reference.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2020-08-06T01:27:00-07:00",
+      "heat": 78,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com/t5/image/serverpage/image-id/167596i84085114732BE585/image-size/large?v=1.0&px=999",
+          "width": 768,
+          "height": 433,
+          "isCached": true
+        }
+      ],
+      "content": "<h2 id=\"toc-hId-1763716600\"><strong>Announcing the Power Apps Formula Reference!</strong></h2>\r\n<p>I am very excited to announce the release of an app that I have been working on for a few months now! Use it if you are looking for a one stop shop for all Power Apps formulas to use as a reference. Or simply share it with someone who is getting started on this beautiful journey! It provides an interactive illustration for each formula. As a result, users not only see the syntax, but also enter their own data and see what the formula does! So enter text/numbers, pick a date, or choose a value from a dropdown and see the magic unfold!</p>\r\n<h2 id=\"toc-hId--788440361\"><strong>Story</strong></h2>\r\n<p>This all started with a Lunch &amp; Learn session at Hitachi Solutions. It was an introductory session where we introduced formulas and showed a couple of examples! As a result, I thought about how awesome it would be to have that experience for all formulas. That realization, in turn, resulted in the creation of this app! This was a fun project. However, the biggest challenge was to to come up with working/interactive examples for each formula without adding any datasource.</p>\r\n<h2 id=\"toc-hId-954369974\"><strong>Features</strong></h2>\r\n<ul>\r\n<li>150+ interactive illustrations covering (almost) all Power Apps formulas</li>\r\n<li>Instructions to guide users through the illustrations</li>\r\n<li>Search through the list using formula name or keywords</li>\r\n<li>Self contained data and no external data sources</li>\r\n<li>Videos for formulas that require a datasource for illustration</li>\r\n<li>Supports both online and offline usage</li>\r\n<li>A simple illustration of offline capabilities</li>\r\n<li>Links to official Microsoft Docs pages for detailed explanations</li>\r\n<li>Provide feedback (better illustration ideas, corrections etc.) with one click</li>\r\n</ul>\r\n<h2 id=\"toc-hId--1597786987\"><strong>What this is not</strong></h2>\r\n<ul>\r\n<li>This supplements<span>&nbsp;</span><a href=\"https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/formula-reference\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">Microsoft Docs</a>, not replace them. Therefore, use the docs for detailed explanations of each formula</li>\r\n<li>This does not illustrate how formulas can be used with each other to solve more complex problems</li>\r\n</ul>\r\n<p>To summarize, if you want to have fun with Power Apps formulas, go ahead and download this app!</p>\r\n\r\n",
       "type": "download",
       "topics": [
         "Power Apps"
@@ -243,7 +243,7 @@
         }
       ],
       "publishedDateTime": "2020-01-05T12:42:00-08:00",
-      "heat": 75,
+      "heat": 72,
       "images": [
         {
           "url": "https://powerusers.microsoft.com/t5/image/serverpage/image-id/180118iFEC6E33D02693205/image-size/large?v=1.0&px=999",
@@ -294,7 +294,7 @@
         }
       ],
       "publishedDateTime": "2019-03-04T22:29:00-08:00",
-      "heat": 70,
+      "heat": 64,
       "images": [
         {
           "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/122/1/appcreator1.JPG",
@@ -345,7 +345,7 @@
         }
       ],
       "publishedDateTime": "2020-02-09T16:04:00-08:00",
-      "heat": 65,
+      "heat": 64,
       "images": [
         {
           "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/427/4/PowerAppsMaterialDesign.PNG",
@@ -355,210 +355,6 @@
         }
       ],
       "content": "<p>Power Apps controls, although powerful, provide limited branding and customization capabilities. With Google investing a lot in research to come up with design standards (Material Design), I wanted to incorporate those standards into Power Apps controls using the standard out of the box controls. These revamped controls will help our apps look just like, if not better, than any app we see on our mobile phones!</p><p>&nbsp;</p><p>The 3 controls I have revamped so far are: text fields, tooltips, and buttons. The reasons for picking these controls are:&nbsp;</p><p>&nbsp;</p><ol><li>The standard out of the box (OOB) versions, while good, do not provide many customization capabilities</li><li>The design for these controls was very different, so there was a greater scope of improvement</li><li>These looked way better than their OOB counterparts, helping Power Apps look as pretty, if not prettier than any other app on our phones</li><li>Tooltips interested me the most because<ul><li>honestly, they were the easiest to implement!!!</li><li>on a serious note, the OOB tooltips don't show up on mobile as there is no way to \"hover\"</li></ul></li><li><span>One specific button type - floating action buttons (FAB) interested me the most among all the different types as they help save some real estate, especially for mobile apps.</span></li></ol><p>&nbsp;</p><p>The design specifications from Google are very detailed. I went through those documents (so you don't have to go through those documents!) and summarized the design for tooltips and buttons:&nbsp;</p><p>&nbsp;</p><ol><li>Tooltips<ul><li>They should become visible when a user taps onto a control, like a text input field</li><li>When visible, they should display a text label providing a description of the control</li><li>They should stay visible for 1.5 seconds or until the user changes focus to another control</li></ul></li><li>Buttons<ul><li>A FAB represents the primary action of a screen</li><li>When pressed, a FAB can display/emit 3 to 6 related actions in the form of a speed dial</li><li>The speed dial actions close when a user taps the FAB again or anywhere else on the screen</li></ul></li><li>Text Fields<ul><li>This article does a very good job of explaining the research and provides a summarized design as well:&nbsp;<a href=\"https://medium.com/google-design/the-evolution-of-material-designs-text-fields-603688b3fe03\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">https://medium.com/google-design/the-evolution-of-material-designs-text-fields-603688b3fe03</a></li></ul></li></ol><p>&nbsp;</p><p>I have blog posts for each one of these controls:&nbsp;</p><p>&nbsp;</p><ol><li>Text Fields:&nbsp;<a href=\"https://thepoweraddict.com/implementing-googles-material-design-for-labels-using-power-apps/\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">https://thepoweraddict.com/implementing-googles-material-design-for-labels-using-power-apps/</a></li><li>Tooltips:&nbsp;<a href=\"https://thepoweraddict.com/implementing-googles-material-design-for-tooltips-using-power-apps/\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">https://thepoweraddict.com/implementing-googles-material-design-for-tooltips-using-power-apps/</a></li><li>Buttons:&nbsp;<a href=\"https://thepoweraddict.com/implementing-googles-material-design-for-buttons-using-power-apps/\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">https://thepoweraddict.com/implementing-googles-material-design-for-buttons-using-power-apps/</a></li></ol><p>&nbsp;</p><p><span>Hopefully, my series of posts on Google's Material design along with the app I am sharing here will inspire you to achieve beautiful, more customizable controls using standard Power Apps controls!</span></p><p>&nbsp;</p><p><span>Would love to hear your feedback, comments, suggestions, and questions!&nbsp;</span></p><p>&nbsp;</p><p><span>Thank you!</span></p><p><span>Hardit Bhatia</span></p><p><span>The Power Addict</span></p><p><span><a href=\"https://thepoweraddict.com\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">https://thepoweraddict.com</a></span></p><p>&nbsp;</p><p><span>Here is a demo of all 3 controls on one screen!</span></p><p>&nbsp;</p><p><span><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"GoogleMaterialDesign.gif\" style=\"width: 564px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/116496i0F4F92B64266B644/image-size/large?v=1.0&amp;px=999\" title=\"GoogleMaterialDesign.gif\" alt=\"GoogleMaterialDesign.gif\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/116496i0F4F92B64266B644?v=1.0\" li-image-display-id=\"'116496i0F4F92B64266B644'\" li-message-uid=\"'465416'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></span></p>\r\n\r\n",
-      "type": "download",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_samples/power-apps-community-design-patterns-from-mr-dang-part-2.md",
-      "title": "Design Patterns from Mr. Dang (Part 2)",
-      "excerpt": "Formativ_ is an app I showcased during an Open House livestream I held a few months ago: https://www.youtube.com/watch?v=Qbl4MujHB9U During the",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-design-patterns-from-mr-dang-part-2/index.json",
-      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-design-patterns-from-mr-dang-part-2/",
-      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Design-Patterns-from-Mr-Dang-Part-2/td-p/198929",
-      "provider": {
-        "name": "Power Apps Community",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Mr-Dang-MSFT",
-            "type": "profile",
-            "name": "Mr-Dang-MSFT"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/70/2/formativ_.msapp",
-          "type": "download",
-          "title": "Download Source Code",
-          "attribution": "Power Apps Community"
-        }
-      ],
-      "publishedDateTime": "2019-01-01T09:50:00-08:00",
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/70/1/Screenshot%20(49).png",
-          "width": 4500,
-          "height": 3000,
-          "isCached": true
-        }
-      ],
-      "content": "<p>Formativ_ is an app I showcased during an Open House livestream I held a few months ago:</p>\r\n<p><a href=\"https://www.youtube.com/watch?v=Qbl4MujHB9U\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://www.youtube.com/watch?v=Qbl4MujHB9U</a></p>\r\n<p>&nbsp;</p>\r\n<p>During the livestream, I showed some of the patterns I had in the app, but the app was not as complete for sharing yet.</p>\r\n<p>&nbsp;</p>\r\n<p>Most of the app functionality is complete now. I am sharing its current form so you can see some patterns&nbsp;inside.</p>\r\n<p>&nbsp;</p>\r\n<p>The big idea with the formativ_ app is to take existing&nbsp;questions&nbsp;I have in a spreadsheet and make it into a form, rather than repeating that content in another service. Previously, I would redo questions I wanted to ask one by one in another online service.&nbsp;This takes a lot of time and copy pasting.</p>\r\n<p>&nbsp;</p>\r\n<p>Creating an app would allow me to have a nice interface for users to respond to questions. And the neat thing about PowerApps is I can edit my questions from the spreadsheet or within the UI of the app. I work where I'm comfortable.</p>\r\n<p><span style=\"font-family: inherit;\"><span class=\"lia-inline-image-display-wrapper lia-image-align-center\" image-alt=\"Screenshot (49).png\" style=\"width: 999px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/46941i87CFCA880F8E0C8B/image-size/large?v=1.0&amp;px=999\" title=\"Screenshot (49).png\" alt=\"Screenshot (49).png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/46941i87CFCA880F8E0C8B?v=1.0\" li-image-display-id=\"'46941i87CFCA880F8E0C8B'\" li-message-uid=\"'198929'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></span></p>\r\n<p>&nbsp;</p>\r\n<p>Across the app, I use SVG images.&nbsp;This lets me add effects like drop shadow and gradients. The icons I use are consistent in style and minimal.</p>\r\n<p><span style=\"font-family: inherit;\"><span class=\"lia-inline-image-display-wrapper lia-image-align-center\" image-alt=\"Screenshot (50).png\" style=\"width: 999px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/46943iA36595C90B7FACD6/image-size/large?v=1.0&amp;px=999\" title=\"Screenshot (50).png\" alt=\"Screenshot (50).png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/46943iA36595C90B7FACD6?v=1.0\" li-image-display-id=\"'46943iA36595C90B7FACD6'\" li-message-uid=\"'198929'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></span></p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>The app has logic built in to autosave.&nbsp;As the user is creating or editing a form/quiz, their changes are saved immediately. As a user is responding to a form or quiz, their responses are saved immediately. This avoids situations where a browser is accidentally closed and progress is lost.</p>\r\n<p><span class=\"lia-inline-image-display-wrapper lia-image-align-center\" image-alt=\"Screenshot (54).png\" style=\"width: 999px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/46939iCD6265AA680BFA6E/image-size/large?v=1.0&amp;px=999\" title=\"Screenshot (54).png\" alt=\"Screenshot (54).png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/46939iCD6265AA680BFA6E?v=1.0\" li-image-display-id=\"'46939iCD6265AA680BFA6E'\" li-message-uid=\"'198929'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>While the purpose of the app is to use spreadsheets in harmony with PowerApps, I made a UI to make form/quiz creation to be easier in the app space itself.&nbsp;This interface includes a couple of features I want to call out:</p>\r\n<ul>\r\n<li>reordering records in a collection</li>\r\n<li>duplicating a record in a collection</li>\r\n<li>adapting the content in each row of a gallery depending on what type it is</li>\r\n<li>copy-pasting a column of choices and having it split itself apart into different rows</li>\r\n<li>jump to a question</li>\r\n<li>apply autoheight to a text input box</li>\r\n</ul>\r\n<p><span class=\"lia-inline-image-display-wrapper lia-image-align-center\" image-alt=\"Screenshot (55).png\" style=\"width: 999px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/46944i4E366C0CF9A72984/image-size/large?v=1.0&amp;px=999\" title=\"Screenshot (55).png\" alt=\"Screenshot (55).png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/46944i4E366C0CF9A72984?v=1.0\" li-image-display-id=\"'46944i4E366C0CF9A72984'\" li-message-uid=\"'198929'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p>\r\n<p>&nbsp;&nbsp;&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>Existing quizzes and forms can be searched and revised.</p>\r\n<p><span style=\"font-family: inherit;\"><span class=\"lia-inline-image-display-wrapper lia-image-align-center\" image-alt=\"Screenshot (51).png\" style=\"width: 999px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/46942i606E20DD1AE2A4CA/image-size/large?v=1.0&amp;px=999\" title=\"Screenshot (51).png\" alt=\"Screenshot (51).png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/46942i606E20DD1AE2A4CA?v=1.0\" li-image-display-id=\"'46942i606E20DD1AE2A4CA'\" li-message-uid=\"'198929'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></span></p>\r\n<p>&nbsp;&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>On the Play screen, you can see how I use an accordion to show each session the user has started for a given form.</p>\r\n<p><span class=\"lia-inline-image-display-wrapper lia-image-align-center\" image-alt=\"Screenshot (52).png\" style=\"width: 999px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/46940i342AF462CBF4FAA8/image-size/large?v=1.0&amp;px=999\" title=\"Screenshot (52).png\" alt=\"Screenshot (52).png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/46940i342AF462CBF4FAA8?v=1.0\" li-image-display-id=\"'46940i342AF462CBF4FAA8'\" li-message-uid=\"'198929'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>The app is used for both experiences of creating and responding to forms and quizzes. Unique to PowerApps is the ability to include an ink control. I did not put in logic to save the image back to OneDrive, as I leave that up to you to save image content to the service of your choice.&nbsp;<a href=\"/t5/user/viewprofilepage/user-id/6096\">@timl</a>&nbsp;can help explain how to have images saved to your OneDrive from the same spreadsheet.</p>\r\n<p><span style=\"font-family: inherit;\"><span class=\"lia-inline-image-display-wrapper lia-image-align-center\" image-alt=\"Screenshot (56).png\" style=\"width: 999px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/46945i89FD2BD21E58B768/image-size/large?v=1.0&amp;px=999\" title=\"Screenshot (56).png\" alt=\"Screenshot (56).png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/46945i89FD2BD21E58B768?v=1.0\" li-image-display-id=\"'46945i89FD2BD21E58B768'\" li-message-uid=\"'198929'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></span></p>\r\n<p>&nbsp;</p>\r\n<p>And as a bonus, the app can be translated. You can see a method of gathering text across the app and translating it. You'll also find that I've worked in tabbing for accessibility.</p>\r\n<p><span style=\"font-family: inherit;\"><span class=\"lia-inline-image-display-wrapper lia-image-align-center\" image-alt=\"Screenshot (53).png\" style=\"width: 999px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/46938iF8E2D746B408218E/image-size/large?v=1.0&amp;px=999\" title=\"Screenshot (53).png\" alt=\"Screenshot (53).png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/46938iF8E2D746B408218E?v=1.0\" li-image-display-id=\"'46938iF8E2D746B408218E'\" li-message-uid=\"'198929'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></span></p>\r\n<p>&nbsp;</p>\r\n<p><span style=\"font-family: inherit;\">I am sharing this app with you sooner rather than later. Much of it is complete, but there is a lot that is open for you to implement on your own.&nbsp;</span></p>\r\n<p>&nbsp;</p>\r\n<p><span style=\"font-family: inherit;\">Here's some ideas to get you started:</span></p>\r\n<ul>\r\n<li><span style=\"font-family: inherit;\">implement date, datetime, ratings, etc.&nbsp;</span></li>\r\n<li>create a theme selector for high contrast modes and dark mode</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>Instructions</p>\r\n<ol>\r\n<li>Download the msapp file and this excel sheet:<br><a href=\"https://8bitblob.blob.core.windows.net/powerapps/formativ_.xlsx\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://8bitblob.blob.core.windows.net/powerapps/formativ_.xlsx</a></li>\r\n<li>Move the Excel sheet to your OneDrive</li>\r\n<li>Open create.powerapps.com</li>\r\n<li>File &gt; Open &gt; Browse for the msapp file</li>\r\n<li>View &gt; Datasources &gt; remove all tables from OneDrive so you can add your own.</li>\r\n<li>Add all the tables from the Excel sheet in step 2 (using OneDrive or Dropbox)</li>\r\n<li>Try it out.</li>\r\n</ol>\r\n\r\n",
-      "type": "download",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_samples/power-apps-community-task-tracker-app.md",
-      "title": "Task tracker App",
-      "excerpt": "Its a simple app for tracking Team work progress and update their task progress with latest status. The App uses traditional method to update the",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-task-tracker-app/index.json",
-      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-task-tracker-app/",
-      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Task-tracker-App/td-p/707907",
-      "provider": {
-        "name": "Power Apps Community",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Naresh_1709",
-            "type": "profile",
-            "name": "Naresh_1709"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/654/1/Ncf81fdce-574f-4b13-a4fe-aa02d8010789-document.msapp",
-          "type": "download",
-          "title": "Download Source Code",
-          "attribution": "Power Apps Community"
-        }
-      ],
-      "publishedDateTime": "2020-10-02T14:54:00-07:00",
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://powerusers.microsoft.com/t5/image/serverpage/image-id/185137iAD69CB279251F8F3/image-size/large?v=1.0&px=999",
-          "width": 969,
-          "height": 574,
-          "isCached": true
-        }
-      ],
-      "content": "<p>Its a simple app for tracking Team work progress and update their task progress with latest status.</p><p>&nbsp;</p><p>The App uses traditional method to update the excel sheet by taking the data from the app and reduces the manual effort to open excel sheet and update the data..</p><p>&nbsp;</p><p>It will be handy app for teams where one can update his task progress and see all other team members work progress by selecting team name and task id.</p><p>&nbsp;</p><p>I am getting started with power app and loving it.Feel Free to add suggestion will try to improvise the app</p>\r\n\r\n",
-      "type": "download",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_samples/power-apps-community-fancy-background-animations-in-powerapps.md",
-      "title": "Fancy background animations in PowerApps",
-      "excerpt": "Solved: I prepared a stunning animation that gives your PowerApps app a lot attention. The animation consists of a background gradient with a smooth",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-fancy-background-animations-in-powerapps/index.json",
-      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-fancy-background-animations-in-powerapps/",
-      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Fancy-background-animations-in-PowerApps/td-p/269339",
-      "provider": {
-        "name": "Power Apps Community",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Takuma",
-            "type": "profile",
-            "name": "Takuma"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/165/2/%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB-%E3%82%B0%E3%83%A9%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E8%83%8C%E6%99%AF%E3%82%A2%E3%83%97%E3%83%AA.msapp",
-          "type": "download",
-          "title": "Download Source Code",
-          "attribution": "Power Apps Community"
-        }
-      ],
-      "publishedDateTime": "2019-04-17T11:51:00-07:00",
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/165/1/%E3%82%AD%E3%83%A3%E3%83%97%E3%83%81%E3%83%A32.PNG",
-          "width": 433,
-          "height": 755,
-          "isCached": true
-        }
-      ],
-      "content": "<p>I prepared a stunning animation that gives your PowerApps app a lot attention.</p><p>&nbsp;</p><p>The animation consists of a background gradient with a smooth transition. Below there are multiple waves sliding from left to right.</p><p>This sample consists of HTML control and timer control.</p><p>&nbsp;</p>\r\n\r\n",
-      "type": "download",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_samples/power-apps-community-posting-adaptive-card-to-teamsuser-from-power-apps.md",
-      "title": "Posting Adaptive Card to Teams/User from Power Apps",
-      "excerpt": "This app allow you to send Adaptive Card to Teams channel or User directly from Power Apps. Overview So far, sending Adaptive Cards from Power",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-posting-adaptive-card-to-teamsuser-from-power-apps/index.json",
-      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-posting-adaptive-card-to-teamsuser-from-power-apps/",
-      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Posting-Adaptive-Card-to-Teams-User-from-Power-Apps/td-p/571127",
-      "provider": {
-        "name": "Power Apps Community",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "h-nagao",
-            "type": "profile",
-            "name": "h-nagao"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/534/2/Send%20Adaptive%20Cards.msapp",
-          "type": "download",
-          "title": "Download Source Code",
-          "attribution": "Power Apps Community"
-        }
-      ],
-      "publishedDateTime": "2020-05-24T17:33:00-07:00",
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/534/1/TitlePage.png",
-          "width": 1568,
-          "height": 709,
-          "isCached": true
-        }
-      ],
-      "content": "<p><font size=\"5\">This app allow you to send Adaptive Card to Teams channel or User directly from Power Apps.</font></p><p>&nbsp;</p><p><strong><font size=\"5\">Overview</font></strong></p><p>So far, sending Adaptive Cards from Power Automate have been well known, and used for a survey.</p><p>To collect response data from Team members, we need a workaround using \"Apply to each\", since Post Adaptive Card action in flow is finished when a team member submit their response - not allowed&nbsp; submit multiple response from one AC.</p><p>&nbsp;</p><p>Using the technique, direct post from Power Apps, you can <strong>set an arbitrary URL to send response data,</strong> so it makes available to submit data from one AC in Teams channel.</p><p>&nbsp;</p><p>In this sample app, Adaptive Card like survey form with single-line answers will be posted.</p><p>&nbsp;</p><p>&nbsp;<span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"survey.png\" style=\"width: 400px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/145618iEBC79943A844C382/image-size/medium?v=1.0&amp;px=400\" title=\"survey.png\" alt=\"survey.png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/145618iEBC79943A844C382?v=1.0\" li-image-display-id=\"'145618iEBC79943A844C382'\" li-message-uid=\"'571127'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p><p><font size=\"5\"><strong>Note</strong></font></p><p>To collect response data, it is required to build a flow with HTTP trigger, which URL will be used to receive response from AC.</p><p><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"automate.png\" style=\"width: 400px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/145608i9552DE38AB4A7EDA/image-size/medium?v=1.0&amp;px=400\" title=\"automate.png\" alt=\"automate.png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/145608i9552DE38AB4A7EDA?v=1.0\" li-image-display-id=\"'145608i9552DE38AB4A7EDA'\" li-message-uid=\"'571127'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p><p>&nbsp;</p><p><font size=\"5\"><strong>How-to use</strong></font></p><ol><li>Go to Power Apps Studio, and Open (Ctrl+O) &gt; Browse Files &gt; select Send Adaptive Cards.msapp, which you downloaded from this page.</li><li>Allow to use your connection</li><li>Navigate \"Config\" screen, and set your flow url to Label text : flowURL</li><li>Test it!</li></ol><p><font size=\"5\"><strong>Demo</strong></font></p><p>&nbsp;</p><p><div class=\"video-embed-center video-embed\"><iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F-giwGM5w4wM%3Ffeature%3Doembed&amp;display_name=YouTube&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D-giwGM5w4wM&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F-giwGM5w4wM%2Fhqdefault.jpg&amp;key=fad07bfa4bd747d3bdea27e17b533c0e&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"400\" height=\"225\" scrolling=\"no\" title=\"YouTube embed\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen=\"true\"></iframe></div><p>&nbsp;</p><p>Any feedback will be appreciated <img class=\"lia-deferred-image lia-image-emoji\" src=\"/html/emoticons/1f642.png\" alt=\":slightly_smiling_face:\" title=\":slightly_smiling_face:\"></p><p>&nbsp;</p><p>Thank you!</p><p>&nbsp;</p><p>Hiro</p><p>&nbsp;</p>\r\n\r\n",
       "type": "download",
       "topics": [
         "Power Apps"
@@ -600,7 +396,7 @@
         }
       ],
       "publishedDateTime": "2019-08-16T01:12:00-07:00",
-      "heat": 59,
+      "heat": 63,
       "images": [
         {
           "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/223/1/2019-07-26_11-04-39.png",
@@ -610,6 +406,57 @@
         }
       ],
       "content": "<div><p>Coming from the \"developer\" world, coding with loops for me is just basic ABCs. When I was faced with a situation where I needed to process the equivalent in a Canvas App, I just couldn't find anything close to a \"For While\", \"Loop until\" or similar type of function or code.</p></div><div><p>&nbsp;</p></div><div><p>So, I figured the best approach would be to build a sample screen where I'd demonstrate the way to get this working for any \"Citizen Developer\" to be able to implement such a feature when they come in need of processing a functionality multiple times in a row.</p><p>&nbsp;</p><p>More details in my blog:&nbsp;<a href=\"https://powerdiver.blogspot.com/2019/07/loop-in-canvas-app-dive-in-from.html\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">https://powerdiver.blogspot.com/2019/07/loop-in-canvas-app-dive-in-from.html</a></p><p>&nbsp;</p></div><p>&nbsp;</p><p><span class=\"videoUrl\">watch?v=apFIRmk-y4g&amp;t</span></p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-design-patterns-from-mr-dang-part-2.md",
+      "title": "Design Patterns from Mr. Dang (Part 2)",
+      "excerpt": "Formativ_ is an app I showcased during an Open House livestream I held a few months ago: https://www.youtube.com/watch?v=Qbl4MujHB9U During the",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-design-patterns-from-mr-dang-part-2/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-design-patterns-from-mr-dang-part-2/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Design-Patterns-from-Mr-Dang-Part-2/td-p/198929",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Mr-Dang-MSFT",
+            "type": "profile",
+            "name": "Mr-Dang-MSFT"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/70/2/formativ_.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-01-01T09:50:00-08:00",
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/70/1/Screenshot%20(49).png",
+          "width": 4500,
+          "height": 3000,
+          "isCached": true
+        }
+      ],
+      "content": "<p>Formativ_ is an app I showcased during an Open House livestream I held a few months ago:</p>\r\n<p><a href=\"https://www.youtube.com/watch?v=Qbl4MujHB9U\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://www.youtube.com/watch?v=Qbl4MujHB9U</a></p>\r\n<p>&nbsp;</p>\r\n<p>During the livestream, I showed some of the patterns I had in the app, but the app was not as complete for sharing yet.</p>\r\n<p>&nbsp;</p>\r\n<p>Most of the app functionality is complete now. I am sharing its current form so you can see some patterns&nbsp;inside.</p>\r\n<p>&nbsp;</p>\r\n<p>The big idea with the formativ_ app is to take existing&nbsp;questions&nbsp;I have in a spreadsheet and make it into a form, rather than repeating that content in another service. Previously, I would redo questions I wanted to ask one by one in another online service.&nbsp;This takes a lot of time and copy pasting.</p>\r\n<p>&nbsp;</p>\r\n<p>Creating an app would allow me to have a nice interface for users to respond to questions. And the neat thing about PowerApps is I can edit my questions from the spreadsheet or within the UI of the app. I work where I'm comfortable.</p>\r\n<p><span style=\"font-family: inherit;\"><span class=\"lia-inline-image-display-wrapper lia-image-align-center\" image-alt=\"Screenshot (49).png\" style=\"width: 999px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/46941i87CFCA880F8E0C8B/image-size/large?v=1.0&amp;px=999\" title=\"Screenshot (49).png\" alt=\"Screenshot (49).png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/46941i87CFCA880F8E0C8B?v=1.0\" li-image-display-id=\"'46941i87CFCA880F8E0C8B'\" li-message-uid=\"'198929'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></span></p>\r\n<p>&nbsp;</p>\r\n<p>Across the app, I use SVG images.&nbsp;This lets me add effects like drop shadow and gradients. The icons I use are consistent in style and minimal.</p>\r\n<p><span style=\"font-family: inherit;\"><span class=\"lia-inline-image-display-wrapper lia-image-align-center\" image-alt=\"Screenshot (50).png\" style=\"width: 999px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/46943iA36595C90B7FACD6/image-size/large?v=1.0&amp;px=999\" title=\"Screenshot (50).png\" alt=\"Screenshot (50).png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/46943iA36595C90B7FACD6?v=1.0\" li-image-display-id=\"'46943iA36595C90B7FACD6'\" li-message-uid=\"'198929'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></span></p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>The app has logic built in to autosave.&nbsp;As the user is creating or editing a form/quiz, their changes are saved immediately. As a user is responding to a form or quiz, their responses are saved immediately. This avoids situations where a browser is accidentally closed and progress is lost.</p>\r\n<p><span class=\"lia-inline-image-display-wrapper lia-image-align-center\" image-alt=\"Screenshot (54).png\" style=\"width: 999px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/46939iCD6265AA680BFA6E/image-size/large?v=1.0&amp;px=999\" title=\"Screenshot (54).png\" alt=\"Screenshot (54).png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/46939iCD6265AA680BFA6E?v=1.0\" li-image-display-id=\"'46939iCD6265AA680BFA6E'\" li-message-uid=\"'198929'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>While the purpose of the app is to use spreadsheets in harmony with PowerApps, I made a UI to make form/quiz creation to be easier in the app space itself.&nbsp;This interface includes a couple of features I want to call out:</p>\r\n<ul>\r\n<li>reordering records in a collection</li>\r\n<li>duplicating a record in a collection</li>\r\n<li>adapting the content in each row of a gallery depending on what type it is</li>\r\n<li>copy-pasting a column of choices and having it split itself apart into different rows</li>\r\n<li>jump to a question</li>\r\n<li>apply autoheight to a text input box</li>\r\n</ul>\r\n<p><span class=\"lia-inline-image-display-wrapper lia-image-align-center\" image-alt=\"Screenshot (55).png\" style=\"width: 999px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/46944i4E366C0CF9A72984/image-size/large?v=1.0&amp;px=999\" title=\"Screenshot (55).png\" alt=\"Screenshot (55).png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/46944i4E366C0CF9A72984?v=1.0\" li-image-display-id=\"'46944i4E366C0CF9A72984'\" li-message-uid=\"'198929'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p>\r\n<p>&nbsp;&nbsp;&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>Existing quizzes and forms can be searched and revised.</p>\r\n<p><span style=\"font-family: inherit;\"><span class=\"lia-inline-image-display-wrapper lia-image-align-center\" image-alt=\"Screenshot (51).png\" style=\"width: 999px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/46942i606E20DD1AE2A4CA/image-size/large?v=1.0&amp;px=999\" title=\"Screenshot (51).png\" alt=\"Screenshot (51).png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/46942i606E20DD1AE2A4CA?v=1.0\" li-image-display-id=\"'46942i606E20DD1AE2A4CA'\" li-message-uid=\"'198929'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></span></p>\r\n<p>&nbsp;&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>On the Play screen, you can see how I use an accordion to show each session the user has started for a given form.</p>\r\n<p><span class=\"lia-inline-image-display-wrapper lia-image-align-center\" image-alt=\"Screenshot (52).png\" style=\"width: 999px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/46940i342AF462CBF4FAA8/image-size/large?v=1.0&amp;px=999\" title=\"Screenshot (52).png\" alt=\"Screenshot (52).png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/46940i342AF462CBF4FAA8?v=1.0\" li-image-display-id=\"'46940i342AF462CBF4FAA8'\" li-message-uid=\"'198929'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>The app is used for both experiences of creating and responding to forms and quizzes. Unique to PowerApps is the ability to include an ink control. I did not put in logic to save the image back to OneDrive, as I leave that up to you to save image content to the service of your choice.&nbsp;<a href=\"/t5/user/viewprofilepage/user-id/6096\">@timl</a>&nbsp;can help explain how to have images saved to your OneDrive from the same spreadsheet.</p>\r\n<p><span style=\"font-family: inherit;\"><span class=\"lia-inline-image-display-wrapper lia-image-align-center\" image-alt=\"Screenshot (56).png\" style=\"width: 999px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/46945i89FD2BD21E58B768/image-size/large?v=1.0&amp;px=999\" title=\"Screenshot (56).png\" alt=\"Screenshot (56).png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/46945i89FD2BD21E58B768?v=1.0\" li-image-display-id=\"'46945i89FD2BD21E58B768'\" li-message-uid=\"'198929'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></span></p>\r\n<p>&nbsp;</p>\r\n<p>And as a bonus, the app can be translated. You can see a method of gathering text across the app and translating it. You'll also find that I've worked in tabbing for accessibility.</p>\r\n<p><span style=\"font-family: inherit;\"><span class=\"lia-inline-image-display-wrapper lia-image-align-center\" image-alt=\"Screenshot (53).png\" style=\"width: 999px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/46938iF8E2D746B408218E/image-size/large?v=1.0&amp;px=999\" title=\"Screenshot (53).png\" alt=\"Screenshot (53).png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/46938iF8E2D746B408218E?v=1.0\" li-image-display-id=\"'46938iF8E2D746B408218E'\" li-message-uid=\"'198929'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></span></p>\r\n<p>&nbsp;</p>\r\n<p><span style=\"font-family: inherit;\">I am sharing this app with you sooner rather than later. Much of it is complete, but there is a lot that is open for you to implement on your own.&nbsp;</span></p>\r\n<p>&nbsp;</p>\r\n<p><span style=\"font-family: inherit;\">Here's some ideas to get you started:</span></p>\r\n<ul>\r\n<li><span style=\"font-family: inherit;\">implement date, datetime, ratings, etc.&nbsp;</span></li>\r\n<li>create a theme selector for high contrast modes and dark mode</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>Instructions</p>\r\n<ol>\r\n<li>Download the msapp file and this excel sheet:<br><a href=\"https://8bitblob.blob.core.windows.net/powerapps/formativ_.xlsx\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://8bitblob.blob.core.windows.net/powerapps/formativ_.xlsx</a></li>\r\n<li>Move the Excel sheet to your OneDrive</li>\r\n<li>Open create.powerapps.com</li>\r\n<li>File &gt; Open &gt; Browse for the msapp file</li>\r\n<li>View &gt; Datasources &gt; remove all tables from OneDrive so you can add your own.</li>\r\n<li>Add all the tables from the Excel sheet in step 2 (using OneDrive or Dropbox)</li>\r\n<li>Try it out.</li>\r\n</ol>\r\n\r\n",
       "type": "download",
       "topics": [
         "Power Apps"
@@ -651,7 +498,7 @@
         }
       ],
       "publishedDateTime": "2020-02-06T09:41:00-08:00",
-      "heat": 59,
+      "heat": 60,
       "images": [
         {
           "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/423/1/Main.jpg",
@@ -661,6 +508,210 @@
         }
       ],
       "content": "<p><span class=\"lia-inline-image-display-wrapper lia-image-align-center\" image-alt=\"bc.png\" style=\"width: 400px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/116001i96B977DD00C497DF/image-size/medium?v=1.0&amp;px=400\" title=\"bc.png\" alt=\"bc.png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/116001i96B977DD00C497DF?v=1.0\" li-image-display-id=\"'116001i96B977DD00C497DF'\" li-message-uid=\"'463649'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p><p><span>&nbsp; &nbsp; &nbsp;This app shows you how to extract data from a drivers license barcode. There is an incredible amount of data in every drivers license; being able to collect it has many purposes. From HR on-boarding to event registration and check in, the possibilities are nearly endless.</span></p><p>&nbsp; &nbsp; &nbsp;There isn't a lot to this app. Each value has it's own Match() function to build the data collection. In the example below you can see that the abbreviation \"DAA\" matches the \"Full Name\" value, so I use a regular expression to find that value and add it to the collection.</p><p>&nbsp;</p><pre class=\"lia-code-sample language-c\"><code>{Value: First(Match(LicenseData,\"\\n\" &amp; \"DAA\" &amp; \"(.+)\\n\",MatchOptions.Contains).SubMatches), Description: \"Full Name\" },</code></pre><p>&nbsp;</p><p>Special thanks to this post that had the abbreviations for all the data explained.</p><p><a href=\"https://blog.dynamsoft.com/imaging/extract-data-pdf417-driver-licenses/\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">https://blog.dynamsoft.com/imaging/extract-data-pdf417-driver-licenses/</a></p><p>&nbsp;</p><p>Download the app, scan your license (or the sample license barcode attached) and let me know some use cases you can think of!</p><p>Thank you!</p><p>Eric</p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-posting-adaptive-card-to-teamsuser-from-power-apps.md",
+      "title": "Posting Adaptive Card to Teams/User from Power Apps",
+      "excerpt": "This app allow you to send Adaptive Card to Teams channel or User directly from Power Apps. Overview So far, sending Adaptive Cards from Power",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-posting-adaptive-card-to-teamsuser-from-power-apps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-posting-adaptive-card-to-teamsuser-from-power-apps/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Posting-Adaptive-Card-to-Teams-User-from-Power-Apps/td-p/571127",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "h-nagao",
+            "type": "profile",
+            "name": "h-nagao"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/534/2/Send%20Adaptive%20Cards.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2020-05-24T17:33:00-07:00",
+      "heat": 59,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/534/1/TitlePage.png",
+          "width": 1568,
+          "height": 709,
+          "isCached": true
+        }
+      ],
+      "content": "<p><font size=\"5\">This app allow you to send Adaptive Card to Teams channel or User directly from Power Apps.</font></p><p>&nbsp;</p><p><strong><font size=\"5\">Overview</font></strong></p><p>So far, sending Adaptive Cards from Power Automate have been well known, and used for a survey.</p><p>To collect response data from Team members, we need a workaround using \"Apply to each\", since Post Adaptive Card action in flow is finished when a team member submit their response - not allowed&nbsp; submit multiple response from one AC.</p><p>&nbsp;</p><p>Using the technique, direct post from Power Apps, you can <strong>set an arbitrary URL to send response data,</strong> so it makes available to submit data from one AC in Teams channel.</p><p>&nbsp;</p><p>In this sample app, Adaptive Card like survey form with single-line answers will be posted.</p><p>&nbsp;</p><p>&nbsp;<span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"survey.png\" style=\"width: 400px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/145618iEBC79943A844C382/image-size/medium?v=1.0&amp;px=400\" title=\"survey.png\" alt=\"survey.png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/145618iEBC79943A844C382?v=1.0\" li-image-display-id=\"'145618iEBC79943A844C382'\" li-message-uid=\"'571127'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p><p><font size=\"5\"><strong>Note</strong></font></p><p>To collect response data, it is required to build a flow with HTTP trigger, which URL will be used to receive response from AC.</p><p><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"automate.png\" style=\"width: 400px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/145608i9552DE38AB4A7EDA/image-size/medium?v=1.0&amp;px=400\" title=\"automate.png\" alt=\"automate.png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/145608i9552DE38AB4A7EDA?v=1.0\" li-image-display-id=\"'145608i9552DE38AB4A7EDA'\" li-message-uid=\"'571127'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p><p>&nbsp;</p><p><font size=\"5\"><strong>How-to use</strong></font></p><ol><li>Go to Power Apps Studio, and Open (Ctrl+O) &gt; Browse Files &gt; select Send Adaptive Cards.msapp, which you downloaded from this page.</li><li>Allow to use your connection</li><li>Navigate \"Config\" screen, and set your flow url to Label text : flowURL</li><li>Test it!</li></ol><p><font size=\"5\"><strong>Demo</strong></font></p><p>&nbsp;</p><p><div class=\"video-embed-center video-embed\"><iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F-giwGM5w4wM%3Ffeature%3Doembed&amp;display_name=YouTube&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D-giwGM5w4wM&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F-giwGM5w4wM%2Fhqdefault.jpg&amp;key=fad07bfa4bd747d3bdea27e17b533c0e&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"400\" height=\"225\" scrolling=\"no\" title=\"YouTube embed\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen=\"true\"></iframe></div><p>&nbsp;</p><p>Any feedback will be appreciated <img class=\"lia-deferred-image lia-image-emoji\" src=\"/html/emoticons/1f642.png\" alt=\":slightly_smiling_face:\" title=\":slightly_smiling_face:\"></p><p>&nbsp;</p><p>Thank you!</p><p>&nbsp;</p><p>Hiro</p><p>&nbsp;</p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-fancy-background-animations-in-powerapps.md",
+      "title": "Fancy background animations in PowerApps",
+      "excerpt": "Solved: I prepared a stunning animation that gives your PowerApps app a lot attention. The animation consists of a background gradient with a smooth",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-fancy-background-animations-in-powerapps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-fancy-background-animations-in-powerapps/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Fancy-background-animations-in-PowerApps/td-p/269339",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Takuma",
+            "type": "profile",
+            "name": "Takuma"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/165/2/%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB-%E3%82%B0%E3%83%A9%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E8%83%8C%E6%99%AF%E3%82%A2%E3%83%97%E3%83%AA.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-04-17T11:51:00-07:00",
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/165/1/%E3%82%AD%E3%83%A3%E3%83%97%E3%83%81%E3%83%A32.PNG",
+          "width": 433,
+          "height": 755,
+          "isCached": true
+        }
+      ],
+      "content": "<p>I prepared a stunning animation that gives your PowerApps app a lot attention.</p><p>&nbsp;</p><p>The animation consists of a background gradient with a smooth transition. Below there are multiple waves sliding from left to right.</p><p>This sample consists of HTML control and timer control.</p><p>&nbsp;</p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-powerapps-event-management-app.md",
+      "title": "PowerApps Event Management App",
+      "excerpt": "An Event Management App my boss and I created for use on our company SharePoint. Users can register for events and admins can add or edit events. It",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-powerapps-event-management-app/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-powerapps-event-management-app/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/PowerApps-Event-Management-App/td-p/748734",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "jready",
+            "type": "profile",
+            "name": "jready"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/682/1/EventApp.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2020-11-17T05:02:00-08:00",
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com/t5/image/serverpage/image-id/197954iC88D30D8B1735AD3/image-size/large?v=v2&px=999",
+          "width": 999,
+          "height": 434,
+          "isCached": true
+        }
+      ],
+      "content": "<p>An Event Management App my boss and I created for use on our company SharePoint. Users can register for events and admins can add or edit events. It gets the data from 3 SharePoint list: Event List, Event Registration, and Event Admins. We have created some simple PowerApps before for request ticket purposes but this is the most complex PowerApp we've tasked ourselves to create to make life easier for our users. Again we are pretty new to PowerApps so please be kind in your comments.&nbsp;<img class=\"lia-deferred-image lia-image-emoji\" src=\"/html/@C2A1BD39720FDEF4FA5A23332CD7D327/emoticons/1f642.png\" alt=\":slightly_smiling_face:\" title=\":slightly_smiling_face:\"></p><p>&nbsp;</p><p><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"jready_0-1605646319956.png\" style=\"width: 616px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/197948iCCC34B8155275B66/image-dimensions/616x302?v=v2\" width=\"616\" height=\"302\" role=\"button\" title=\"jready_0-1605646319956.png\" alt=\"jready_0-1605646319956.png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/197948iCCC34B8155275B66?v=v2\" li-image-display-id=\"'197948iCCC34B8155275B66'\" li-message-uid=\"'748734'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p><p>&nbsp;</p><p><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"jready_1-1605646393115.png\" style=\"width: 618px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/197951iFA5774C34BEDC2D4/image-dimensions/618x372?v=v2\" width=\"618\" height=\"372\" role=\"button\" title=\"jready_1-1605646393115.png\" alt=\"jready_1-1605646393115.png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/197951iFA5774C34BEDC2D4?v=v2\" li-image-display-id=\"'197951iFA5774C34BEDC2D4'\" li-message-uid=\"'748734'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p><p>&nbsp;</p><p><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"jready_2-1605646429094.png\" style=\"width: 613px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/197952i9B50910C53B12F5B/image-dimensions/613x383?v=v2\" width=\"613\" height=\"383\" role=\"button\" title=\"jready_2-1605646429094.png\" alt=\"jready_2-1605646429094.png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/197952i9B50910C53B12F5B?v=v2\" li-image-display-id=\"'197952i9B50910C53B12F5B'\" li-message-uid=\"'748734'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-upload-tag-multiple-file-attachments-with-power-apps.md",
+      "title": "Upload & tag multiple file attachments with Power Apps",
+      "excerpt": "In this Microsoft PowerApps video, we will upload multiple files, tag and validate each file independently and upload to SharePoint list. This",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-upload-tag-multiple-file-attachments-with-power-apps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-upload-tag-multiple-file-attachments-with-power-apps/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Upload-amp-tag-multiple-file-attachments-with-Power-Apps/td-p/650284",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "RezaDorrani",
+            "type": "profile",
+            "name": "RezaDorrani"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/596/1/Tag%20Multiple%20Files.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2020-08-06T02:57:00-07:00",
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com/t5/image/serverpage/image-id/167626iB23371B6C2BCBA44/image-size/large?v=1.0&px=999",
+          "width": 999,
+          "height": 562,
+          "isCached": true
+        }
+      ],
+      "content": "<p><span>In this Microsoft PowerApps video, we will upload multiple files, tag and validate each file independently and upload to SharePoint list. </span></p>\r\n<p>&nbsp;</p>\r\n<p><span>This technique can be leveraged to upload multiple files to any data source of choice. </span></p>\r\n<p>&nbsp;</p>\r\n<p><span>Download the sample App which also includes the flow from the link below: </span></p>\r\n<p><span><a href=\"https://github.com/rdorrani/PowerApps/blob/master/TagMultipleFiles_20200803223836.zip\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://github.com/rdorrani/PowerApps/blob/master/TagMultipleFiles_20200803223836.zip </a></span></p>\r\n<p>&nbsp;</p>\r\n<p><span>#PowerApps #SharePoint #UploadMultipleFiles #AttachmentControl</span></p>\r\n<p>&nbsp;</p>\r\n<p><span>--------------------------------------------------------------------------------<br>Thanks,<br>Reza Dorrani, MVP<br><a href=\"https://www.youtube.com/c/rezadorrani\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">YouTube</a><br><a href=\"https://twitter.com/rezadorrani\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Twitter</a></span></p>\r\n<p>&nbsp;</p>\r\n<p><span class=\"videoUrl hidden\">watch?v=r3UC3TMXhlI</span></p>\r\n\r\n",
       "type": "download",
       "topics": [
         "Power Apps"
@@ -702,7 +753,7 @@
         }
       ],
       "publishedDateTime": "2019-02-19T22:41:00-08:00",
-      "heat": 58,
+      "heat": 56,
       "images": [
         {
           "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/112/1/calendar_thumnail.PNG",
@@ -753,7 +804,7 @@
         }
       ],
       "publishedDateTime": "2019-10-01T01:23:00-07:00",
-      "heat": 56,
+      "heat": 55,
       "images": [
         {
           "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/257/1/eyecatch.PNG",
@@ -804,7 +855,7 @@
         }
       ],
       "publishedDateTime": "2019-01-02T02:19:00-08:00",
-      "heat": 56,
+      "heat": 55,
       "images": [
         {
           "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/71/1/eventapp.JPG",
@@ -814,57 +865,6 @@
         }
       ],
       "content": "<p>Hello,<br><br>inspired by a video by Audrie Gordon (<a href=\"https://www.youtube.com/watch?v=1rsyyYiI4sU\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">https://www.youtube.com/watch?v=1rsyyYiI4sU</a>) and by a few conversations with Martin Lee and a few people in my organization, I decided to develop a PowerApps template for attendees of a conference.<br>The template covers two use cases:<br><br>1. On the day of the event, for attendees to view the agenda, speakers, refreshment and transport options, provide feedback on sessions etc<br>2. If you're a member of a network at work, the second app would allow you to view events upcoming for that group/network, learn about opportunities etc. This could be enhanced to volunteer to speak, or suggest events.</p>\r\n<p><br>All data in the template, including the navigation options, is coming from collections set in the OnVisible event of the first screens. The company colors are also set in the OnVisible event of the first screen.<br><br>Here are some screenshots of the app:</p>\r\n<p><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"Network Events List and Registration\" style=\"width: 503px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/47153i635ECE4EE6153F8D/image-size/large?v=1.0&amp;px=999\" title=\"event3.JPG\" alt=\"Network Events List and Registration\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/47153i635ECE4EE6153F8D?v=1.0\" li-image-display-id=\"'47153i635ECE4EE6153F8D'\" li-message-uid=\"'199250'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"><span class=\"lia-inline-image-caption\" onclick=\"event.preventDefault();\">Network Events List and Registration</span></span><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"Network Events Home Screen\" style=\"width: 502px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/47152i823EE37D1231AD50/image-size/large?v=1.0&amp;px=999\" title=\"event2.JPG\" alt=\"Network Events Home Screen\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/47152i823EE37D1231AD50?v=1.0\" li-image-display-id=\"'47152i823EE37D1231AD50'\" li-message-uid=\"'199250'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"><span class=\"lia-inline-image-caption\" onclick=\"event.preventDefault();\">Network Events Home Screen</span></span><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"Speakers List\" style=\"width: 506px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/47155iA665A159453313CF/image-size/large?v=1.0&amp;px=999\" title=\"eventpeople.JPG\" alt=\"Speakers List\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/47155iA665A159453313CF?v=1.0\" li-image-display-id=\"'47155iA665A159453313CF'\" li-message-uid=\"'199250'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"><span class=\"lia-inline-image-caption\" onclick=\"event.preventDefault();\">Speakers List</span></span><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"Agenda\" style=\"width: 504px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/47154i84572E1E08FAE419/image-size/large?v=1.0&amp;px=999\" title=\"eventagenda.JPG\" alt=\"Agenda\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/47154i84572E1E08FAE419?v=1.0\" li-image-display-id=\"'47154i84572E1E08FAE419'\" li-message-uid=\"'199250'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"><span class=\"lia-inline-image-caption\" onclick=\"event.preventDefault();\">Agenda</span></span><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"Managers Conference Home Screen\" style=\"width: 321px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/47156i6656F3BAA6B5B0D8/image-size/large?v=1.0&amp;px=999\" title=\"eventapp.JPG\" alt=\"Managers Conference Home Screen\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/47156i6656F3BAA6B5B0D8?v=1.0\" li-image-display-id=\"'47156i6656F3BAA6B5B0D8'\" li-message-uid=\"'199250'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"><span class=\"lia-inline-image-caption\" onclick=\"event.preventDefault();\">Managers Conference Home Screen</span></span></p>\r\n\r\n",
-      "type": "download",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_samples/power-apps-community-exception-handling-for-power-apps-on-form-path-and-ad-level.md",
-      "title": "Exception Handling for Power Apps on Form, Path and AD level",
-      "excerpt": "In this App, I have coved the exception handling for the most common exceptions in Power Apps. They are: 1. Form Submission exceptions 2. Patch",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-exception-handling-for-power-apps-on-form-path-and-ad-level/index.json",
-      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-exception-handling-for-power-apps-on-form-path-and-ad-level/",
-      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Exception-Handling-for-Power-Apps-on-Form-Path-and-AD-level/td-p/695097",
-      "provider": {
-        "name": "Power Apps Community",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "KrishnaV",
-            "type": "profile",
-            "name": "KrishnaV"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/647/1/Exceptional%20Handling%20in%20Power%20Apps.msapp",
-          "type": "download",
-          "title": "Download Source Code",
-          "attribution": "Power Apps Community"
-        }
-      ],
-      "publishedDateTime": "2020-09-21T09:08:00-07:00",
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://powerusers.microsoft.com/t5/image/serverpage/image-id/181118i2ACF964369F7923D/image-size/large?v=1.0&px=999",
-          "width": 999,
-          "height": 562,
-          "isCached": true
-        }
-      ],
-      "content": "<p>In this App, I have coved the exception handling for the most common exceptions in Power Apps.</p>\r\n<p>They are:<br>1. Form Submission exceptions</p>\r\n<p>2. Patch Exception</p>\r\n<p>3. Exception while reading the Manager details from Azure AD</p>\r\n<p>&nbsp;</p>\r\n<p>You can download the app from my GitHub repository:&nbsp;<a href=\"https://github.com/krishnaVSU2020/Exception-Handling\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://github.com/krishnaVSU2020/Exception-Handling</a></p>\r\n<p>&nbsp;</p>\r\n<p><span>Import the App using the \"Import canvas App\" option available in the Apps left navigation menu of&nbsp;</span><a href=\"https://make.powerapps.com/\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer noopener noreferrer noopener noreferrer\">https://make.powerapps.com/&nbsp;</a>and add a SharePoint list to ensure that Datasource connectivity.</p>\r\n<p>&nbsp;</p>\r\n<p><a title=\"Youtube\" href=\"https://www.youtube.com/channel/UCSgIFohPw6WJLXkifIPOdNg\" target=\"_self\" rel=\"nofollow noreferrer noopener noreferrer\">Youtube</a>&nbsp;|&nbsp;<a title=\"Twitter\" href=\"https://twitter.com/KrishnaShp\" target=\"_self\" rel=\"nofollow noopener noreferrer noopener noreferrer\">Twitter</a>&nbsp;| <a title=\"GitHub\" href=\"https://github.com/krishnaVSU2020?tab=repositories\" target=\"_self\" rel=\"nofollow noopener noreferrer\">GitHub</a></p>\r\n<p><span class=\"videoUrl hidden\">watch?v=_4Ac7DtXR20</span></p>\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\r\n\t\t\t\r\n\t\t\t\t<div class='UserSignature lia-message-signature'>\r\n\t<br><div class=\"UserSignature lia-message-signature\"><div style=\"border-radius: 1px; padding: 10px; border: solid #CCCCCC 1px; background: #fafafa url('https://powerusers.microsoft.com/html/rank_icons/Power_Apps_Super_User_30x30.png')  no-repeat right 10px center; background-size: auto 25%;\">I hope this resolved your issue if you see any challenge/need further help please let me know I am <strong>always happy</strong> to do it for my community.<p class=\"lia-align-center\"><u><strong>Proud to be a Super User!</strong></u></p>Regards,<br>KrishnaV <br>If this post helps you <strong>give a</strong> <img class=\"lia-deferred-image lia-image-emoji\" src=\"/html/emoticons/1f44d.png\" alt=\":thumbs_up:\" title=\":thumbs_up:\"> and if it solved your issue consider <strong>Accept it as the solution</strong> to help the other members / new members of the community.</div></div>\r\n</div>\r\n\r\n",
       "type": "download",
       "topics": [
         "Power Apps"
@@ -906,7 +906,7 @@
         }
       ],
       "publishedDateTime": "2019-11-30T08:40:00-08:00",
-      "heat": 56,
+      "heat": 55,
       "images": [
         {
           "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/332/1/PowerApps%20Champ.png",
@@ -957,7 +957,7 @@
         }
       ],
       "publishedDateTime": "2019-05-25T08:36:00-07:00",
-      "heat": 55,
+      "heat": 54,
       "images": [
         {
           "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/186/1/2019-05-25_23h15_51.png",
@@ -1008,7 +1008,7 @@
         }
       ],
       "publishedDateTime": "2020-04-26T10:01:00-07:00",
-      "heat": 55,
+      "heat": 54,
       "images": [
         {
           "url": "https://powerusers.microsoft.com/t5/image/serverpage/image-id/180100i527A243A242BE7BB/image-size/large?v=1.0&px=999",
@@ -1024,12 +1024,12 @@
       ]
     },
     {
-      "path": "_samples/power-apps-community-powerfont.md",
-      "title": "PowerFont",
-      "excerpt": "A PowerApp example of using custom fonts with the help of SVGs More info at: https://www.powernimbus.com/2019/04/using-custom-fonts-in-powerapps/",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-powerfont/index.json",
-      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-powerfont/",
-      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/PowerFont/td-p/272163",
+      "path": "_samples/power-apps-community-power-app-store.md",
+      "title": "Power App Store",
+      "excerpt": "This demo is a proof of concept/template for adding an app store to a Power App as well as a simple SharePoint-based file viewer with dynamic icons.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-power-app-store/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-power-app-store/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Power-App-Store/td-p/442805",
       "provider": {
         "name": "Power Apps Community",
         "domain": "microsoft.com",
@@ -1044,43 +1044,43 @@
         "authors": [
           {
             "path": "",
-            "title": "Eickhel",
+            "title": "wyotim",
             "type": "profile",
-            "name": "Eickhel"
+            "name": "wyotim"
           }
         ]
       },
       "actions": [
         {
-          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/173/2/PowerFont.msapp",
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/390/3/Power%20App%20Store%20Demo.msapp",
           "type": "download",
           "title": "Download Source Code",
           "attribution": "Power Apps Community"
         }
       ],
-      "publishedDateTime": "2019-04-23T17:09:00-07:00",
-      "heat": 55,
+      "publishedDateTime": "2020-01-11T05:16:00-08:00",
+      "heat": 54,
       "images": [
         {
-          "url": "https://powerusers.microsoft.com/t5/image/serverpage/image-id/180102iCD205EC4F2E81A49/image-size/large?v=1.0&px=999",
-          "width": 999,
-          "height": 332,
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/390/1/PowerAppStore.png",
+          "width": 1600,
+          "height": 900,
           "isCached": true
         }
       ],
-      "content": "<p>A PowerApp example of using custom fonts with the help of SVGs</p>\r\n<p><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"PowerFont.png\" style=\"width: 999px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/62248iA6573B46FDEE4CFA/image-size/large?v=1.0&amp;px=999\" title=\"PowerFont.png\" alt=\"PowerFont.png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/62248iA6573B46FDEE4CFA?v=1.0\" li-image-display-id=\"'62248iA6573B46FDEE4CFA'\" li-message-uid=\"'272163'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p>\r\n<p>&nbsp;</p>\r\n<p>More info at:</p>\r\n<p><a href=\"https://www.powernimbus.com/2019/04/using-custom-fonts-in-powerapps/\" target=\"_self\" rel=\"nofollow noopener noreferrer\">https://www.powernimbus.com/2019/04/using-custom-fonts-in-powerapps/</a></p>\r\n\r\n",
+      "content": "<p><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"PowerAppStore.png\" style=\"width: 999px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/110341i6FB3A9450EF04664/image-size/large?v=1.0&amp;px=999\" title=\"PowerAppStore.png\" alt=\"Power App Store\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/110341i6FB3A9450EF04664?v=1.0\" li-image-display-id=\"'110341i6FB3A9450EF04664'\" li-message-uid=\"'442805'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"><span class=\"lia-inline-image-caption\" onclick=\"event.preventDefault();\">Power App Store</span></span></p>\r\n<p>This demo is a proof of concept/template for adding an app store to a Power App as well as a simple SharePoint-based file viewer with dynamic icons.</p>\r\n<p>&nbsp;</p>\r\n<p>\"But why an app store?\" you ask? Several years ago when I first embarked on the digital initiative for the company I work for, I was doing the initial roll-out of computers and new digital forms for our supervisor staff. This training was completely derailed due to my lack of preparation into how basic I would need to go and how wide the knowledge gap truly was. Some of them had zero experience with a computer at all! Needless to say, this changed the way I think about what 'ease of use' really is and what components need to be added to for a diverse user group.</p>\r\n<p>&nbsp;</p>\r\n<p>This app is a direct result of that lesson. When rolling out a company-wide employee portal app, which would include access to a variety of documents among other information, I realized that many of our employees probably don't have much experience with Office applications like Word or Excel and, as such, likely don't have them on their phones. Because of the diverse geography of our work crews and difficulty in scheduling trainings for all of them at once, I decided the best solution was two parts: first, having icons for the documents to easily identify their type and, second, to have a way for them to obtain the apps for those documents easily and within the app. This demo contains both of those parts.</p>\r\n<p>&nbsp;</p>\r\n<p>In closing, I hope that this is of some use to the Power Apps community and that my gaffs can help your users have a wonderful experience, regardless of their technological experience level! If I can expound on this app or answer any questions about it, feel free to find me here on the official Power Apps forums (<a href=\"/t5/user/viewprofilepage/user-id/6679\">@wyotim</a>) or on Twitter (<a href=\"https://twitter.com/ShortForTim\" target=\"_self\" rel=\"nofollow noopener noreferrer\">@ShortForTim</a>)</p>\r\n\r\n",
       "type": "download",
       "topics": [
         "Power Apps"
       ]
     },
     {
-      "path": "_samples/power-apps-community-responsive-design-template.md",
-      "title": "Responsive Design Template",
-      "excerpt": "In the following post, I explain the three attached companion apps/components. I use the two components to design a fully responsive app, the Sample",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-responsive-design-template/index.json",
-      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-responsive-design-template/",
-      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Responsive-Design-Template/td-p/417884",
+      "path": "_samples/power-apps-community-random-password-generator.md",
+      "title": "Random Password Generator",
+      "excerpt": "This app generates random password with user specified condition - character type, length, and allowed symbol. All essential expression is in App",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-random-password-generator/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-random-password-generator/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Random-Password-Generator/td-p/840107",
       "provider": {
         "name": "Power Apps Community",
         "domain": "microsoft.com",
@@ -1095,43 +1095,43 @@
         "authors": [
           {
             "path": "",
-            "title": "KickingApps",
+            "title": "h-nagao",
             "type": "profile",
-            "name": "KickingApps"
+            "name": "h-nagao"
           }
         ]
       },
       "actions": [
         {
-          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/339/4/screenSimulator.msapp",
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/761/1/RandomPasswdGenerator.msapp",
           "type": "download",
           "title": "Download Source Code",
           "attribution": "Power Apps Community"
         }
       ],
-      "publishedDateTime": "2019-12-02T22:59:00-08:00",
-      "heat": 55,
+      "publishedDateTime": "2021-02-24T22:34:00-08:00",
+      "heat": 54,
       "images": [
         {
-          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/339/6/Screen%20Shot%202020-05-06%20at%208.08.02%20PM.png",
-          "width": 543,
-          "height": 41,
+          "url": "https://powerusers.microsoft.com/t5/image/serverpage/image-id/228682iB14B98A3B463D5CB/image-size/large?v=v2&px=999",
+          "width": 898,
+          "height": 866,
           "isCached": true
         }
       ],
-      "content": "<p class=\"p1\">In the following post, I explain the three attached companion apps/components.&nbsp; I use the two components to design a fully responsive app, the Sample app is simply a reference tool.</p><p class=\"p1\"><br>When responsive design was announced as a feature in PowerApps, I could hardly wait to dig in and start creating. When I did, however, I found the process quite challenging. Without a visual reference, the need to continually&nbsp;<i>Save and Publish</i> the app in order to view and test the layout was a pain. With that in mind, I created the the scrnSimulator (component). The idea is to visually see how things will look for a preselected screen layout. Additionally, while researching responsive design, I stumbled upon responsive, fluid grids and thought it would be a great companion to the screen simulator. Below I do my best to describe each.</p><ul><li><font color=\"#800000\"><u><strong>Screen Simulator Component</strong></u>&nbsp;</font>- Mimic the various screen sizes I am designing for - primarily used as a visual reference and guide for determining dynamic height values of controls and Y positioning.&nbsp;</li></ul><p class=\"p1\">I have found the most effective method for utilizing this template is to have the template open in one window and the actual app I am creating open in another. I use the template to create my&nbsp;<strong>layout</strong>. Once I am satisfied with the layout of controls, I:</p><p class=\"p1\">1)'code' the&nbsp;property&nbsp;values into my actual app (for the selected screen size)</p><p class=\"p1\">2) change the size of my template</p><p class=\"p1\">3) re-order the controls so they fit the new screen size</p><p class=\"p1\">4) update the code in my app, and repeat....</p><p class=\"p1\">&nbsp;</p><p class=\"p1\"><u><strong>Y Property</strong></u></p><p class=\"p1\">To determine the Y property based on the layout, refer to lblY_Reference in the template&nbsp;</p><p class=\"p1\">The result of this calculation is I what I use to set the Y properties of the controls.</p><p class=\"p1\">&nbsp;</p><p class=\"p1\"><u><strong>Height Property</strong></u></p><p class=\"p1\">Similar to the Y Property reference, I have a<strong>&nbsp;height reference label</strong>&nbsp;to determine and calculate the dynamic height of each control. Set the value of the control in the app to the result of the height reference control in the template * App.Height.&nbsp;</p><p class=\"p1\">** When switching layouts, this can be finicky, particularly transitioning to a large layout. I have found the best way to reset the view is to navigate from the component to Screen 1 and back to component. When back in the component, select the double arrow icon (zoom) and it should reset the view.</p><p class=\"p1\">&nbsp;</p><ul><li><u><font color=\"#800000\"><strong>Fluid Grid Component -</strong></font></u><font color=\"#000000\"><strong> The&nbsp;</strong></font>Fluid&nbsp;Grid Component is comprised of&nbsp;<i>gutters</i><span>&nbsp;and&nbsp;</span><i>columns;&nbsp;</i>the values of the gutters and columns are what I use to set the 'X' property of my controls.&nbsp;<span>The width of the gutters and columns dynamically calculate as the screen size changes. The grid is meant as another design reference. I DO add this to the actual app I am creating, toggle the grid on when I need a visual reference, and remove it from the app once it is completed and moved into production (optional).&nbsp;</span></li></ul><p><span>The 'X' property of each control is determined from the output of the collection results (calculated in the 'OnChange' of the slider control). Because the slider is on the screen, not in the component, the values will 'hold' if the component is removed.</span></p><p>&nbsp;</p><ul><li><u><font color=\"#800000\"><strong>Sample App -</strong></font></u><font color=\"#000000\"><strong>&nbsp;<font color=\"#000000\">This is simply a reference for the fluid grid component. The app has 3 text inputs that default to 'C4', and '3*1'. If you toggle the grid on, you will see that, with the above values, the&nbsp;<em>Button</em>'s X value will be at column 4 and width&nbsp;<em>Button</em> = 3 columns + 1 gutter. Change the values, and you will see the button change.&nbsp; Additionally, minimize the screen and you will see the width of the columns/gutters re-calculating on the fly.</font></strong></font></li><li><font color=\"#000000\"><strong><font color=\"#000000\">Finally, I have been experimenting with fluid/responsive text. I left the text boxes I am experimenting with in the app. </font></strong></font></li></ul><p class=\"p1\">** Note - this is attached in reply below due to 3 attachment limit.&nbsp;</p><p class=\"p1\">&nbsp;</p><p class=\"p1\">Not too long ago, the #PowerAddicts interviewed&nbsp;@Foyinb and she said \"Just do the thing\". While I can \"make the thing\", \"explaining the thing\" isn't so easy :). So, with that, i<strong>f you have questions related to this template, please feel free to reach out via Twitter&nbsp; -&nbsp;</strong><a href=\"https://powerusers.microsoft.com/t5/user/viewprofilepage/user-id/16287\" target=\"_blank\" rel=\"noopener\"><span class=\"s2\"><strong>@tianaranjo</strong></span></a><strong>&nbsp;(a.k.a. kickingapps) or tianaranjo@kickingapps.onmicrosoft.com<br><br><br></strong></p>\r\n\r\n",
+      "content": "<p>This app generates random password with user specified condition - character type, length, and allowed symbol.</p><p>&nbsp;</p><p>All essential expression is in App &gt; Screen1 &gt; galPwdCandidate &gt; txtPwd &gt; Default as shown in below screenshot.</p><p>&nbsp;</p><p><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"ss.png\" style=\"width: 999px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/228683iAB654647AC13B981/image-size/large?v=v2&amp;px=999\" role=\"button\" title=\"ss.png\" alt=\"ss.png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/228683iAB654647AC13B981?v=v2\" li-image-display-id=\"'228683iAB654647AC13B981'\" li-message-uid=\"'840107'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span>&nbsp;</p><p>Also I have made user defined function using this (a bit lengthy) expression <img class=\"lia-deferred-image lia-image-emoji\" src=\"/html/@ABB3BD9E5697E6EB4701856FE37DCE30/emoticons/1f642.png\" alt=\":slightly_smiling_face:\" title=\":slightly_smiling_face:\"></p><p>You can download it from below repo.</p><p><a href=\"https://github.com/yourekittenme/powerapps-custom-functions/tree/main/custom_functions_hiro\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://github.com/yourekittenme/powerapps-custom-functions/tree/main/custom_functions_hiro</a></p>\r\n\r\n",
       "type": "download",
       "topics": [
         "Power Apps"
       ]
     },
     {
-      "path": "_samples/power-apps-community-sample-teams-demo-app.md",
-      "title": "Sample Teams Demo App",
-      "excerpt": "Join this webinar to see how PowerApps and Teams work together to create more powerful business solutions in a snap! We'll show you how to leverage",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-sample-teams-demo-app/index.json",
-      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-sample-teams-demo-app/",
-      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Sample-Teams-Demo-App/td-p/86326",
+      "path": "_samples/power-apps-community-simple-roulette-app.md",
+      "title": "Simple Roulette app",
+      "excerpt": "I have PowerApp-ize the Roulette shared from May Alhajri on Twitter. Background Math is simple; again I have used Hyperbolic Tangent If you have any",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-simple-roulette-app/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-simple-roulette-app/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Simple-Roulette-app/td-p/420440",
       "provider": {
         "name": "Power Apps Community",
         "domain": "microsoft.com",
@@ -1146,31 +1146,82 @@
         "authors": [
           {
             "path": "",
-            "title": "Audrie-MSFT",
+            "title": "h-nagao",
             "type": "profile",
-            "name": "Audrie-MSFT"
+            "name": "h-nagao"
           }
         ]
       },
       "actions": [
         {
-          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/18/4/Sample%20Teams%20App.msapp",
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/347/2/SimpleRoulette.msapp",
           "type": "download",
           "title": "Download Source Code",
           "attribution": "Power Apps Community"
         }
       ],
-      "publishedDateTime": "2018-01-31T01:38:00-08:00",
-      "heat": 55,
+      "publishedDateTime": "2019-12-05T15:29:00-08:00",
+      "heat": 54,
       "images": [
         {
-          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/18/3/teamsimage.PNG",
-          "width": 2433,
-          "height": 749,
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/347/1/PAize.png",
+          "width": 1664,
+          "height": 821,
           "isCached": true
         }
       ],
-      "content": "<p>Join this webinar to see how PowerApps and Teams work together to create more powerful business solutions in a snap! We'll show you how to leverage PowerApps within your Teams channels, and give you some new ideas on how to leverage these products together for improved team collaboration. In this demo, we create a business scenario where PowerApps helps facilitate the creation of support bridges in Microsoft Teams directly from a SharePoint List Intake Form!</p>\r\n<p>&nbsp;</p>\r\n<p>References:<br><a href=\"https://powerapps.microsoft.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://powerapps.microsoft.com</a><br><a href=\"https://docs.microsoft.com/en-us/connectors/teams/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://docs.microsoft.com/en-us/connectors/teams/</a></p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p><span class=\"videoUrl\">watch?v=obBQk-aSElI</span></p>\r\n\r\n",
+      "content": "<p>I have PowerApp-ize the Roulette shared from <a href=\"http://%20https://twitter.com/MayAlhajri2/\" target=\"_self\" rel=\"nofollow noopener noreferrer\">May Alhajri</a>&nbsp;on Twitter.</p><p>Background Math is simple; again I have used Hyperbolic Tangent <img class=\"lia-deferred-image lia-image-emoji\" src=\"/html/emoticons/1f642.png\" alt=\":slightly_smiling_face:\" title=\":slightly_smiling_face:\"></p><p>&nbsp;</p><p><span class=\"lia-inline-image-display-wrapper lia-image-align-center\" image-alt=\"PAize.png\" style=\"width: 999px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/103177iC735BBA795C5EC15/image-size/large?v=1.0&amp;px=999\" title=\"PAize.png\" alt=\"PAize.png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/103177iC735BBA795C5EC15?v=1.0\" li-image-display-id=\"'103177iC735BBA795C5EC15'\" li-message-uid=\"'420440'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p><p>&nbsp;</p><p><span class=\"lia-inline-image-display-wrapper lia-image-align-center\" image-alt=\"Maths.png\" style=\"width: 999px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/103178i46BF855EEA17F474/image-size/large?v=1.0&amp;px=999\" title=\"Maths.png\" alt=\"Maths.png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/103178i46BF855EEA17F474?v=1.0\" li-image-display-id=\"'103178i46BF855EEA17F474'\" li-message-uid=\"'420440'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p><p>&nbsp;</p><p>If you have any feedback, please let me know! →&nbsp;<a href=\"https://twitter.com/mofumofu_dance/\" target=\"_self\" rel=\"nofollow noopener noreferrer\">mofumofu_dance</a></p><p>&nbsp;</p><p>Hiro</p>\r\n\r\n",
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-stroke-rehabilitation-handwriting-practice-app.md",
+      "title": "Stroke Rehabilitation - Handwriting practice App",
+      "excerpt": "I survived a Stroke in June of 2017. Having recently taken part in Rory Neary's ( @AzureRory ) from Zero to Hero Power Apps course I wanted to try to",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-stroke-rehabilitation-handwriting-practice-app/index.json",
+      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-stroke-rehabilitation-handwriting-practice-app/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Stroke-Rehabilitation-Handwriting-practice-App/td-p/775797",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "PaulB3",
+            "type": "profile",
+            "name": "PaulB3"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/704/1/Stroke%20Recovery%20-%20Upper%20Limb%20Coordination%20(1).msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2020-12-19T20:37:00-08:00",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com/t5/image/serverpage/image-id/206955i51F8D3D4EC44E7B5/image-size/large?v=v2&px=999",
+          "width": 566,
+          "height": 566,
+          "isCached": true
+        }
+      ],
+      "content": "<p>I survived a Stroke in June of 2017. Having recently taken part in Rory Neary's ( @AzureRory ) from Zero to Hero Power Apps course I wanted to try to create a simple app that Stroke Survivors (or anyone undergoing rehab) could use to practice their eye/hand coordination.</p><p>The app allows the user to trace the image selected using the pen input screen.&nbsp;</p><p><a href=\"https://apps.powerapps.com/play/318a9e05-26e5-45ea-b187-fe159f9e591d?tenantId=d67b401f-110c-498d-9359-36b1e8fb3ae7\" target=\"_self\" rel=\"nofollow noopener noreferrer\">https://apps.powerapps.com/play/318a9e05-26e5-45ea-b187-fe159f9e591d?tenantId=d67b401f-110c-498d-935...</a>&nbsp;</p><p>&nbsp;</p><p>This is the first time I have uploaded anything to the community, I hope I have done this correctly and hope you all like the app!</p><p>&nbsp;</p><p>&nbsp;</p>\r\n\r\n",
       "type": "download",
       "topics": [
         "Power Apps"
@@ -1222,57 +1273,6 @@
         }
       ],
       "content": "<p><u><strong>Travel Request Demo PowerApps</strong></u></p><ul><li>Platform: PowerApps</li><li>Created By: Muhammad Sumair Sheikh</li><li>Email: sumairsheikh89@gmail.com</li></ul><p><strong>Features</strong></p><ul><li>I have created a simple travel request app using PowerApp and SharePoint as a datasource.</li><li>This app will also take one level of approval i.e. requestor’s manager approval on the request.</li><li>I am not using Microsoft Flow for taking approval in this app instead I am using PowerApp deep linking approach to send direct link of submitted request in PowerApp to approver.</li></ul><p><strong>Screens</strong></p><p>At start of this app you will find links of three screens</p><ul><li>New Request<ul><li>From this screen, user can submit new travel request</li></ul></li><li>Submitted Request<ul><li>From this screen, user can view all his submitted requests</li></ul></li><li>Pending Approval<ul><li>From this screen, user can view requests where his approval is required</li></ul></li></ul><p><strong>Download</strong></p><ul><li>App files and SharePoint lists template files available on GitHub</li><li><a href=\"https://sumairsheikh.github.io/Travel-Request-PowerApps-Demo/\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">https://sumairsheikh.github.io/Travel-Request-PowerApps-Demo/</a></li><li><a href=\"https://github.com/sumairsheikh/Travel-Request-PowerApps-Demo\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">https://github.com/sumairsheikh/Travel-Request-PowerApps-Demo</a></li></ul><p>You can use PowerShell SharePoint PnP import template script to create lists in your environment<br><br></p><p><strong>Credits</strong></p><p>Here I would also like to thanks Laura Rogers, Microsoft MVP for the inspiration of this app.</p><p>Laura Rogers Website<br><a href=\"https://wonderlaura.com/\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">https://wonderlaura.com/</a><br><br></p><p>Laura Rogers YouTube Channel<br><a href=\"https://www.youtube.com/channel/UCbTVoDCaPM6wE0xsDGGr9VA\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">https://www.youtube.com/channel/UCbTVoDCaPM6wE0xsDGGr9VA</a></p><p><br>SharePoint Power Hour: Power Apps Dynamic Approvals Panel<br><a href=\"https://www.youtube.com/watch?v=uR46EYGQ0hA\" target=\"_blank\" rel=\"noopener nofollow noopener noreferrer\">https://www.youtube.com/watch?v=uR46EYGQ0hA</a></p><p>&nbsp;</p><p>&nbsp;</p><p><span class=\"videoUrl hidden\">watch?v=3101F-09YSc</span></p>\r\n\r\n",
-      "type": "download",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_samples/power-apps-community-add-a-notification-dot-to-powerapps-controls.md",
-      "title": "Add a Notification Dot to PowerApps Controls",
-      "excerpt": "Hello everyone! In this tutorial app, I walk you through the process of adding a notification dot to a button. This process can be used to get a",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/samples/power-apps-community-add-a-notification-dot-to-powerapps-controls/index.json",
-      "webUrl": "https://everyday.cc/powerapps/sample/power-apps-community-add-a-notification-dot-to-powerapps-controls/",
-      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Add-a-Notification-Dot-to-PowerApps-Controls/td-p/442857",
-      "provider": {
-        "name": "Power Apps Community",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "EricLott",
-            "type": "profile",
-            "name": "EricLott"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/391/3/PowerApps_NotificationDots.msapp",
-          "type": "download",
-          "title": "Download Source Code",
-          "attribution": "Power Apps Community"
-        }
-      ],
-      "publishedDateTime": "2020-01-11T16:47:00-08:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/391/2/PowerApps_1.png",
-          "width": 300,
-          "height": 180,
-          "isCached": true
-        }
-      ],
-      "content": "<p><span class=\"lia-inline-image-display-wrapper lia-image-align-inline\" image-alt=\"PowerApps_2.png\" style=\"width: 955px;\"><img src=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/110073i1E1400DF51099E88/image-size/large?v=1.0&amp;px=999\" title=\"PowerApps_2.png\" alt=\"PowerApps_2.png\" li-image-url=\"https://powerusers.microsoft.com/t5/image/serverpage/image-id/110073i1E1400DF51099E88?v=1.0\" li-image-display-id=\"'110073i1E1400DF51099E88'\" li-message-uid=\"'442857'\" li-messages-message-image=\"true\" li-bindable=\"\" class=\"lia-media-image\" tabindex=\"0\" li-bypass-lightbox-when-linked=\"true\" li-use-hover-links=\"false\"></span></p><p>Hello everyone! In this tutorial app, I walk you through the process of adding a notification dot to a button.</p><p>This process can be used to get a user's attention that there are items that need to be seen in a certain portion of your app. In my example, you can add sample requests, which are displayed as notifications on a button below.</p><p>Please let me know what you think and let me know if there are any errors! Thank you</p><p>&nbsp;</p>\r\n\r\n",
       "type": "download",
       "topics": [
         "Power Apps"

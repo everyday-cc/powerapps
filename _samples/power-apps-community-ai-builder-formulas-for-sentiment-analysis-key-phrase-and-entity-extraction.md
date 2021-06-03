@@ -31,7 +31,7 @@ images:
     height: 1125
     isCached: true
 
-secured: "4O7tW+wNuN6vUUJCJ5+FbOs/8XXC5SnMnVS/9XRGnWE/10Ugc0oEwdLfaYWAgRToPUJd9GS+5FaNmYF9s/XXtNw+/yHBS1918Gi/W94KQZU9mL0EQRZLeXXx778KXARLQ+qdyiuR7t7VZbKCN7mivTRhcvM/WuGqOsNyyIKGExtAyED4WDLiWq7j6998pTWvlStI+rqKUX3I5ddI+mkag4zIppOS2vGQ3QMmq5pvT7NRSuWVXl+wKrTu5q5V9WvRE7+vv+3Ex26tT9/hxxwRj3I3ekt+UJk1zX+2ohdy7KR/Bmq8hBYdRds/nxBV9AcpeoOF6N4Wmo9Qaz3Moy2PdLljdtKBKdziO+yD7yHuRxKIiXdmhar9rQCelG7HhoDoTqer7+kE4mPm1spyNz4oSlVOSgcmrdAKiPidX2+hhMY/N+C5feKvQ8AzoiOsueEr;nY5jK+y1POBIhS9Yu+h4Sg=="
+secured: "kwWQn1snNBef9zkmZXSBBtglC+ZQxxT1NBtrP6RE6W4iSA6y0P7ZeKxgfdwA80qRtIwh6QTYnvnRAz05rO3vkKs8lx8FabXyck8bRF9rnSLnGQyYwp5oosmMLSv+Ri/GXVRu3+gUprs07EVUSWFuz6uaZvi/DeJQqQJftlzIB0vm4vZpsbi14LMhtj1AMlLAYQu2TPQvInv7etbI2RV+k33JP+bzZRunez/hQxD/rOgnNWtGGi26unp9Uy+OXGAgDCxHY/0wg7zqbQcRzG+1ojYQHQyIjeamxKwQT1d25ezKTFR1M7HBNqes8jRetdvTuYXRiPV9i7EqKNRfmfh42RYpnXt1weX4TXRB9zchRTwzvuRO5o3w3GV+PmRFF27wREpT5kTA515oWTDlXiE66XqmI59wfxXRrTLKqLOQBJKaSz5uE/V78q0RL48IoZ3L;WYQAAVbNJeAGYRBTH+bjZw=="
 ---
 <p>A sample to illustrate how to use AI Builder Formulas for Sentiment Analysis, Key Phrase Detection and Entity Extraction</p>
 <p>&nbsp;</p>

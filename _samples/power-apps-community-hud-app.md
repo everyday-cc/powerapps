@@ -31,7 +31,7 @@ images:
     height: 300
     isCached: true
 
-secured: "E0EXXF78QRk1bqgD9EWuQp9L1gb0XsyctLLvlPbEsiz0dPhIgWAKtDnWOl2CIO42D+Mru5RjLwyLkJka1z5Qb3Fq/torKe5h/ZfM2uA9888Oxy6/HbOtSyBJi+nqkSgCbRTTpG075f86jtqYdQ+2JzhNFapJ3BAq6TpYfocEcdfGZ0u2GI3XeHrtBnvSvMD6oNfLEV9SAZyrx5EE36cPuTw5CqEI113qn4oWbi7yf0hLUrE8vALay1PSDZwiEe3DvXylm9NzunnMive5VL8cHu2o3MO88Ph3FZUgNh9POrVeDT+Rs1CE5AKQq2t9LiHLFIPYu/RR69UcFDhiMEA9NXc0GJdqRc9joFpeGMWGIp2MTDbkE/M6dYspsoGQOIUgnsholLaTXZgu4nkZhLQ7R4J2x2uqC83al7xO917+ohCHURZWwiUQoSn8vb3eeD9/;TTkYBCGXHdq/+W7/wyVZTQ=="
+secured: "nWRK3P/zy7XtRj7WVXdhbGWXugCLq0k2qfLvQ7fMiNXOpVy6nOQs//bQxjaADcSoLfXVC+LXOSTXeYoocfgs8nqMG06qB5x96whcofjeWYZ9cs6kHkYN6KilBfNpCBEv5fTabWIM1079oLANB3U/rIQav2LaU9Rp+yRKlCEaIEZjoVLcKxrPsZ0sCPVA6FITdy/JkKF8pfzx+61zJLpSD8qJ3+wombPw7+ejTO9wwV2+3rcP/tZVKYm/RVvUZt5sBobW5HUv+bGvsv61q+kLsBMIiru27Bh2JMjoDhAFvsMwLKFuNGElaoElJJmCIzqR3y39GG+iIIaaZcLmCfL5ePNor7gUcqE79urkTkqlqHVdrk3DY/OcFw5gU3KuWHQ3NsttOsi1kmnkWE3OsrorP8ppsnDfHotJdAgFMRTZe+OJY1bsolnTS3N9+xK0YetF;vEVanQGyIK3D9CLY2daiFg=="
 ---
 <p>This App is Speed Meter created by PowerApps.</p><p>&nbsp;</p><p>Speed and Compass information is displayed on top of the camera image, so it looks like a HUD.</p>
 

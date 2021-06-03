@@ -4,7 +4,7 @@ excerpt: "Here is my template app from the community call on 17/7/2019. The only
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/The-Lazy-Template/td-p/323030
 type: download
 publishedDateTime: 2019-07-17T13:23:00Z
-heat: 52
+heat: 51
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/208/2/LazyTemplate.msapp"
@@ -31,7 +31,7 @@ images:
     height: 386
     isCached: true
 
-secured: "YdDcvqRaQylghol+7iXH8Z9bVXZhvSZYpno7IIQ16oTdqZF+FRDiWvVFpLO5t4uBTabuFK/U9YCtR7voHZS2N/Qu15wa7sjN6YsJT1mtTWB2gzmy7eGm4WproJXHTZOKNjhfYmYs7nut3NIIARDBt2vcJOF+iJE5NQJl/nv0z1GT+atIER4TnDBSIw0hUpYVMub7qnoXDHFLipFD8tCWmm7QwKXr9fvo6ScEJH3XNdpfNkEBmRYe9Va5gRNWkL+cLaniHfThcG0TAEhWeehKQeUsnZ5hOhfMWdNW3ShA7T0I3aRrx3e8qLip+LGtrmNDqSaDPKaO1TP+GmgGf68echDhCunSN+Mnh6SHliqAyBttBTUYA2oUvGt/jUjMI3Up+y+z7v8QZb++ko8oQJP4tjnDbAITiI4MP0Am/RigKqBWp61nSQK5V0LHJV3wfuZf;OpkRAb+pCOyCUkV/6mzN6Q=="
+secured: "6XY7bFV8kZ6ZUCLfFK26N2jEkZDNCOHULYO0OWeb/3HipiYDCDa+e6lgg2T82CToRc+I4UpqJBcsHIrx7XK88bNP4C18HGQJNzi5t7Cv4ZxGWRQBP99O9hGacDzEjjgz5y4VqHIOiCtP9YYw5avg/U54ThWqEZffwLU1JplFTuYqC1i4wK9NJBUeF/XZBnZrpdOYgeAFICU1sK84GD+IUD/BCZCzbID2tjCPAbtFR9EvbfZ0FA1/8GPbldAgwIwPea7KT+CTxur0gJUEvzqj3GwgxwNMWuyGRrUgIhlJ+YqU5qZ+kXRNqA2ma5ZUZff+xCOPOiHEaQNX9JVPeCQ9c8CK5rRW73QAXxQAk0mrdJ+v9g/uTCRUUg/dN+qPDbwzxgcCHmQ0SaK0W/BTkWub/+cFvvtm0pnu2TwQQywsn8MmOUtBrEKHAkmBrm1ks8tA;DieZAagylwJUzdX1lBUB2w=="
 ---
 <p>Here is my template app from the community call on 17/7/2019.</p><p>&nbsp;</p><p>The only thing you need to do is to put your app id in the marked space in the onvisible of the template.</p><p>&nbsp;</p><p>I would then copy that function to the landing page of the app.</p>
 

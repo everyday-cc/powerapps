@@ -4,7 +4,7 @@ excerpt: "Contribution with some meters in SVG, inspiration for allies in improv
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Gauges-in-SVG/td-p/668970
 type: download
 publishedDateTime: 2020-08-25T18:14:00Z
-heat: 52
+heat: 51
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/620/1/Components%20Gauges%20SVG.msapp"
@@ -31,7 +31,7 @@ images:
     height: 497
     isCached: true
 
-secured: "zRsiUkF9RhYdPC/MZDnCpQn/NN8sxipiQeESKo0Tm2YVIQDstTrltBtZbj43LGd1A16lqH0Rk6Nm0iMULrpaLby/m1Q76HaRckC6cVAaxckmMr/Ar34i9lCki+pSINJae/E3qIpp7bCSdVIyheYXkH4LtRs3jKjLzNNY7Sb4qZsg13xaQVup+hdpiVSu3/vhqHz5VbW66B7RSnUpnzkcU8gCN+2t/i8v54AJvyeHnl/PRYiaWdyCQHu8IobALhdgJkPkQUsgbIqcf0rb8ANgLMpWv3SJxhOUbytCPPoh+6BpJdOAqOvTKVohjqbr0SdV5Zg41pG2gF7K+gluFQETjCqycEhRF1jlegLwOiAxutfNkf7OMreOJmK1nLbY9uUaE3zlZNgho+xic+0bvqgTRpvlMukJw1yVz7HK3kb9dvteODiRMP4QEM3jIRiV6wQD;T6zZ++gKuL++ELNo06tqVg=="
+secured: "Irgbwx7CIX0kab8AdlcCVRI/94wP55Ej8kEs99V18DMhyPgxiKqycY7EmxBZ3kv8hQScGO+1Y8VdVoGsOAvvti+yvQA9uZZ/sfYLqz2Qn3+B/Y08Izd+D/BwWZR9Ux6O4sgCqrLR/FRfilzEawyEBMhXYSwQqTH3X8gYOFg2rZ4kwNct3Yobios+IevCLBXh0sYRHoA97/pOv8YM/SgNTDcO3e/5bpCuTtX1R01Fy4PB2K8mrKX/2IdHY12A9thTmp/t46jUNTZsR4VgI4oaC5S/+TqYOY694/e1qKB3x5rjpBnUaez1rh7uFxvLarA3V1zBafnXHpDvUq32qzLK4VO5JQCuHwjoVQlffKsFq7kC+fufQeqVN/XqnOGTkIa76pvPP7XG8hmCCpFXsAZHtQL3gDaZDyzqfzylsxfcv/APuMPxXKpBvbrT/vEWznbY;bw0rKxOFAzYmkm/gizVyPA=="
 ---
 <p><span>Contribution with some meters in SVG, inspiration for allies in improving UI design. next resposive SVG on powerapps screens.</span></p>
 

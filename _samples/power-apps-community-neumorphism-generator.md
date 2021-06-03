@@ -4,7 +4,7 @@ excerpt: "This app helps in the design and implementation of HTML-based rectangu
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Neumorphism-Generator/td-p/539729
 type: download
 publishedDateTime: 2020-04-26T17:01:00Z
-heat: 55
+heat: 54
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/509/2/Neumorphism%20Generator.msapp"
@@ -31,7 +31,7 @@ images:
     height: 225
     isCached: true
 
-secured: "08bnWB30AMajDnnUpfHqui+/6zN2cIo/+Uooj8S3nfIWUva+t6oS5jmlr9XqzvaphlBDcNPF6UVnyjYsqPY1eFeOoaQVNPo8Oiw1nuhXtTfADT2Hy1ALT0RpZopdz7UJAyJ0dL3x/WdKz/cMNRP5X5Sv9cdrftF8D7op4Dmzu1GN14VPwMh2xIMjVo5cA87EwIIP/eVY9Bheo8wNnSbcBnw9epLpfoE9JJb25cEQ37EhN9Y24vYyzIi/O40ORvl1hgH7rvaZQPygU59nyjmDMaUGwdUv/aiVruh4unXl5UruS1gQgggpaNlOxTBBatzZZ5sB2Dbth8TCpKYquTB3PP6c9Zle3r+46bQxF2r6VXwXalzaexVS2BOOwOkbt6qeLkhqlpIv0J+TvH5dYsr/dAKfZILRrVNFqGjUCGAN2/qSBCpQ+E/FysZI94ybLzqs;A2Fa664B7fcc8WStKXO7DQ=="
+secured: "d+QBwYZiZhEmrnkaZLMEiZH/E24d6opWhZynk6ML39eF/RogiBsW0AJs4Uyc6drUM1xb2moZGRZCaEZ8wZY2h8SDq9OYMY69pa10O5Rd3mmwpmW86Oqi5Nfb2yeua1PNkyIFqvAJiMmqHnNxGffPZwv1oazVI0GZvcN0z02+WZ5WD3SDWRti/lH+TlP/1NBZr4LHX/bNz82oOZnrhYZ94J1Z2YHvmtJUgMgMGOYGTH1wSHMvQxwM47NPH5dVMJNaELon7t4FT5IDKo/wLQoP6LNjovBxh4l/XkOPzhw4Mije7cEBnFVfMe9QLRaG5L6ayZKGL4GAh2ph97F60ksdYP0k4HnM+UBLanzl7vKrubsKNzRpPIqvNTJiESjMiDeg6xKkcR5iTpwKGslnyPxkobgFhN/C2M7BOtuAtLc/qLAFGbLoC7loEb/pl0wHHVhf;sFr/NQG147+sgH+Spso3sQ=="
 ---
 <p>This app helps in the design and implementation of HTML-based rectangular and circular neumorphic elements.</p>
 <p>&nbsp;</p>

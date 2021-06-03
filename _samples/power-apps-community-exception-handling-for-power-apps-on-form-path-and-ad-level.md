@@ -4,7 +4,7 @@ excerpt: "In this App, I have coved the exception handling for the most common e
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Exception-Handling-for-Power-Apps-on-Form-Path-and-AD-level/td-p/695097
 type: download
 publishedDateTime: 2020-09-21T16:08:00Z
-heat: 56
+heat: 51
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/647/1/Exceptional%20Handling%20in%20Power%20Apps.msapp"
@@ -31,7 +31,7 @@ images:
     height: 562
     isCached: true
 
-secured: "gmsMNI1NibL36CfrW49Zy3U7/HxSVaw4esHeVL5VEA17uhuYbIIAcSn1BdMYlL31ccaOcYyzV5p5UvouOAJe4tvojQ9/Sw3NqHNssaUS8uWtD08eDtMa5wzd1zp733wZXMkhz1rK/S+7Jy1IsrHnTPpncVtNS0GHjRQtglDfzUUFEAnW3fyd9Kzn5Ilbkz0VOBX6OaMBBu0sRLQK4Z7OPp0oGx3JUp4Vd5c+YDLOeWhB5cqjnfj/o3XSWWsPzTjc8XBb+qsFp/+OY/lom08ETaLgBAb91szO6SEIN0CVhgf5kyONTCI0dbLj7qvl/muTFhQG2Yg0OwhKjCpIjccgJf5i9pBN7CflpG2//N/wEqivK2bb3FNPl9qjynNLR8uhNAb6wWZ6NqiWed6XnIPbOlYmR3BIoO2pLS0jIrY5ElP6rhyRhPw331gmcTo6tiyU;DmdzXGilgE2rNh0zraGdgA=="
+secured: "WAfSHRh3jsvml3Bx/1yVGRVnG0mcsJMDL8vULl6+X8JR58CQanZBGLedyPZqYsU6LHVMmI2hVVaQM9xs7i6mwcj8H64Y+lnVHJMsxxtrOaqj+m4UFMfFqcXTPaGtggFXUdtdw4YssAQM+xH1sGsu59xvbr6jwz0FTn+Waua1vzoI3iQHTlCH5D+mofW8Hth3R0mOX9dgbQN1Ja5KGvcXOg+Artod1mS9nuFC07lpi3mtbIIx5/NlLMZaiS5CSy2AhUEI3s/Qh5mQqnGE4+TFdcdqd3Aj8om0c/W/V5HvVyLQAQwc/kP0qqWbKveUCQo3N5trfquYmRi1roZOXSQDbcJt5ljSZ5lv4UEAJyhNxLqMsBNHmT5yRXhX4RGCXjb9tmtAyl2zmJ7AuSt6b0JQtU/NyV/kq5GQEYkpeDQR7+4D8WqdWy7CEe0P4evCCIsh;anUBEtH3EjHZ2ZXU4DzSDw=="
 ---
 <p>In this App, I have coved the exception handling for the most common exceptions in Power Apps.</p>
 <p>They are:<br>1. Form Submission exceptions</p>

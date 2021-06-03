@@ -4,7 +4,7 @@ excerpt: "This app is used to measure the contrast ratio between two colors. It 
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Color-contrast-analyzer-app/td-p/384255
 type: download
 publishedDateTime: 2019-10-16T15:26:00Z
-heat: 50
+heat: 51
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/288/2/Color%20Contrast%20Analyzer.msapp"
@@ -31,7 +31,7 @@ images:
     height: 2208
     isCached: true
 
-secured: "kbwL6WswtKM6m8W40qA1szp+rFReKbX8CVbYguErUXSO9zk+ibFvbJI6Fc5rEHfQtR8G4KfvUVvkx8nYni5M63yzAngmFlzrXUw9aTJm+1n68gqs987Vf+ZZL4sG3lrbFd0jmNZHYMY9d1Jibgdn8oKWugOb2mXOrleOEpDEJUc5QXfgDqZMWHNRtt8qkOS/YtM3d6VGUuZhBBcXcQC6F45Ajw8KlA1jV/Nm0I/9Qhg07T52+Oyahpgy/HRwpYQX96ZJQDfVsIQSfDlpm632gTHs47RP0LF+4Hk6oS2M61n15GZwc2t+yQLC0jDb3UgRNJirrUDcgjBvh/FseQm3s2+NEdWSK7HREl9XPdpvHVY4a+UWCT8x7MSIbJCtSDeGCL4QMxEp6M/XBXm9anlQ2Dnyjlq7rr2tbKHmU/AW7gTQ4KGuCKf9MPE7MDjXRUW5;lts66KOjMGeona31a2HJbQ=="
+secured: "xCoeY0fXC89wBEYQXQnXmB91elf9Ed4Dw0iypteS5N+/4wQRGslnS87iuCKQwBA/GENHqEFMIi4GIWbBPELGkPieqP7GD4S4PaEmniYeVLe6oRzOses05/h/UwOmDaeYzAVOdL7nQ5wR9tImzkdwZ7KFV1AvMT4ynICeeXjPpBYNx+U9WiYVMs3SdUWZlXadvMIhk975p8h5D5dI/EChxjQ0s3K1ByisSZ5P/Dg2S74yEROSMCAXRlfILsNEvK/cinFQb5iColGJhTMLIV8Mg5s6AtdhyaC4TP2uTRVt3RwY/VSWukiVN4gpv1b9BdSOBJ2NQxhhFLYvlRVzKE/WTNXUCbwyqB1dtzRJ/Kmxb6ZK3KDKv0uXlVNvDD2pfQ0aMRKkIKbboxRh5RBV9hNTrYAq9rQkAU2p1c1SbDAvPmpC/F/dYettrnAfNiE2ISWD;9Fofup9B2WpYXTthw2wNPQ=="
 ---
 <p>This app is used to measure the contrast ratio between two colors. It can also be used to convert between RGB and hex colors. There are some helpful links to some Web Content Accessibility Guidelines sections that are of note for color-related considerations as well as a link to the WebAIM website which served as the inspiration for some of the app design.&nbsp;</p>
 <p>&nbsp;</p>

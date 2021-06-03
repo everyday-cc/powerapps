@@ -31,7 +31,7 @@ images:
     height: 692
     isCached: true
 
-secured: "YjzWvn6unnGyAHg8DBTVOmb0al75zzFuO0fIhogRCvitrch18Zcslpc9dRXfVzeyk+UKIS5YiFu27x2+KQH9xHpFBmbQeGqLyg2d4017SkRyPy7VkqDUXa48sNUiI11+eWlwqd3sbsQProdEvO62BIpDdRiZP7OdAzASZ1j5SkACeDsXKdtp6ThxiO9NGJAxQKNWFPkibQEmyr84p90nETYs0s7MGG/CsyGi+25x6FGBpkEf4ReAI1UN2ik7G5GoFd1nneUJ3MMLfzc9IlG+wEXw7c4+fVSGePlC6h6om4439W3pTT5cVput7QWBcT958B7K8fyKB72YcaMioVhs3peqjIhuqG9KBvqnBCcs60Dlt1tHvJUNwPsCd+hyy4Mqgs2l6st8lB++4+67JMSbwAZW6eblejOzhrx6DAbWaeb5ZOkZqrxWdkbtju1z7xQ/;5SwQxnVG8ipS/VkuRUhMcw=="
+secured: "6b4T6mV+ZjbkIu4FYyP5X4yfqm64QiqWM0dEmnsjsqKsfnD2ZclkmZxRXwKKeBcS4qTVw2FvbqKxuD/T1+fByPW2+KMAi8KXqVojnNR7ljLQuneKhTKAapSP19qaQ7hIs3JQ+PJIK59HlqAxDXNMZBNyIC67chdl46nfnzO/VVh2tUrRhbi4XIgd2Xow1Wx/oaeRPKQKu70NcnNJy0nclxizqjp1/NPZy69mwONkc/YSawCsCF7AV3kdaOAUbec2GVEkxY/xOqxsADMAkiRsJC6bQLJmIWAVWFe2zIL7qJ3XxA+hpaJ6cG3IT3Y3E95/LgGnVF2Qolym86G/jtxnjUaWrooiItYdBndRnX/LuDccMa4+yFqXImJzKA6X8cV9b8YnWqR9vWTVRKVVDZYhnaPKnedSB3N8s0jnUVGyOkyzN4jJYClqFvHroMFBeonf;ekjAZVK0Jv6EGFAjliqxCw=="
 ---
 <p>I am the head of the " Japan Power Apps Orchestra ".</p><p>And Gift from Taichi Santa!</p><p>This app is a musical instrument " Drum Kit ".</p><p>**The response is poor on iOS, so playing on Surface is best!</p><p>See the YouTube video for how to play.</p><p>&nbsp;</p><p>have fun!</p><p><span class="videoUrl">watch?v=O-ZQf8Op3FM</span></p>
 

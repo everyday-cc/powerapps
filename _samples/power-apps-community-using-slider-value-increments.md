@@ -4,7 +4,7 @@ excerpt: "It is possible to set increment slider values in your references. So i
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Using-slider-value-increments/td-p/109881
 type: download
 publishedDateTime: 2018-04-24T16:39:00Z
-heat: 51
+heat: 52
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/23/1/Slider%20Increment%20App.msapp"
@@ -31,7 +31,7 @@ images:
     height: 855
     isCached: true
 
-secured: "rvL06LDN9/hGBB+Aa3yKtZo1ZSw3M1uW5mOQjjJcSpBNVzdF0VnlfDK5ktusYWAMtQ7dIvKdTw2Kiay9WIUn9RmSvZ9OiD6srmAYfeoVJlTkhErJVxb+HvnsV7dSJ9J+1fZq2JOMdBgcQwVP2ESpCwX22gTTeaDu2a1zRhEJ4bMe+C880KtYroxz2+4V/d3Y1hNcifY8NrqxcnM76shslbMT8a4fvxMUhuyN0lPidfiuKxsGNgNehjsC0jM1dJNTDCAU3myg0c4kmv0+o0O3ORcRGHHTFedWTcy3Io+Mu+lODHzL58NTO9sh+y2D36HQKu3tHadixi16iDRF1DpwkFMkThAfJ4PT/fwOGJPS66Z4vyjzQ9AX0aOc7pOSuYxACrL55Z7Zfz4Tu+ivluedhju7nT/yqEHYjcsVnKdKzi+Gl/ikY3knv4MDZfF0LSug;6YTQ5x/VwIaFp5apPkBTKA=="
+secured: "XxgTtveL4+uV75SeVqiAoUDRsONKuLyQh7fkifl5J/jvcuWVRiMpOfwv2iksGS0bg29LkdluFqsqKFcAnIXMhuwvtZWC6fwWh+8Ww3GBZ3E73WFuFqUyf95aw6mcURUQu/5pHX5EMXpSELEVsKuyzzQHD2BLHrVp5MuOaPUra7LgICWNOnXOXYYXw+EK/eg7Z3dodG6qBDh/JtG++iFVW7tL3zXx84+uYFnWiFzx0481Wrut6uAFdgZm2p3ucwCHEwiKTimfu1TSqbn7VcymPudqEaWL18SWUlSA3Edj6b9NNV2a3eoeh/eUAKolQyYB5kRRYNXYtCorSgeQjlPfil7aBlXzQvLL70CV4xqr6RYBXrvIVvZwryG5aEyQWobqkjqONs9MoQGNFioN1djA4CokrHtUggpNO3JRuUhYADf06SCQV5JPeaEQ+P0JgfbD;NpvwjaKRVF/SNhTeSiE18w=="
 ---
 <p>It is possible to set increment slider values in your references. So if you want the default value of an input field to be set to an increment other than 1, then just times the slider value by your increment.</p>
 <p>&nbsp;</p>

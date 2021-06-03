@@ -31,7 +31,7 @@ images:
     height: 2000
     isCached: true
 
-secured: "oipV3gYWIVPnOzOrndMBQS+LhI9RXQZj30LOSDn+HCCx9+K5oIlZWwhuBilbTKLZPTup7QQVEzklQWZjuTLzIn7YKX0eKtl3e6b906LK5Rogcqjyq4zR1LOhhaVnzDJqJWaWqqXbVpvMYp9GQI40rsqytR8A4S5RIjC0sT7vr9k6jtADmG68SYzpeXTlQK96ua4+WhlNrzhCz7DR4zACTMDQ3OsKxJLafU4NDjH93xwu6cbuNqs3YCI+ayHJaotFUbgOu2yD7B1dJEW4GC21pA8G2z3FYsiYeQXXNqOqiLJe6KIKAxvLWdFjsr9d4chzR8IzYzWstQDO/iNnOyEofjQCqZDKLA/YM2dTtvHghx5nccOZ77el1LMWXEs/RrlCCB98hJCxhYZb4UDPwD49VDwgSbbuOVw2H2GZVXvIWp0T6sm5g4JLZjzEBFOBQ2OS;uYQgB54h50zO7suDNu8G/g=="
+secured: "OBmbZ8xyCh8bNWORbnOWvDlK2Qr/TxDG5s8zvOyBwqXDL4SXMIvh06MtiQ65dXRCtx3jkjgKWwzRzwnelHnDSsf85kl36FJcCXn/jR7JKwk6I6lu+eNRTeItcSK+Ykd5HEVYlcaK1bfrLvf00p1Feac5zim0lnwiNRZ5gtjsZR8GnQQIoVQA+IVQSlQ3G7eocxkX8AItcGd+mTaelbDgqOGC2QcF+nBPCUllODcJ6rxPrHA4OkRwoqCyKxsCUuGuB0Q8t6SxG/BysViyfLXVucWzl+GiHu8qlmeUw+dAhY2YFxYuj3GYSih/4Pxj5OW1UIo66AJKo+RqhfOsoDxDTCzz0cdC0WFa2a0lOUaVggc3Kes4GM15ghwwXRQZv0ulfOMH9rmOOPAz5M/6a1zHWlh3T/AvgtHSyhsRkJtLhOFuKwmYKzUPE2W4WrD91Jhw;MqADxx9NoSIT5g/RwjAA3g=="
 ---
 <p>Attached is an app that contains samples of common patterns used in my apps. Watch the video above for a walk through of how they function and how you could make them.</p>
 <p>&nbsp;</p>

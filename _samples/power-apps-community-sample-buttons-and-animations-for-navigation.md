@@ -4,7 +4,7 @@ excerpt: "Here is a simple app demostration buttons and icons for navigation con
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Sample-Buttons-and-Animations-for-Navigation/td-p/298357
 type: download
 publishedDateTime: 2019-06-10T13:10:00Z
-heat: 53
+heat: 52
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/192/2/NavigationExamples.msapp"
@@ -31,7 +31,7 @@ images:
     height: 1150
     isCached: true
 
-secured: "5okPgsXtRz+3aZBuD5g5HlqLxcizyLteU1PBxQXzv9EUkLhYYQ1Wb8qiciTQS3R1biR/D8u0PjcIEdT7NfjK0c/yIj8Pl5qQxZ5tgAmt4dXMSWvQYn1QTb/1NyDAXqiuKYs5zNMESB4RQGHQwZ7G1JVxkeR7RqbkTRYVVTVRdPywMgyYksdSWl40IJXw7nHwFCY2ke0pHrRz0IslK8o7JSaVa4OifRsd6KA1vmCX8bruqbLwO2YQxmUd860PCbqrcBwCSNbWY/ZRk83c5nc9hWnghNrrjBKSRlZUwJhfPykryHTJOfx4NTGAQoEcVYy6GNAwgexPOCs79PzMCXiMIysBYyakOrgZfnL2u0KQGvw1LZErNJNvupzGNSlz5EA4ZnI0i4ak97i9HdALJhHoKpxnW5HMEsDgalBu3jdDJ2m/Xu9/G5TYcDdKBler4b9j;isMGAp99pbvYl+/XXjYe/g=="
+secured: "O5S0HWSOv1IieNlAQGueAZV5VFsFJJiPmBhBUGeGeml9fHBH6xkfPceBep2HzNApuZ1qOFFuu2yY7lQCHYrS2fEw/Qd74yjfn9tYVgL8nwm5NqFclpnnIDoDGWUyvaJIhLo1mfSPp8Ucj1lNssiWHByMZmdsLp/HaioZUy3NzhSXX4T+tEXrTdnbexmjZ0itgANfVAMhEcv87CbanJPhZt14RQbz4++vwOESVBdCv46R2hkEII0ns+eHqCUr84yj+JK35NTCcaYZfH4IeXN/sC6q91NAKzVV4g5INgZ2ejdPh4qIlWh5sXkxferen36ZFuS0oH2Wy3r2lwqbk4Oe6JnWONDhfjWsvTLubFsVVYch8a3BMq2ygbIJMUwYwRD8P2ekMhxGI1NJqJ3jd0AvKNozEuuNZOZt1l2kq/9ltvI2W8RpjmVKtQ3WkSl6r8Sn;DMkzMbroE4Eiln2qIAHTgw=="
 ---
 <p>Here is a simple app demostration buttons and icons for navigation controls within your PowerApps.</p><p>&nbsp;</p><p>It covers basic buttons and how to round corners to make tabs as well as showing how to build animations into your navigation controls if you want to add a little bit of cool into your apps as well.&nbsp;</p><p>&nbsp;</p><p>Feel free to download the zip file and use as is - reach out to me with questions or ideas to extend these ideas too!</p><p>&nbsp;</p><p>&nbsp;</p><p><span class="videoUrl">watch?v=Ngl-Gc6VeUU</span></p>
 

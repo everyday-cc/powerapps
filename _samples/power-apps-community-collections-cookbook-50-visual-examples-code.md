@@ -4,7 +4,7 @@ excerpt: "Welcome to the PowerApps “Collections Cookbook”. Inside you will f
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Collections-Cookbook-50-Visual-Examples-amp-Code/td-p/437594
 type: download
 publishedDateTime: 2020-01-05T20:42:00Z
-heat: 75
+heat: 72
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/377/16/Collections%20Cookbook%2020200324.msapp"
@@ -31,7 +31,7 @@ images:
     height: 561
     isCached: true
 
-secured: "hgspv0LAN8Z61x/BTQAZu3s0Lt3/ZDEeDRtXWanAIxkR/UK1Ed4hLB951PDm4H3HybPV8EfkoTtMV5/FwYM3+BLQ88L7NrbT1xc7gRJCSzGsq6rLVTOwkJF6mEStZvZtRy6o5Bxqp0iWvclpgKaLShFEPMjPuznm8qS2R1vV6vhTRfiTPdWvMEpBwRz5gUcd0khekLYpJQ4dM0qEYaOj5IvH5Mn2XiU6HW+RZru+n7whAmdVwviGCObEdPcl+41dQOrGKCkCYWFKvhkWxmwidqWNLa1+bTZshwaIYj7RZXijCn5behfZ6yzupXm4MEBbAbE2+lm/kHbXDl6ce/q25y8E7rQHxkE1gJu84syrzU4csEP1MIB63GakFnpWbLByPfduu1Fvh80iYXZbuAEo5wK6jMensKoSzBjil3k/yo1yMN836h5F2vAEoeyQ+Es1;TC5MzfqSUXE+UYSkTVruiA=="
+secured: "C43yxsUZAMiPJ7yHDcWVTBg5ld5ISHKfqUP0giccdRIW6W8lhhVn1K+c+reXbAUrSlNP+1opllFdIH9MnFFDf/lOQRzQZ2+pDEmEs3vDml7DRFgKs74X/GHqTq6VjVYc67PORpaYtXmRyfqUB/GuY6HyhW9x9uXMOczzKh8Hmdu3KXWWQgVLxBFekivXPJiu2bAhoZEvRMU4+NI76JZMeU4VLXKxjwyWjiimKyNAQjWDHvUebKRbx70c/k4VrDKyWqCsMYZm9hIu7Eh8u05bykc843RA23W806ARaK9/i+0rVqz7L8DbHlosx49bsH7z6+SWvTLVmjs0VD7SqIeKCpBYEXBiV20OERyXeq/ZcYMwpH+vU6Co56LJL8/fpufmcVAG4cWiIs7194FdVWz7Ox/tj4OJ2q0OMwDoAhZjJsaldjYMcxC240gf2602yvY8;pVEuHYp9hbYZBUyeArf3gQ=="
 ---
 <p><font size="5"><span class="lia-inline-image-display-wrapper lia-image-align-inline" image-alt="CollectionsCookBook_Top.png" style="width: 999px;"><img src="https://powerusers.microsoft.com/t5/image/serverpage/image-id/108392i484200D96590E3D7/image-size/large?v=1.0&amp;px=999" title="CollectionsCookBook_Top.png" alt="CollectionsCookBook_Top.png" li-image-url="https://powerusers.microsoft.com/t5/image/serverpage/image-id/108392i484200D96590E3D7?v=1.0" li-image-display-id="'108392i484200D96590E3D7'" li-message-uid="'437594'" li-messages-message-image="true" li-bindable="" class="lia-media-image" tabindex="0" li-bypass-lightbox-when-linked="true" li-use-hover-links="false"></span></font></p>
 <p>&nbsp;</p>

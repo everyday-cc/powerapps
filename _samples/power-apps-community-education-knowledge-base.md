@@ -31,7 +31,7 @@ images:
     height: 3000
     isCached: true
 
-secured: "A/GWQmpAUq3bWjU/3yEOaMcwOXggucPpR5dKphOF+FGFk8vmjaBiqYhPbQOvokXgrr9IFqDHB4ym7497HoYm9Dgq8MGO/rkleYQY/UkMi+x2yTVfRdfDs6fji3+bRKEyJFaGl1cz0PY/PjtZflb7WoXeJmHAlCr1ge558i/WoI+evvd+pTV/YPr63ocQLe0hgi697fqSd/YxVm6IHZbchKO7RXwpkIGIO0y0kTqiMQyS8cc0mHdqXO3F0NC8mcdhUBsPkLn8+uD/CZoaTU4v4wiZYi0xWvtky89aSGZXWJsiW1cmWLIXvyHyuJ3bZACHIXms4+CQiYzKh4Yn8rbgnjzlXe/q/RPvsphxigJpNqv97Od+yyS/OFDahiWkWU8x89zqhNC2ZK8aNI+0STNO6Py6/Zn6XPog5jYa55ee6Yu6xTOGL1eCkwxnrGQ1ALMj;pRrh87X6IcaW+yOvflVr3g=="
+secured: "1zPByFao4zEUAZJx5pDZnKvquvkWwyxDkctroe9+RQX16R7IzKFxOia03gkFz3aXltUlZlPZI4F3qlACWCW82J3GUjNDAlmZ/Cq2V6j+ILHVeRfl4qgWdl/mGX/fFQnBLm2BCucNN5hBskcdfJyKXiUn69rNd+/mJL1cvRUo5hpAa7PQKkmCgp+QmVV+bBnH1TNTgIN0q7QsKtHp8s/r+SJAirmv+tRTPw1fs3EuxhtisDybpJN67rfN0f8OjYefk9qMlKg/wuMrDdRmjKBEJnEy+wVBCUYc5rjj+kYFAnW7NInwrhnVs3TtG8GusWH/4y9l8mbwO/DFDC/Br/ZqzEfaOZel3o65OnLhxrs3FsdN4h4aTZ65fSr7m7QqJGJc9krBBdYuBk3FAyMyL837sgE2YMmfySpV+tZlm5nZ/oJ/c3i0/TRQihjPBNxlaBVq;wHMyDSCVqHYXmqmM2lpabg=="
 ---
 <p>Thank you to Alice Keeler (@alicekeeler) for sharing a list of resources collected at Chawanakee Academy.</p>
 <p>This app was made as a personal design challenge to view and search content in a spreadsheet more easily. Run with it and try applying its principles to another spreadsheet you have.</p>

@@ -31,7 +31,7 @@ images:
     height: 3000
     isCached: true
 
-secured: "CofvqDvhiibqjBPB/9HJTqfpTUj2o0oYI2Qm+lHT3nHoyTjiG0d+1K7ragZpp4dqjstKC6YgRnyIAGa8SYuXUZUafYbbKsRAMVTASdxCeAgWqQBfKQh/CIJXe6oc+K79qJa+bC3AJiWMXLGlskO2nMtV4RUPLU2sUef9GHAQNC4BqFBV6rVgmqalqKnS8s0wE9ci4v2zgVwyAlQGuUlhajB+02MWupnD3vncrzVrXQ7eRuSNFasgV3miN+VUHqzO3gUwwJH4IVqBQ96kl88V6+fzP9GxnpfdaN0BhRsAsgTGErVTtxJhknM5wjCfyDKCQ/jg6RUUvKDAX7MltYhwnbQ/TX0okBCiUrR3UPzqL2rp+JWbnf8ASlSViCSPk6lK7yMz7gFDysu+psneZRVWMzZSobsbLSAswiiOB9kCNl82CHWexbgbdJeegavWxe4u;gt8Kmz6Gq2CZ3U9DHSMM4w=="
+secured: "QXkmZGaOEk72/GVEKSRSjFOxsvi4PR3Yu9Nn+hVUNkamMUoeUWzWFeVP9IzqPGgiICJxjpeVQEPN3O7tsNDFpZnoNK45BiMfFJQm2GahwjYNY5fsxwVDRsr745PSHYX0Ud61YYCM7h9mEDyRLm4eGVbEKrh3MuvHGSnanE0vRxCwTAjgXEdMm7n4dpd0n6Ydne+tXc+7bsmaHfPFl7vAo0LjpbGg3jbwpHfNy1ikcz7u2JN9vuHjcQrpAL452sjqyHb+H5m2rOZ6d9YpUPwWlBBMcuX/T63O2ltF1sJoAUskbUuX8HWJxsUfaBN63l2GnrkoQBFi9VzuelEpV9agNImGb32WY21E6iYAQdyh69RUzRlBKEnZ/R92NtPaQii0aHq7sMQDHnUCzTK9Nzk9F3VCsADEVrrn6N3hDaxm5BNWKcxVIiXyDixaBl1jTJ1q;krkE67E4hYOC56YVzxSWmw=="
 ---
 <p>The "Handshake problem" is a classic math problem: "How many handshakes would take place if everyone in a room were to shake hands with everyone else?" Besides the numerical answer, what makes this problem more interesting is figuring out HOW this would actually take place. What would it look like? It's an exercise in computational thinking that I recommend to anyone looking for a challenge.</p>
 <p>&nbsp;</p>
