@@ -4,37 +4,6 @@
   "page": 18,
   "value": [
     {
-      "path": "_learning/videos/dhruvin-shah-real-world-use-case-form-processing-with-ai-builder-in-power-apps-and-sharepoint-as-back-end.md",
-      "title": "Real World Use Case - Form Processing with AI Builder in Power Apps and SharePoint as Back end",
-      "excerpt": "This video demonstrates the Real World use case for Power Apps Form Processing AI Model.  The AI Builder is a new game changer for the Power Platform. Here we have taken an example of a Real-World Business Use case where User uploads the scanned document of their Rent Receipt. The Form Processing AI",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-real-world-use-case-form-processing-with-ai-builder-in-power-apps-and-sharepoint-as-back-end/index.json",
-      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-real-world-use-case-form-processing-with-ai-builder-in-power-apps-and-sharepoint-as-back-end/",
-      "originalUrl": "https://youtube.com/watch?v=ty9yy14RQMY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ty9yy14RQMY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT31S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-04-09T18:31:11-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ty9yy14RQMY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps",
-        "AI Builder"
-      ]
-    },
-    {
       "path": "_learning/videos/dhruvin-shah-select-and-pin-location-to-geospatial-maps-in-power-apps.md",
       "title": "Select and Pin Location to Geospatial Maps in Power Apps",
       "excerpt": "During this session, we will learn how we can select a specific location of the Power Apps map and Pin that location onto the map. We will check the entire procedure where we will select and pin location to Geospatial map in Power Apps.   Geospatial Map provides flexibility where we can get the selected",
@@ -978,6 +947,36 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/YA0IdOZnM78/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/powerapps911-power-platform-ignite-2019-announcements-power-automate-rpa-pbi-security-and-more.md",
+      "title": "Power Platform Ignite 2019 Announcements - Power Automate, RPA, PBI Security, and more",
+      "excerpt": "Get the rundown on all of the Power Platform Microsoft Ignite 2019 announcements.   Power Automate and Power Apps RPA AI • Key phrase extraction • Language detection • Text recognition • Sentiment analysis Chat bots Teams • Company app gallery, pin to left rail • More triggers and actions • Adaptive",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-power-platform-ignite-2019-announcements-power-automate-rpa-pbi-security-and-more/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-power-platform-ignite-2019-announcements-power-automate-rpa-pbi-security-and-more/",
+      "originalUrl": "https://youtube.com/watch?v=6lHb-trtd3Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6lHb-trtd3Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M57S",
+      "provider": {
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
+      },
+      "publishedDateTime": "2019-11-04T06:21:37-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6lHb-trtd3Q/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

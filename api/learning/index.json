@@ -4,53 +4,23 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/videos/april-dunnam-3-moves-that-made-me-a-millionaire-minimum-wage-to-7-figures.md",
-      "title": "3 Moves That Made Me A Millionaire (Minimum Wage to 7 Figures)",
-      "excerpt": "Revealing the 3 moves that made me a millionaire (Minimum Wage to 7 Figures)  Want to know how to become a millionaire? This video reveals the 3 moves I made that took me from minimum wage to 7 figure income in 2 years and how you can too!  If you’ve ever dreamed of making passive income and wondered",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/april-dunnam-3-moves-that-made-me-a-millionaire-minimum-wage-to-7-figures/index.json",
-      "webUrl": "https://everyday.cc/powerapps/learning/videos/april-dunnam-3-moves-that-made-me-a-millionaire-minimum-wage-to-7-figures/",
-      "originalUrl": "https://youtube.com/watch?v=ENIACMQ7E1M",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ENIACMQ7E1M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M",
-      "provider": {
-        "name": "April Dunnam",
-        "domain": "aprildunnam.com"
-      },
-      "publishedDateTime": "2021-05-19T10:37:05-07:00",
-      "heat": 244,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ENIACMQ7E1M/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/powerapps911-power-apps-form-onsuccess-onfailure-and-onreset.md",
-      "title": "Power Apps Form OnSuccess, OnFailure, and OnReset",
-      "excerpt": "Learn the correct way to have things happen after your form is submitted using the OnSuccess property. Also, how to ResetForm and how to use OnFailure and OnReset. Nothing too complicated but good patterns to avoid issues we see with customers often.  Power Apps Consulting and training at https://www.PowerApps911.com",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-power-apps-form-onsuccess-onfailure-and-onreset/index.json",
-      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-power-apps-form-onsuccess-onfailure-and-onreset/",
-      "originalUrl": "https://youtube.com/watch?v=q2bhlBAqN_E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/q2bhlBAqN_E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M",
+      "path": "_learning/videos/powerapps911-power-apps-print-function-and-adding-it-to-your-forms-and-apps.md",
+      "title": "Power Apps Print function and adding it to your forms and Apps",
+      "excerpt": "People have asked for this feature since I started building Power Apps many moons ago. This video walks you through how to use the feature, some of the \"quirks\" of the function, and talks a bit about adding it to existing apps.   Power Apps Consulting and training at https://www.PowerApps911.com",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-power-apps-print-function-and-adding-it-to-your-forms-and-apps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-power-apps-print-function-and-adding-it-to-your-forms-and-apps/",
+      "originalUrl": "https://youtube.com/watch?v=JMhVtII5hQs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JMhVtII5hQs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M47S",
       "provider": {
         "name": "PowerApps911",
         "domain": "powerapps911.com"
       },
-      "publishedDateTime": "2021-03-25T09:02:40-07:00",
-      "heat": 136,
+      "publishedDateTime": "2021-04-05T05:53:40-07:00",
+      "heat": 142,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/q2bhlBAqN_E/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/JMhVtII5hQs/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -64,66 +34,53 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-create-define-calculation-rollup-fields.md",
-      "title": "Create and define calculation or rollup fields in Common Data Service",
-      "excerpt": "Do you want to use rollup or calculation fields? This module shows you how to build calculations or rollups that are defined and triggered within the data in Common Data Service, regardless of the app that accesses that data set.",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/courses/microsoft-learn-create-define-calculation-rollup-fields/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-define-calculation-rollup-fields/",
-      "length": "PT42M",
-      "ratings": {
-        "count": 165,
-        "average": 4.7151513
-      },
+      "path": "_learning/videos/powerapps911-power-apps-reset-a-gallery-and-varrecord-instead-of-selected.md",
+      "title": "Power Apps Reset a Gallery and varRecord instead of Selected",
+      "excerpt": "Do you ever need to \"reset\" your gallery but you then get confused by the selected item or how that affects the data in forms and other related controls? I bet you do. Good news I explain how to make it all better using varRecord and a couple of little changes to the way you normally build things. Pure",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-power-apps-reset-a-gallery-and-varrecord-instead-of-selected/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-power-apps-reset-a-gallery-and-varrecord-instead-of-selected/",
+      "originalUrl": "https://youtube.com/watch?v=691pRyRHWBU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/691pRyRHWBU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M8S",
       "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
       },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 130,
+      "publishedDateTime": "2021-04-14T09:50:07-07:00",
+      "heat": 141,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/create-define-calculation-rollup-fields-social.png",
-          "width": 800,
-          "height": 400,
+          "url": "https://i.ytimg.com/vi/691pRyRHWBU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
+      "type": "video",
       "price": "Free",
       "topics": [
-        "Power Apps",
-        "Common Data Service"
+        "Power Apps"
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-draw-and-insert-shape-into-geospatial-maps-in-power-apps.md",
-      "title": "Draw and Insert Shape into Geospatial Maps in Power Apps",
-      "excerpt": "During this session, we will learn how we can draw and insert different shapes to Power Apps map visual. Power Apps let allows the users to draw and insert shapes into map component. We can add a drawing panel to our interactive maps that lets our users draw and label shapes in the app. We can also create",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-draw-and-insert-shape-into-geospatial-maps-in-power-apps/index.json",
-      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-draw-and-insert-shape-into-geospatial-maps-in-power-apps/",
-      "originalUrl": "https://youtube.com/watch?v=4XEG6wwFOSM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4XEG6wwFOSM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M6S",
+      "path": "_learning/videos/progmatic-works-power-apps-and-power-automate-send-emails-and-format-dates.md",
+      "title": "Power Apps and Power Automate (Send Emails and Format Dates)",
+      "excerpt": "Learn how to send an email after a record has been created in Power Apps using Power Automate. Also, learn how to change the display of a date value that you have stored and are reporting over.   Keep a lookout for my next blog/video where I will show how to deal with the pesky issue of having a lookup",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-power-apps-and-power-automate-send-emails-and-format-dates/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-power-apps-and-power-automate-send-emails-and-format-dates/",
+      "originalUrl": "https://youtube.com/watch?v=ucQbp7MOH74",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ucQbp7MOH74\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M50S",
       "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
       },
-      "publishedDateTime": "2021-03-16T02:58:25-07:00",
-      "heat": 130,
+      "publishedDateTime": "2021-03-24T08:09:23-07:00",
+      "heat": 131,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/4XEG6wwFOSM/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ucQbp7MOH74/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1182,6 +1139,36 @@
       "topics": [
         "Power Apps",
         "Common Data Service"
+      ]
+    },
+    {
+      "path": "_learning/videos/powerapps911-powerapps-combobox-search-filter-default-values-and-more.md",
+      "title": "PowerApps Combobox - Search, Filter, Default values, and more",
+      "excerpt": "In this video, you will learn about the PowerApps Combobox. There are examples for configuring, searching, filtering, selected vs. selecteditems, default vs defaultitems, datasources, items, and more. Lots of things to learn on this control  For more help check out PowerApps911 https://www.powerapps911.com",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-powerapps-combobox-search-filter-default-values-and-more/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-powerapps-combobox-search-filter-default-values-and-more/",
+      "originalUrl": "https://youtube.com/watch?v=pjs0ZsnJZXo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pjs0ZsnJZXo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M51S",
+      "provider": {
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
+      },
+      "publishedDateTime": "2018-11-11T10:54:30-08:00",
+      "heat": 68,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/pjs0ZsnJZXo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
       ]
     }
   ],

@@ -4,98 +4,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_learning/videos/powerapps911-common-data-service-relationships-and-lookups-with-power-apps-canvas-apps.md",
-      "title": "Common Data Service Relationships and Lookups with Power Apps canvas apps",
-      "excerpt": "In this video, you will learn how to setup and use Lookup columns in the Common Data Service aka CDS aka Dataflex. We talk about Filter, Patch, Collections, Forms, and more all while helping you build better relationships in your Power Apps Canvas Apps. I also skip all of the \"relationship\" jokes I wanted",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-common-data-service-relationships-and-lookups-with-power-apps-canvas-apps/index.json",
-      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-common-data-service-relationships-and-lookups-with-power-apps-canvas-apps/",
-      "originalUrl": "https://youtube.com/watch?v=kVEtj7QdRYY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kVEtj7QdRYY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT28M47S",
-      "provider": {
-        "name": "PowerApps911",
-        "domain": "powerapps911.com"
-      },
-      "publishedDateTime": "2020-08-09T09:28:27-07:00",
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/kVEtj7QdRYY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps",
-        "Common Data Service",
-        "Canvas apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/powerapps911-intro-powerapps-components-including-input-and-output-properties.md",
-      "title": "Intro PowerApps Components including Input and Output properties",
-      "excerpt": "In this video, you will learn about PowerApps Components. This new feature allows you to package and reuse controls and functionality throughout your app. The video covers what are Components, how to pass data into components, and how to pass data from components.  For more information on PowerApps please",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-intro-powerapps-components-including-input-and-output-properties/index.json",
-      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-intro-powerapps-components-including-input-and-output-properties/",
-      "originalUrl": "https://youtube.com/watch?v=AqZkUQ78e50",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AqZkUQ78e50\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M32S",
-      "provider": {
-        "name": "PowerApps911",
-        "domain": "powerapps911.com"
-      },
-      "publishedDateTime": "2019-03-31T11:36:47-07:00",
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/AqZkUQ78e50/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/powerapps911-power-apps-ama-i-answer-all-of-your-questions-about-sharepoint-flow-dataverse-and-more.md",
-      "title": "Power Apps AMA - I answer all of your questions about SharePoint, Flow, Dataverse and more",
-      "excerpt": "This is a cleaned up recording of a YouTube live. Remember, if you subscribe you could be part of this next time.   0:00 Start 2:27 overview of a sign in and sign out app 4:24 Search, StartsWith, and Delegation 7:22 Sharing your app 8:39 Video link - SharePoint Permissions video with flow https://www.youtube.com/watch?v=_Qnz4YeHses",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-power-apps-ama-i-answer-all-of-your-questions-about-sharepoint-flow-dataverse-and-more/index.json",
-      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-power-apps-ama-i-answer-all-of-your-questions-about-sharepoint-flow-dataverse-and-more/",
-      "originalUrl": "https://youtube.com/watch?v=jifdtQJ675o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jifdtQJ675o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT33M15S",
-      "provider": {
-        "name": "PowerApps911",
-        "domain": "powerapps911.com"
-      },
-      "publishedDateTime": "2021-04-12T12:18:36-07:00",
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jifdtQJ675o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
       "path": "_learning/videos/powerapps911-power-apps-setfocus-and-scroll-to-top-of-a-form.md",
       "title": "Power Apps SetFocus and Scroll to top of a Form",
       "excerpt": "Do you want to put the user's cursor into a specific text input? SetFocus is the answer. And now you know that did you know you can also use it to take the user to the top of a form? Even if the form doesn't have text inputs? 😲  Power Apps Consulting and training at https://www.PowerApps911.com",
@@ -813,6 +721,36 @@
       ]
     },
     {
+      "path": "_learning/videos/powerapps911-power-apps-form-onsuccess-onfailure-and-onreset.md",
+      "title": "Power Apps Form OnSuccess, OnFailure, and OnReset",
+      "excerpt": "Learn the correct way to have things happen after your form is submitted using the OnSuccess property. Also, how to ResetForm and how to use OnFailure and OnReset. Nothing too complicated but good patterns to avoid issues we see with customers often.  Power Apps Consulting and training at https://www.PowerApps911.com",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-power-apps-form-onsuccess-onfailure-and-onreset/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-power-apps-form-onsuccess-onfailure-and-onreset/",
+      "originalUrl": "https://youtube.com/watch?v=q2bhlBAqN_E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/q2bhlBAqN_E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M",
+      "provider": {
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
+      },
+      "publishedDateTime": "2021-03-25T09:02:40-07:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/q2bhlBAqN_E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_learning/videos/powerapps911-power-apps-tables-vs-records-vs-fields.md",
       "title": "Power Apps Tables vs  Records vs  Fields",
       "excerpt": "Do you want to build better apps? Would you like troubleshooting to be less trouble? Then this is your video. Here we break down into small pieces what is a table vs. a record vs. a Field from a Power Apps point of view. The goal is to help you build better apps while troubleshooting those pesky errors.",
@@ -981,6 +919,66 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Xe2NI2aTGvY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/powerapps911-powerapps-tracker-app-including-add-row-numbers-to-a-gallery.md",
+      "title": "PowerApps Tracker App including Add row numbers to a gallery",
+      "excerpt": "This app got fancy. I took the concept of Power Apps tracking a task (my kids juggling a soccer ball) and added a lot of great concepts. The most important one, that I have never shown before, is adding Row Numbers to a Collection. 😮 You need this video way more than you think you do. Lots of smart",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-powerapps-tracker-app-including-add-row-numbers-to-a-gallery/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-powerapps-tracker-app-including-add-row-numbers-to-a-gallery/",
+      "originalUrl": "https://youtube.com/watch?v=Uuolue31t5o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Uuolue31t5o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M21S",
+      "provider": {
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
+      },
+      "publishedDateTime": "2021-02-01T04:51:07-08:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Uuolue31t5o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/powerapps911-qtt-power-apps-distinct-dropdown-filter-sortbycolumns-delegation-addcolumns-ungroup-and-more.md",
+      "title": "QTT - Power Apps Distinct Dropdown - Filter, SortByColumns, Delegation, AddColumns, UnGroup and more",
+      "excerpt": "This Quick Thursday Tip on PowerApps Distinct Dropdown has it all. If you aren't familiar with Distinct then it introduces you to the concept of getting all of the unique values from a table to help with filtering. If you are then it includes nerd stuff 🤓 like dynamically using an UnGroup function to",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-qtt-power-apps-distinct-dropdown-filter-sortbycolumns-delegation-addcolumns-ungroup-and-more/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-qtt-power-apps-distinct-dropdown-filter-sortbycolumns-delegation-addcolumns-ungroup-and-more/",
+      "originalUrl": "https://youtube.com/watch?v=VnadKWifkr8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VnadKWifkr8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M2S",
+      "provider": {
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
+      },
+      "publishedDateTime": "2020-12-10T09:08:19-08:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/VnadKWifkr8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

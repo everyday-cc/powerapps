@@ -4,66 +4,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_learning/videos/reza-dorrni-part-1-powerapps-delegation-with-sharepoint-as-a-data-source.md",
-      "title": "Part 1 - PowerApps Delegation with SharePoint as a Data Source",
-      "excerpt": "This is part 1 of my PowerApps delegation Vlog series   This video will walk through the concept of Delegation in PowerApps Delegation is an important concept to understand in order to work with large data sets  Link to SharePoint connector delegation information: https://docs.microsoft.com/en-us/connectors/sharepointonline/",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/reza-dorrni-part-1-powerapps-delegation-with-sharepoint-as-a-data-source/index.json",
-      "webUrl": "https://everyday.cc/powerapps/learning/videos/reza-dorrni-part-1-powerapps-delegation-with-sharepoint-as-a-data-source/",
-      "originalUrl": "https://youtube.com/watch?v=gwiErbYtRdA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gwiErbYtRdA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M36S",
-      "provider": {
-        "name": "Reza Dorrni",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-10-29T20:31:00-07:00",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/gwiErbYtRdA/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/reza-dorrni-powerapps-delegation-with-sharepoint-as-a-data-source-part-1.md",
-      "title": "PowerApps Delegation with SharePoint as a Data Source (Part 1)",
-      "excerpt": "#PowerAppsDelegation #SharePointDelegation  This video on PowerApps Delegation with SharePoint as a Data Source (Part 1) is part 1 of my PowerApps delegation Vlog series.  This video will walk through the concept of Delegation in PowerApps Delegation is an important concept to understand in order to",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/reza-dorrni-powerapps-delegation-with-sharepoint-as-a-data-source-part-1/index.json",
-      "webUrl": "https://everyday.cc/powerapps/learning/videos/reza-dorrni-powerapps-delegation-with-sharepoint-as-a-data-source-part-1/",
-      "originalUrl": "https://youtube.com/watch?v=gwiErbYtRdA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gwiErbYtRdA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M36S",
-      "provider": {
-        "name": "Reza Dorrni",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-10-29T20:31:00-07:00",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/gwiErbYtRdA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-create-a-model-driven-application-in-power-apps.md",
       "title": "Create a model-driven application in Power Apps",
       "excerpt": "This learning path introduces you to creating a model-driven app in Power Apps that uses Common Data Service.",
@@ -1059,6 +999,66 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/AYD2oWue7fw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/powerapps911-send-emails-from-do-not-reply-with-the-power-apps-smtp-connector.md",
+      "title": "Send emails from Do Not Reply with the Power Apps SMTP Connector",
+      "excerpt": "This video has it all: The Power Apps SMTP connector, Mail Connector, Creating an Office 365 account, talk of MFA, talk of sharing connectors and environments, and a Chewy Sweatshirt. 😁 But finally, we can send emails without giving everyone SendAs permissions. Hooray! Oh yeah, and these connectors",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-send-emails-from-do-not-reply-with-the-power-apps-smtp-connector/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-send-emails-from-do-not-reply-with-the-power-apps-smtp-connector/",
+      "originalUrl": "https://youtube.com/watch?v=l8NJkauGJ7U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/l8NJkauGJ7U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M40S",
+      "provider": {
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
+      },
+      "publishedDateTime": "2020-12-06T09:47:26-08:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/l8NJkauGJ7U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-3-ways-to-attachment-files-in-power-apps-dataverse.md",
+      "title": "3 Ways to Attachment Files in Power Apps  DataVerse",
+      "excerpt": "Learn 3 ways you can attach files in Power Apps Model Driven Apps and eventually Portals. In this video, Brian shows you how to use the File Data Type, use notes or link to a SharePoint document library in the Dataverse.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-3-ways-to-attachment-files-in-power-apps-dataverse/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-3-ways-to-attachment-files-in-power-apps-dataverse/",
+      "originalUrl": "https://youtube.com/watch?v=8zCcIQ_gpB8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8zCcIQ_gpB8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M16S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2021-02-16T14:27:20-08:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8zCcIQ_gpB8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

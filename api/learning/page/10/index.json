@@ -4,66 +4,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_learning/videos/powerapps911-send-emails-from-do-not-reply-with-the-power-apps-smtp-connector.md",
-      "title": "Send emails from Do Not Reply with the Power Apps SMTP Connector",
-      "excerpt": "This video has it all: The Power Apps SMTP connector, Mail Connector, Creating an Office 365 account, talk of MFA, talk of sharing connectors and environments, and a Chewy Sweatshirt. 😁 But finally, we can send emails without giving everyone SendAs permissions. Hooray! Oh yeah, and these connectors",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/powerapps911-send-emails-from-do-not-reply-with-the-power-apps-smtp-connector/index.json",
-      "webUrl": "https://everyday.cc/powerapps/learning/videos/powerapps911-send-emails-from-do-not-reply-with-the-power-apps-smtp-connector/",
-      "originalUrl": "https://youtube.com/watch?v=l8NJkauGJ7U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/l8NJkauGJ7U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M40S",
-      "provider": {
-        "name": "PowerApps911",
-        "domain": "powerapps911.com"
-      },
-      "publishedDateTime": "2020-12-06T09:47:26-08:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/l8NJkauGJ7U/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/progmatic-works-3-ways-to-attachment-files-in-power-apps-dataverse.md",
-      "title": "3 Ways to Attachment Files in Power Apps  DataVerse",
-      "excerpt": "Learn 3 ways you can attach files in Power Apps Model Driven Apps and eventually Portals. In this video, Brian shows you how to use the File Data Type, use notes or link to a SharePoint document library in the Dataverse.",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-3-ways-to-attachment-files-in-power-apps-dataverse/index.json",
-      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-3-ways-to-attachment-files-in-power-apps-dataverse/",
-      "originalUrl": "https://youtube.com/watch?v=8zCcIQ_gpB8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8zCcIQ_gpB8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M16S",
-      "provider": {
-        "name": "Progmatic Works",
-        "domain": "pragmaticworks.com"
-      },
-      "publishedDateTime": "2021-02-16T14:27:20-08:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8zCcIQ_gpB8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
       "path": "_learning/videos/progmatic-works-integrating-power-bi-into-powerapps.md",
       "title": "Integrating Power BI into PowerApps",
       "excerpt": "PowerApp a Day Episode #6 (Time Card App) -  Ever heard the term, use the right tool for the job? For reporting and graphs, Power BI fits the bill for your PowerApps. See how to integrate a dashboard in Power BI into PowerApps.   Power App and Power Platform Training : https://pragmaticworks.com/training/on-demand-training",
@@ -962,6 +902,66 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/gycdn2n5Pp0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-apply-sort-on-multiple-column-in-power-apps.md",
+      "title": "Apply Sort on Multiple Column in Power Apps",
+      "excerpt": "Welcome to Power Apps Step by Step Beginner tutorial series. My self Dhruvin Shah you are watching the 15th part of the Power Apps Beginner Series. During this chapter, we will talk about how we can perform Sort operation on multiple columns of the Power Apps Grid.  The sort is the very basic functionality.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-apply-sort-on-multiple-column-in-power-apps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-apply-sort-on-multiple-column-in-power-apps/",
+      "originalUrl": "https://youtube.com/watch?v=lC7_7DYDDDE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lC7_7DYDDDE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M26S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-09-29T02:55:35-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/lC7_7DYDDDE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-gallery-vs-data-table-in-power-apps.md",
+      "title": "Gallery Vs Data table in Power Apps",
+      "excerpt": "Welcome to Power Apps Step by Step Beginner tutorial series. My self Dhruvin Shah you are watching the 13th part of the Power Apps Beginner Series. During this chapter, we will talk about what is the basic difference between Data table and Gallery control in Power Apps!  In our previous sessions we have",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-gallery-vs-data-table-in-power-apps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-gallery-vs-data-table-in-power-apps/",
+      "originalUrl": "https://youtube.com/watch?v=BsqqVFlDrLw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BsqqVFlDrLw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M57S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-09-15T21:57:56-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/BsqqVFlDrLw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

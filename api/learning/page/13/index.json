@@ -4,67 +4,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_learning/videos/daves-tech-tips-powerapps-component-libraries-dialog-popup.md",
-      "title": "PowerApps Component Libraries - Dialog Popup",
-      "excerpt": "In this video, we will learn how to use Power Apps Component Libraries and how they can be used to centralize reusable functionality across your apps, and streamline the process of deploying and updating them.  We will show you how to install the Power Apps Dialog Component in a library and then also",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/daves-tech-tips-powerapps-component-libraries-dialog-popup/index.json",
-      "webUrl": "https://everyday.cc/powerapps/learning/videos/daves-tech-tips-powerapps-component-libraries-dialog-popup/",
-      "originalUrl": "https://youtube.com/watch?v=SIDvoh-Q_Fk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SIDvoh-Q_Fk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M15S",
-      "provider": {
-        "name": "Dave's Tech Tips",
-        "domain": "ukuvuma.co.za"
-      },
-      "publishedDateTime": "2020-06-01T14:36:13-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/SIDvoh-Q_Fk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-access-management-for-power-apps-canvas-app-sharing-power-apps-canvas-app.md",
-      "title": "Access Management for Power Apps Canvas App | Sharing Power Apps Canvas App",
-      "excerpt": "During this video, we will learn the most important concept which Access Management in Power Apps Canvas App. This concept is very useful when you publish the Power Apps and you need to provide access among the group of users to access the app.  We will learn how we can share Power Apps Canvas App with",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/dhruvin-shah-access-management-for-power-apps-canvas-app-sharing-power-apps-canvas-app/index.json",
-      "webUrl": "https://everyday.cc/powerapps/learning/videos/dhruvin-shah-access-management-for-power-apps-canvas-app-sharing-power-apps-canvas-app/",
-      "originalUrl": "https://youtube.com/watch?v=rNvw1tUi3Ks",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rNvw1tUi3Ks\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M12S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-09-29T18:33:27-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/rNvw1tUi3Ks/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps",
-        "Canvas apps"
-      ]
-    },
-    {
       "path": "_learning/videos/dhruvin-shah-create-map-using-geospatial-component-in-power-apps.md",
       "title": "Create Map using Geospatial Component in Power Apps",
       "excerpt": "During this session, we will learn how we can create a Map in Power Apps using the Geospatial component. The geospatial component allows us to create a map in Power Apps. Welcome to the Power Apps Geospatial Component Step by Step series. The main purpose to make this series is to leverage all the capabilities",
@@ -926,6 +865,66 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/SKWu5lajWaM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-passing-array-parameters-into-stored-procedures-from-power-apps.md",
+      "title": "Passing Array Parameters into Stored Procedures from Power Apps",
+      "excerpt": "Learn how to use Power Apps to send arrays as parameters into a stored procedure using JSON and Power Automate. This can be used to solve more complex stored procedure filtering with OPENJSON.  For training or consulting on PowerApps, check out https://www.pragmaticworks.com  On-Demand Learning courses",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-passing-array-parameters-into-stored-procedures-from-power-apps/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-passing-array-parameters-into-stored-procedures-from-power-apps/",
+      "originalUrl": "https://youtube.com/watch?v=hTraYHbcIHc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hTraYHbcIHc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2020-01-20T11:47:08-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/hTraYHbcIHc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-power-apps-disableenable-buttons-and-wipe-out-values-using-patch.md",
+      "title": "(Power Apps) Disable/Enable Buttons And Wipe Out Values Using Patch",
+      "excerpt": "Learn how to disable and enable buttons in your app using Microsoft's Power Apps. Also, take your Patch function to the next level outside of forms when you want to wipe our prior data entries.   One problem that arises with the Patch function is that the old values will still be populated in your input",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/learning/videos/progmatic-works-power-apps-disableenable-buttons-and-wipe-out-values-using-patch/index.json",
+      "webUrl": "https://everyday.cc/powerapps/learning/videos/progmatic-works-power-apps-disableenable-buttons-and-wipe-out-values-using-patch/",
+      "originalUrl": "https://youtube.com/watch?v=-3ebuJ_jzX4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-3ebuJ_jzX4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M50S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2021-02-10T13:35:55-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-3ebuJ_jzX4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
