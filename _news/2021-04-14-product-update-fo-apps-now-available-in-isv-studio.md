@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/product-update-fo-apps-
 webUrl: "https://powerapps.microsoft.com/en-us/blog/product-update-fo-apps-now-available-in-isv-studio/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:

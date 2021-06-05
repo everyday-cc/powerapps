@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/announcing-data-source-
 webUrl: "https://powerapps.microsoft.com/en-us/blog/announcing-data-source-environment-variables/"
 type: article
 quality: 72
-heat: 73
+heat: 72
 published: true
 
 provider:

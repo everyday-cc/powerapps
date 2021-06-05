@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/better-together-introdu
 webUrl: "https://powerapps.microsoft.com/en-us/blog/better-together-introducing-custom-pages-and-the-modern-app-designer/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:

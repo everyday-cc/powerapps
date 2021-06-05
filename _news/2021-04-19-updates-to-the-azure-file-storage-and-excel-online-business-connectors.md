@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/updates-to-the-azure-fi
 webUrl: "https://powerapps.microsoft.com/en-us/blog/updates-to-the-azure-file-storage-and-excel-online-business-connectors/"
 type: article
 quality: 71
-heat: 71
+heat: 72
 published: true
 
 provider:

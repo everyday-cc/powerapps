@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/spanish-business-apps-s
 webUrl: "https://powerapps.microsoft.com/en-us/blog/spanish-business-apps-summit-june-4th-and-5th/"
 type: article
 quality: 72
-heat: 73
+heat: 72
 published: true
 
 provider:
