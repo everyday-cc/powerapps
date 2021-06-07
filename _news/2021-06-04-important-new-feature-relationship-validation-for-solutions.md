@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/important-new-feature-r
 webUrl: "https://powerapps.microsoft.com/en-us/blog/important-new-feature-relationship-validation-for-solutions/"
 type: article
 quality: 72
-heat: 75
+heat: 72
 published: true
 
 provider:
