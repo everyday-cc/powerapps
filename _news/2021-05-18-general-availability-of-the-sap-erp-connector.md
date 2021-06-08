@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/general-availability-of
 webUrl: "https://powerapps.microsoft.com/en-us/blog/general-availability-of-the-sap-erp-connector/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:

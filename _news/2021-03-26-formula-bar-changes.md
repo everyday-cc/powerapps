@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/formula-bar-changes/"
 webUrl: "https://powerapps.microsoft.com/en-us/blog/formula-bar-changes/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:
