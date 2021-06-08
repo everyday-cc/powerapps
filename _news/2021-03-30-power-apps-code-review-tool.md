@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/power-apps-code-review-
 webUrl: "https://powerapps.microsoft.com/en-us/blog/power-apps-code-review-tool/"
 type: article
 quality: 87
-heat: 90
+heat: 89
 published: true
 
 provider:
