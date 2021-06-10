@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/power-fx-coming-to-mode
 webUrl: "https://powerapps.microsoft.com/en-us/blog/power-fx-coming-to-model-driven-power-apps-dataverse-and-more/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:
