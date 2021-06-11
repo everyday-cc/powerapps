@@ -18,7 +18,7 @@ website: https://t.co/enJuiGEQZc
 twitter:
   username: aprildunnam
   url: https://twitter.com/aprildunnam
-  followers: 7078
+  followers: 7079
 
 linkedin:
   url: https://www.linkedin.com/public-profile/in/april-dunnam
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "April Dunnam"
 
-secured: "mhFodSysA3wHCHxRW6XqIyMkpLnjOVGViVrQeaP8nsrmpRTO+xbZP3vAkgE/faDqxILcVlV1muGtmK4nFCytSI09eIsJQyqD1gjv09HVLyH3/lVlM0qivvW8XpNPJjAHV6tJ8L7V5BRLUyXv6datXZeXKNnRKQXbMqwI3bg5j3eOCdHbuY9Unkct49q2u0CtPb1w/l1kDMQHs6kQfven+r1Lx9SI6dRKgOuV3y8iXrfP8MrChly+Bi8dbYaghOzSv5J3ocSvhDStsj0X/zJHYkfo2aJ6rRQX7efxQWiE72bJ4//WsVXsqIyzlBSUjirPFrb/94vbnxKElRwOHQea1ZPZhTOsITP2avNb9yvD1nvavGnKbcA28RrmNVXu4LGVDlyCn0Hr8UzHmwqDlTxhFlhT0dxUmDC/NQaoPAWZ5X4=;fCPR5aEa92f+9uB6qhKKmA=="
+secured: "SCpQ0LbPZpzOsmE81oTSrpFJ0+LfEmYpouTNM2utaENpF+9iK/WsCSVceLzhWrsf7mY+8LqXUJoQEAXzzZcLLQHzqzcM320KX4lt6Deh72ajd+sTioyhVydETM9H50nXrqz86dEaPJQsohSK+pPBdky+/pBUdr1uT8nFxheGpXgtoxQm/0pCW0/809zFKrZsJSEhrmC99YSNhsFCR4lA4YxHnMvSDKJohoWxrb9UaQGfYAULiSJ7WLo8Ypuso8QAWlOz9R/ttW4yRUjfL9M9D8bOzuCKfqxrU0WvT2ztA+ooI77WgQqnl1Wr7De8GbWY4MXPsOpayRzKgogki1cBMld+6FwHLPHK6ho3TX3G61hb8fuoHWm8Q/Jz1xpIX+G0VBgRkXYMOpv1Jtxxl/el7VZvasoP8aUtyy3emTCfgNU=;zjvMcL7RH9QGKd+a7nv2DA=="
 ---
 
