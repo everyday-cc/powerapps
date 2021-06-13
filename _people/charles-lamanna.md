@@ -16,7 +16,7 @@ affiliation:
 twitter:
   username: clamanna
   url: https://twitter.com/clamanna
-  followers: 3554
+  followers: 3555
 
 linkedin:
   url: https://www.linkedin.com/in/charleslamanna
