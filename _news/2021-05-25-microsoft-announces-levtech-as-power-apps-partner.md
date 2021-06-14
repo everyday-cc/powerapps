@@ -1,30 +1,30 @@
 ---
 category: news
-title: "Microsoft Announces Levtech As Power Apps Partner"
-excerpt: "Levtech Consulting, an RIB Group company, today announced that it has extended its partnership with Microsoft to be a certified Power Apps Partner Levtech Consulting, an RIB Group company ..."
-publishedDateTime: 2021-05-25T07:30:00Z
-originalUrl: "https://www.albawaba.com/business/pr/microsoft-announces-levtech-power-apps-partner-1429413"
-webUrl: "https://www.albawaba.com/business/pr/microsoft-announces-levtech-power-apps-partner-1429413"
-ampWebUrl: "https://www.albawaba.com/amp/business/pr/microsoft-announces-levtech-power-apps-partner-1429413"
-cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/microsoft-announces-levtech-power-apps-partner-1429413"
+title: "Microsoft announces Levtech as Power Apps partner"
+excerpt: "Levtech Consulting, an RIB Group company, today announced that it has extended its partnership with Microsoft to be a certified Power Apps Partner - demonstrating its ability to build custom and value-added solutions for its customers globally. Levtech ..."
+publishedDateTime: 2021-05-25T07:32:00Z
+originalUrl: "https://www.zawya.com/uae/en/press-releases/story/Microsoft_announces_Levtech_as_Power_Apps_partner-ZAWYA20210525072802/"
+webUrl: "https://www.zawya.com/uae/en/press-releases/story/Microsoft_announces_Levtech_as_Power_Apps_partner-ZAWYA20210525072802/"
+ampWebUrl: "https://www.zawya.com/uae/en/story/amp/ZAWYA20210525072802/"
+cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/ZAWYA20210525072802/"
 type: article
 quality: 57
 heat: 57
 published: false
 
 provider:
-  name: Al Bawaba News
-  domain: albawaba.com
+  name: Zawya
+  domain: zawya.com
 
 topics:
   - Power Apps
 
 images:
-  - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2021-05/Anilesh%20Kumar%2C%20CEO%2C%20Levtech%20Consulting.JPG?itok=FNOzJPpk"
-    width: 960
-    height: 540
+  - url: "https://images.zawya.com/pr/images/2021/AnileshKumar_2021_05_25.JPG"
+    width: 450
+    height: 627
     isCached: true
 
-secured: "mhxPJTeNbVxt3L68K78dlH2DX347ce5ivbUIgs+zj5dSJ+NeqpwVB/hQe7+qu0pHW4L744pVEkpdu89smPuzfUtZllqerKU2TOhQUc7SzwG5OyZpf0bQUiVUMJaABNfibkA5woT/zpVaJvZ163R7pIrItZy7I7MmmyClPyUqQg9Q7DbwcwvsieL1DEIxz2CQgOAX0EJj2Qo+/uYq+83R+DBHd+bdWY68DcRurgG+Spk0YDv7oMSkxx3lMD1gsasiSjaz8Qn+3peXMWXxos1LiXFJVdwf1P/MX03ugYat1p+yhH1Rjeedwebl3d/CQztNtuzLsVVizCyItAEwi9TN23Kmu2TB4aXYY2XhmJHDYQY=;DSUg59m+x81iLp17eF8Taw=="
+secured: "waec6zyp5VNxkXhUVCSa/Ly1bToSlefMzDyaNgffbinul3XZqR+Jhr/8gcY7l/i6r8CmBBAgBJO1C4G/bE85ynsBLwY/cXmdadigUlhFcKjUheZtof9GOI2JznOVVhUZUmgdmnouspamxVqYleezVEp28qEYZAUHtIeJWn0IDiOOW3TaX+7QvfmU40ypp2iq0DMMWRQ8yEbdmrlP8Q9T/45kX7HWmJZ0kSMAt0Mrkaew/tmuUHS7pifnL5eqKYEPc5CcFicFcXK4jDwfn7Duf6Ay1bSi9SUCAWbaWfTyHvHE/JSmQdEbrOIOmL6eGuzG37jalWh36Ii1EKChu/2zrWg39QHw+TW41NRFXFbQx7A=;JYDzjsrFTQwX/kQmgX/eog=="
 ---
 
