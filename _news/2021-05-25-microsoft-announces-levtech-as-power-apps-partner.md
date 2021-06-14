@@ -1,30 +1,30 @@
 ---
 category: news
-title: "Microsoft announces Levtech as Power Apps partner"
-excerpt: "Levtech Consulting, an RIB Group company, today announced that it has extended its partnership with Microsoft to be a certified Power Apps Partner - demonstrating its ability to build custom and value-added solutions for its customers globally. Levtech ..."
-publishedDateTime: 2021-05-25T07:32:00Z
-originalUrl: "https://www.zawya.com/uae/en/press-releases/story/Microsoft_announces_Levtech_as_Power_Apps_partner-ZAWYA20210525072802/"
-webUrl: "https://www.zawya.com/uae/en/press-releases/story/Microsoft_announces_Levtech_as_Power_Apps_partner-ZAWYA20210525072802/"
-ampWebUrl: "https://www.zawya.com/uae/en/story/amp/ZAWYA20210525072802/"
-cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/ZAWYA20210525072802/"
+title: "Microsoft Announces Levtech As Power Apps Partner"
+excerpt: "Levtech Consulting, an RIB Group company, today announced that it has extended its partnership with Microsoft to be a certified Power Apps Partner Levtech Consulting, an RIB Group company ..."
+publishedDateTime: 2021-05-25T07:30:00Z
+originalUrl: "https://www.albawaba.com/business/pr/microsoft-announces-levtech-power-apps-partner-1429413"
+webUrl: "https://www.albawaba.com/business/pr/microsoft-announces-levtech-power-apps-partner-1429413"
+ampWebUrl: "https://www.albawaba.com/amp/business/pr/microsoft-announces-levtech-power-apps-partner-1429413"
+cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/microsoft-announces-levtech-power-apps-partner-1429413"
 type: article
 quality: 57
 heat: 57
 published: false
 
 provider:
-  name: Zawya
-  domain: zawya.com
+  name: Al Bawaba News
+  domain: albawaba.com
 
 topics:
   - Power Apps
 
 images:
-  - url: "https://images.zawya.com/pr/images/2021/AnileshKumar_2021_05_25.JPG"
-    width: 450
-    height: 627
+  - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2021-05/Anilesh%20Kumar%2C%20CEO%2C%20Levtech%20Consulting.JPG?itok=FNOzJPpk"
+    width: 960
+    height: 540
     isCached: true
 
-secured: "B5nhpPZB7XOfoRRYzkHKYnbOULy8sajHaN44ggxTAhM0hZ6xLCvVJaJph+YRtTACrhgrQMI3xQq6OF64NiQelVkDisHsmsyoszhGL3Z2nPpNXdA8ceGXrSNYmkjYcq+GZ3B8PMlwhmyc5/7TNxaO9pDUKxmiMe2I5xo/oEx0VecXB+SCeWRUiMIm2SKn+iOIMl2JpwvTDbvwElx+k5GCd5xLZ+ayWL42H10CrdSqxiCQuOP29SLeRUB2kyWrJf9xSnH30Lc8vUGnspJzdXR43uePe03vjrrDoN9J/LLiGkCnG9DhAfPReHsN+eGIoRcOVoVd5Rp/LA4ZIZvW59JnxLNx/YKRKN1VroqmRfD/DKY=;fInoWcsoX3AuTE8wgd0e5A=="
+secured: "rxmaexEjDabsLuaB2oAzYbSTmws3HiZPPjZzcQwFNvt3/xhcHXfWMu9wZ125+2utNPnavRiG3cXw3mEFbgpVDeqIGGiUNV7F01fb4nxJkSPZQGIFLtYB2v3R6kLpKqJBM90XJo53S+7wVgCKkgJkwe0PVxZe530Z+76a2qCSYHpnXJsAICHlF+wIJ8C+vx+7jEuI2h4xWXE17t96Hi/qalTFWr0L9dcDPpCt22mCse7yuVp0Ym4ZZsfl3KhJsKHFhBusJ1Z3kkPEnc7slKKWhpZYn7yvsSjJn3BTUEiUi8KXGkdDCfGYadh2RZIjQcZB8WTK7IOFZkWSVub0MWOb8m+4NdaFaaMeCwp8i33lmGk=;AsKpdecpo5WnfHQd/Zx5gw=="
 ---
 
