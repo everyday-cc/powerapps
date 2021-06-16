@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/introducing-the-modern-
 webUrl: "https://powerapps.microsoft.com/en-us/blog/introducing-the-modern-app-designer-preview/"
 type: article
 quality: 72
-heat: 76
+heat: 72
 published: true
 
 provider:
