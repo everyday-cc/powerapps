@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/announcing-power-query-
 webUrl: "https://powerapps.microsoft.com/en-us/blog/announcing-power-query-dataflows-for-dataverse-in-teams-preview/"
 type: article
 quality: 89
-heat: 89
+heat: 91
 published: true
 
 provider:
