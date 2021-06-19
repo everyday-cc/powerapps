@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-01-new-in-the-coe-starter-kit-review-the-impact-of-dlp-policy-changes.md",
+      "title": "New in the CoE Starter Kit: Review the impact of DLP policy changes",
+      "excerpt": "We are excited to introduce you to the DLP Editor – a new app part of the Center of Excellence Starter Kit. The DLP Editor is a tool you can use to observe the impact of an existing policy or updated/new policy changes you want to make.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/new-in-the-coe-starter-kit-review-the-impact-of-dlp-policy-changes/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/new-in-the-coe-starter-kit-review-the-impact-of-dlp-policy-changes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-01T00:01:23-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2021-02-28-user-on-boarding-walkthrough-powerapps-portal-way.md",
       "title": "User on boarding Walkthrough: PowerApps Portal way",
       "excerpt": "On boarding users to a tenant have always been a challenge. Various solutions exist in the market and needs to be customized as per business processes.  Customizing will add to the problem of maintenance of Code.\r\n\r\nIn the blog, we are going to cover &#8220;No Code Solution&#8221; Design. Covering up",
@@ -1205,57 +1256,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-01-14T01:22:17-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-3-low-code-trends-why-low-code-will-be-big-in-your-2021-tech-strategy.md",
-      "title": "3 low-code trends: why low-code will be big in your 2021 tech strategy",
-      "excerpt": "Whether you’re a software developer or someone who uses technology for their job, the way we work has fundamentally changed this year. Much of the workforce was spread out and working remotely. Serving customers became a challenge. Organizations needed to transform basic pen and paper processes, like",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/3-low-code-trends-why-low-code-will-be-big-in-your-2021-tech-strategy/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/3-low-code-trends-why-low-code-will-be-big-in-your-2021-tech-strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-14T00:55:42-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
