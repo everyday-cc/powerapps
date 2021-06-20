@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/power-platform-extensio
 webUrl: "https://powerapps.microsoft.com/en-us/blog/power-platform-extension-for-vs-code/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:
