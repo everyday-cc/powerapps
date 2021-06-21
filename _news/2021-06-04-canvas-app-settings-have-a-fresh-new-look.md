@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/canvas-app-settings-hav
 webUrl: "https://powerapps.microsoft.com/en-us/blog/canvas-app-settings-have-a-fresh-new-look/"
 type: article
 quality: 89
-heat: 91
+heat: 90
 published: true
 
 provider:
