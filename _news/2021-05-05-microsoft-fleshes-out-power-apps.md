@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3617869/microsoft-fleshes-out-powe
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3617869/microsoft-fleshes-out-power-apps.amp.html"
 type: article
 quality: 97
-heat: 98
+heat: 97
 published: true
 
 provider:
