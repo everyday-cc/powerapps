@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/read-nfc-tags-with-powe
 webUrl: "https://powerapps.microsoft.com/en-us/blog/read-nfc-tags-with-power-apps-on-ios-and-android/"
 type: article
 quality: 87
-heat: 89
+heat: 88
 published: true
 
 provider:
