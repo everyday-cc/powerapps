@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/advanced-lookup-experie
 webUrl: "https://powerapps.microsoft.com/en-us/blog/advanced-lookup-experience-in-model-driven-power-apps/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:
