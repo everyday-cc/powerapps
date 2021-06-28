@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/print-screens-in-your-c
 webUrl: "https://powerapps.microsoft.com/en-us/blog/print-screens-in-your-canvas-app/"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:
