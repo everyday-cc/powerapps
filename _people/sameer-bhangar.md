@@ -3,7 +3,7 @@ name: "Sameer Bhangar"
 bio: "Principal Program Manager - Power Platform CAT team"
 location: Seattle, WA
 type: "profile"
-heat: 50
+heat: 64
 
 affiliation:
   name: Microsoft
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Sameer Bhangar"
 
-secured: "nabpG7274HyvW33YtO4uEDlHoKngL70c+6Rim4QuZ5yPYpIkt3m61diwZnXPx0btFtc5LP144IgaLiX9vTDVnH5d5V9KuhiEcRdcWFNlYeV+OccDEonB09uaYLkp0GHMj7vmIbj+cvjaGkiWfuHz0CNkkjZ5rLxe/fovG7YfeHNyA2qRfEa6WRE1BBXJUxDkwzmxc/0BFGOeRUQm8Rak68vVCUqOtP8nPZa6yZs6KSZm4sCAXb2V7c78KRnnQMzhkhe8tiry3XPYIeKJ3YFsqaz5F82wBy3CqCcsOm++m43Fg0zXWVxubYCRW7M6MFexYQxy2qxNvHtk2KDj4GoJ4a2sImMx+Op0WLuJNtbxig9HYfhrlKYVW23K88B8SknfDkk8HiWmcEWwcW9AzEw0tQ==;VCDPbFruvBe+5uLvIAfeqw=="
+secured: "acMTPAfieiaKlLZvxeczM+B2HH7MHDlLQsQyyt4OZWZDWDJ1G/aJfmKycNh4UnSkPj/ebOaw+ajG3Yc/i5Cz1QECHhX6nn3/7Xg1JeuJb1d/I4tob7DTaV7Y9eHT9E/VdhBLECSN5cDHe6Uf9KQRYvX8QwWlKmSIDZNcC4GcDk5TNdx5Fzau/i914y/ByiFTV1Vzpl62eyjGE2WUdK3D8w3abIm2scUNh8ujbYnsGuZon5ZaHGdAnm9Miqso49476cFh6qBZ9XpiUi6aDQ8v2VkwNccFOm/M2Bv1g7pJ0RrrYUXcEhXR2hwFM+hCGnp1UW/suLpr0F9IoXtJx6KRn9f/6oyfz7OPoYbQGJZNq3le7CLfjVKhcCyjv8JjdnBBZjlEIKTuNtI52Z1vfVFbxQ==;m1LlGU5bnKdK8qLdiLAM0g=="
 ---
 
