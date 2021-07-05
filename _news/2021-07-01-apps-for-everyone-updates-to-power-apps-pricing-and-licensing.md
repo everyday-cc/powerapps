@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/apps-for-everyone-updat
 webUrl: "https://powerapps.microsoft.com/en-us/blog/apps-for-everyone-updates-to-power-apps-pricing-and-licensing/"
 type: article
 quality: 87
-heat: 94
+heat: 95
 published: true
 
 provider:
