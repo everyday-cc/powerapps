@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/25/microsoft-uses-gpt-3-to-add-ai-fe
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/25/microsoft-uses-gpt-3-to-add-ai-features-to-power-apps/amp/"
 type: article
 quality: 97
-heat: 98
+heat: 97
 published: true
 
 provider:
