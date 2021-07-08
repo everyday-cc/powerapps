@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/30/microsoft-build-touts-enhancement
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/30/microsoft-build-touts-enhancements-to-power-apps-cosmos-db-to-develop-code-faster/amp/"
 type: article
 quality: 93
-heat: 93
+heat: 94
 published: true
 
 provider:
