@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/canvas-source-code-tool
 webUrl: "https://powerapps.microsoft.com/en-us/blog/canvas-source-code-tool-integrated-with-power-platform-cli/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:
