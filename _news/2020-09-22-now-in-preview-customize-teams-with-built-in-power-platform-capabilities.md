@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/now-in-preview-customiz
 webUrl: "https://powerapps.microsoft.com/en-us/blog/now-in-preview-customize-teams-with-built-in-power-platform-capabilities/"
 type: article
 quality: 88
-heat: 88
+heat: 89
 published: true
 
 provider:

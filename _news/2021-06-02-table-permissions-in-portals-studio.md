@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/table-permissions-in-po
 webUrl: "https://powerapps.microsoft.com/en-us/blog/table-permissions-in-portals-studio/"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

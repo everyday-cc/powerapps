@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/canvas-app-layout-conta
 webUrl: "https://powerapps.microsoft.com/en-us/blog/canvas-app-layout-containers-are-now-generally-available/"
 type: article
 quality: 89
-heat: 91
+heat: 92
 published: true
 
 provider:
