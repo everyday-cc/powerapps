@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/announcement-multi-tabl
 webUrl: "https://powerapps.microsoft.com/en-us/blog/announcement-multi-table-lookups-are-now-available-as-a-preview/"
 type: article
 quality: 72
-heat: 78
+heat: 79
 published: true
 
 provider:
