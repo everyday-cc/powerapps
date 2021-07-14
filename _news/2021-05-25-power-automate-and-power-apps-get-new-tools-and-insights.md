@@ -7,7 +7,7 @@ originalUrl: "https://www.neowin.net/news/power-automate-and-power-apps-get-new-
 webUrl: "https://www.neowin.net/news/power-automate-and-power-apps-get-new-tools-and-insights/"
 type: article
 quality: 77
-heat: 79
+heat: 77
 published: true
 
 provider:
