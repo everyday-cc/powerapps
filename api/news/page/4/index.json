@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-20-announcing-the-general-availability-of-geospatial-features-in-power-apps.md",
+      "title": "Announcing the General Availability of Geospatial Features in Power Apps",
+      "excerpt": "Announcing the general availability of geospatial features in Power Apps",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-the-general-availability-of-geospatial-features-in-power-apps/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-the-general-availability-of-geospatial-features-in-power-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-20T05:16:40-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2021-01-14-source-code-files-for-canvas-apps.md",
       "title": "Source code files for Canvas apps",
       "excerpt": "Edit and manage source files for Canvas apps!",
@@ -1235,58 +1286,6 @@
       "topics": [
         "Power Apps",
         "Portals"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-november-26th-vancouver-power-apps-user-group-exception-handling-and-integrating-the-power-platform-with-microsoft-teams.md",
-      "title": "November 26th Vancouver Power Apps User Group:  Exception Handling and integrating the Power Platform with Microsoft Teams",
-      "excerpt": "November brings us several exciting topics and two amazing community presenters for the Vancouver Power Apps User Group. Our presenters are Microsoft Technical Specialist Ali Sharifi covering the integration of the Power Platform into Microsoft Teams namely Power Automate, Dataverse and Power Virtual",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/november-26th-vancouver-power-apps-user-group-exception-handling-and-integrating-the-power-platform-in-teams/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/november-26th-vancouver-power-apps-user-group-exception-handling-and-integrating-the-power-platform-in-teams/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-23T11:28:20-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps",
-        "Teams integration"
       ]
     }
   ],
