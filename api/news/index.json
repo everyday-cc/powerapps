@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-17-2021-power-apps-community-call-demo-extravaganza-july-21st.md",
+      "title": "2021 Power Apps community call Demo Extravaganza July 21st",
+      "excerpt": "The community has spoken, and the Top Entries have been chosen!  The July 2021 Power Apps community call is your chance to see these Power Apps artisans show off their creations and discuss how they built these amazing samples!",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/2021-power-apps-community-call-demo-extravaganza-july-21st/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/2021-power-apps-community-call-demo-extravaganza-july-21st/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-17T01:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-power-apps-portals-and-power-bi-integration-enhancements.md",
       "title": "Power Apps portals and Power BI integration enhancements",
       "excerpt": "Power Apps portals has native support for Power BI reports and dashboard. With recent portal releases, we are adding support for more Power BI functionalities.",
@@ -1209,57 +1260,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-05-24T15:41:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-05-23-spanish-business-apps-summit-june-4th-and-5th.md",
-      "title": "Spanish Business Apps Summit June 4th and 5th",
-      "excerpt": "The Spanish Business Apps Summit is the collaboration of Power Platform and Dynamics community members, Microsoft Staff, 65 Community Speakers and local user groups to offer two days of bilingual Spanish content. https://bizzsummit.es/",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/spanish-business-apps-summit-june-4th-and-5th/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/spanish-business-apps-summit-june-4th-and-5th/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-23T02:45:06-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
