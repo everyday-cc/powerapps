@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/power-apps-portals-and-
 webUrl: "https://powerapps.microsoft.com/en-us/blog/power-apps-portals-and-power-bi-integration-enhancements/"
 type: article
 quality: 104
-heat: 104
+heat: 105
 published: true
 
 provider:
