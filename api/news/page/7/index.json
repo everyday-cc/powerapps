@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2019-08-26-microsoft-power-apps-portals-2019-release-wave-2-overview.md",
+      "title": "Microsoft Power Apps Portals | 2019 release wave 2 overview",
+      "excerpt": "In this overview video, we will highlight some of the new capabilities included in Microsoft Power Apps Portals that will help you plan and prepare for the upcoming updates with confidence.     Here are the capabilities covered:  • Low-code responsive website creation  • Commercial or enterprise login",
+      "sourceUrl": null,
+      "webUrl": null,
+      "originalUrl": "https://youtube.com/watch?v=6NPtZSMH0h4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6NPtZSMH0h4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6NPtZSMH0h4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-08-26T08:00:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Portals"
+      ]
+    },
+    {
       "path": "_news/2019-08-19-microsoft-power-apps-2019-release-wave-2-overview.md",
       "title": "Microsoft Power Apps | 2019 release wave 2 overview",
       "excerpt": "In this overview video, we will highlight some of the new capabilities included in the latest update to Microsoft Power Apps that will help you plan and prepare for the upcoming updates with confidence.     Here are the capabilities covered:  • Guest access  • Solution checker enhancements  • Building",
