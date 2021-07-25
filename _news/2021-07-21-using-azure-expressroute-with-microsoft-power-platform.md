@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/using-azure-expressrout
 webUrl: "https://powerapps.microsoft.com/en-us/blog/using-azure-expressroute-with-microsoft-power-platform/"
 type: article
 quality: 72
-heat: 74
+heat: 75
 published: true
 
 provider:
