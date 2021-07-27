@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-27-announcing-public-preview-of-custom-pages-for-converging-model-driven-apps-and-canvas-apps.md",
+      "title": "Announcing public preview of Custom Pages for converging model-driven apps and canvas apps",
+      "excerpt": "Announcing the public preview of Custom Pages which is a big leap forward in the convergence of model-driven apps and canvas apps into a single Power App.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/custom-pages-for-converging-model-driven-apps-and-canvas-apps/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/custom-pages-for-converging-model-driven-apps-and-canvas-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-27T03:00:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Canvas apps",
+        "Model-driven apps"
+      ]
+    },
+    {
       "path": "_news/2021-06-29-canvas-app-layout-containers-are-now-generally-available.md",
       "title": "Canvas app layout containers are now generally available",
       "excerpt": "We are excited to announce the general availability of the container, horizontal container and vertical container layout controls in canvas apps! These controls help you automatically reflow and resize controls within them to enable easy, no expression layouts in canvas apps.",
