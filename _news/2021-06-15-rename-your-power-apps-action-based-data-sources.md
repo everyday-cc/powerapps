@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/rename-your-power-apps-
 webUrl: "https://powerapps.microsoft.com/en-us/blog/rename-your-power-apps-action-based-data-sources/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:
