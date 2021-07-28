@@ -3,7 +3,7 @@ name: "Ryan Cunningham"
 bio: "Product Lead for Microsoft PowerApps"
 location: Seattle, WA
 type: "profile"
-heat: 71
+heat: 64
 
 affiliation:
   name: Microsoft
@@ -16,7 +16,7 @@ affiliation:
 twitter:
   username: rc_says
   url: https://twitter.com/rc_says
-  followers: 2418
+  followers: 2417
 
 linkedin:
   url: https://www.linkedin.com/in/rycu
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Ryan Cunningham"
 
-secured: "E+a/o0OWji2px6RQ2MJJFjePQkuXC2yA2/uACdGl1uY8ENAr4a9hSV3O9oNyKy+GHpCxEfn7tZiTQDTjPdA9k9WR4YUpI0cDToQWNycDECLRKfhGrnGzK3LfL0xr4Qz9JNri7+QfDrSiZMKo/EuO3ZO46/v8vzNb7/uAlSe/uoXM+NH9qKKtPzOudaT9+FJAu7mc/O4qThX7NQubtZg3LUmwH83sD1pS49u9g+L+KvGdXDE87ZyOPi6zhpEV2Asigjyu3BknVFlhJ5tevT2N+PBFtsosmkd9ERnHYHi6GTZisSZ9VkEoXfCh0s16Da4CHbbGMXET657DzChTOaHROYOvAxNfaLGOLSK3oy33NC9oFoXAzeVHcDcEB0/26a7l3CIMaBE/h2/0+idGXhU6bkmOmkpKLYMPaLJI4wkbl0Q=;uREk37Jm6OCh1OkQiv9VnA=="
+secured: "jZBgo2Ekfy9HvettEwlrP7c9QidbIdhU09o9SCEzpiLRACl2DoXi5hh+5AC9eEgPceKw4fR6iETEN5idAgn0zoj74YEZbidRfXakRIRKIaIDDRVLszH60VOo4MN/o2aETfg3TBIiT4lYVtK2xjIK1LbR6D/emYqIQzuc6g5p3DbYCZAEy0DJYBIuRU8/I/IUEzJhheMPggkaU0oLuMiJoeVLT9NZM+dePdM0U4ISZFahg/HClZfsEraOBe8//xOK7ear/R1PhRHKilZ/+FQnJ50vCktHZmGJnQkT+matcuDVtiGLX3xoLR2e7AJeoIBRDB0s6/JjNHueCUzjx0ZR/0uDmd6G/9fhJgB2Jn6tjNL2jtQpU4BWo8aRWH6KIhKf0I4wVr9wMqU5COjuOBKlgezbDfvnLd9zmu2nnfEe/H4=;fAFUE62BokAbFATpHSbOfw=="
 ---
 
