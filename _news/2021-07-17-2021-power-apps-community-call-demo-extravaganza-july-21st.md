@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/2021-power-apps-communi
 webUrl: "https://powerapps.microsoft.com/en-us/blog/2021-power-apps-community-call-demo-extravaganza-july-21st/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
