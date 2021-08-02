@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-30-microsoft-build-touts-power-apps-cosmos-db-enhancements-to-develop-code-faster.md",
+      "title": "Microsoft Build touts Power Apps, Cosmos DB enhancements to develop code faster",
+      "excerpt": "Analysts can use Power Apps to build data applications and processes. Integrating AI into Power FX will make it easier to use natural-language input and “programming by example” techniques ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/30/microsoft-build-touts-enhancements-to-power-apps-cosmos-db-to-develop-code-faster/",
+      "originalUrl": "https://venturebeat.com/2021/05/30/microsoft-build-touts-enhancements-to-power-apps-cosmos-db-to-develop-code-faster/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/microsoft-build-2020.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/30/microsoft-build-touts-enhancements-to-power-apps-cosmos-db-to-develop-code-faster/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/30/microsoft-build-touts-enhancements-to-power-apps-cosmos-db-to-develop-code-faster/amp/",
+      "publishedDateTime": "2021-05-30T03:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-power-apps-portals-edit-portal-with-power-platform-vs-code-extension-public-preview.md",
       "title": "Power Apps portals: Edit portal with Power Platform VS Code Extension (public preview)",
       "excerpt": "The VS Code extension for portals adds the capability to configure portals using VS Code, and utilize the \r\nbuilt-in Liquid language IntelliSense enabling help with code completion, assistance and hinting while \r\ncustomizing portals interface using VS Code",
@@ -1232,57 +1283,6 @@
       "topics": [
         "Power Apps",
         "Portals"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-power-apps-mixed-reality-components-general-availability.md",
-      "title": "Power Apps Mixed Reality Components General Availability",
-      "excerpt": "Power Apps Mixed Reality components are now generally available! Communicate better with 3D models / images, take measurements, and validate fit before work begins leveraging the native capabilities of your mobile device within the context of your Power Apps apps",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-mixed-reality-components-general-availability/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-mixed-reality-components-general-availability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-05T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
       ]
     }
   ],
