@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/custom-pages-for-conver
 webUrl: "https://powerapps.microsoft.com/en-us/blog/custom-pages-for-converging-model-driven-apps-and-canvas-apps/"
 type: article
 quality: 126
-heat: 129
+heat: 126
 published: true
 
 provider:
