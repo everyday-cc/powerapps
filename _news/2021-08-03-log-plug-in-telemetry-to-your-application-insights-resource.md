@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/log-plug-in-telemetry-t
 webUrl: "https://powerapps.microsoft.com/en-us/blog/log-plug-in-telemetry-to-your-application-insights-resource/"
 type: article
 quality: 72
-heat: 73
+heat: 74
 published: true
 
 provider:
