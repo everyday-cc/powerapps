@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/try-out-the-power-apps-
 webUrl: "https://powerapps.microsoft.com/en-us/blog/try-out-the-power-apps-october-2021-release-wave-2-updates-today/"
 type: article
 quality: 87
-heat: 89
+heat: 91
 published: true
 
 provider:
