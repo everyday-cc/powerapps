@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/add-your-canvas-apps-to
 webUrl: "https://powerapps.microsoft.com/en-us/blog/add-your-canvas-apps-to-microsoft-teams/"
 type: article
 quality: 136
-heat: 138
+heat: 136
 published: true
 
 provider:
