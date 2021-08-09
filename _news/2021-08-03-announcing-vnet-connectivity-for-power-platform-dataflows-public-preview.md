@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/announcing-vnet-connect
 webUrl: "https://powerapps.microsoft.com/en-us/blog/announcing-vnet-connectivity-for-power-platform-dataflows-public-preview/"
 type: article
 quality: 70
-heat: 74
+heat: 70
 published: true
 
 provider:
