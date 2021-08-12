@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/enabling-efficiency-how
 webUrl: "https://powerapps.microsoft.com/en-us/blog/enabling-efficiency-how-a-disciplined-operation-lead-became-a-power-apps-champion/"
 type: article
 quality: 81
-heat: 82
+heat: 81
 published: true
 
 provider:
