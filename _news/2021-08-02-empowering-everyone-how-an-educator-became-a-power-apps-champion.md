@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/empowering-everyone-how
 webUrl: "https://powerapps.microsoft.com/en-us/blog/empowering-everyone-how-an-educator-became-a-power-apps-champion/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
