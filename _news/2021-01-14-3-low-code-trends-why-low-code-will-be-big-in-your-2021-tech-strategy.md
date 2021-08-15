@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/3-low-code-trends-why-l
 webUrl: "https://powerapps.microsoft.com/en-us/blog/3-low-code-trends-why-low-code-will-be-big-in-your-2021-tech-strategy/"
 type: article
 quality: 72
-heat: 73
+heat: 72
 published: true
 
 provider:
