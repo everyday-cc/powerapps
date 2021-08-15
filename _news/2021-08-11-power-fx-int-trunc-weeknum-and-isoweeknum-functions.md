@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/power-fx-int-trunc-week
 webUrl: "https://powerapps.microsoft.com/en-us/blog/power-fx-int-trunc-weeknum-and-isoweeknum-functions/"
 type: article
 quality: 72
-heat: 77
+heat: 78
 published: true
 
 provider:
