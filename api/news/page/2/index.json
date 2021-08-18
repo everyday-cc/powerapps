@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-15-rename-your-power-apps-action-based-data-sources.md",
+      "title": "Rename your Power Apps action-based data sources",
+      "excerpt": "Rename of connectors",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/rename-your-power-apps-action-based-data-sources/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/rename-your-power-apps-action-based-data-sources/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-15T04:14:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2021-06-15-announcing-power-query-dataflows-for-dataverse-in-teams-preview.md",
       "title": "Announcing Power Query dataflows for Dataverse in Teams (Preview).",
       "excerpt": "Today we’re excited to announce that you can now use Power Query (preview) [documentation] to load data into the web version of Dataverse for Teams in selected regions and it will be available in all regions by the beginning of July. You can now upload your data from a variety of data sources using the",
@@ -1210,57 +1261,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-05-04T03:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-better-together-introducing-custom-pages-and-the-modern-app-designer.md",
-      "title": "Better together: introducing Custom Pages and the Modern App Designer",
-      "excerpt": "Today at the Microsoft Business Applications Summit, we&#8217;re showing off a big step forward for the unification of the platform. Bring the full flexibility of the Power Apps canvas &#8211; from unlimited UX control to hundreds of data sources &#8211; directly into model-driven applications as a custom",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/better-together-introducing-custom-pages-and-the-modern-app-designer/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/better-together-introducing-custom-pages-and-the-modern-app-designer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2021/05/2021-05-04_10h27_54.png",
-          "width": 1897,
-          "height": 967,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-04T03:00:42-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
