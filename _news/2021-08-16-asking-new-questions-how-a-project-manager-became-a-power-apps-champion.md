@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/asking-new-questions-ho
 webUrl: "https://powerapps.microsoft.com/en-us/blog/asking-new-questions-how-a-project-manager-became-a-power-apps-champion/"
 type: article
 quality: 86
-heat: 89
+heat: 88
 published: true
 
 provider:
