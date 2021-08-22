@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/announcing-command-desi
 webUrl: "https://powerapps.microsoft.com/en-us/blog/announcing-command-designer-with-power-fx-preview/"
 type: article
 quality: 72
-heat: 73
+heat: 72
 published: true
 
 provider:
