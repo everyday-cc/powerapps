@@ -3,7 +3,7 @@ name: "Ryan Cunningham"
 bio: "Product Lead for Microsoft PowerApps"
 location: Seattle, WA
 type: "profile"
-heat: 64
+heat: 58
 
 affiliation:
   name: Microsoft
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Ryan Cunningham"
 
-secured: "NHEyb73ob8AjwklLZdBzUCekyQNgPPKLRMNGi83XuIT5ZjUsz4IsqUUnZIfyUI5JvTUT6UDjcgSrNM/g/YUrBSKF4EzfkMefwRDTlChusGEWy+KhfJCqeA77YC+3dvmk1L+yNWKvLIJjqX+SX8m/549Mxdj3zPOVKNj2YtCWS/ttBk6fJTHrfkDkeC2SgUVL+aQp3UtzFFa97eRddXAa1ZxP8qJU2AcM4SWpBttaKilwLjW2JhrHTnVcVi6rwiwhTaJcl47hRn/EuozeUdmymm7AAWHhsSSYrfbAep3cMoaF+FCsDg3YcIq3+hgCyoOdYqxhr+tlyIa/TukMrsAVnA6BKVNchFzVDLE3PHjoyisWGMipvOQNsmiDV0fJyzU1lUHI78LWoLhwJ5UrIe4IciDNwjY0YeqTqJyodAF1a3Q=;pVQr7GlCl9wKdKipgEYSlg=="
+secured: "yXQYxafQKyMmiyyp9Y50otTvDSmZp2MbzE7upb/rZd6JbHpG9lXr4QU+j092H1vplu7YVZpx3vrj/fdVRlyTvqpyUeAX3BVEYBsZQl97mawICrgMndEnrZmnqNX8s31B5nA6bWQP68RrQfm2j12qoepos3wIL1af87apxl/zFlbFWNdreEH9AmjSSxJtjKDdAAtU3KbNor2WDXXdtFAR1sXd4KfPpuwBJ9WtaTHNRJoislISQv2syY7qovFZpkLbDlZ+97n0naC5DRuAYGrR/YeYu4AYffri+85yPz1ddccWsZEi31yVrbtpHxkP8iARBVE1r25yb8MBFDAvT5DzEjDXfpjYy0Wy4Vz2yP0hNPXFqvMSywGqvWvKdWuiWu/AI2TeNEHw/lkp0ywf9o/FwT52yf7Zr+UGOcipp71yeo4=;23Gt2c9maQDE/pyEpPLemQ=="
 ---
 
