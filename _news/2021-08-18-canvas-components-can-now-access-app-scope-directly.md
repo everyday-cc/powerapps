@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/canvas-components-can-n
 webUrl: "https://powerapps.microsoft.com/en-us/blog/canvas-components-can-now-access-app-scope-directly/"
 type: article
 quality: 72
-heat: 79
+heat: 77
 published: true
 
 provider:
