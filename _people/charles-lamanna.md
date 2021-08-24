@@ -16,7 +16,7 @@ affiliation:
 twitter:
   username: clamanna
   url: https://twitter.com/clamanna
-  followers: 3679
+  followers: 3680
 
 linkedin:
   url: https://www.linkedin.com/in/charleslamanna
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Charles Lamanna"
 
-secured: "3Z6OtHxAVkBSdfsKDtWOn205wKl6//vhu/Y1/LVi+OAsztY3fOECrUonBGlnyKrFqBpHo9+45su8gcUo7ujAopg4bQsvLIY/4Oet1cKO4hUSL5klrxar+6tYvWuj1uvy1piPPLF8fq8IJZTQrxm2sOqUR7idPofPw1v1wx1WaEwaUZheb/9/y3ESZn3YUlPZJJDx2rXLRaDA1+cebD6JGs0HBMGQLUBfGhRdboeX8YnIdYTqFk+yzhiVVmMugRXDj7zzE89yXQkeU3t9l28NFI3wYDvJeLP78QcCaXlqqvgUTrcxsLBLzKwhfXvG0/4w3ngUPvy8n8MdLVBfdmt2/A/yYmjdvkiXXbAenqRfoz81qsQbI2aiqGuzhDiKDjOWrWexK8G6Gh2dr3mCm8AoVw==;PVuy9XGNRybgVCAfUzEUzw=="
+secured: "mqD42BOWcAWlh3DRgPCYNrRFHqHFGqHrHLQ5RiULwXM9IVG12cPgRtzA88s5t5jP9Y5TpRHQQMVVxbFiTqZzpOkbknqB/azZiNBuoJ5yYATQAWy9bkhhlXRXrkAiW7n8JNmSw/MMMYtztFSeNDcm1zy+FY8K0Ur0gvL9V1/VdJ2QhbLrlxzy7k43gKy9FqM0Mkp5n6Uh372gvL+vPJ07fGOPoXefS7VtyaP1n9xpWKfNmLUzfMZ9mmm+EDrVKKDur0YOSyUDL9TbOJKAuF5CxkhR7TcUlrp/j/vi7GQfbvihm+wrUQtVK2pDdnHPRhxBzSjfoEaBWs4mCPxbcpf/KJB7HysEbOpWwVfb4B1kardMFY3xeqn5P4fS/qaMgA58eOnRuedxXF6VC4OOoIxT9A==;KspqcsAq58/pndyUFR9DnQ=="
 ---
 
