@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/security/data-breaches/360673/microsoft-powe
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/data-breaches/360673/microsoft-power-apps-misconfiguration-exposes-38-million-records?amp"
 type: article
 quality: 97
-heat: 97
+heat: 98
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 210
     isCached: true
 
-secured: "/o3UTqs4z03MvNpVsFwI8dXWm3iAYMu7ovF1qzYXxJMS/s2W+C1IxkMuXvP4NfgjP4Nyy0ukCT0KeyLvEmInbeLCnc9RXUJfcNUuzmnancLZOltCfqhiDkPH+k9YimflZgn10POMWXpmmgtetVERfMrJ6tRvRQk+aknlvfcTNrAu/bePpsl0CLaAOAQ44mFCk0cfnOJSQiyCxRbvw7+wfDHM5f3fPn+XcWYSY0+41Cq0KRUgh7CVgFYMjtqqzd9QhPnKC84i+E/aE7JVlWfikAyRnk1e12495oXaL5Ot7Dvj+r4oe8sNWnNl+NIGcYaY9xX4jUR9fucDaCKtj10ImolbVMwt7Zas8+7Z1XXRJ3s=;ZqtyQ2mBaz/kXZRILcgFDw=="
+secured: "wqdI3JwdcSYceRTmV8lB6HuMH8XcfJ2b1AaLBJ9/OHvKLE7ExE3oDaqqWTs3UyO8Exx/jK1M+t3D21ayTdTgp9ON2wHQUcFaqm+f1s7s2cyj9xcKhw3WX5FD83CpXPm0CEqZ/CwPD6tYon+Mn0tZUUKTAUixIVHQnEuesZUbKgMmIBzysnI25fJ/T7TAN/nevXiD3sM91CFXZd0+wYwDQI5tLkYGsD4qbYlaonJ0rm/QgETvOOHb5AXVABJjZAFfXz0t4BkGQR9mGPKCG7bOA2JKjgijHcE7HEFaND93iUUai11rWUvszUMdBdUUeFArkOUDf6HBIsZ0O26Btqzx8C0f/vEeEP10+3MeGht8uCayASIegocl4AgR0izRzEvmwaRXdIq9g/+GBBVInNp39Vcx7/vQ8G90ZdEw6UDGEnPEqxUEE41PIczFOSxz7nF/2/xwT41GO0RmAaD49J6VX384gO2+dcsrfKzqxZxrWbo3IaUDWnhGlwa/0i7BU1jhD5Q/7NbUUJ0cuRZ34qINHA==;XJxjUPWAA8kqWq0sM0uwRQ=="
 ---
 
