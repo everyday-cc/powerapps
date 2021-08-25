@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/90918-researchers-found-misconfigu
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/90918-researchers-found-misconfiguration-web-apps-using-power-apps.html"
 type: article
 quality: 99
-heat: 99
+heat: 100
 published: true
 
 provider:
