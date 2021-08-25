@@ -2,17 +2,17 @@
 category: news
 title: "Misconfigured Microsoft Power Apps Spill Sensitive Data"
 excerpt: "At least 38 million records have been leaked by hundreds of online portals that were unwittingly misconfigured by organizations using Power Apps, a Microsoft"
-publishedDateTime: 2021-08-24T04:23:00Z
-originalUrl: "https://www.govinfosecurity.com/misconfigured-microsoft-power-apps-spill-sensitive-data-a-17353"
-webUrl: "https://www.govinfosecurity.com/misconfigured-microsoft-power-apps-spill-sensitive-data-a-17353"
+publishedDateTime: 2021-08-24T04:19:00Z
+originalUrl: "https://www.databreachtoday.com/misconfigured-microsoft-power-apps-spill-sensitive-data-a-17353"
+webUrl: "https://www.databreachtoday.com/misconfigured-microsoft-power-apps-spill-sensitive-data-a-17353"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: HHS
-  domain: govinfosecurity.com
+  name: DataBreachToday
+  domain: databreachtoday.com
 
 topics:
   - Power Apps
@@ -23,6 +23,6 @@ images:
     height: 520
     isCached: true
 
-secured: "0wgfGIrDEV7oO/vff9q0J8Ih8HRSPM8bb1nhF4mOxLtfmQQBDXj2K3v3bDU2+1OIbmqu+ddxLAAr0P8Nql/rEFU5lHFe+U1b8EUm06A3cemUkS4iEQGltXK+vonXqYUFwuhMJJPsM28n86bN+wbH099H+ijrq30RpoM8n4C0JCIutKmqznzYF8YkgGu7Ho//noyl3BlaN3ItI6dxZjZrbtQu431QMEJb3GjSA21pVhNcwqmqHBJ7kdT5u1nu+j6p4aCOqAf+xh1rhZfO8btDh/rVeM1JQggawRWTBVS3gjtKVLs2OX2MaYw35PXj8DL9nMryHLMkSAX2rbe+lJZQQXveupu0aBv0a/2wiZzoPdhxMKbXWQc2+3mfu9XYNZu2KTVkXasB8DBDrRveNccmaSyD7LmiYeFJpAD7+wMLtRB0XQg6aU/5nRZLlfyFBlD28IO8kQazssShYdWa6HMOcYlcosh7it0nBZRk5v2N8HNZuDIlMzXXnbNXJK6ce9+SaN5qNqxHUdvb0sg7owbIPA==;N82y6PTsmc8McpRzZWLTMA=="
+secured: "NOox8YW5PJf5iaUvTXq5p+DuM859g3Wq1EPEWjvTNqZyOXI6afWMACR16gsMIb+LrkobX0453cxin68opLiscVpAuavu7Wgar1aFBYC+VoGCo7A9gDQcgDIIcnEOotmox+SE4oOgQXXUOxm3tre2HWnNNbJqk0fo+IEsmSR7Ni3A2nH9EmWBiQkeqY6TlkvZz+3hTRG0BNVQGMjVsK11xxuJl3CB67+lEAPno+rJr+xnAWufApw1lFk642Q757BdN14PbinEl31pmlheUv9odzjjfcCtDivb5LKi/dqodG+iUZdvbYioKbFT259pkGzGWb36zs5+nz8Zpkdf89u86U2ukVkb9q2gDoD/e9yLQwg=;pUmeCsv3bGnemzSRmOxJZQ=="
 ---
 
