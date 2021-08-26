@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-power-apps-miscon
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-power-apps-misconfiguration-exposes-38-million-data-records/"
 type: article
 quality: 77
-heat: 80
+heat: 77
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/security/data-breaches/360673/microsoft-powe
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/data-breaches/360673/microsoft-power-apps-misconfiguration-exposes-38-million-records?amp"
 type: article
 quality: 97
-heat: 100
+heat: 97
 published: true
 
 provider:
