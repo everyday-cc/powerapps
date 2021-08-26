@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geekwire.com/2020/low-code-competition-grows-microsoft-i
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/low-code-competition-grows-microsoft-integrates-power-apps-github-teams/amp/"
 type: article
 quality: 106
-heat: 106
+heat: 107
 published: true
 
 provider:
