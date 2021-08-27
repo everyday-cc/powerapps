@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Misconfigured Microsoft Power Apps Spill Sensitive Data"
-excerpt: "At least 38 million records have been leaked by hundreds of online portals that were unwittingly misconfigured by organizations using Power Apps, a Microsoft"
+excerpt: "At least 38 million records have been leaked by hundreds of online portals that were unwittingly misconfigured by organizations using Power Apps, a Microsoft service to quickly spin up web apps. See Also: A Guide to Passwordless Anywhere Among the ..."
 publishedDateTime: 2021-08-24T04:18:00Z
-originalUrl: "https://www.healthcareinfosecurity.com/misconfigured-microsoft-power-apps-spill-sensitive-data-a-17353"
-webUrl: "https://www.healthcareinfosecurity.com/misconfigured-microsoft-power-apps-spill-sensitive-data-a-17353"
+originalUrl: "https://www.databreachtoday.com/misconfigured-microsoft-power-apps-spill-sensitive-data-a-17353"
+webUrl: "https://www.databreachtoday.com/misconfigured-microsoft-power-apps-spill-sensitive-data-a-17353"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: healthcareinfosecurity.com
-  domain: healthcareinfosecurity.com
+  name: DataBreachToday
+  domain: databreachtoday.com
 
 topics:
   - Power Apps
@@ -23,6 +23,6 @@ images:
     height: 520
     isCached: true
 
-secured: "bGejw3XJdaZMoI95NDZjJCsCELcjtWWqjhsfwZMSBoHrqqsmjzyNXUu+2bt5PZSW3CE3JjIss8Gvnw56KzrUOfYIYVA1ReP6nATjekQCOxwdfnqIFaTk7Ts7SKhp0hVcuYhuj0sZmkGTXDrQaUDJzOdOHZ3h9Q8iNYDCRPYYVMY/eIDhf6f0HJAKry6JnORGPhfDs3yxgFd1q96JIi7SQZqBpRIE9RcXeb5nqU9mehcL1wNOTJeZJwJEBs4LqH9PdXesKq4pkqO09yFkv8v4ibYcmHvLuoteNea56TB6YMTFztNsa59iyAbZ073UCgx6Z3RDtfwoBWQXJnuvZgGwLiq4Snox6lDIw07FSdhPoepiqIhgn/TBsCBGBpcX86eDxoYeFwq3r83Lbrqv3XbVlJQCvDzBd2uITAwxF+OZm1JTKJcXl+xnlKJlHYV2z99kjL4xfO+4fRNd5eK5ZaPglNtbzGy2e74p4nPO2zITi5zQdC4JQixLWH9SOTj1EWVYXlrFd1+/2qaD+S2BhDam2g==;kuXUGAL7MSEbSIKW43lWoQ=="
+secured: "hTe1N68CL5BqhJGmOK4WUiV9Q4UJTzr/J46qJSaqTIHhBCFjg2ImkfCE0NsFT/rYm9JQYNgFylqGIxovb4xE0HUEktUJp6ukd8MD+Q3/ko+q87yqRKBc+sR0de2bA/tMdGEJN29zx2DOWNfwkJ6BP/6zKKQ1+nJPFA42E5kJNw8SFEc+CYmT+sb9YHZ5gczP/ZkxaMPUNOqup49njDRaokFMsYHreIFMWHSwPZJbRTjR/NesCGK5OsLUQYZNUmI3qblvl6ANN9d8k81QX36lr6i4pe8i0tbh1qAyLfb8+b9lphZABEEP6hxQZqI1x7rPFgZpdIhafoa23Zq55DJMejnVLujfEmndpGdYO+v9BoM=;0XigqvgTxswvItatGQgFpA=="
 ---
 
