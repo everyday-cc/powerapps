@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/writing-power-fx-formul
 webUrl: "https://powerapps.microsoft.com/en-us/blog/writing-power-fx-formulas-with-natural-language/"
 type: article
 quality: 72
-heat: 75
+heat: 73
 published: true
 
 provider:
