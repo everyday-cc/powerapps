@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/a-sample-custom-connect
 webUrl: "https://powerapps.microsoft.com/en-us/blog/a-sample-custom-connector-for-servicenow-using-oauth-authentication/"
 type: article
 quality: 72
-heat: 75
+heat: 76
 published: true
 
 provider:
