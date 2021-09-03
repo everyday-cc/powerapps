@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/announcing-public-previ
 webUrl: "https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-for-in-app-notifications-for-model-driven-apps/"
 type: article
 quality: 104
-heat: 106
+heat: 104
 published: true
 
 provider:
