@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/announcing-public-previ
 webUrl: "https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-of-maintenance-window-management/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:
