@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-ipad-iphone-and-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ipad-iphone-and-mac-users-can-tap-the-power-of-microsofts-power-apps/"
 type: article
 quality: 95
-heat: 96
+heat: 98
 published: true
 
 provider:

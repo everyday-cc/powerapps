@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-power-apps
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-power-apps-misconfiguration-exposes-data-from-38-million-records/"
 type: article
 quality: 95
-heat: 95
+heat: 97
 published: true
 
 provider:
