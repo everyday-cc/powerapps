@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/new-layout-containers-i
 webUrl: "https://powerapps.microsoft.com/en-us/blog/new-layout-containers-in-canvas-apps-make-responsive-apps-easier/"
 type: article
 quality: 104
-heat: 105
+heat: 104
 published: true
 
 provider:
