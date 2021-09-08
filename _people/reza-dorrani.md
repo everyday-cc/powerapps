@@ -10,7 +10,7 @@ website: https://t.co/tAcqSdqguf
 twitter:
   username: rezadorrani
   url: https://twitter.com/rezadorrani
-  followers: 4252
+  followers: 4253
 
 topics:
   - Power Apps
@@ -22,6 +22,6 @@ images:
     isCached: true
     title: "Charles Lamanna"
 
-secured: "iuQRFfG1Ky8DRXt1rnuuyknxjZHhhI4dGoylj44qGvVu/wlgoLwVqHDGDRsALUG1Reqr7zDJoaFJSiKjtYMomyZq3Gk9fn/AdSmTXg/OCMKmQy4sNxDONVeYL6y1Mk1XFXYihn6udf3Zj2XbzBaRnG05UKplmird1yYCNvuHH6F/5/xOC1dB+2p2N/8XFD4ZP8l6t2uEeVJkKT0AJ2gZRQObWiGoygDsFbX1XzPxRYsDVEt+Ap4qxuknc7+NCNECU1PNcv9tOA1U4opoThAb3YJSQynht4b7RALQnvydL7oCPN5Dy9yYMBKDHnJTCl3IxAeOYwXCovx3INuWmjjH/9WuCLE+TIy/VbTq0mA++USi8Sdn6wzzWi4OeCciHnQO3wYIGbUtKTb4vZAnYlfZiVj+2u4g8yOogaSnLxe4AdQ=;Q0r3U54eKDnN47Oa1noHRQ=="
+secured: "VwQk3fRy18oc8DumJWyjD21jDGBVon5JQpZnoPN99OcazEwGQT+u2IvOjZulEHAYA2oGqliQ4REkktmlTpfw/AGgu1OktYJ7lbi8Xe+GYGiP8EO/GSonPjJ6c/bSSQGXwU+VhQfMdyQqN3Z8VVwjlICGKr+0fhiE3j9J/d28WG81daWEPZIoDwAISGW4OLdLduvEV1eXr4TRaLgf0kxUhTp7Ut9BHWuOFXOhhmHOt5YzHL5M/5n1m3emeemzJFZtT4QA1nosfuKPyM71nsLGTXIFSN7z7lGmbseOv1mJGNTClbotjN+otUv1XLW8UEJ/Bbbl5yEKEcqffepIm35sjVcK2BhSsnoWxkxGziEDx8yUoEN7pA0pGOsloHmjx49vJ/2qxLVPMAYsV7Gj1NTPPfIGVLznYJc2lpeBZzpucyI=;dlwVJCJOYW6C7dTn+KQGug=="
 ---
 
