@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/developer-resources/"
 webUrl: "https://powerapps.microsoft.com/en-us/blog/developer-resources/"
 type: article
 quality: 87
-heat: 92
+heat: 93
 published: true
 
 provider:

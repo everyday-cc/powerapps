@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/building-a-jit-app-for-
 webUrl: "https://powerapps.microsoft.com/en-us/blog/building-a-jit-app-for-elevated-permissions-on-microsoft-power-platform/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:

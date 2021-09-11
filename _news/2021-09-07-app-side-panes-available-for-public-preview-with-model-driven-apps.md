@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/app-side-panes-availabl
 webUrl: "https://powerapps.microsoft.com/en-us/blog/app-side-panes-available-for-public-preview-with-model-driven-apps/"
 type: article
 quality: 104
-heat: 106
+heat: 104
 published: true
 
 provider:
