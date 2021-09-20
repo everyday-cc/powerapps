@@ -2,6 +2,264 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-01-05-editing-related-records-on-a-main-form-in-a-model-driven-app.md",
+      "title": "Editing related records on a main form in a model driven app",
+      "excerpt": "We are pleased to announce a new preview feature that extends multi-entity experiences and provide the capability for a maker to add a related table main form as a component directly onto another table main form.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/editing-related-records-on-a-main-form-in-a-model-driven-app/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/editing-related-records-on-a-main-form-in-a-model-driven-app/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-05T00:00:23-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Model-driven apps"
+      ]
+    },
+    {
+      "path": "_news/2021-01-04-new-model-driven-apps-controls-deprecation-of-old-controls.md",
+      "title": "New Model Driven Apps controls, deprecation of old controls",
+      "excerpt": "We&#8217;re working hard here to deliver some new controls for everyone which are more in line with modern web and mobile in mind.  The first two we&#8217;ve been able to deliver as a platform are the Toggle control and Activities calendar.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/new-model-driven-apps-controls-deprecation-of-old-controls/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/new-model-driven-apps-controls-deprecation-of-old-controls/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-04T02:00:13-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Model-driven apps"
+      ]
+    },
+    {
+      "path": "_news/2020-12-21-power-platform-stories.md",
+      "title": "Power Platform Stories",
+      "excerpt": "As we wrap up the year, we&#8217;d like to share with you a set of stories curated by the Power CAT team. These stories showcase the ingenuity of a wide breadth of organizations and users that have adopted low-code and the Power Platform along with Microsoft 365, Azure, and Dynamics 365. Makers of apps,",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/power-platform-stories/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/power-platform-stories/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2020/12/RWS_PP-OpeningImage-1.png",
+          "width": 2898,
+          "height": 1621,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-21T00:00:31-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_news/2020-12-17-github-connector-features-for-power-platform.md",
+      "title": "GitHub connector features for Power Platform",
+      "excerpt": "Use the GitHub Connector in Power Apps and Power Automate to run GitHub Actions workflows",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/github-connector-features-for-power-platform/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/github-connector-features-for-power-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-16T21:52:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-new-ai-builder-capabilities-are-now-generally-available.md",
+      "title": "New AI Builder capabilities are now generally available",
+      "excerpt": "Two AI builder preview capabilities are now generally available. Both new capabilities can be found under the Prediction model card in AI Builder. One of them is prediction of multiple outcomes, and the other is prediction of a numerical field. Features that are generally available are considered production",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/new-ai-builder-capabilities-are-now-generally-available/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/new-ai-builder-capabilities-are-now-generally-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-16T03:13:19-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-announcing-dataflows-power-automate-connector-public-preview.md",
       "title": "Announcing Dataflows Power Automate Connector public preview",
       "excerpt": "Power Automate Dataflow connector along with templates and sample scenarios you can get started with right away. The new connector provides a new way to react to dataflow events to take action on dataflows. Combined with other Power Platform Products connectors and the 400+ connectors available in Power",
@@ -1006,262 +1264,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-11-12T10:34:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-email-usability-enhancements-for-2020.md",
-      "title": "Email usability enhancements for 2020",
-      "excerpt": "Email enhancements for 2020",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/email-usability-enhancements-for-2020/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/email-usability-enhancements-for-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-12T10:33:41-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-ai-builder-receipt-scanning.md",
-      "title": "AI Builder: Receipt scanning",
-      "excerpt": "In this feature overview video series, we highlight new capabilities included in the latest update to AI Builder.  Receipt scanning is a new AI Builder feature that processes receipts to identify and extract information. The AI model identifies receipt data, merchant information, total price, and taxes",
-      "sourceUrl": null,
-      "webUrl": null,
-      "originalUrl": "https://youtube.com/watch?v=Ofq47xVCm0U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ofq47xVCm0U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Ofq47xVCm0U/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-12T08:04:40-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps",
-        "AI Builder"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-power-apps-community-call-nov-18th-top-issues-and-best-practices-from-the-power-apps-forum-super-users.md",
-      "title": "Power Apps Community Call Nov 18th: Top issues and best practices from the Power Apps forum Super Users",
-      "excerpt": "November brings us the super stars that monitor and answer most of the forum questions for Power Apps….The Power Apps Super Users!\r\nWhen: November 18th, 2020 8AM Pacific Time\r\nWhere: https://aka.ms/powerappscall-join ",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-community-call-nov-18th-top-issues-and-best-practices-from-the-power-apps-forum-super-users/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-community-call-nov-18th-top-issues-and-best-practices-from-the-power-apps-forum-super-users/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-09T04:36:52-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-update-your-bookmarks-for-webpowerappscom.md",
-      "title": "Update your bookmarks for web.powerapps.com",
-      "excerpt": "Please update your bookmarks; content and services hosted at web.powerapps.com is moving to either make.powerapps.com or apps.powerapps.com",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/retiring-web-powerapps-com/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/retiring-web-powerapps-com/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-09T03:43:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-unified-interface-transition-starts-december-4th-2020.md",
-      "title": "Unified Interface transition starts December 4th 2020",
-      "excerpt": "As announced on September 10, 2019, the time is now to prepare for the move to Unified Interface for Model-driven apps if you are still using the legacy web client.  With less than 1 month to go, you should make the move as soon as possible to Unified Interface. ",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/unified-interface-transition-starts-december-4th-2020/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/unified-interface-transition-starts-december-4th-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-03T23:26:11-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

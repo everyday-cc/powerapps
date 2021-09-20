@@ -2,6 +2,264 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-18-april-2021-power-apps-community-call-persistent-apps-in-teams-tabs-custom-functions-libraries-and-gestalt-design-principles.md",
+      "title": "April 2021 Power Apps Community Call: persistent apps in Teams tabs, custom functions libraries and gestalt design principles",
+      "excerpt": "The April Power Apps community call will be covering: &#8216;Make your Power Apps sessions persistent when switching Teams tabs!&#8217;. Power Apps custom Functions Library and Rory Neary will deliver the final technical session on Make your Power Apps user experience awesome with Gestalt design principles.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/april-2021-power-apps-community-call-persistent-apps-in-teams-tabs-custom-functions-libraries-and-gestalt-design-principles/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/april-2021-power-apps-community-call-persistent-apps-in-teams-tabs-custom-functions-libraries-and-gestalt-design-principles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-18T02:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Teams integration"
+      ]
+    },
+    {
+      "path": "_news/2021-04-14-product-update-fo-apps-now-available-in-isv-studio.md",
+      "title": "Product Update: FO apps now available in ISV Studio!",
+      "excerpt": "ISV Studio is a technical benefit of the ISV Connect program and is designed to be the platform that allows an ISV to monitor the success of their published apps",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/product-update-fo-apps-now-available-in-isv-studio/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/product-update-fo-apps-now-available-in-isv-studio/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-14T05:52:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_news/2021-04-14-announcing-data-source-environment-variables.md",
+      "title": "Announcing data source environment variables",
+      "excerpt": "Today we&#8217;re excited to announce a vast new set of capabilities that provide enterprise grade application lifecycle management for the data sources used within canvas apps and cloud flows. Environment variables are now natively built into authoring experiences across canvas apps and flows as well",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-data-source-environment-variables/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-data-source-environment-variables/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-14T01:00:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-now-available-coe-starter-kit-in-dataverse-for-teams-and-other-improvements.md",
+      "title": "Now available: CoE Starter Kit in Dataverse for Teams (and other improvements)",
+      "excerpt": "We are excited to announce that the CoE Starter Kit can now be installed in Dataverse for Teams environments. You can now make the Admin, Governance and Nurture templates in the kit a core part of your collaboration with admins, makers and end users in Teams.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/now-available-coe-starter-kit-in-dataverse-for-teams-and-other-improvements/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/now-available-coe-starter-kit-in-dataverse-for-teams-and-other-improvements/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-08T04:31:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Teams integration"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-power-apps-portals-start-using-code-components-with-portals-preview.md",
+      "title": "Power Apps portals: Start using code components with portals (Preview)",
+      "excerpt": "Power Apps component framework support is now extended to Power Apps portals for field type of code components. This feature is currently available as public preview starting with portal 9.3.3.x update and starter portal package version 9.2.2103.x",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-portals-start-using-code-components-with-portals-preview/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-portals-start-using-code-components-with-portals-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-06T00:59:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Portals"
+      ]
+    },
+    {
       "path": "_news/2021-04-05-power-apps-mixed-reality-components-general-availability.md",
       "title": "Power Apps Mixed Reality Components General Availability",
       "excerpt": "Power Apps Mixed Reality components are now generally available! Communicate better with 3D models / images, take measurements, and validate fit before work begins leveraging the native capabilities of your mobile device within the context of your Power Apps apps",
@@ -1000,261 +1258,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-02-22T08:00:26-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-introducing-power-apps-mobile-apps-new-look-public-preview.md",
-      "title": "Introducing Power Apps mobile apps new look (public preview)",
-      "excerpt": "Power Apps mobile has a &#8220;new look&#8221; and its now available in public preview. We&#8217;ve introduced new experiences like a home page to access your commonly used content and gesture controls to easily favorite or shortcut an app to your home screen.  When you update Power Apps from your app",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/introducing-power-apps-mobile-apps-new-look-public-preview/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/introducing-power-apps-mobile-apps-new-look-public-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-19T02:14:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-enhanced-component-properties.md",
-      "title": "Enhanced component properties",
-      "excerpt": "Enjoy two new experimental features for formula based components.  Behavior properties enable a component to fire a custom event into its container, such as OnChange.  Property parameters enable the passing of arguments for a property evaluation, providing our first steps toward formula based user defined",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/enhanced-component-properties/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/enhanced-component-properties/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-18T11:56:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-next-on-premise-update-brings-the-latest-version-of-unified-interface.md",
-      "title": "Next on-premise update brings the latest version of Unified Interface",
-      "excerpt": "The next update to Microsoft Dynamics 365 Customer Engagement On-premises is coming in Q2 2021. This release contains major updates to the Unified Interface with improved performance and a host of new and updated usability features. Now is a great time to start planning and preparing to transition to",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/next-on-premise-update-brings-the-latest-version-of-unified-interface/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/next-on-premise-update-brings-the-latest-version-of-unified-interface/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-17T23:20:27-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-check-users-access-to-a-record-using-the-check-access-feature.md",
-      "title": "Check user's access to a record using the Check Access feature",
-      "excerpt": "In this feature overview video series, we highlight new capabilities included in the latest update to Microsoft Power Apps.  This featured product update to Power Apps highlights check access, a new record level security feature admins can use to check and assign security roles.  Get the most out of",
-      "sourceUrl": null,
-      "webUrl": null,
-      "originalUrl": "https://youtube.com/watch?v=rigZ1FvrgSY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rigZ1FvrgSY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/rigZ1FvrgSY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-16T08:08:31-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-power-apps-2021-wave-1-preview-release-is-now-available.md",
-      "title": "Power Apps 2021 Wave 1 Preview Release is now available",
-      "excerpt": "The Power Apps release wave 1 for 2021 is available for you to enable in your environment ahead of the April rollout.  We have a number of new features that will modernize your end users model-driven app experiences.",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-2021-wave-1-preview-release-is-now-available/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-2021-wave-1-preview-release-is-now-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-09T22:46:22-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

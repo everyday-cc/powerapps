@@ -2,6 +2,262 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-20-hm-group-enables-citizen-development-at-scale-with-microsoft-power-platform.md",
+      "title": "HM Group enables citizen development at scale with Microsoft Power Platform",
+      "excerpt": "H&#038;M Group is a Swedish multinational clothing-retail company with more than 5,000 stores in 78 countries and more than 53 online markets. A growing community of citizen developers has created thousands of Power Platform solutions across the company. To support development and maintain security and",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/hmgroup/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/hmgroup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-default-image.png",
+          "width": 1600,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-20T01:00:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_news/2021-09-17-vancouver-user-group-september-23rd-controls-in-canvas-apps-and-power-automate-cloud-flows.md",
+      "title": "Vancouver User Group September 23rd: Controls in canvas apps and Power Automate Cloud Flows",
+      "excerpt": "September the Vancouver User Group brings us two great topics by two great Power Platform MVPs with the entire event hosted by icon of the MVP world: Scott Durow!\r\n\r\nUse and understand Controls in a canvas app in Power Apps by May Alhajri\r\nHow to build better Power Automate Cloud Flows &#8211; tips,",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/vancouver-user-group-september-23rd-controls-in-canvas-apps-and-power-automate-cloud-flows/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/vancouver-user-group-september-23rd-controls-in-canvas-apps-and-power-automate-cloud-flows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-default-image.png",
+          "width": 1600,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-17T06:33:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_news/2021-09-16-announcing-public-preview-of-power-apps-respecting-conditional-access-on-individual-apps.md",
+      "title": "Announcing Public Preview of Power Apps respecting Conditional Access on individual apps",
+      "excerpt": "Entering Public Preview is Power Apps support to respect Azure AD Conditional Access policies on individual apps enabling many new governance scenarios. ",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-of-power-apps-respecting-conditional-access-on-individual-apps/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-of-power-apps-respecting-conditional-access-on-individual-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-default-image.png",
+          "width": 1600,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-16T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-power-fx-formula-columns-in-dataverse.md",
+      "title": "Power Fx Formula Columns in Dataverse",
+      "excerpt": "Use Power Fx to create calculated columns in Dataverse, with expanded functionality and real time results.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/power-fx-formula-columns-in-dataverse/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/power-fx-formula-columns-in-dataverse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-default-image.png",
+          "width": 1600,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_news/2021-09-13-september-power-apps-community-call-power-platform-integration-and-value-proposition-design.md",
+      "title": "September Power Apps community call: Power Platform Integration and Value Proposition Design",
+      "excerpt": "For the September Power Apps community call we have two of the Power Platform MVPs: Reza Dorrani and May Alhajri covering two of the hottest Power Platform topics: Power Apps design and Power Platform integration.\r\n",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/september-power-apps-community-call-power-platform-integration-and-value-proposition-design/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/september-power-apps-community-call-power-platform-integration-and-value-proposition-design/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-default-image.png",
+          "width": 1600,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-13T06:51:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2021-09-10-best-security-practices-for-power-apps.md",
       "title": "Best security practices for Power Apps",
       "excerpt": " A reminder on best practices when working with Power Apps and external data sources.  ",
@@ -113,7 +369,7 @@
       "originalUrl": "https://powerapps.microsoft.com/en-us/blog/developer-resources/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -164,7 +420,7 @@
       "originalUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-of-maintenance-window-management/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -524,7 +780,7 @@
       "originalUrl": "https://powerapps.microsoft.com/en-us/blog/building-a-jit-app-for-elevated-permissions-on-microsoft-power-platform/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -575,7 +831,7 @@
       "originalUrl": "https://www.itpro.co.uk/security/data-breaches/360673/microsoft-power-apps-misconfiguration-exposes-38-million-records",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -626,7 +882,7 @@
       "originalUrl": "https://windowsreport.com/microsoft-powerapps-record-exposed/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -711,7 +967,7 @@
       "originalUrl": "https://powerapps.microsoft.com/en-us/blog/writing-power-fx-formulas-with-natural-language/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -1008,261 +1264,6 @@
       "topics": [
         "Power Apps",
         "Teams integration"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-enabling-efficiency-how-a-disciplined-operation-lead-became-a-power-apps-champion.md",
-      "title": "Enabling efficiency: How a disciplined Operation Lead became a Power Apps champion",
-      "excerpt": "A successful career in manufacturing hasn’t offered Loretta a lot of experience with technology. It has, however, given her a unique perspective on how to maximize efficiency. She knew, for example, that if her co-workers at the paper mill had easy access to important information, they could solve many",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/enabling-efficiency-how-a-disciplined-operation-lead-became-a-power-apps-champion/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/enabling-efficiency-how-a-disciplined-operation-lead-became-a-power-apps-champion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-09T02:55:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-08-08-august-power-apps-community-call-performance-insights-event-calendar-apps-and-game-development.md",
-      "title": "August Power Apps Community Call: Performance Insights, event calendar apps and game development",
-      "excerpt": "The August Power Apps community call we will be looking at: How the Feed your dragon game was created by Gerard Simpson, building Event Calendar Apps by Juli Reid. Varda Shrivastava will walk through how to analyze Model-driven applications performance data using Performance Insights.  Power Platform",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/august-power-apps-community-call-performance-insights-event-calendar-apps-and-game-development/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/august-power-apps-community-call-performance-insights-event-calendar-apps-and-game-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-08T03:00:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-log-plug-in-telemetry-to-your-application-insights-resource.md",
-      "title": "Log plug-in telemetry to your Application Insights resource",
-      "excerpt": "Use the new ILogger Interface in your plug-in code together with Application Insights integration to capture the complete view of telemetry events in your environment.",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/log-plug-in-telemetry-to-your-application-insights-resource/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/log-plug-in-telemetry-to-your-application-insights-resource/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-03T12:02:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-announcing-vnet-connectivity-for-power-platform-dataflows-public-preview.md",
-      "title": "Announcing VNet Connectivity for Power Platform Dataflows (Public Preview)",
-      "excerpt": "VNet Connectivity for Power Platform Dataflows (Public Preview)",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-vnet-connectivity-for-power-platform-dataflows-public-preview/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-vnet-connectivity-for-power-platform-dataflows-public-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-03T02:00:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-try-out-the-power-apps-october-2021-release-wave-2-updates-today.md",
-      "title": "Try out the Power Apps October 2021 Release Wave 2 updates today!",
-      "excerpt": "The Power Apps October release wave 2 makes discovering data much easier and comes with enhanced UI experiences that are modern; take advantage of these now for your Model-driven apps.",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/try-out-the-power-apps-october-2021-release-wave-2-updates-today/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/try-out-the-power-apps-october-2021-release-wave-2-updates-today/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-02T04:00:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
       ]
     }
   ],

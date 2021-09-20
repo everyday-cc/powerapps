@@ -9,7 +9,7 @@ ampWebUrl: "https://windowsreport.com/microsoft-powerapps-record-exposed/?amp"
 cdnAmpWebUrl: "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-powerapps-record-exposed/?amp"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:
