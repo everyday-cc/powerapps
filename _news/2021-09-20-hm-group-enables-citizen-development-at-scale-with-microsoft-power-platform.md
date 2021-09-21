@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/hmgroup/"
 webUrl: "https://powerapps.microsoft.com/en-us/blog/hmgroup/"
 type: article
 quality: 70
-heat: 71
+heat: 73
 published: true
 
 provider:
