@@ -2,6 +2,57 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-11-12-announcing-the-rich-text-editor-rte-control.md",
+      "title": "Announcing the rich text editor (RTE) control",
+      "excerpt": "Announcing the rich text editor (RTE) control",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-the-rich-text-editor-rte-control/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-the-rich-text-editor-rte-control/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-12T10:34:22-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-email-usability-enhancements-for-2020.md",
       "title": "Email usability enhancements for 2020",
       "excerpt": "Email enhancements for 2020",
@@ -1230,57 +1281,6 @@
       "topics": [
         "Power Apps",
         "Teams integration"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-achieve-your-app-development-goals-with-power-platform-and-azure.md",
-      "title": "Achieve your app development goals with Power Platform and Azure",
-      "excerpt": "This year at Microsoft Ignite, I&#8217;m continuing the conversation about how Microsoft Power Platform and Microsoft Azure work together to enable professional developers to build and deliver applications faster and more cost effectively. Today we’re announcing a set of new capabilities across Power",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/achieve-your-app-development-goals-with-power-platform-and-azure/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/achieve-your-app-development-goals-with-power-platform-and-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-default-image.png",
-          "width": 1600,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-22T00:56:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
       ]
     }
   ],
