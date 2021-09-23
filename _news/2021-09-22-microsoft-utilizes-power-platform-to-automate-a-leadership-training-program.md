@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/microsoft-utilizes-powe
 webUrl: "https://powerapps.microsoft.com/en-us/blog/microsoft-utilizes-power-platform-to-automate-a-leadership-training-program/"
 type: article
 quality: 70
-heat: 71
+heat: 72
 published: true
 
 provider:
