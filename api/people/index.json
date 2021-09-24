@@ -17,7 +17,7 @@
       "twitter": {
         "username": "aprildunnam",
         "url": "https://twitter.com/aprildunnam",
-        "followers": 7977
+        "followers": 7978
       },
       "linkedin": {
         "url": "https://www.linkedin.com/public-profile/in/april-dunnam"
@@ -64,7 +64,7 @@
       "twitter": {
         "username": "rezadorrani",
         "url": "https://twitter.com/rezadorrani",
-        "followers": 4371
+        "followers": 4372
       },
       "topics": [
         "Power Apps"
@@ -95,7 +95,7 @@
       "twitter": {
         "username": "ShanesCows",
         "url": "https://twitter.com/ShanesCows",
-        "followers": 15205
+        "followers": 15204
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/cincyshane"
@@ -162,52 +162,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/ryan-cunningham.md",
-      "title": "Ryan Cunningham",
-      "excerpt": "Product Lead for Microsoft PowerApps",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/people/ryan-cunningham/index.json",
-      "webUrl": "https://everyday.cc/powerapps/people/ryan-cunningham/",
-      "type": "profile",
-      "name": "Ryan Cunningham",
-      "bio": "Product Lead for Microsoft PowerApps",
-      "location": "Seattle, WA",
-      "twitter": {
-        "username": "rc_says",
-        "url": "https://twitter.com/rc_says",
-        "followers": 2501
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/rycu"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power Apps"
-      ],
-      "heat": 42,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/459747717862805504/CJIGZejd_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Ryan Cunningham",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_people/sameer-bhangar.md",
       "title": "Sameer Bhangar",
       "excerpt": "Principal Program Manager - Power Platform CAT team",
@@ -242,13 +196,59 @@
       "topics": [
         "Power Apps"
       ],
-      "heat": 42,
+      "heat": 43,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/378800000719674009/a36fe7ddfab1778b76e5793772e43798_400x400.jpeg",
           "width": 400,
           "height": 400,
           "title": "Sameer Bhangar",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/ryan-cunningham.md",
+      "title": "Ryan Cunningham",
+      "excerpt": "Product Lead for Microsoft PowerApps",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/people/ryan-cunningham/index.json",
+      "webUrl": "https://everyday.cc/powerapps/people/ryan-cunningham/",
+      "type": "profile",
+      "name": "Ryan Cunningham",
+      "bio": "Product Lead for Microsoft PowerApps",
+      "location": "Seattle, WA",
+      "twitter": {
+        "username": "rc_says",
+        "url": "https://twitter.com/rc_says",
+        "followers": 2500
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/rycu"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power Apps"
+      ],
+      "heat": 42,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/459747717862805504/CJIGZejd_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Ryan Cunningham",
           "isCached": true
         }
       ],
