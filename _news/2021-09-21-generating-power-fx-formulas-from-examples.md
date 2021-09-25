@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/generating-power-fx-for
 webUrl: "https://powerapps.microsoft.com/en-us/blog/generating-power-fx-formulas-from-examples/"
 type: article
 quality: 72
-heat: 76
+heat: 72
 published: true
 
 provider:
