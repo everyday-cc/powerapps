@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/you-can-now-share-datav
 webUrl: "https://powerapps.microsoft.com/en-us/blog/you-can-now-share-dataverse-for-teams-apps-beyond-a-team/"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:
