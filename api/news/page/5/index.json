@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-22-use-edit-in-excel-in-dataverse-for-teams.md",
+      "title": "Use Edit in Excel in Dataverse for Teams",
+      "excerpt": "Customers can now use &#8220;Edit in Excel&#8221; to move data between Excel and Dataverse for Teams.  ",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/use-edit-in-excel-in-dataverse-for-teams/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/use-edit-in-excel-in-dataverse-for-teams/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-22T10:34:22-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Teams integration"
+      ]
+    },
+    {
       "path": "_news/2021-02-22-february-25th-vancouver-power-apps-user-group-integrating-apps-and-flows-into-power-bi-reports.md",
       "title": "February 25th Vancouver Power Apps User Group: Integrating Apps and Flows into Power BI Reports",
       "excerpt": "February 25th the Vancouver Power Apps User Group will start with May Alhajri, a digital analyst at Schlumberger delivering the first presentation and how to enable writing to the underlying data of a Power BI report using Power Apps.  The second presentation will be by myself and a look at an upcoming",
@@ -1204,57 +1256,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-01-10T11:04:52-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-announcing-the-general-availability-ga-of-monitor-in-power-apps.md",
-      "title": "Announcing the General Availability (GA) of Monitor in Power Apps",
-      "excerpt": "Since its early announcement back in October, 2019, Monitor has helped thousands of Citizen and professional developers to efficiently troubleshoot and more rapidly solve issues they come across while building their Power apps and solutions. Now, we are excited to announce this tool is generally available",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-the-general-availability-ga-of-monitor-in-power-apps/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-the-general-availability-ga-of-monitor-in-power-apps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-07T00:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
