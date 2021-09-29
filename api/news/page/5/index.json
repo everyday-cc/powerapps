@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-23-the-new-search-experience-for-model-driven-apps-is-now-also-available-on-mobile.md",
+      "title": "The new search experience for model-driven apps is now also available on mobile",
+      "excerpt": "The new search experience based on relevance search is now also available on mobile. Model driven apps now have a discoverable search, zero query results and suggested results as you start to type. Filtering capabilities on search results rounds out the new experience. ",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/the-new-search-experience-for-model-driven-apps-is-now-also-available-on-mobile/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/the-new-search-experience-for-model-driven-apps-is-now-also-available-on-mobile/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-23T03:33:33-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Model-driven apps"
+      ]
+    },
+    {
       "path": "_news/2021-02-22-use-edit-in-excel-in-dataverse-for-teams.md",
       "title": "Use Edit in Excel in Dataverse for Teams",
       "excerpt": "Customers can now use &#8220;Edit in Excel&#8221; to move data between Excel and Dataverse for Teams.  ",
@@ -1228,57 +1280,6 @@
       "topics": [
         "Power Apps",
         "Portals"
-      ]
-    },
-    {
-      "path": "_news/2021-01-10-stroke-sufferer-uses-power-apps-to-help-other-survivors.md",
-      "title": "Stroke sufferer uses Power Apps to help other survivors",
-      "excerpt": "Modern day hero, Paul Burns shows how Power Apps can be used to help Stroke survivors regain hand and eye coordination",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/stroke-sufferer-uses-power-app-to-help-other-survivors/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/stroke-sufferer-uses-power-app-to-help-other-survivors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-10T11:04:52-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
       ]
     }
   ],
