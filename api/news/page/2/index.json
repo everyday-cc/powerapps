@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-18-canvas-components-can-now-access-app-scope-directly.md",
+      "title": "Canvas components can now access app scope directly",
+      "excerpt": "Access an app&#8217;s global variables, collections, controls, and tabular data sources directly from within a canvas component, without needing to pass everything through component properties.  Great for formula and UI reuse within an app.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/canvas-components-can-now-access-app-scope-directly/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/canvas-components-can-now-access-app-scope-directly/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-18T02:51:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2021-08-16-asking-new-questions-how-a-project-manager-became-a-power-apps-champion.md",
       "title": "Asking new questions: How a Project Manager became a Power Apps champion",
       "excerpt": "As a project manager with Providence specializing in healthcare finance, Wyendie knows that sometimes all it takes to get started is a good idea—and a few colleagues willing to support it. While some companies are naturally poised to enact change quickly, others must take a bit more time. The detailed",
@@ -1208,57 +1259,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-06-16T04:59:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-rename-your-power-apps-action-based-data-sources.md",
-      "title": "Rename your Power Apps action-based data sources",
-      "excerpt": "Rename of connectors",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/rename-your-power-apps-action-based-data-sources/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/rename-your-power-apps-action-based-data-sources/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-15T04:14:21-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
