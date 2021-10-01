@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/power-fx-formula-column
 webUrl: "https://powerapps.microsoft.com/en-us/blog/power-fx-formula-columns-in-dataverse/"
 type: article
 quality: 72
-heat: 73
+heat: 72
 published: true
 
 provider:
