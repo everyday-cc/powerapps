@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/august-update-power-pla
 webUrl: "https://powerapps.microsoft.com/en-us/blog/august-update-power-platform-developer-tools/"
 type: article
 quality: 72
-heat: 75
+heat: 76
 published: true
 
 provider:
