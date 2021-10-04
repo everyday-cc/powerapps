@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/managing-solutions-has-
 webUrl: "https://powerapps.microsoft.com/en-us/blog/managing-solutions-has-a-new-look-public-preview/"
 type: article
 quality: 72
-heat: 75
+heat: 72
 published: true
 
 provider:
