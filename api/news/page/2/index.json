@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-23-writing-power-fx-formulas-with-natural-language.md",
+      "title": "Writing Power Fx formulas with natural language",
+      "excerpt": "With the announcement earlier in this year’s Build conference, you may already heard about Power Apps Ideas, an AI-powered assistance to help anyone create apps using natural language. Now we’re excited to tell you that this feature is now officially in public preview.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/writing-power-fx-formulas-with-natural-language/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/writing-power-fx-formulas-with-natural-language/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-23T02:38:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2021-08-18-canvas-components-can-now-access-app-scope-directly.md",
       "title": "Canvas components can now access app scope directly",
       "excerpt": "Access an app&#8217;s global variables, collections, controls, and tabular data sources directly from within a canvas component, without needing to pass everything through component properties.  Great for formula and UI reuse within an app.",
@@ -1208,57 +1259,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-06-17T05:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-advanced-lookup-experience-in-model-driven-power-apps.md",
-      "title": "Advanced lookup experience in model-driven Power Apps",
-      "excerpt": "Lookups are a core component of model-driven apps, as they help bring underlying data relationships in Microsoft Dataverse to life. Advanced lookup helps end users explore and find that data easily, so they are more productive with data-entry tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/advanced-lookup-experience-in-model-driven-power-apps/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/advanced-lookup-experience-in-model-driven-power-apps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-16T04:59:10-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
