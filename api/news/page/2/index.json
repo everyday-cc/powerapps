@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-23-microsoft-power-apps-misconfiguration-exposes-38-million-data-records.md",
+      "title": "Microsoft Power Apps misconfiguration exposes 38 million data records",
+      "excerpt": "The data leaks impacted American Airlines, Microsoft, J.B. Hunt and governments of Indiana, Maryland and New York City, says Upguard.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-power-apps-misconfiguration-exposes-38-million-data-records/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-power-apps-misconfiguration-exposes-38-million-data-records/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-power-apps-misconfiguration-exposes-38-million-data-records/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-power-apps-misconfiguration-exposes-38-million-data-records/",
+      "publishedDateTime": "2021-08-23T04:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2021-08-23-writing-power-fx-formulas-with-natural-language.md",
       "title": "Writing Power Fx formulas with natural language",
       "excerpt": "With the announcement earlier in this year’s Build conference, you may already heard about Power Apps Ideas, an AI-powered assistance to help anyone create apps using natural language. Now we’re excited to tell you that this feature is now officially in public preview.",
@@ -1208,57 +1250,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-06-18T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-canvas-source-code-tool-integrated-with-power-platform-cli.md",
-      "title": "Canvas source code tool integrated with Power Platform CLI",
-      "excerpt": "The open source tool for packing and unpacking a Canvas app is now available in preview through the Power Platform Command Line interface.  ",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/canvas-source-code-tool-integrated-with-power-platform-cli/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/canvas-source-code-tool-integrated-with-power-platform-cli/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-17T05:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
