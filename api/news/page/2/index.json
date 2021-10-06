@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-24-companies-using-microsoft-power-apps-portals-got-their-records-exposed.md",
+      "title": "Companies using Microsoft Power Apps portals got their records exposed",
+      "excerpt": "More than 38 million records got leaked online because of people using default configurations in Microsoft Power Apps portals.",
+      "sourceUrl": null,
+      "webUrl": "https://windowsreport.com/microsoft-powerapps-record-exposed/",
+      "originalUrl": "https://windowsreport.com/microsoft-powerapps-record-exposed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.windowsreport.com/wp-content/uploads/2021/08/powerapps-leak.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://windowsreport.com/microsoft-powerapps-record-exposed/?amp",
+      "cdnAmpWebUrl": "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-powerapps-record-exposed/?amp",
+      "publishedDateTime": "2021-08-24T01:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "windowsreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Portals"
+      ]
+    },
+    {
       "path": "_news/2021-08-23-microsoft-power-apps-misconfiguration-exposes-38-million-data-records.md",
       "title": "Microsoft Power Apps misconfiguration exposes 38 million data records",
       "excerpt": "The data leaks impacted American Airlines, Microsoft, J.B. Hunt and governments of Indiana, Maryland and New York City, says Upguard.",
@@ -1222,57 +1265,6 @@
       "topics": [
         "Power Apps",
         "Canvas apps"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-read-nfc-tags-with-power-apps-on-ios-and-android.md",
-      "title": "Read NFC tags with Power Apps on iOS and Android",
-      "excerpt": "Power Apps adds support for reading NFC and HF-RFID tags in Canvas apps.",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/read-nfc-tags-with-power-apps-on-ios-and-android/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/read-nfc-tags-with-power-apps-on-ios-and-android/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-18T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
       ]
     }
   ],
