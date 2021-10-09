@@ -6,8 +6,8 @@ publishedDateTime: 2021-09-20T16:44:00Z
 originalUrl: "https://www.arnnet.com.au/article/691395/data-addiction-connects-universities-lifeline-power-apps/"
 webUrl: "https://www.arnnet.com.au/article/691395/data-addiction-connects-universities-lifeline-power-apps/"
 type: article
-quality: 17
-heat: 17
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -17,6 +17,12 @@ provider:
 topics:
   - Power Apps
 
-secured: "YimHRMl0GYjHzwu7NbxRTgrooF5PBpbQVidLavaFkLsf8SJ/Pj1TKTtBGCwAkwhjWn+hWsBGY1wapBRjmvdfEyl9ogZ90lI0z6ecjGsNyyLbOFakgun915M4u8dUgIXabqi5kPqbZsMLU6XWFF7Y6UiTBLUbXdYna/ByKoAypV39/HBPVjlVitQs4fJHZdfO7YwXukG3+H19Rm5hUuTxCr6XQ7Ya/qu0ssO2z/uvzPClcnx3LmlP75o5aidDaACfgjYOZZ9tK3GUj2Y/dxt9yaKUNmETA59M7Ab+jbs0vj3yrQOQGuA3AMIaf/pC5lCOJK9GEkT8RoZzZXNItCeh4+Ge+S/jDs0AU5gWXZbvrpo=;B65EedYaoLfUE6VHKWCW+Q=="
+images:
+  - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_call_centre.jpg"
+    width: 504
+    height: 315
+    isCached: true
+
+secured: "5zb2NPnup+2lLL/xhvrT67hy/fg3o8WaecLkB9OQfwIKNjefdJ0ClKRFeRgXi+mzY4oaMj0yiRazIvkjde1WaTT/kBfm8Q9UBdfxmdeHHxCTvjZztoV0khVkJ8tHNYZbivcFxYYrIN8h/1ufPe5XNvreEZzqbVpqi0rSeR4BFxJXUzwRkXGNhawhniw+xca3cGgFa+dDPQHpFTpAo5G8YxGSWlYH1M2VhAAI9rtR/loqkJX2RJinclkWCklbB6zEpV/mArMo3w36Fe5o/3sa5r7utNCmclAO5Nds8NCv57ogY9rUQwsTozCqf+mGeqlrPBFAgTWhX2cLeL7ljrBf+/pd4Rd9LzDca4UXZAvdzGw=;rWglzWT1ppVGP399csBi+A=="
 ---
 
