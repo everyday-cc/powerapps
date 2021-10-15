@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/canvas-app-troubleshoot
 webUrl: "https://powerapps.microsoft.com/en-us/blog/canvas-app-troubleshooting-part-1/"
 type: article
 quality: 89
-heat: 94
+heat: 89
 published: true
 
 provider:
