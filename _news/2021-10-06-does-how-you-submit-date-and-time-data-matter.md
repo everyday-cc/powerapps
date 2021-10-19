@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/does-how-you-submit-dat
 webUrl: "https://powerapps.microsoft.com/en-us/blog/does-how-you-submit-date-and-time-data-matter/"
 type: article
 quality: 72
-heat: 75
+heat: 72
 published: true
 
 provider:
