@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/latam-business-applicat
 webUrl: "https://powerapps.microsoft.com/en-us/blog/latam-business-applications-summit-november-17-19th/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:
