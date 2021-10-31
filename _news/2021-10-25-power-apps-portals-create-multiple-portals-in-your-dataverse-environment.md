@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/power-apps-portals-crea
 webUrl: "https://powerapps.microsoft.com/en-us/blog/power-apps-portals-create-multiple-portals-in-your-dataverse-environment/"
 type: article
 quality: 103
-heat: 104
+heat: 103
 published: true
 
 provider:
