@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/ga-release-of-large-fil
 webUrl: "https://powerapps.microsoft.com/en-us/blog/ga-release-of-large-file-and-image-support-in-power-apps-canvas-and-uci/"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:
