@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/02/power-apps-sees-updates-from-micr
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/02/power-apps-sees-updates-from-microsoft-including-tight-teams-integration/amp/"
 type: article
 quality: 113
-heat: 113
+heat: 114
 published: true
 
 provider:
