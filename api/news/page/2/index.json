@@ -2,6 +2,160 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-13-september-power-apps-community-call-power-platform-integration-and-value-proposition-design.md",
+      "title": "September Power Apps community call: Power Platform Integration and Value Proposition Design",
+      "excerpt": "For the September Power Apps community call we have two of the Power Platform MVPs: Reza Dorrani and May Alhajri covering two of the hottest Power Platform topics: Power Apps design and Power Platform integration.\r\n",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/september-power-apps-community-call-power-platform-integration-and-value-proposition-design/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/september-power-apps-community-call-power-platform-integration-and-value-proposition-design/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-default-image.png",
+          "width": 1600,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-13T06:51:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_news/2021-09-10-best-security-practices-for-power-apps.md",
+      "title": "Best security practices for Power Apps",
+      "excerpt": " A reminder on best practices when working with Power Apps and external data sources.  ",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/best-security-practices-for-power-apps/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/best-security-practices-for-power-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-10T10:24:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_news/2021-09-07-app-side-panes-available-for-public-preview-with-model-driven-apps.md",
+      "title": "App side panes available for public preview with model-driven apps",
+      "excerpt": "With the app side panes public preview, developers can more than one pane on the right/far side of the model-driven app.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/app-side-panes-available-for-public-preview-with-model-driven-apps/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/app-side-panes-available-for-public-preview-with-model-driven-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-07T03:00:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Model-driven apps"
+      ]
+    },
+    {
       "path": "_news/2021-09-03-power-apps-developer-resources.md",
       "title": "Power Apps Developer resources",
       "excerpt": "As makers grow their solutions and go beyond no-code/low-code, there are key pieces of information that makers need to connect to the Power Platform through the SDK, service endpoints or developer tools&#8230; this information is now readily available on the maker portal.",
@@ -1109,160 +1263,6 @@
       ],
       "topics": [
         "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-try-out-the-power-apps-october-2021-release-wave-2-updates-today.md",
-      "title": "Try out the Power Apps October 2021 Release Wave 2 updates today!",
-      "excerpt": "The Power Apps October release wave 2 makes discovering data much easier and comes with enhanced UI experiences that are modern; take advantage of these now for your Model-driven apps.",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/try-out-the-power-apps-october-2021-release-wave-2-updates-today/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/try-out-the-power-apps-october-2021-release-wave-2-updates-today/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-02T04:00:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-empowering-everyone-how-an-educator-became-a-power-apps-champion.md",
-      "title": "Empowering everyone: How an educator became a Power Apps champion",
-      "excerpt": "A high school assistant principal, Lauren, has no formal IT background or training. But she knew enough about technology to know that it could help her preserve valuable data about her students—data that was being lost due to outmoded collection techniques. While exploring what was possible with Microsoft",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/empowering-everyone-how-an-educator-became-a-power-apps-champion/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/empowering-everyone-how-an-educator-became-a-power-apps-champion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-02T01:55:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-08-01-announcing-monitor-model-driven-apps-using-application-insights-preview.md",
-      "title": "Announcing Monitor model-driven apps using Application Insights (Preview)",
-      "excerpt": "Use Application Insights to monitor &amp; analyze service telemetry data produced by UCI page and form loads, Platform API calls, custom plug-ins, and more.",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-monitor-model-driven-apps-using-application-insights-preview/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-monitor-model-driven-apps-using-application-insights-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-01T08:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps",
-        "Model-driven apps"
       ]
     }
   ],

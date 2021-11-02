@@ -2,6 +2,160 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-02-microsoft-power-apps-gets-pay-as-you-go-licensing-dynamics-365-gets-more-new-modules.md",
+      "title": "Microsoft Power Apps gets pay-as-you-go licensing; Dynamics 365 gets more new modules",
+      "excerpt": "Microsoft is continuing to reposition, repackage and modify its licensing for pieces of its five-year-old Dynamics 365 and related Power Platform families of products.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/power-apps-gets-pay-as-you-go-licensing-dynamics-365-gets-more-new-modules/",
+      "originalUrl": "https://www.zdnet.com/article/power-apps-gets-pay-as-you-go-licensing-dynamics-365-gets-more-new-modules/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/fc54c600daa011479178ba5876f98cd637c8a4db/2021/11/01/16bdd8fb-4cee-4cae-a4de-4d28dfb9fcb3/dynamicspowerplatformignite.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 770,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/power-apps-gets-pay-as-you-go-licensing-dynamics-365-gets-more-new-modules/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/power-apps-gets-pay-as-you-go-licensing-dynamics-365-gets-more-new-modules/",
+      "publishedDateTime": "2021-11-02T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_news/2021-11-02-power-apps-sees-updates-from-microsoft-including-tight-teams-integration.md",
+      "title": "Power Apps sees updates from Microsoft, including tight Teams integration",
+      "excerpt": "Microsoft has introduced updates throughout its Power Apps platform, including new Power Apps mobile apps for iOS and Android.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/02/power-apps-sees-updates-from-microsoft-including-tight-teams-integration/",
+      "originalUrl": "https://venturebeat.com/2021/11/02/power-apps-sees-updates-from-microsoft-including-tight-teams-integration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/10/Screen-Shot-2016-10-19-at-5.17.03-PM.png?w=1200&strip=all",
+          "width": 1136,
+          "height": 703,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/02/power-apps-sees-updates-from-microsoft-including-tight-teams-integration/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/02/power-apps-sees-updates-from-microsoft-including-tight-teams-integration/amp/",
+      "publishedDateTime": "2021-11-02T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Teams integration"
+      ]
+    },
+    {
+      "path": "_news/2021-11-02-low-code-with-low-risk-announcing-pay-as-you-go-for-power-apps-public-preview.md",
+      "title": "Low-code with low risk: Announcing pay-as-you-go for Power Apps (Public Preview)",
+      "excerpt": "We are pleased to introduce a new way to pay for Power Apps and related Power Platform services which is designed to provide you with more flexible options to meet a variety of scenarios.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/low-code-with-low-risk-announcing-pay-as-you-go-for-power-apps-public-preview/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/low-code-with-low-risk-announcing-pay-as-you-go-for-power-apps-public-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-default-image.png",
+          "width": 1600,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-02T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-create-mobile-apps-with-power-apps-preview.md",
       "title": "Create mobile apps with Power Apps (preview)",
       "excerpt": "With Power Apps mobile apps (preview), Power Apps is truly becoming a Mobile Application Development Platform, stuffed with MAD skills. Low-code mobile app creation, seamless end-to-end branding, multiple app embedding, distribute your app natively and use enterprise governance with Intune. Power Apps",
@@ -1127,160 +1281,6 @@
       ],
       "topics": [
         "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-09-13-september-power-apps-community-call-power-platform-integration-and-value-proposition-design.md",
-      "title": "September Power Apps community call: Power Platform Integration and Value Proposition Design",
-      "excerpt": "For the September Power Apps community call we have two of the Power Platform MVPs: Reza Dorrani and May Alhajri covering two of the hottest Power Platform topics: Power Apps design and Power Platform integration.\r\n",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/september-power-apps-community-call-power-platform-integration-and-value-proposition-design/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/september-power-apps-community-call-power-platform-integration-and-value-proposition-design/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-default-image.png",
-          "width": 1600,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-13T06:51:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-best-security-practices-for-power-apps.md",
-      "title": "Best security practices for Power Apps",
-      "excerpt": " A reminder on best practices when working with Power Apps and external data sources.  ",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/best-security-practices-for-power-apps/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/best-security-practices-for-power-apps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-10T10:24:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-app-side-panes-available-for-public-preview-with-model-driven-apps.md",
-      "title": "App side panes available for public preview with model-driven apps",
-      "excerpt": "With the app side panes public preview, developers can more than one pane on the right/far side of the model-driven app.",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/app-side-panes-available-for-public-preview-with-model-driven-apps/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/app-side-panes-available-for-public-preview-with-model-driven-apps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-07T03:00:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps",
-        "Model-driven apps"
       ]
     }
   ],

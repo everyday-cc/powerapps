@@ -2,6 +2,160 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-02-try-out-the-power-apps-october-2021-release-wave-2-updates-today.md",
+      "title": "Try out the Power Apps October 2021 Release Wave 2 updates today!",
+      "excerpt": "The Power Apps October release wave 2 makes discovering data much easier and comes with enhanced UI experiences that are modern; take advantage of these now for your Model-driven apps.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/try-out-the-power-apps-october-2021-release-wave-2-updates-today/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/try-out-the-power-apps-october-2021-release-wave-2-updates-today/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-02T04:00:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_news/2021-08-02-empowering-everyone-how-an-educator-became-a-power-apps-champion.md",
+      "title": "Empowering everyone: How an educator became a Power Apps champion",
+      "excerpt": "A high school assistant principal, Lauren, has no formal IT background or training. But she knew enough about technology to know that it could help her preserve valuable data about her students—data that was being lost due to outmoded collection techniques. While exploring what was possible with Microsoft",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/empowering-everyone-how-an-educator-became-a-power-apps-champion/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/empowering-everyone-how-an-educator-became-a-power-apps-champion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-02T01:55:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_news/2021-08-01-announcing-monitor-model-driven-apps-using-application-insights-preview.md",
+      "title": "Announcing Monitor model-driven apps using Application Insights (Preview)",
+      "excerpt": "Use Application Insights to monitor &amp; analyze service telemetry data produced by UCI page and form loads, Platform API calls, custom plug-ins, and more.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-monitor-model-driven-apps-using-application-insights-preview/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-monitor-model-driven-apps-using-application-insights-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-01T08:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Model-driven apps"
+      ]
+    },
+    {
       "path": "_news/2021-07-28-announcing-command-designer-with-power-fx-preview.md",
       "title": "Announcing command designer with Power Fx (preview)",
       "excerpt": "For the first time ever you can use command designer and Power Fx to customize model-driven app command bars! We&#8217;re excited to introduce many new low-code capabilities that also work with custom pages in converged apps.",
@@ -1130,161 +1284,6 @@
       ],
       "topics": [
         "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-table-permissions-in-portals-studio.md",
-      "title": "Table Permissions in portals Studio",
-      "excerpt": "Introducing table permissions to portals Studio.",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/table-permissions-in-portals-studio/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/table-permissions-in-portals-studio/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-02T09:12:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps",
-        "Portals"
-      ]
-    },
-    {
-      "path": "_news/2021-05-30-microsoft-build-touts-power-apps-cosmos-db-enhancements-to-develop-code-faster.md",
-      "title": "Microsoft Build touts Power Apps, Cosmos DB enhancements to develop code faster",
-      "excerpt": "Analysts can use Power Apps to build data applications and processes. Integrating AI into Power FX will make it easier to use natural-language input and “programming by example” techniques ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/30/microsoft-build-touts-enhancements-to-power-apps-cosmos-db-to-develop-code-faster/",
-      "originalUrl": "https://venturebeat.com/2021/05/30/microsoft-build-touts-enhancements-to-power-apps-cosmos-db-to-develop-code-faster/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/microsoft-build-2020.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/30/microsoft-build-touts-enhancements-to-power-apps-cosmos-db-to-develop-code-faster/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/30/microsoft-build-touts-enhancements-to-power-apps-cosmos-db-to-develop-code-faster/amp/",
-      "publishedDateTime": "2021-05-30T03:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-power-apps-portals-edit-portal-with-power-platform-vs-code-extension-public-preview.md",
-      "title": "Power Apps portals: Edit portal with Power Platform VS Code Extension (public preview)",
-      "excerpt": "The VS Code extension for portals adds the capability to configure portals using VS Code, and utilize the \r\nbuilt-in Liquid language IntelliSense enabling help with code completion, assistance and hinting while \r\ncustomizing portals interface using VS Code",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-portals-edit-portal-with-power-platform-vs-code-extension-public-preview/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-portals-edit-portal-with-power-platform-vs-code-extension-public-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-27T21:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps",
-        "Portals"
       ]
     }
   ],
