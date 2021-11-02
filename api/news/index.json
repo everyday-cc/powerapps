@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-01-experimental-co-authoring-for-power-apps-studio.md",
+      "title": "Experimental Co-authoring for Power Apps Studio",
+      "excerpt": "As an experimental feature, two makers can now work on the same app at the same time.  This is a first step, seeking your feedback, as we continue to build co-authoring features across Power Apps.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/experimental-co-authoring-for-power-apps-studio/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/experimental-co-authoring-for-power-apps-studio/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-default-image.png",
+          "width": 1600,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-01T11:00:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2021-10-25-power-apps-portals-create-multiple-portals-in-your-dataverse-environment.md",
       "title": "Power Apps portals: Create multiple portals in your Dataverse environment",
       "excerpt": "We are excited to announce that with capability makers can create multiple portal of the same type in an environment.",
@@ -1230,58 +1281,6 @@
       ],
       "topics": [
         "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-08-29-power-apps-portals-samesite-mode-and-its-use-when-hosting-your-portal-in-an-iframe.md",
-      "title": "Power Apps portals: SameSite mode and its use when hosting your portal in an iframe",
-      "excerpt": "Power Apps portals: Samesite and iFrame options",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-portals-samesite-mode-and-its-use-when-hosting-your-portal-in-an-iframe/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-portals-samesite-mode-and-its-use-when-hosting-your-portal-in-an-iframe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-29T16:11:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps",
-        "Portals"
       ]
     }
   ],
