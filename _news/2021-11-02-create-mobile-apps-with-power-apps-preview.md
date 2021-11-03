@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/create-mobile-apps-with
 webUrl: "https://powerapps.microsoft.com/en-us/blog/create-mobile-apps-with-power-apps-preview/"
 type: article
 quality: 87
-heat: 88
+heat: 89
 published: true
 
 provider:

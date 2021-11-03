@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/app-startscreen-a-new-d
 webUrl: "https://powerapps.microsoft.com/en-us/blog/app-startscreen-a-new-declarative-alternative-to-navigate-in-app-onstart/"
 type: article
 quality: 71
-heat: 71
+heat: 74
 published: true
 
 provider:

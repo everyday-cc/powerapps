@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/power-fx-blanks-convers
 webUrl: "https://powerapps.microsoft.com/en-us/blog/power-fx-blanks-conversions-and-errors/"
 type: article
 quality: 72
-heat: 72
+heat: 76
 published: true
 
 provider:
