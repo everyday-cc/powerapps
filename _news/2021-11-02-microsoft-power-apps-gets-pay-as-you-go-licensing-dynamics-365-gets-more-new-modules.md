@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/power-apps-gets-pay-as-you-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/power-apps-gets-pay-as-you-go-licensing-dynamics-365-gets-more-new-modules/"
 type: article
 quality: 90
-heat: 92
+heat: 93
 published: true
 
 provider:
