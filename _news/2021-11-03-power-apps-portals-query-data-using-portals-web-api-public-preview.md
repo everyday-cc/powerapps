@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/power-apps-portals-quer
 webUrl: "https://powerapps.microsoft.com/en-us/blog/power-apps-portals-query-data-using-portals-web-api-public-preview/"
 type: article
 quality: 104
-heat: 104
+heat: 105
 published: true
 
 provider:
