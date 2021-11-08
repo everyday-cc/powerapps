@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-06-power-apps-sees-updates-from-microsoft-including-tight-teams-integration.md",
+      "title": "Power Apps sees updates from Microsoft, including tight Teams integration",
+      "excerpt": "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net Microsoft has introduced updates throughout its Power Apps platform, including new Power Apps ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/power-apps-sees-updates-from-microsoft--including-tight-teams-integration-10696402",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/power-apps-sees-updates-from-microsoft--including-tight-teams-integration-10696402",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-05T19:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Teams integration"
+      ]
+    },
+    {
       "path": "_news/2021-11-05-easy-power-apps-collaboration-with-multiplayer-apps.md",
       "title": "Easy Power Apps collaboration with multiplayer apps",
       "excerpt": "Collaborate seamlessly with your colleagues with multi-player apps, on-line statuses and easy sharing.",
@@ -422,7 +465,7 @@
       "originalUrl": "https://powerapps.microsoft.com/en-us/blog/low-code-with-low-risk-announcing-pay-as-you-go-for-power-apps-public-preview/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -473,7 +516,7 @@
       "originalUrl": "https://powerapps.microsoft.com/en-us/blog/create-mobile-apps-with-power-apps-preview/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -626,7 +669,7 @@
       "originalUrl": "https://powerapps.microsoft.com/en-us/blog/experimental-co-authoring-for-power-apps-studio/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -985,7 +1028,7 @@
       "originalUrl": "https://powerapps.microsoft.com/en-us/blog/canvas-app-troubleshooting-part-1/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1208,57 +1251,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-09-30T04:59:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-09-29-august-update-power-platform-developer-tools.md",
-      "title": "AUGUST UPDATE: Power Platform Developer Tools",
-      "excerpt": "New August refresh updates for the Power Platform Command line and development tools",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/august-update-power-platform-developer-tools/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/august-update-power-platform-developer-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-default-image.png",
-          "width": 1600,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-29T02:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
