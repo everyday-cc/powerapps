@@ -2,6 +2,110 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-11-17-new-layout-containers-in-canvas-apps-make-responsive-apps-easier.md",
+      "title": "New Layout containers in canvas apps make responsive apps easier",
+      "excerpt": "We are excited to announce the preview of the horizontal container and vertical container layout controls that help automatically reflow and resize controls within them to enable easy, no expression responsive layouts in canvas apps. These are available in mainline and Teams authoring experiences.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/new-layout-containers-in-canvas-apps-make-responsive-apps-easier/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/new-layout-containers-in-canvas-apps-make-responsive-apps-easier/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-17T00:00:58-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-microsoft-announces-general-availability-of-new-power-apps-and-dataverse-for-teams.md",
+      "title": "Microsoft announces general availability of new Power Apps and Dataverse for Teams",
+      "excerpt": "You can now build apps and chatbots using minimal code directly within Microsoft Teams, thanks to the general availability of Power Apps and Power Virtual Agents apps, as well as Dataverse for Teams.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsoft-announces-general-availability-of-new-power-apps-and-dataverse-for-teams",
+      "originalUrl": "https://www.neowin.net/news/microsoft-announces-general-availability-of-new-power-apps-and-dataverse-for-teams",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/05/1590781855_microsoft_teams_4_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-announces-general-availability-of-new-power-apps-and-dataverse-for-teams/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-announces-general-availability-of-new-power-apps-and-dataverse-for-teams/",
+      "publishedDateTime": "2020-11-16T17:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Teams integration"
+      ]
+    },
+    {
       "path": "_news/2020-11-16-reshape-the-future-of-work-with-microsoft-dataverse-for-teamsnow-generally-available.md",
       "title": "Reshape the future of work with Microsoft Dataverse for Teams—now generally available",
       "excerpt": "Common Data Service, the sophisticated and secure backbone that powers Dynamics 365 and Power Platform, has been renamed to Microsoft Dataverse. This low-code data platform is rapidly changing the way organizations around the world build apps and innovate business processes. A fresh name is just one",
@@ -1177,110 +1281,6 @@
       "topics": [
         "Power Apps",
         "Model-driven apps"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-deprecation-of-time-zone-entities-in-common-data-service.md",
-      "title": "Deprecation of time zone entities in Common Data Service",
-      "excerpt": "The internal time zone service in Common Data Service is being deprecated in favor of using the Windows API for all time zone calculations. This means that we are restructuring the time zone entities in Common Data Service and changing the way things work.",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/deprecation-of-time-zone-entities-in-common-data-service/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/deprecation-of-time-zone-entities-in-common-data-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-default-image.png",
-          "width": 1600,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-24T02:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps",
-        "Common Data Service"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-as-low-code-competition-grows-microsoft-integrates-power-apps-with-github-and-teams.md",
-      "title": "As ‘low-code’ competition grows, Microsoft integrates Power Apps with GitHub and Teams",
-      "excerpt": "Microsoft demonstrated the T-Mobile app during its virtual Ignite technology conference Tuesday to show the capabilities of its Power Platform and Power Apps low-code and no-code software development technologies. T-Mobile’s internal ORBIT application ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/low-code-competition-grows-microsoft-integrates-power-apps-github-teams/",
-      "originalUrl": "https://www.geekwire.com/2020/low-code-competition-grows-microsoft-integrates-power-apps-github-teams/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/09/Satya-Nadella-1000x563-1-630x355.jpg",
-          "width": 630,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/low-code-competition-grows-microsoft-integrates-power-apps-github-teams/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/low-code-competition-grows-microsoft-integrates-power-apps-github-teams/amp/",
-      "publishedDateTime": "2020-09-22T16:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps",
-        "Teams integration"
       ]
     }
   ],
