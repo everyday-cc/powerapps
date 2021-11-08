@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-08-round-up-of-the-ignite-announcements-for-power-apps.md",
+      "title": "Round up of the Ignite announcements for Power Apps!",
+      "excerpt": "This was a huge week for Power Apps at Ignite and we want to thank everyone for joining us and continuing to engage in the community. This post includes a round up of the announcements for Power Apps at Ignite.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/round-up-of-the-ignite-announcements-for-power-apps/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/round-up-of-the-ignite-announcements-for-power-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-default-image.png",
+          "width": 1600,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-08T05:43:46-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2021-11-08-new-dataverse-videos-currency-date-and-time-migrating-access-to-dataverse-and-dataverse-for-teams.md",
       "title": "New Dataverse Videos! Currency, Date and Time, Migrating Access to Dataverse and Dataverse for Teams",
       "excerpt": "Four new videos in the Dataverse series to help users better understand some of the more complex data types: Currency and Date Time. Also available: videos covering the new Access Migration feature for Dataverse and Dataverse for Teams.",
@@ -1200,57 +1251,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-10-06T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-goodbye-relevance-search-hello-dataverse-search.md",
-      "title": "Goodbye Relevance search, hello Dataverse search!",
-      "excerpt": "Relevance search is now Dataverse search to emphasize that all data within Dataverse is searchable. The same powerful capabilities of Relevance search will continue and we are committed to make Dataverse search even better, starting with a new configuration experience in the maker portal.",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/goodbye-relevance-search-hello-dataverse-search/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/goodbye-relevance-search-hello-dataverse-search/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-default-image.png",
-          "width": 1600,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-04T22:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
