@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/round-up-of-the-ignite-
 webUrl: "https://powerapps.microsoft.com/en-us/blog/round-up-of-the-ignite-announcements-for-power-apps/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
