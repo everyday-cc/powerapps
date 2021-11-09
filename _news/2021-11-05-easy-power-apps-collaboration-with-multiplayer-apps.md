@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/easy-power-apps-collabo
 webUrl: "https://powerapps.microsoft.com/en-us/blog/easy-power-apps-collaboration-with-multiplayer-apps/"
 type: article
 quality: 87
-heat: 90
+heat: 87
 published: true
 
 provider:
