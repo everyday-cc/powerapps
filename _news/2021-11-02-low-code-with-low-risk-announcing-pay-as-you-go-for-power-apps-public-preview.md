@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/low-code-with-low-risk-
 webUrl: "https://powerapps.microsoft.com/en-us/blog/low-code-with-low-risk-announcing-pay-as-you-go-for-power-apps-public-preview/"
 type: article
 quality: 82
-heat: 83
+heat: 82
 published: true
 
 provider:
