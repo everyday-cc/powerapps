@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/power-fx-open-source-no
 webUrl: "https://powerapps.microsoft.com/en-us/blog/power-fx-open-source-now-available/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:
