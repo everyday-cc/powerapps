@@ -18,7 +18,7 @@ website: https://t.co/enJuiGEQZc
 twitter:
   username: aprildunnam
   url: https://twitter.com/aprildunnam
-  followers: 8858
+  followers: 8859
 
 linkedin:
   url: https://www.linkedin.com/public-profile/in/april-dunnam
