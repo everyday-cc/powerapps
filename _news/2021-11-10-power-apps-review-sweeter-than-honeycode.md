@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3638115/microsoft-power-apps-revie
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3638115/microsoft-power-apps-review-sweeter-than-honeycode.amp.html"
 type: article
 quality: 97
-heat: 97
+heat: 98
 published: true
 
 provider:

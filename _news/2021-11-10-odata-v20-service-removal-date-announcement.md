@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/odata-v2-0-service-remo
 webUrl: "https://powerapps.microsoft.com/en-us/blog/odata-v2-0-service-removal-date-announcement/"
 type: article
 quality: 72
-heat: 73
+heat: 74
 published: true
 
 provider:
