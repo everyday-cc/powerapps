@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-03-14-year-old-boy-digitally-transforms-a-child-daycare-facility-through-microsoft-power-apps.md",
+      "title": "14 year-old boy digitally transforms a child daycare facility through Microsoft Power Apps",
+      "excerpt": "Today, we share a story of a 14 year old boy, Kazuki from Japan who empowers others through Power Apps.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/boy-digitally-transforms-a-child-daycare-facility/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/boy-digitally-transforms-a-child-daycare-facility/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-default-image.png",
+          "width": 1600,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-03T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2021-11-30-easily-activate-features-for-model-driven-apps-with-the-new-settings-solution-component-public-preview.md",
       "title": "Easily activate features for model-driven apps with the new Settings solution component (Public preview)",
       "excerpt": "We are excited to announce public preview of a new solution component named Settings. Using settings, application authors can, with just a few clicks, activate or configure features for a model-driven app. This allows them to easily and quickly provide a customized experience for end-users. These settings",
@@ -1224,58 +1275,6 @@
       "topics": [
         "Power Apps",
         "Portals"
-      ]
-    },
-    {
-      "path": "_news/2021-10-21-general-availability-of-custom-help-pane-in-model-driven-apps.md",
-      "title": "General availability of custom help pane in model-driven apps",
-      "excerpt": "Custom help pane feature gives your model apps a custom in-product help experience that is tailored to your app. It is now announcing general availability. ",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/general-availability-of-custom-help-pane-in-model-driven-apps/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/general-availability-of-custom-help-pane-in-model-driven-apps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-21T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps",
-        "Model-driven apps"
       ]
     }
   ],

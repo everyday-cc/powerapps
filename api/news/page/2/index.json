@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-21-general-availability-of-custom-help-pane-in-model-driven-apps.md",
+      "title": "General availability of custom help pane in model-driven apps",
+      "excerpt": "Custom help pane feature gives your model apps a custom in-product help experience that is tailored to your app. It is now announcing general availability. ",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/general-availability-of-custom-help-pane-in-model-driven-apps/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/general-availability-of-custom-help-pane-in-model-driven-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-21T04:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Model-driven apps"
+      ]
+    },
+    {
       "path": "_news/2021-10-20-appstartscreen-a-new-declarative-alternative-to-navigate-in-apponstart.md",
       "title": "App.StartScreen: a new declarative alternative to Navigate in App.OnStart",
       "excerpt": "There is a new declarative way to control the first screen shown in a Canvas app: App.StartScreen.  It is our first step in providing declarative alternatives for all the things that are done in App.OnStart today.  App.OnStart is the source of many app load performance issues as it&#8217;s imperative",
@@ -1230,57 +1282,6 @@
       "topics": [
         "Power Apps",
         "Model-driven apps"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-how-ipad-iphone-and-mac-users-can-tap-the-power-of-microsofts-power-apps.md",
-      "title": "How iPad, iPhone and Mac users can tap the power of Microsoft's Power Apps",
-      "excerpt": "All the benefits of Microsoft's low-code platform Power Apps, which help refine workflows, improve reporting and encourage collaboration, are available to Apple users.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-ipad-iphone-and-mac-users-can-tap-the-power-of-microsofts-power-apps/",
-      "originalUrl": "https://www.techrepublic.com/article/how-ipad-iphone-and-mac-users-can-tap-the-power-of-microsofts-power-apps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/08/19/977c8ed5-cd39-4e8a-97de-a3e7b21ad2e1/resize/1200x/12ad27a8c4cf60eb4af1bfb11db0ca57/fig-a-power-apps-iphone-image-main.jpg",
-          "width": 1200,
-          "height": 2523,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-ipad-iphone-and-mac-users-can-tap-the-power-of-microsofts-power-apps/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ipad-iphone-and-mac-users-can-tap-the-power-of-microsofts-power-apps/",
-      "publishedDateTime": "2021-08-25T13:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
       ]
     }
   ],
