@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/power-apps-mobile-apps-now-available-othe
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/power-apps-mobile-apps-now-available-other-services-receive-enhancements-as-well/"
 type: article
 quality: 92
-heat: 93
+heat: 92
 published: true
 
 provider:
