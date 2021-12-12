@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/visualize-data-in-model
 webUrl: "https://powerapps.microsoft.com/en-us/blog/visualize-data-in-model-driven-apps-with-power-bi-preview/"
 type: article
 quality: 104
-heat: 105
+heat: 104
 published: true
 
 provider:
