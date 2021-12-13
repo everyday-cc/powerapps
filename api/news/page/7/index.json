@@ -2,6 +2,57 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-02-01-governing-at-scale.md",
+      "title": "Governing at scale",
+      "excerpt": "In this feature overview video series, we highlight new capabilities included in the latest update to Microsoft Power Apps.  Microsoft's Power Platform is a rich ecosystem of more than three hundred Microsoft and non-Microsoft connectors that can be leveraged by apps and flows. We are proud to introduce",
+      "sourceUrl": null,
+      "webUrl": null,
+      "originalUrl": "https://youtube.com/watch?v=m8_wjf1PkAc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/m8_wjf1PkAc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/m8_wjf1PkAc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-01T08:00:24-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-adh-clinic-adopts-microsoft-power-platform-a-small-business-survival-story.md",
       "title": "ADH Clinic adopts Microsoft Power Platform  a small business survival story",
       "excerpt": "The incredible story of how small business owner Andrea Douthwaite-Hodges partnered with two dear friends who implemented a technology solution that enabled her to safely re-open her clinic during the COVID-19 pandemic. The solution includes Microsoft Bookings, Outlook, Microsoft Forms, Power Apps, Power",
@@ -1233,58 +1284,6 @@
       ],
       "topics": [
         "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-power-apps-portals-configure-azure-ad-b2c-provider-for-portals-in-a-new-way-preview.md",
-      "title": "Power Apps portals: Configure Azure AD B2C provider for portals in a new way (Preview)",
-      "excerpt": "A new wizard experience uniquely for Azure AD B2C setup with portals",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-portals-configure-azure-ad-b2c-provider-for-portals-in-a-new-way-preview/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-portals-configure-azure-ad-b2c-provider-for-portals-in-a-new-way-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-10T01:56:29-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps",
-        "Portals"
       ]
     }
   ],
