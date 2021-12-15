@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/custom-page-runtime-has
 webUrl: "https://powerapps.microsoft.com/en-us/blog/custom-page-runtime-has-reached-general-availability/"
 type: article
 quality: 72
-heat: 73
+heat: 72
 published: true
 
 provider:
