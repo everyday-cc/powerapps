@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/boy-digitally-transform
 webUrl: "https://powerapps.microsoft.com/en-us/blog/boy-digitally-transforms-a-child-daycare-facility/"
 type: article
 quality: 77
-heat: 80
+heat: 77
 published: true
 
 provider:
