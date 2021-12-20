@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/power-apps-portals-supp
 webUrl: "https://powerapps.microsoft.com/en-us/blog/power-apps-portals-support-for-microsoft-dataverse-choices-columns-preview/"
 type: article
 quality: 100
-heat: 102
+heat: 100
 published: true
 
 provider:
