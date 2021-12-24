@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/power-apps-portals-as-m
 webUrl: "https://powerapps.microsoft.com/en-us/blog/power-apps-portals-as-mobile-apps-preview/"
 type: article
 quality: 104
-heat: 104
+heat: 105
 published: true
 
 provider:

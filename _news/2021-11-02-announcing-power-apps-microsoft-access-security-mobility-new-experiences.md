@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/announcing-power-apps-m
 webUrl: "https://powerapps.microsoft.com/en-us/blog/announcing-power-apps-microsoft-access-security-mobility-new-experiences/"
 type: article
 quality: 82
-heat: 82
+heat: 83
 published: true
 
 provider:
