@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/power-platform-develope
 webUrl: "https://powerapps.microsoft.com/en-us/blog/power-platform-developer-tools-november-refresh/"
 type: article
 quality: 72
-heat: 75
+heat: 72
 published: true
 
 provider:
