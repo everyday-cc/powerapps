@@ -2,6 +2,57 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-04-01-search-quick-actions-are-now-customizable-in-model-driven-power-apps.md",
+      "title": "Search quick actions are now customizable in model-driven Power Apps",
+      "excerpt": "With the addition of quick actions to the new global search experience, discovering and acting on information in model-driven apps is a lot easier. Quick actions are evolving to be configurable, so you can extend them in ways that is useful for your unique scenarios.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/search-quick-actions-are-now-customizable-in-model-driven-power-apps/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/search-quick-actions-are-now-customizable-in-model-driven-power-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-01T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-print-screens-in-your-canvas-app.md",
       "title": "Print() screens in your canvas app",
       "excerpt": "Power Apps canvas apps can now use the Print() function in order to print a screen using the default browser print dialog. ",
@@ -1204,57 +1255,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-02-08T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-02-08-communicate-broadly-and-collaborate-effectively-with-two-new-power-apps.md",
-      "title": "Communicate broadly and collaborate effectively with two new Power Apps",
-      "excerpt": "Learn more about two new fully functional solutions build on Power Apps and Dataverse for Teams &#8211; Bulletins and Milestones. Bulletins enables you to effectively communicate important information to your team members. Milestones enables the team members to collaborate across functions on the most",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/communicate-broadly-and-collaborate-effectively-with-two-new-power-apps-solutions/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/communicate-broadly-and-collaborate-effectively-with-two-new-power-apps-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-08T04:19:28-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
