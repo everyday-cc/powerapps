@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/introducing-the-alm-acc
 webUrl: "https://powerapps.microsoft.com/en-us/blog/introducing-the-alm-accelerator-for-power-platform/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:
