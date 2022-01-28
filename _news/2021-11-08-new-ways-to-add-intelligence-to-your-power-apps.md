@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/new-ways-to-add-intelli
 webUrl: "https://powerapps.microsoft.com/en-us/blog/new-ways-to-add-intelligence-to-your-business-with-ai-builder/"
 type: article
 quality: 87
-heat: 89
+heat: 87
 published: true
 
 provider:
