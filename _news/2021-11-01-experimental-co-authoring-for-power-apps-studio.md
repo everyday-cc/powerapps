@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/experimental-co-authori
 webUrl: "https://powerapps.microsoft.com/en-us/blog/experimental-co-authoring-for-power-apps-studio/"
 type: article
 quality: 87
-heat: 89
+heat: 87
 published: true
 
 provider:

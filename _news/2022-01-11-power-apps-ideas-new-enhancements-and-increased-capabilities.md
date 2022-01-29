@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/power-apps-ideas-new-en
 webUrl: "https://powerapps.microsoft.com/en-us/blog/power-apps-ideas-new-enhancements-and-increased-capabilities/"
 type: article
 quality: 87
-heat: 91
+heat: 92
 published: true
 
 provider:
