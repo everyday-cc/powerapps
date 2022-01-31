@@ -2,6 +2,57 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-12-17-github-connector-features-for-power-platform.md",
+      "title": "GitHub connector features for Power Platform",
+      "excerpt": "Use the GitHub Connector in Power Apps and Power Automate to run GitHub Actions workflows",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/github-connector-features-for-power-platform/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/github-connector-features-for-power-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-16T21:52:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-new-ai-builder-capabilities-are-now-generally-available.md",
       "title": "New AI Builder capabilities are now generally available",
       "excerpt": "Two AI builder preview capabilities are now generally available. Both new capabilities can be found under the Prediction model card in AI Builder. One of them is prediction of multiple outcomes, and the other is prediction of a numerical field. Features that are generally available are considered production",
@@ -1212,57 +1263,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-11-09T04:36:52-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-update-your-bookmarks-for-webpowerappscom.md",
-      "title": "Update your bookmarks for web.powerapps.com",
-      "excerpt": "Please update your bookmarks; content and services hosted at web.powerapps.com is moving to either make.powerapps.com or apps.powerapps.com",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/retiring-web-powerapps-com/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/retiring-web-powerapps-com/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-09T03:43:05-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

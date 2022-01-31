@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-31-power-platform-developer-tools-decjan-refresh-sovereign-cloud-support.md",
+      "title": "Power Platform Developer Tools Dec/Jan Refresh (Sovereign Cloud support)",
+      "excerpt": "The Sovereign Cloud support for Power Platform Command Line tool",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/power-platform-developer-tools-dec-jan-refresh-sovereign-cloud-support/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/power-platform-developer-tools-dec-jan-refresh-sovereign-cloud-support/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/01/word-image.png",
+          "width": 1591,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-31T02:56:13-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2022-01-23-power-apps-portals-announcing-general-availability-ga-of-power-virtual-agents-integration-using-chatbot-component.md",
       "title": "Power Apps portals: Announcing General Availability (GA) of Power Virtual Agents integration using “Chatbot” component",
       "excerpt": "We are excited to announce the General Availability (GA) of Power Virtual Agents integration using “Chatbot” component that was introduced in May 2021 release as a preview feature.",
@@ -1226,58 +1277,6 @@
       ],
       "topics": [
         "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-power-apps-sees-updates-from-microsoft-including-tight-teams-integration.md",
-      "title": "Power Apps sees updates from Microsoft, including tight Teams integration",
-      "excerpt": "Microsoft has introduced updates throughout its Power Apps platform, including new Power Apps mobile apps for iOS and Android.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/02/power-apps-sees-updates-from-microsoft-including-tight-teams-integration/",
-      "originalUrl": "https://venturebeat.com/2021/11/02/power-apps-sees-updates-from-microsoft-including-tight-teams-integration/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/10/Screen-Shot-2016-10-19-at-5.17.03-PM.png?w=1200&strip=all",
-          "width": 1136,
-          "height": 703,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/02/power-apps-sees-updates-from-microsoft-including-tight-teams-integration/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/02/power-apps-sees-updates-from-microsoft-including-tight-teams-integration/amp/",
-      "publishedDateTime": "2021-11-02T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps",
-        "Teams integration"
       ]
     }
   ],

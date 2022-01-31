@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-04-08-now-available-coe-starter-kit-in-dataverse-for-teams-and-other-improvements.md",
+      "title": "Now available: CoE Starter Kit in Dataverse for Teams (and other improvements)",
+      "excerpt": "We are excited to announce that the CoE Starter Kit can now be installed in Dataverse for Teams environments. You can now make the Admin, Governance and Nurture templates in the kit a core part of your collaboration with admins, makers and end users in Teams.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/now-available-coe-starter-kit-in-dataverse-for-teams-and-other-improvements/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/now-available-coe-starter-kit-in-dataverse-for-teams-and-other-improvements/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-08T04:31:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Teams integration"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-power-apps-portals-start-using-code-components-with-portals-preview.md",
       "title": "Power Apps portals: Start using code components with portals (Preview)",
       "excerpt": "Power Apps component framework support is now extended to Power Apps portals for field type of code components. This feature is currently available as public preview starting with portal 9.3.3.x update and starter portal package version 9.2.2103.x",
@@ -1205,57 +1257,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-02-17T23:20:27-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-check-users-access-to-a-record-using-the-check-access-feature.md",
-      "title": "Check user's access to a record using the Check Access feature",
-      "excerpt": "In this feature overview video series, we highlight new capabilities included in the latest update to Microsoft Power Apps.  This featured product update to Power Apps highlights check access, a new record level security feature admins can use to check and assign security roles.  Get the most out of",
-      "sourceUrl": null,
-      "webUrl": null,
-      "originalUrl": "https://youtube.com/watch?v=rigZ1FvrgSY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rigZ1FvrgSY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/rigZ1FvrgSY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-16T08:08:31-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
