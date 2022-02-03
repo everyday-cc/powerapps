@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/power-platform-develope
 webUrl: "https://powerapps.microsoft.com/en-us/blog/power-platform-developer-tools-dec-jan-refresh-sovereign-cloud-support/"
 type: article
 quality: 71
-heat: 72
+heat: 71
 published: true
 
 provider:
