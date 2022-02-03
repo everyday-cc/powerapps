@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/localizing-content-on-a
 webUrl: "https://powerapps.microsoft.com/en-us/blog/localizing-content-on-a-custom-page/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:
