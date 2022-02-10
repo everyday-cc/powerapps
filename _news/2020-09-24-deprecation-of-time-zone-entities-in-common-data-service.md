@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/deprecation-of-time-zon
 webUrl: "https://powerapps.microsoft.com/en-us/blog/deprecation-of-time-zone-entities-in-common-data-service/"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:
