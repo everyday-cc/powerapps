@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/announcing-general-avai
 webUrl: "https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-ga-of-power-apps-portals-as-mobile-apps/"
 type: article
 quality: 103
-heat: 103
+heat: 104
 published: true
 
 provider:
