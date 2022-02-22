@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/try-out-the-power-apps-
 webUrl: "https://powerapps.microsoft.com/en-us/blog/try-out-the-power-apps-2022-april-release-wave-1-updates-for-model-driven-apps/"
 type: article
 quality: 115
-heat: 116
+heat: 115
 published: true
 
 provider:
