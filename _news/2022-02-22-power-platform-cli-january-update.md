@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/power-platform-cli-janu
 webUrl: "https://powerapps.microsoft.com/en-us/blog/power-platform-cli-january-update/"
 type: article
 quality: 72
-heat: 73
+heat: 74
 published: true
 
 provider:
