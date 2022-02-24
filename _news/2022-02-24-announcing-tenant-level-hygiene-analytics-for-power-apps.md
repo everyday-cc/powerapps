@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/announcing-tenant-level
 webUrl: "https://powerapps.microsoft.com/en-us/blog/announcing-tenant-level-hygiene-analytics-for-power-apps/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
