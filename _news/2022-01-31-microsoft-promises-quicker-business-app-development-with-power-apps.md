@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/article/microsoft-promises-quicker-busi
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/microsoft-promises-quicker-business-app-development-with-power-apps/amp/"
 type: article
 quality: 97
-heat: 97
+heat: 99
 published: true
 
 provider:
