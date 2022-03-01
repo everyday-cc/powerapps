@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/introducing-power-apps-
 webUrl: "https://powerapps.microsoft.com/en-us/blog/introducing-power-apps-mobile-apps-new-look-public-preview/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
