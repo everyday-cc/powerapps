@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/behind-the-scenes-what-
 webUrl: "https://powerapps.microsoft.com/en-us/blog/behind-the-scenes-what-it-takes-to-teach-gpt-3-how-to-build-low-code-apps/"
 type: article
 quality: 70
-heat: 72
+heat: 75
 published: true
 
 provider:
