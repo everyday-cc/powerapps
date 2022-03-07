@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/announcing-new-datavers
 webUrl: "https://powerapps.microsoft.com/en-us/blog/announcing-new-dataverse-auditing-features/"
 type: article
 quality: 72
-heat: 73
+heat: 72
 published: true
 
 provider:
