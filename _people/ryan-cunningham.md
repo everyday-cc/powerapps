@@ -16,7 +16,7 @@ affiliation:
 twitter:
   username: rc_says
   url: https://twitter.com/rc_says
-  followers: 2716
+  followers: 2715
 
 linkedin:
   url: https://www.linkedin.com/in/rycu
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Ryan Cunningham"
 
-secured: "YteaTrU8HzJRwjvw4PqdgBqT+iFFn9c4zABbOpgTwx2+QyQ+OzgPAiNIC9b5CHiINcz8Anywt1RI8SjGxp/tnmyOX8PCM5vNI8OnBjN8ng11cvyu+h/bqOqVpdK1G1NKTOK4xv/nZcg0R/XMEafWSNoMNQ2KKg1gWD2QXBcLc3neU4EK97FjgW+V6RhRip4GxOttdSjyCiXovVWOFOTnZ+I7JOWo5KOCFY5m+mHYG0L7MqVVrVwJ4WGQJuOz0QvPv9lB3WoJM/y9mQZGBxBolTqUWiM9Bl+uoq+OKxDvRgr47n8leuvloZMX3vBIzAEapjeNkqMsU5JC1WVNDBW9vanu1I8trTlXPUtn8bpg8O+6WEMCpqJesySSp+h7SYyr7bpI/f3JYYjBCTDuref4+03XrZtcvkakTlGWURtYhiY=;npRLmt0wq5/r26WUdJZVuQ=="
+secured: "D4jm/tw3cyD8Z9WCUwo89XYVSppAnFe2LCjOZzyu7QaIzCn0VUOHWYOMUxHVe6B7phiNdiZB1QXsFhLjyBNPA3nqNeRnAT9FCtwP3EjFTB9xaUEBx0h+sAkO21vTeZJmT/MCH9MgKXDWl809R9BBjZpp+ZRqLSiyfrD90JEpmVj25JTAb9c3kuLeo/EoIyBRvtLMwaDOBOAvIJop1mMHYGXvnf4uvZ2SP+0YJSbP57oGTPQvr/YRWZkLieGHLQNB5lBiK2kv/TJEzq+mPZlvPu9Xu8v/wjJFoluB5I63U3x1QSBb+n7EvQNVjd+PKHViPjlhWMXEQkSV3m/Hf+7o7IEwzYIBEHcpJImEic6pWUAfrCH39EkYz0iYOztRrH5hcOpLdwQYJKi6Qm8HvzjRSQCgVpVYikXX9Y62LHZJrYs=;UiNLVdnpZ+djNsiMKrgScA=="
 ---
 
