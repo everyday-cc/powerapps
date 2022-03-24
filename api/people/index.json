@@ -4,37 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_people/reza-dorrani.md",
-      "title": "Charles Lamanna",
-      "excerpt": "Father | Speaker | Trainer | MVP | #PowerApps & #PowerAutomate Community Super User | YouTuber Right-pointing triangle http://youtube.com/c/rezadorrani | Learn - Share - Clockwise rightwards and leftwards open circle arrows",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/people/reza-dorrani/index.json",
-      "webUrl": "https://everyday.cc/powerapps/people/reza-dorrani/",
-      "type": "profile",
-      "name": "Charles Lamanna",
-      "bio": "Father | Speaker | Trainer | MVP | #PowerApps & #PowerAutomate Community Super User | YouTuber Right-pointing triangle http://youtube.com/c/rezadorrani | Learn - Share - Clockwise rightwards and leftwards open circle arrows",
-      "location": "Houston, TX",
-      "website": "https://t.co/tAcqSdqguf",
-      "twitter": {
-        "username": "rezadorrani",
-        "url": "https://twitter.com/rezadorrani",
-        "followers": 5812
-      },
-      "topics": [
-        "Power Apps"
-      ],
-      "heat": 125,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1063114045270777856/qeT-jpWr_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Charles Lamanna",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_people/april-dunnam.md",
       "title": "April Dunnam",
       "excerpt": "Partner Technical Architect @Microsoft | Blogger-Speaker | #PowerApps, #PowerAutomate, #Office365, #SharePoint | #WIT | #Karaoke Queen",
@@ -48,7 +17,7 @@
       "twitter": {
         "username": "aprildunnam",
         "url": "https://twitter.com/aprildunnam",
-        "followers": 10004
+        "followers": 10276
       },
       "linkedin": {
         "url": "https://www.linkedin.com/public-profile/in/april-dunnam"
@@ -69,7 +38,7 @@
       "topics": [
         "Power Apps"
       ],
-      "heat": 122,
+      "heat": 163,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1326986540329918465/W_IJ6Ih2_400x400.jpg",
@@ -95,7 +64,7 @@
       "twitter": {
         "username": "ShanesCows",
         "url": "https://twitter.com/ShanesCows",
-        "followers": 16107
+        "followers": 16236
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/cincyshane"
@@ -103,13 +72,44 @@
       "topics": [
         "Power Apps"
       ],
-      "heat": 115,
+      "heat": 123,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/713100007398883329/qUzvsvQ3_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Shane Young",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/reza-dorrani.md",
+      "title": "Charles Lamanna",
+      "excerpt": "Father | Speaker | Trainer | MVP | #PowerApps & #PowerAutomate Community Super User | YouTuber Right-pointing triangle http://youtube.com/c/rezadorrani | Learn - Share - Clockwise rightwards and leftwards open circle arrows",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/people/reza-dorrani/index.json",
+      "webUrl": "https://everyday.cc/powerapps/people/reza-dorrani/",
+      "type": "profile",
+      "name": "Charles Lamanna",
+      "bio": "Father | Speaker | Trainer | MVP | #PowerApps & #PowerAutomate Community Super User | YouTuber Right-pointing triangle http://youtube.com/c/rezadorrani | Learn - Share - Clockwise rightwards and leftwards open circle arrows",
+      "location": "Houston, TX",
+      "website": "https://t.co/tAcqSdqguf",
+      "twitter": {
+        "username": "rezadorrani",
+        "url": "https://twitter.com/rezadorrani",
+        "followers": 5930
+      },
+      "topics": [
+        "Power Apps"
+      ],
+      "heat": 121,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1063114045270777856/qeT-jpWr_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Charles Lamanna",
           "isCached": true
         }
       ],
@@ -128,7 +128,7 @@
       "twitter": {
         "username": "clamanna",
         "url": "https://twitter.com/clamanna",
-        "followers": 4023
+        "followers": 4060
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/charleslamanna"
@@ -149,7 +149,7 @@
       "topics": [
         "Power Apps"
       ],
-      "heat": 57,
+      "heat": 79,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1263202626922876928/g6qGbHZ-_400x400.jpg",
@@ -174,7 +174,7 @@
       "twitter": {
         "username": "rc_says",
         "url": "https://twitter.com/rc_says",
-        "followers": 2716
+        "followers": 2722
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/rycu"
@@ -195,7 +195,7 @@
       "topics": [
         "Power Apps"
       ],
-      "heat": 57,
+      "heat": 55,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/459747717862805504/CJIGZejd_400x400.png",
@@ -221,7 +221,7 @@
       "twitter": {
         "username": "sameerbhangar",
         "url": "https://twitter.com/sameerbhangar",
-        "followers": 1038
+        "followers": 1041
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/sameerbhangar"
@@ -242,7 +242,7 @@
       "topics": [
         "Power Apps"
       ],
-      "heat": 50,
+      "heat": 52,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/378800000719674009/a36fe7ddfab1778b76e5793772e43798_400x400.jpeg",
