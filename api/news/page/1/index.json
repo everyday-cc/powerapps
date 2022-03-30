@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-03-30-runtime-localization-support-for-code-components-on-custom-pages-and-canvas-apps.md",
+      "title": "Runtime localization support for Code components on Custom pages and Canvas apps",
+      "excerpt": "Runtime localization support for Code Components on Custom pages and Canvas apps",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/runtime-localization-support-for-code-components-on-custom-pages-and-canvas-apps/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/runtime-localization-support-for-code-components-on-custom-pages-and-canvas-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/03/AddLocalizationComponentCustomPage.gif",
+          "width": 1800,
+          "height": 1032,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-30T04:31:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
       "path": "_news/2022-03-22-microsoft-makes-some-changes-to-paying-for-power-apps.md",
       "title": "Microsoft makes some changes to paying for Power Apps",
       "excerpt": "Microsoft has announced a new payment option for its Power Apps. The move means that along with its current user-based model, in which businesses rent out the services for each individual user ...",
@@ -1233,58 +1285,6 @@
       ],
       "topics": [
         "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-easily-activate-features-for-model-driven-apps-with-the-new-settings-solution-component-public-preview.md",
-      "title": "Easily activate features for model-driven apps with the new Settings solution component (Public preview)",
-      "excerpt": "We are excited to announce public preview of a new solution component named Settings. Using settings, application authors can, with just a few clicks, activate or configure features for a model-driven app. This allows them to easily and quickly provide a customized experience for end-users. These settings",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/easily-activate-features-for-model-driven-apps-with-the-new-settings-solution-component-public-preview/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/easily-activate-features-for-model-driven-apps-with-the-new-settings-solution-component-public-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-default-image.png",
-          "width": 1600,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-30T03:59:40-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps",
-        "Model-driven apps"
       ]
     }
   ],
