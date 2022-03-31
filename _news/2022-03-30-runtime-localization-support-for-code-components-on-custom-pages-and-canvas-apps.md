@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/runtime-localization-su
 webUrl: "https://powerapps.microsoft.com/en-us/blog/runtime-localization-support-for-code-components-on-custom-pages-and-canvas-apps/"
 type: article
 quality: 99
-heat: 99
+heat: 100
 published: true
 
 provider:
