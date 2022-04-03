@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/introducing-microsoft-p
 webUrl: "https://powerapps.microsoft.com/en-us/blog/introducing-microsoft-power-platform-api-preview/"
 type: article
 quality: 72
-heat: 76
+heat: 72
 published: true
 
 provider:
