@@ -3,7 +3,7 @@ name: "April Dunnam"
 bio: "Partner Technical Architect @Microsoft | Blogger-Speaker | #PowerApps, #PowerAutomate, #Office365, #SharePoint | #WIT | #Karaoke Queen"
 location: Broken Arrow, OK
 type: "profile"
-heat: 138
+heat: 156
 
 affiliation:
   name: Microsoft
@@ -18,7 +18,7 @@ website: https://t.co/enJuiGEQZc
 twitter:
   username: aprildunnam
   url: https://twitter.com/aprildunnam
-  followers: 10458
+  followers: 10460
 
 linkedin:
   url: https://www.linkedin.com/public-profile/in/april-dunnam
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "April Dunnam"
 
-secured: "R4u3XE4YtvyVnSauz/ppZwvB5vX8MDUBWTgcDTs7oNVSeWuVbzv5TlGt59Yq4y+NQ6ImvaRYGj/CczjwDWBBzM66DcBlgbTY4tOp+8SgZEH75xi1/ojmkMfxUtT4BzPkxEdyKnVLdwndvJV7jUuVT5RpD6iJyHo32TMqtOVgWKAur1m0/ErbP9mgXC/QdIMjS0HQuqZUUQEcNI0MlDiSLF1ryoBYylTwIAPR3oDfCwDiiWTsm797vfLLCCHBuWaBpJKzJiKR6KM8jkUe5X2GRJFCv0M+7ZZn9lN+0HEAixXz7f0Mk5m0Hnw9n1VUBSOvStgKeTwzP66AOjDYCl2SDBOPf85CGmP1Imrzu0iI+0BhhmQAccUEJJyu8D3F61uTAtmNAWuiyR9TrA7jzECyeYYnnq/n2JE0ampgerYAXj8=;gkA0DOgSaTrdRioTifzWEA=="
+secured: "r5bSxWnRvssP0FY4HEtYvk7z+4Y+e+Acwvs/vIVqhpVGBoSjNjYMdNcX3AouNrh6sCU4qpZfxKv6XmDNV6f/hqeUpxtz2AOKK/1miYpXzpDlx4qZI0madJk0so1nUNwW3iaOjniTZsKOIfaWb02sQWvD8MdDWpQR1buriHWMNYFNxnDEWxDqozLM5fLke0+7twsB0WD+H8V5dQPUVoAkXR7d7P+6PtKisXgReKweomT5A+HSLJgd/bUbP0Q+HmAQI6p2huS82vrfrhhBWrguCCHX6ztD7VIkonIL368AW94fcZzTyVU+W0TMedN6ps3an9PeYJ15UoH0aIMNsiuw4MzzL+ceC5BGm4SSHvj0F7ksn6ESDmWsfSt8I9gqBh8qZ9qis1o1/jAfKBdlpmBXPgNm/9tKUaG+ZlpB4vRePuU=;PbIzII2CnItIRcmEC8TBUA=="
 ---
 
