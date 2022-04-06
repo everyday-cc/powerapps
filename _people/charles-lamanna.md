@@ -3,7 +3,7 @@ name: "Charles Lamanna"
 bio: "CVP at Microsoft, Founder @ MetricsHub. Works on Power Apps, Power Automate, Power Virtual Agent, Common Data Service and Dynamics 365."
 location: Bellevue, WA
 type: "profile"
-heat: 110
+heat: 121
 
 affiliation:
   name: Microsoft
@@ -16,7 +16,7 @@ affiliation:
 twitter:
   username: clamanna
   url: https://twitter.com/clamanna
-  followers: 4104
+  followers: 4107
 
 linkedin:
   url: https://www.linkedin.com/in/charleslamanna
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Charles Lamanna"
 
-secured: "F7iq5FemxpoxAL6e3w2S/vaODn8RnUxjUrgdPQPC+BPjSFKtFxOr+SIEj0L+Xb5wjd45qy2xbQ3xgBNc7f+Z6/KCuSuuCfEPpKEjTQr5Dri1DcBGbRGRUvku5jw+ERLUy6wHKxMb1gAvwExvnoExIrlqdByd7TGF8i+/KrFNl1mzCPgDqdw2kMRnUVwxkKMSzFVm9fjYfUes1/XrtU3ucLZ2KxGpkz4Dx5hFMfMqMFi8PkTkEbFujzctOWwEtoSewh0prpIfXKuXvv4xv5OPoQh1Q4nv3o4cw3VgVmNn7tWB8H+qSMcM/50YhtR7ClIoBI1m3l4qwiIADeNgsaRdYN5g+YrBOlAw+SoWoZzjz6/mPa6h8nNi1nNns3I4in/Yrko6efpiURr/An92GGH6DV+svHQExRed7h9aP46lSqw=;+msu3A3xN64IcTtAKXHPsQ=="
+secured: "JdAl0HbrBwKsEjxG/em18HOMxj6TNHcPkGqJ5flmOZCQgBjC6/HzcIuep+ju1tyq4e+hu4xKSC4fGUYpJckudnnMp1QjpkbcL63DdzIpWZAolM7XgZ05zEhueKp+bbwBLmqrBrVNT14bpijpndhsuqc0DvN28w8kSGzFlA0AEoSgaju18M4RCh7hpaeDZ/B1kJOFXvtNfP/0kdpfx/WTq/XeT5cDjj8mcWj5b9JVuuP8DygIqqijAdGJOntVL04UMDDrB+FwjEDavzkZ4pzs9wX+3jT2Mt5SW2w/UNgiqUDMqOprhXmPpOxkAh5tcE8mnAiarxl9s4TqW+8GpJa8aH1o9ALWkxhVUyQ4jJ4Yv0kT0qS63WN4U+i7HTBhq1dDFFMMun7J625hnZSaQru6Ux/lxVJ4Ln1POwjevPRT77o=;ALhG7/eUDMugEeAsUAi8Ig=="
 ---
 
