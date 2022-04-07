@@ -2,6 +2,57 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-12-11-power-apps-community-call-closing-out-2020-with-amazing-holiday-themed-apps-december-16th.md",
+      "title": "Power Apps Community call closing out 2020 with amazing holiday themed Apps December 16th",
+      "excerpt": "December 16th 8:00 AM PST we will have an amazing Power Apps holiday themed community call with Clarissa Gillingham, Jese Navaranjan and Sharon Sumner all hosted by our very own Todd Baginski!",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-community-call-closing-out-2020-with-amazing-holiday-themed-apps-december-16th/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-community-call-closing-out-2020-with-amazing-holiday-themed-apps-december-16th/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-11T00:00:56-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-power-apps-portals-configure-azure-ad-b2c-provider-for-portals-in-a-new-way-preview.md",
       "title": "Power Apps portals: Configure Azure AD B2C provider for portals in a new way (Preview)",
       "excerpt": "A new wizard experience uniquely for Azure AD B2C setup with portals",
@@ -1209,57 +1260,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-10-30T05:10:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-power-apps-managing-form-settings.md",
-      "title": "Power Apps: Managing form settings",
-      "excerpt": "In this feature overview video series, we highlight new capabilities included in the latest update to Microsoft Power Apps.  Improvements to Microsoft Power Apps for managing form settings and events allow users to set various features on a form in the new modern designer.   Get the most out of Power",
-      "sourceUrl": null,
-      "webUrl": null,
-      "originalUrl": "https://youtube.com/watch?v=4xfT4uZPLlw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4xfT4uZPLlw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/4xfT4uZPLlw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-29T11:18:14-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
