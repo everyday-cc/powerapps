@@ -2,6 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-05-18-microsoft-power-apps-ai-builder-ready-to-use-models-2020-release-wave-1-overview.md",
+      "title": "Microsoft Power Apps: AI Builder ready to use models | 2020 release wave 1 overview",
+      "excerpt": "In this overview video, we highlight some of the new capabilities included in the latest update to Microsoft Power Apps, AI Builder ready to use models.     Here are the capabilities covered:   • Entity extraction helps you by identifying and extracting people, dates, places, locations, etc. from text",
+      "sourceUrl": null,
+      "webUrl": null,
+      "originalUrl": "https://youtube.com/watch?v=h70jOr56EKs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/h70jOr56EKs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/h70jOr56EKs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-18T16:26:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
       "path": "_news/2020-05-12-microsoft-power-apps-portals-2020-release-wave-1-overview.md",
       "title": "Microsoft Power Apps portals | 2020 release wave 1 overview",
       "excerpt": "In this overview video, we highlight some of the new capabilities included in the latest update to Microsoft Power Apps portals.     Here are the capabilities covered:   •    Power BI integration, so you can quickly add Power BI reports, tables, and dashboards to your portals without coding.  •    Themes",
