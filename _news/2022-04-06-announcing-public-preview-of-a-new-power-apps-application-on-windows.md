@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/announcing-public-previ
 webUrl: "https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-of-a-new-power-apps-application-on-windows/"
 type: article
 quality: 87
-heat: 87
+heat: 90
 published: true
 
 provider:
