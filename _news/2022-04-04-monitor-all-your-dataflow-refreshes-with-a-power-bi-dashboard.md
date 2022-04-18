@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/monitor-all-your-datafl
 webUrl: "https://powerapps.microsoft.com/en-us/blog/monitor-all-your-dataflow-refreshes-with-a-power-bi-dashboard/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:
