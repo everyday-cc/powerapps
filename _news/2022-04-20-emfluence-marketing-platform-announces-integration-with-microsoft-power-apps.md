@@ -1,26 +1,28 @@
 ---
 category: news
 title: "emfluence Marketing Platform Announces Integration with Microsoft Power Apps"
-excerpt: "Digital marketing automation platform announces integration with Microsoft Power Apps, providing powerful marketing automation capabilities to"
-publishedDateTime: 2022-04-20T14:09:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/emfluence-marketing-platform-announces-integration-with-microsoft-power-apps-1031368428"
-webUrl: "https://markets.businessinsider.com/news/stocks/emfluence-marketing-platform-announces-integration-with-microsoft-power-apps-1031368428"
+excerpt: "Digital marketing automation platform announces integration with Microsoft Power Apps, providing powerful marketing automation capabilities to Power Apps. KANSAS CITY, Mo., April 20, 2022 /PRNewswire/ -- emfluence,"
+publishedDateTime: 2022-04-20T15:00:00Z
+originalUrl: "https://www.mypanhandle.com/business/press-releases/cision/20220420CG28201/emfluence-marketing-platform-announces-integration-with-microsoft-power-apps/"
+webUrl: "https://www.mypanhandle.com/business/press-releases/cision/20220420CG28201/emfluence-marketing-platform-announces-integration-with-microsoft-power-apps/"
 type: article
-quality: 54
-heat: 54
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/powerapps/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WMBB
+  domain: mypanhandle.com
 
 topics:
   - Power Apps
 
-secured: "2CBgi1XxH1p51EtMYIa6AoYgmv2vaXkcUFieCMLiqu6J2dSSc9g4kJ9LJsJUv3XsWJDiHYhQk8NNS8kPglNEaWzJCm18akllN4dVzlttrZ5ULVB0rnLK0bQ+cHApSn2dPwgu+/vtoId2bkXHXpqjOa3As9o/uQNRlbLXWZohMK21fjBqtH08/w497uHDnGAqLdp9MfCw5Mi1StdBhELFbDr+FJSRF63PY9RA6SBmsKfFkvsges7q631T5a6RKoKGL1Hm4K4z6Wm4zsFInrm/EfxH53f5puXTY8JiVfjGiuiNnv7Q7zNdjwtOAiByKofZ++crPonrxwMAti+gF99xrU+wn4Po2HVZR5v4Gm5xg24=;eAVvztC8n/75A3+jIdLKHA=="
+images:
+  - url: "https://i0.wp.com/www.mypanhandle.com/wp-content/uploads/sites/88/2022/03/277765694_337213291775148_317299295493524723_n-1-e1648733217146.jpg?w=2000&#038;ssl=1"
+    width: 720
+    height: 403
+    isCached: true
+
+secured: "E9k9382yO7J/tYgW5yJ1cLPgvfIy24FVv4Zfv7ztUKBW33vRwXGMMey5TgQXyY/78X7YMG15E+0rccu1xAwA9Uxd4XWP/uajEMvlub1DzjV5RzecepzJ2q1BnW3qef1gPCehyIH6fDoCOX1dAxHQoteXnqz1EPRAOfJNdewYtpAAKKr351CKAtReXWv9tRm8STx41f8b5HfdoPpDOspiYijLC+kXZacRAWa9KNbw3BnE+/cy+h/oPwGQbbA6hma2bF/fzxgJXKVV5nLOTZ2lk1cGkD3rCLtOSvhSc8qEzGvovcnWCWP2ANJC/I5BW6nXNF8ihBeyZI/cyoanKPGz9zs4/R6XPvV/EXgB0hisHHw=;Ls/gPYISSdAf6+VVIPyeNA=="
 ---
 
