@@ -1,28 +1,22 @@
 ---
 category: news
 title: "emfluence Marketing Platform Announces Integration with Microsoft Power Apps"
-excerpt: "Digital marketing automation platform announces integration with Microsoft Power Apps, providing powerful marketing automation capabilities to Power Apps. KANSAS CITY, Mo., April 20, 2022 /PRNewswire/ -- emfluence, llc, a leading digital marketing ..."
-publishedDateTime: 2022-04-20T14:29:00Z
-originalUrl: "https://www.wrbl.com/business/press-releases/cision/20220420CG28201/emfluence-marketing-platform-announces-integration-with-microsoft-power-apps/"
-webUrl: "https://www.wrbl.com/business/press-releases/cision/20220420CG28201/emfluence-marketing-platform-announces-integration-with-microsoft-power-apps/"
+excerpt: "Digital marketing automation platform announces integration with Microsoft Power Apps, providing powerful marketing automation capabilities to Power Apps. KANSAS CITY, Mo., April 20, 2022 /PRNewswire/ -- emfluence,"
+publishedDateTime: 2022-04-20T14:00:00Z
+originalUrl: "https://www.mytwintiers.com/business/press-releases/cision/20220420CG28201/emfluence-marketing-platform-announces-integration-with-microsoft-power-apps/"
+webUrl: "https://www.mytwintiers.com/business/press-releases/cision/20220420CG28201/emfluence-marketing-platform-announces-integration-with-microsoft-power-apps/"
 type: article
-quality: 34
-heat: 34
+quality: 14
+heat: 14
 published: false
 
 provider:
-  name: WRBL
-  domain: wrbl.com
+  name: MyTwinTiers.com
+  domain: mytwintiers.com
 
 topics:
   - Power Apps
 
-images:
-  - url: "https://i0.wp.com/www.wrbl.com/wp-content/uploads/sites/24/2022/04/Columbus-State-Golf.jpg?w=2000&#038;ssl=1"
-    width: 800
-    height: 450
-    isCached: true
-
-secured: "j2oqhsLmrR5lzm9EJdnYnVgVdAOF1weCZAaoJwhaxn6W/lE6u8RFgCD8oUSm+UFc/PCWJiiAyzmJV7zOenGEt/AALoqoC2gXQWJRC15eKu7ra1H3c9bEep7Wo0dVdeNFf9mTo3pAgn5TbdE1Ir7ILlMYbngPLgr7X+10z3WwfMt7SSKItIU9ABHVBLqbAHD6yp1HzfDtEKZVUT1TexvcdCe/LZbsz9YJqPE4oXOL9JhTJLHRZIAyJ8Yj1e7kMlDlL+xpV8CNhRtgthjgW+xMD0jdS7e9KsmB54HtduXyTpaeQCjDQXMS5zjcuv1g+WrrwrrT7kxO/WgRYI7yNU6L0r+76LomWrRWIKRN9ovog9k=;JR+e5SzI3Wfcp10RL+p/hg=="
+secured: "j/QJYcg5JzajEbxjvs9+olgRkXLhqBx17lySVnv4xseCchtjgN14pxtGuwRhVrrW0ahbThVak8MKX9CFrWpYYtfgG9RQVp40a2BZG5bkjbzTJThEegZt6bcASuY82J2nF9BFDYYs7XArcPktAqeGjR7Ue7tvbB85xAkDh/6WzdAF5u7qw6vVK9Fq85lg4kgzmelNai8FTcJp7UDoWgALHaK+oDkl7KDPQWCQ4CU5XBH2Uvb4ns9sQ27pHE7Q3V7Oc3nhctFW9RuxYLs+cIIIpNOmXWAAU33kQ8zR1Hh5HqknM6FrEmupyXgI1fyxWd+ijox06Z3uJsE2zgTIg7C4Un9FVmrhMuUxO/7IxSwdb0g=;otiUAHhu3H6yLLPMlYTsUA=="
 ---
 
