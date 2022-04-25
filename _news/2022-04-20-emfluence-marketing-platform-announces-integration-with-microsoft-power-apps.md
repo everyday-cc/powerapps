@@ -1,22 +1,28 @@
 ---
 category: news
 title: "emfluence Marketing Platform Announces Integration with Microsoft Power Apps"
-excerpt: "Digital marketing automation platform announces integration with Microsoft Power Apps, providing powerful marketing automation capabilities to Power Apps. KANSAS CITY, Mo., April 20, 2022 /PRNewswire/ -- emfluence,"
-publishedDateTime: 2022-04-20T14:00:00Z
-originalUrl: "https://www.mytwintiers.com/business/press-releases/cision/20220420CG28201/emfluence-marketing-platform-announces-integration-with-microsoft-power-apps/"
-webUrl: "https://www.mytwintiers.com/business/press-releases/cision/20220420CG28201/emfluence-marketing-platform-announces-integration-with-microsoft-power-apps/"
+excerpt: "Digital marketing automation platform announces integration with Microsoft Power Apps, providing powerful marketing automation capabilities to Power Apps. KANSAS CITY, Mo., April 20, 2022 /PRNewswire/ -- emfluence, llc, a leading digital marketing ..."
+publishedDateTime: 2022-04-20T14:26:00Z
+originalUrl: "https://www.woodtv.com/business/press-releases/cision/20220420CG28201/emfluence-marketing-platform-announces-integration-with-microsoft-power-apps/"
+webUrl: "https://www.woodtv.com/business/press-releases/cision/20220420CG28201/emfluence-marketing-platform-announces-integration-with-microsoft-power-apps/"
 type: article
-quality: 14
-heat: 14
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: MyTwinTiers.com
-  domain: mytwintiers.com
+  name: WOOD-TV
+  domain: woodtv.com
 
 topics:
   - Power Apps
 
-secured: "IKb0hZrlXgBf/sIYD1UTCQiGmVVChIKegjvr7NprggyNkErmj5PFiwBHRjrj3729RRqQ46+21aEYLLpEzGjc1vkCK8reCTu/iZ+uqw3V+rOqTEekzmrdplLIaVieaeo02of8OqBhpPp8Gvbrz+Jyc6jx/XZ4WL8NlGhrF+9tUxM9+SvCKMrwLzg0acTiQQ+oUOjquUQh7DMEI9ck+kJ60u09W6yyPCfFuV+VmQrt2EVxA8wYDVn5yFdDcojSEKFSAl2wYEwy8m2n+KCdz1KDV9kBueIfqNb0DH/i2RL3qX543agSkpXZ35dPjlVq2RE/KY4Da5AkmjiJzVywuGmy/UcJG37lwoL28UyeQvoDf5I=;hOBSu4kkuZo+TXmpmrlwfA=="
+images:
+  - url: "https://i0.wp.com/www.woodtv.com/wp-content/uploads/sites/51/2022/04/spectrum-1.jpg?w=2000&#038;ssl=1"
+    width: 800
+    height: 450
+    isCached: true
+
+secured: "WoEa6kPnoU2DmXa5Zwf+wyiOyjK9RQENdGPskNzKv1tFTqluvGI1PpLuVoSFRns/LY8MgeBHAs9TNLF/g2sJgv4Cz/etYWfcnksCQs61mMUmJd3OOsJWBUvu5UYo9GXyb0LZ1sd43flCioq1M+Tae45972XSi7mo04kroF/kphu4u+1Ek7mpPUSzgQ8KLyOPunJ5GHGDT80YrNnSGVwdDytPybg3GqzlNno7Ll4fqabay3E3STeDAxIyaq4xqRuN04Bie29Q0YPHnq6AUmzk1z2CcL8w/Puzm9MsPGyFyLr5ty4XFTGuhXBu1t3c291VngYEHXSN/v5ZBLsgRXfHn+Aua3DA/Zel+pvrYTQvPJw=;evMUgs5bWsmL6xHyzE0ZWg=="
 ---
 
