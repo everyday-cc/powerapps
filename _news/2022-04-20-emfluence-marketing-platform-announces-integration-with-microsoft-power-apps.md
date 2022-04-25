@@ -1,28 +1,22 @@
 ---
 category: news
 title: "emfluence Marketing Platform Announces Integration with Microsoft Power Apps"
-excerpt: "Digital marketing automation platform announces integration with Microsoft Power Apps, providing powerful marketing automation capabilities to Power Apps. KANSAS CITY, Mo., April 20, 2022 /PRNewswire/ -- emfluence, llc, a leading digital marketing ..."
-publishedDateTime: 2022-04-20T14:26:00Z
-originalUrl: "https://www.woodtv.com/business/press-releases/cision/20220420CG28201/emfluence-marketing-platform-announces-integration-with-microsoft-power-apps/"
-webUrl: "https://www.woodtv.com/business/press-releases/cision/20220420CG28201/emfluence-marketing-platform-announces-integration-with-microsoft-power-apps/"
+excerpt: "Digital marketing automation platform announces integration with Microsoft Power Apps, providing powerful marketing automation capabilities to Power Apps. KANSAS CITY, Mo., April 20, 2022 /PRNewswire/ -- emfluence,"
+publishedDateTime: 2022-04-20T15:00:00Z
+originalUrl: "https://fox4kc.com/business/press-releases/cision/20220420CG28201/emfluence-marketing-platform-announces-integration-with-microsoft-power-apps/"
+webUrl: "https://fox4kc.com/business/press-releases/cision/20220420CG28201/emfluence-marketing-platform-announces-integration-with-microsoft-power-apps/"
 type: article
-quality: 34
-heat: 34
+quality: 14
+heat: 14
 published: false
 
 provider:
-  name: WOOD-TV
-  domain: woodtv.com
+  name: FOX4 Kansas City
+  domain: fox4kc.com
 
 topics:
   - Power Apps
 
-images:
-  - url: "https://i0.wp.com/www.woodtv.com/wp-content/uploads/sites/51/2022/04/spectrum-1.jpg?w=2000&#038;ssl=1"
-    width: 800
-    height: 450
-    isCached: true
-
-secured: "Fb2DR/fjI9KS623O4t6nb42KPcFSzs0HZPQ066MIb7n6JBSkAZuKgnMWZ12EqbA8DN6UeUstvZB+C4mgN9hpVwZgB3VEuYwZUBcN+wdURerE6qQjwznkBSBe1LO6AmB9ry+D1gfEjKtH5To/XtM05GNqVLDlyjDxg0v1ZQSppF/gydsrjQmrlt1uN+D//ob1wP2RUJOJYkvzQb0XVqcam3WGD0dh4gikJvM92rPyHZnj176Nb3NFHsW95KnAnHCBtL6/i2RpPdXB//OeCY13nRRisPb7YABloxPxWOXBtHvL8UvQHRcpx56PgExi9SqN0abqXyX7p+LKj25FMkeD1SNEtycTVnMla3+U2aTedxo=;ky/jIPKNusB7hRmDzaE34Q=="
+secured: "rRqylSkaex8nNEKYD6rirBpc3jh8wj0DU36Yborij63ZXpUxCrgBR9f5QwilVBsbPAASa55enGRdNe/dr05KfCQf9OJnHGrj/wYp60F6B7KYDpTJnikfNrVRPuKvRtlwf9YRvmIWYD9SOkCM5Vxx3htN6A+VaJJtojO9+7Jjx43M6jMzEpI6Aq4DiSJABlP02VWr1PHTov8ZvC8Iovi8wKRpuV9W5bbR8CkRNL1v2Utnd4i2qEFLW3UTiZGD7J1SnQhTrhxtzNPaySTPS/9+PpXRa0xgTL26x95adUsyqpyJYZg5wMCR1scZTPTvS/X0gidIcDg0FqJn/KewSmidYMyXxwIqRAUGYXWkWqaMt80=;eP6N7OyYrRYEa0x38suOAw=="
 ---
 
