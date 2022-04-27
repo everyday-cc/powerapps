@@ -17,7 +17,7 @@
       "twitter": {
         "username": "aprildunnam",
         "url": "https://twitter.com/aprildunnam",
-        "followers": 10894
+        "followers": 10895
       },
       "linkedin": {
         "url": "https://www.linkedin.com/public-profile/in/april-dunnam"
@@ -38,13 +38,44 @@
       "topics": [
         "Power Apps"
       ],
-      "heat": 127,
+      "heat": 153,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1326986540329918465/W_IJ6Ih2_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "April Dunnam",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/reza-dorrani.md",
+      "title": "Charles Lamanna",
+      "excerpt": "Father | Speaker | Trainer | MVP | #PowerApps & #PowerAutomate Community Super User | YouTuber Right-pointing triangle http://youtube.com/c/rezadorrani | Learn - Share - Clockwise rightwards and leftwards open circle arrows",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/people/reza-dorrani/index.json",
+      "webUrl": "https://everyday.cc/powerapps/people/reza-dorrani/",
+      "type": "profile",
+      "name": "Charles Lamanna",
+      "bio": "Father | Speaker | Trainer | MVP | #PowerApps & #PowerAutomate Community Super User | YouTuber Right-pointing triangle http://youtube.com/c/rezadorrani | Learn - Share - Clockwise rightwards and leftwards open circle arrows",
+      "location": "Houston, TX",
+      "website": "https://t.co/tAcqSdqguf",
+      "twitter": {
+        "username": "rezadorrani",
+        "url": "https://twitter.com/rezadorrani",
+        "followers": 6306
+      },
+      "topics": [
+        "Power Apps"
+      ],
+      "heat": 135,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1063114045270777856/qeT-jpWr_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Charles Lamanna",
           "isCached": true
         }
       ],
@@ -72,44 +103,13 @@
       "topics": [
         "Power Apps"
       ],
-      "heat": 112,
+      "heat": 127,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/713100007398883329/qUzvsvQ3_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Shane Young",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/reza-dorrani.md",
-      "title": "Charles Lamanna",
-      "excerpt": "Father | Speaker | Trainer | MVP | #PowerApps & #PowerAutomate Community Super User | YouTuber Right-pointing triangle http://youtube.com/c/rezadorrani | Learn - Share - Clockwise rightwards and leftwards open circle arrows",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/people/reza-dorrani/index.json",
-      "webUrl": "https://everyday.cc/powerapps/people/reza-dorrani/",
-      "type": "profile",
-      "name": "Charles Lamanna",
-      "bio": "Father | Speaker | Trainer | MVP | #PowerApps & #PowerAutomate Community Super User | YouTuber Right-pointing triangle http://youtube.com/c/rezadorrani | Learn - Share - Clockwise rightwards and leftwards open circle arrows",
-      "location": "Houston, TX",
-      "website": "https://t.co/tAcqSdqguf",
-      "twitter": {
-        "username": "rezadorrani",
-        "url": "https://twitter.com/rezadorrani",
-        "followers": 6306
-      },
-      "topics": [
-        "Power Apps"
-      ],
-      "heat": 104,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1063114045270777856/qeT-jpWr_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Charles Lamanna",
           "isCached": true
         }
       ],
@@ -149,7 +149,7 @@
       "topics": [
         "Power Apps"
       ],
-      "heat": 77,
+      "heat": 108,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1263202626922876928/g6qGbHZ-_400x400.jpg",
@@ -195,7 +195,7 @@
       "topics": [
         "Power Apps"
       ],
-      "heat": 50,
+      "heat": 77,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/459747717862805504/CJIGZejd_400x400.png",
@@ -242,7 +242,7 @@
       "topics": [
         "Power Apps"
       ],
-      "heat": 50,
+      "heat": 57,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/378800000719674009/a36fe7ddfab1778b76e5793772e43798_400x400.jpeg",
