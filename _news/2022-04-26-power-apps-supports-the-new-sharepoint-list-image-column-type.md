@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/power-apps-supports-the
 webUrl: "https://powerapps.microsoft.com/en-us/blog/power-apps-supports-the-new-sharepoint-list-image-column-type/"
 type: article
 quality: 87
-heat: 88
+heat: 89
 published: true
 
 provider:
