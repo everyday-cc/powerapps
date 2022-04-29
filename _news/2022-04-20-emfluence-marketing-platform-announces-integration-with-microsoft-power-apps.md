@@ -1,26 +1,28 @@
 ---
 category: news
 title: "emfluence Marketing Platform Announces Integration with Microsoft Power Apps"
-excerpt: "Digital marketing automation platform announces integration with Microsoft Power Apps, providing powerful marketing automation capabilities to"
-publishedDateTime: 2022-04-20T16:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/emfluence-marketing-platform-announces-integration-with-microsoft-power-apps-1031368428"
-webUrl: "https://markets.businessinsider.com/news/stocks/emfluence-marketing-platform-announces-integration-with-microsoft-power-apps-1031368428"
+excerpt: "Digital marketing automation platform announces integration with Microsoft Power Apps, providing powerful marketing automation capabilities to Power Apps. KANSAS CITY, Mo., April 20, 2022 /PRNewswire/ -- emfluence,"
+publishedDateTime: 2022-04-20T14:19:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/business-kansas-city-cc61efce2833ad574d295b7e475dd087"
+webUrl: "https://apnews.com/press-release/pr-newswire/business-kansas-city-cc61efce2833ad574d295b7e475dd087"
 type: article
-quality: 54
-heat: 54
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/powerapps/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Power Apps
 
-secured: "2y+TinRFhKdHWzsWSAE86hDQSZvsWLyG3VfHWAypaOxXGPMBen1xv/hS/Nz2rQUqZW3V0qydNDfXOco+bQKL1F57eoCJa9RMQ42sNxzvjVdCMCw3xF384AYBMRYRk0pndGbesy1eTgxuay8AkoTsKuSVq4ShjxRgHVvIoX5x2wO0job/ogkI4+TlBE+U25Q+tolL7/F6nTrHSH1F9OIC38D492s/lzx2QlfOyFBbRxSj3zY4z62zztcHHRpahpxoJNTXNXaf+gFrnUJDHnQmItcuUzasDZkhmeoRfbE6ZlKsxAjucAdpDvorkSBDzohnJSbWOCD23i49P+o/RrdjJg4eZ0jeXbn0VhE900xSzro=;vxvx0OnP/mg7dpEihOI+Dg=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "aLrX+lmAZP146A2i+TOxe9i0FuQC1/Yj7Z7USLn9u/FmunoVjspMLd1RQdt+zrdk94psV0y+XvuC5iln/fbOC2PM/ba5NJppesPVHr2HGirIqWyIbjZFVDXHRqKPa6SaM37j/3wVsR78SJQEdFjkFzLpeP3Tw/oAQG/c45FfutUd92yKpXqglOesRSPvIPVME/NJuM4yru4fH4LXObIj5ajdltvtNJyc0gcop1aw2FMWew9UawAQ2h7/HQwm+gQwthp7Hm3HVdzONYEUbuRNzhbW+fK3kc2BdfGzAG61hHLMGHRbgNyiM2OwyVrH3dkmTVqe5cN7acI+HGkjjvXtwK7IgYl6s056x4Qlm5pRYNM=;sjOyDbL/+ajYst3ytzJ9og=="
 ---
 
