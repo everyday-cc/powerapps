@@ -2,6 +2,57 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-04-14-product-update-fo-apps-now-available-in-isv-studio.md",
+      "title": "Product Update: FO apps now available in ISV Studio!",
+      "excerpt": "ISV Studio is a technical benefit of the ISV Connect program and is designed to be the platform that allows an ISV to monitor the success of their published apps",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/product-update-fo-apps-now-available-in-isv-studio/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/product-update-fo-apps-now-available-in-isv-studio/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-14T05:52:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2021-04-14-announcing-data-source-environment-variables.md",
       "title": "Announcing data source environment variables",
       "excerpt": "Today we&#8217;re excited to announce a vast new set of capabilities that provide enterprise grade application lifecycle management for the data sources used within canvas apps and cloud flows. Environment variables are now natively built into authoring experiences across canvas apps and flows as well",
@@ -1206,57 +1257,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-02-19T02:14:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-enhanced-component-properties.md",
-      "title": "Enhanced component properties",
-      "excerpt": "Enjoy two new experimental features for formula based components.  Behavior properties enable a component to fire a custom event into its container, such as OnChange.  Property parameters enable the passing of arguments for a property evaluation, providing our first steps toward formula based user defined",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/enhanced-component-properties/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/enhanced-component-properties/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-18T11:56:05-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
