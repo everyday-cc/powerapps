@@ -2,6 +2,57 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-06-10-microsoft-power-platform-stories.md",
+      "title": "Microsoft Power Platform Stories",
+      "excerpt": "As we wrap up the year, we would like to share with you a set of stories curated by the Power CAT team. These stories showcase the ingenuity of a wide breadth of organizations and users that have adopted low-code and Microsoft Power Platform along with Microsoft 365, Azure, and Dynamics 365. Makers of",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/power-platform-stories/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/power-platform-stories/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2020/12/RWS_PP-OpeningImage-1.png",
+          "width": 2898,
+          "height": 1621,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-10T01:00:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2021-06-08-introducing-the-modern-app-designer-preview.md",
       "title": "Introducing the Modern App Designer (Preview)",
       "excerpt": "We are excited to introduce the modern app designer, a new authoring experience now available in Preview worldwide. It is now easier and faster than ever to build model-driven apps. With just a few clicks, you can get robust, powerful grids and forms on top of Dataverse, and preview your app changes",
@@ -1231,57 +1282,6 @@
       "topics": [
         "Power Apps",
         "Model-driven apps"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-updates-to-the-azure-file-storage-and-excel-online-business-connectors.md",
-      "title": "Updates to the Azure File Storage and Excel Online (Business) connectors",
-      "excerpt": "Azure File Storage and Excel Online (Business) Connector upgrade",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/updates-to-the-azure-file-storage-and-excel-online-business-connectors/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/updates-to-the-azure-file-storage-and-excel-online-business-connectors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-19T08:53:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
       ]
     }
   ],
