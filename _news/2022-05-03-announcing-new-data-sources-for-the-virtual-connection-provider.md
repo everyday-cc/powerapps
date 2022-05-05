@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/announcing-new-data-sou
 webUrl: "https://powerapps.microsoft.com/en-us/blog/announcing-new-data-sources-for-the-virtual-connection-provider/"
 type: article
 quality: 72
-heat: 72
+heat: 74
 published: true
 
 provider:
