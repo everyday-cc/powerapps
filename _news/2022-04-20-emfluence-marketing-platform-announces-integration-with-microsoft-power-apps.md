@@ -2,25 +2,21 @@
 category: news
 title: "emfluence Marketing Platform Announces Integration with Microsoft Power Apps"
 excerpt: "Digital marketing automation platform announces integration with Microsoft Power Apps, providing powerful marketing automation capabilities to Power Apps. KANSAS CITY, Mo., April 20, 2022 ..."
-publishedDateTime: 2022-04-20T14:06:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/emfluence-marketing-platform-announces-integration-with-microsoft-power-apps-1031368428"
-webUrl: "https://markets.businessinsider.com/news/stocks/emfluence-marketing-platform-announces-integration-with-microsoft-power-apps-1031368428"
+publishedDateTime: 2022-04-20T14:23:00Z
+originalUrl: "https://fox4kc.com/business/press-releases/cision/20220420CG28201/emfluence-marketing-platform-announces-integration-with-microsoft-power-apps/"
+webUrl: "https://fox4kc.com/business/press-releases/cision/20220420CG28201/emfluence-marketing-platform-announces-integration-with-microsoft-power-apps/"
 type: article
-quality: 54
-heat: 54
+quality: 14
+heat: 14
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/powerapps/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: FOX4 Kansas City
+  domain: fox4kc.com
 
 topics:
   - Power Apps
 
-secured: "4gbyZI74xo8QEJmMDgBXJiFBu7rHiTobR17iMb6viFLfsIA37MFocnZ73+fgHBR6i5D1eQqm7/PqwhLSEH5tdAtg3cDPJgVk2jFdYQBbq/BctXuf6BCZxPy/nZTz7aB7omaMGA2btXh223zBfZYWdgWbqT9ooIookljHzUhbNqh4GReBicXYssrX4TcmIuvJCQhfr1CfbJpTtsx0bXQLN9wbGimdIPmalvLCp1G7LAQF36WxjHSiyjTldgXuI+S2+FYK06UVtnE6OfB4E/hgnHlFZcnollNLUaY4onusep2onBdo9JubxS9BT2TsYq+5n44awwqM4FGJxxwjItn/Q/4D6eK2Vqp8dos7MdWtrsM=;N6FSaftXZPdasjyFnpVWig=="
+secured: "7Va3X3d5nwDwoqMYnTbVDymc9kMsMevVW6nODf9px36bb8iATvbXYyLnYi7+E5l8wcmHKnSlBNbAqCUn3KXA1ETf3Z5m5KhmBy4JgC5W8VnGc97rxi6IacCbYlrP1Nn8AmXT2G34FVX71VOvjl3ymqPc2bBLr7yvPXg8+FBl6LdcVKY+7OeZE8VAZmk+1d114n2du/357S4oxrokRqRvekvL023VrBvD+mB17CGG5TehsRuFWLGsdI8n5URamDM3xJjFCFb89xnXoKkylDwAH7CujuLH0hgy9prl6JqMmKs6LAen1Z99JFSKGC/SKGRXfc4E0DqTN+HFSKg78ZsK/q8MCD53TfYaseape0Z/Up0=;g/osXdMgGAv/WZy96ACTvQ=="
 ---
 
