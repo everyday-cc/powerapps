@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-10-microsoft-to-rebrand-power-apps-portals-as-power-pages.md",
+      "title": "Microsoft to Rebrand Power Apps Portals As ‘Power Pages’",
+      "excerpt": "According to the tweet, Microsoft intends to rebrand Power Apps portals as Power Pages. Power Apps Portals is a web development and hosting platform for business-focused websites. The Power Apps Portal allows low-code developers to publish webpages for ...",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/quick-bytes/microsoft-to-rebrand-power-apps-portals-as-power-pages/",
+      "originalUrl": "https://enterprisetalk.com/quick-bytes/microsoft-to-rebrand-power-apps-portals-as-power-pages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/05/Microsoft-to-Rebrand-Power-Apps-Portals-As-Power-Pages-1024x585.png",
+          "width": 1024,
+          "height": 585,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/microsoft-to-rebrand-power-apps-portals-as-power-pages/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/microsoft-to-rebrand-power-apps-portals-as-power-pages/amp/",
+      "publishedDateTime": "2022-05-10T06:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Portals"
+      ]
+    },
+    {
       "path": "_news/2022-05-10-microsoft-to-rechristen-power-apps-portals-as-power-pages.md",
       "title": "Microsoft to rechristen Power Apps portals as 'Power Pages'",
       "excerpt": "One of the URLs referenced in the presentations he found made it clear that Power Pages is the new name for Power Apps portals (now that URL, https://make.powerpages.microsoft.com/, resolves to the Power Pages preview site and requires credentials to log in).",
@@ -1228,58 +1271,6 @@
       ],
       "topics": [
         "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-try-out-the-power-apps-2022-april-release-wave-1-updates-for-model-driven-apps.md",
-      "title": "Try out the Power Apps 2022 April Release Wave 1 updates for Model-driven apps!",
-      "excerpt": "The Power Apps April release wave 1 for Model-driven apps is now available for you to take advantage of. In this release wave you can take advantage of cohesive and modern experiences while collaborating with team members in Power Apps.",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/try-out-the-power-apps-2022-april-release-wave-1-updates-for-model-driven-apps/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/try-out-the-power-apps-2022-april-release-wave-1-updates-for-model-driven-apps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/02/April22_Wave_Update_InApp_1.png",
-          "width": 300,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-09T22:22:20-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps",
-        "Model-driven apps"
       ]
     }
   ],
