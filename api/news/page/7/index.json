@@ -2,6 +2,57 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-05-04-better-together-introducing-custom-pages-and-the-modern-app-designer.md",
+      "title": "Better together: introducing Custom Pages and the Modern App Designer",
+      "excerpt": "Today at the Microsoft Business Applications Summit, we&#8217;re showing off a big step forward for the unification of the platform. Bring the full flexibility of the Power Apps canvas &#8211; from unlimited UX control to hundreds of data sources &#8211; directly into model-driven applications as a custom",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/better-together-introducing-custom-pages-and-the-modern-app-designer/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/better-together-introducing-custom-pages-and-the-modern-app-designer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2021/05/2021-05-04_10h27_54.png",
+          "width": 1897,
+          "height": 967,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-04T03:00:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-how-to-run-a-manufacturing-facility-using-the-one-microsoft-cloud.md",
       "title": "How to Run a Manufacturing Facility Using the One Microsoft Cloud",
       "excerpt": "A manufacturing plant using Microsoft Power Platform to solve machine monitoring and servicing. ",
@@ -1206,57 +1257,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-02-28T02:30:51-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-how-a-robust-power-apps-solution-orchestrates-thousands-of-project-implementations.md",
-      "title": "How a robust Power Apps solution orchestrates thousands of project implementations",
-      "excerpt": "Customer success equals team success. Use Power Platform to design low code custom apps that assess project implementations. Make sure that your customers and everyone on your team are meeting their goals. Power Platform can work harder and smarter for your organization.",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/how-a-robust-power-apps-solution-orchestrates-thousands-of-project-implementations/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/how-a-robust-power-apps-solution-orchestrates-thousands-of-project-implementations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2021/02/project.jpg",
-          "width": 1920,
-          "height": 970,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-24T03:00:03-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
