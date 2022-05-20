@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/6-people-who-changed-ca
 webUrl: "https://powerapps.microsoft.com/en-us/blog/6-people-who-changed-careers-with-low-code-from-power-apps/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:
