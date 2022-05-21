@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/power-fx-string-interpo
 webUrl: "https://powerapps.microsoft.com/en-us/blog/power-fx-string-interpolation-index-function-and-randbetween-function/"
 type: article
 quality: 71
-heat: 71
+heat: 73
 published: true
 
 provider:
