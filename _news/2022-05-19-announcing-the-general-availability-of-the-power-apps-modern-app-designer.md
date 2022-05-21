@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/announcing-the-general-
 webUrl: "https://powerapps.microsoft.com/en-us/blog/announcing-the-general-availability-of-the-modern-app-designer/"
 type: article
 quality: 86
-heat: 89
+heat: 86
 published: true
 
 provider:
