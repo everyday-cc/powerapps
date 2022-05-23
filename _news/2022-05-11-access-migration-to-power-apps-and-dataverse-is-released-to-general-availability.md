@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/access-migration-to-pow
 webUrl: "https://powerapps.microsoft.com/en-us/blog/access-migration-to-power-apps-and-dataverse-is-released-to-general-availability/"
 type: article
 quality: 82
-heat: 84
+heat: 83
 published: true
 
 provider:
