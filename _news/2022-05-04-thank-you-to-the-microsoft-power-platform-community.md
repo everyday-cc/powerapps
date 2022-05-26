@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/thank-you-to-the-micros
 webUrl: "https://powerapps.microsoft.com/en-us/blog/thank-you-to-the-microsoft-power-platform-community/"
 type: article
 quality: 72
-heat: 73
+heat: 72
 published: true
 
 provider:
