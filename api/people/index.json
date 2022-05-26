@@ -17,7 +17,7 @@
       "twitter": {
         "username": "aprildunnam",
         "url": "https://twitter.com/aprildunnam",
-        "followers": 11417
+        "followers": 11418
       },
       "linkedin": {
         "url": "https://www.linkedin.com/public-profile/in/april-dunnam"
@@ -38,78 +38,13 @@
       "topics": [
         "Power Apps"
       ],
-      "heat": 184,
+      "heat": 220,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1326986540329918465/W_IJ6Ih2_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "April Dunnam",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/reza-dorrani.md",
-      "title": "Charles Lamanna",
-      "excerpt": "Father | Speaker | Trainer | MVP | #PowerApps & #PowerAutomate Community Super User | YouTuber Right-pointing triangle http://youtube.com/c/rezadorrani | Learn - Share - Clockwise rightwards and leftwards open circle arrows",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/people/reza-dorrani/index.json",
-      "webUrl": "https://everyday.cc/powerapps/people/reza-dorrani/",
-      "type": "profile",
-      "name": "Charles Lamanna",
-      "bio": "Father | Speaker | Trainer | MVP | #PowerApps & #PowerAutomate Community Super User | YouTuber Right-pointing triangle http://youtube.com/c/rezadorrani | Learn - Share - Clockwise rightwards and leftwards open circle arrows",
-      "location": "Houston, TX",
-      "website": "https://t.co/tAcqSdqguf",
-      "twitter": {
-        "username": "rezadorrani",
-        "url": "https://twitter.com/rezadorrani",
-        "followers": 6671
-      },
-      "topics": [
-        "Power Apps"
-      ],
-      "heat": 172,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1063114045270777856/qeT-jpWr_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Charles Lamanna",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/shane-young.md",
-      "title": "Shane Young",
-      "excerpt": "SharePoint & PowerApps MVP - SharePoint, O365, Flow, PowerApps consulting? @PowerApps911 | Pure Snark? You found it.",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/people/shane-young/index.json",
-      "webUrl": "https://everyday.cc/powerapps/people/shane-young/",
-      "type": "profile",
-      "name": "Shane Young",
-      "bio": "SharePoint & PowerApps MVP - SharePoint, O365, Flow, PowerApps consulting? @PowerApps911 | Pure Snark? You found it.",
-      "location": "Cincinnati, OH",
-      "website": "https://t.co/91p5BQ3pUe",
-      "twitter": {
-        "username": "ShanesCows",
-        "url": "https://twitter.com/ShanesCows",
-        "followers": 16820
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/cincyshane"
-      },
-      "topics": [
-        "Power Apps"
-      ],
-      "heat": 127,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/713100007398883329/qUzvsvQ3_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Shane Young",
           "isCached": true
         }
       ],
@@ -149,10 +84,41 @@
       "topics": [
         "Power Apps"
       ],
-      "heat": 93,
+      "heat": 212,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1263202626922876928/g6qGbHZ-_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Charles Lamanna",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/reza-dorrani.md",
+      "title": "Charles Lamanna",
+      "excerpt": "Father | Speaker | Trainer | MVP | #PowerApps & #PowerAutomate Community Super User | YouTuber Right-pointing triangle http://youtube.com/c/rezadorrani | Learn - Share - Clockwise rightwards and leftwards open circle arrows",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/people/reza-dorrani/index.json",
+      "webUrl": "https://everyday.cc/powerapps/people/reza-dorrani/",
+      "type": "profile",
+      "name": "Charles Lamanna",
+      "bio": "Father | Speaker | Trainer | MVP | #PowerApps & #PowerAutomate Community Super User | YouTuber Right-pointing triangle http://youtube.com/c/rezadorrani | Learn - Share - Clockwise rightwards and leftwards open circle arrows",
+      "location": "Houston, TX",
+      "website": "https://t.co/tAcqSdqguf",
+      "twitter": {
+        "username": "rezadorrani",
+        "url": "https://twitter.com/rezadorrani",
+        "followers": 6672
+      },
+      "topics": [
+        "Power Apps"
+      ],
+      "heat": 162,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1063114045270777856/qeT-jpWr_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Charles Lamanna",
@@ -195,13 +161,47 @@
       "topics": [
         "Power Apps"
       ],
-      "heat": 89,
+      "heat": 138,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/459747717862805504/CJIGZejd_400x400.png",
           "width": 400,
           "height": 400,
           "title": "Ryan Cunningham",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/shane-young.md",
+      "title": "Shane Young",
+      "excerpt": "SharePoint & PowerApps MVP - SharePoint, O365, Flow, PowerApps consulting? @PowerApps911 | Pure Snark? You found it.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/people/shane-young/index.json",
+      "webUrl": "https://everyday.cc/powerapps/people/shane-young/",
+      "type": "profile",
+      "name": "Shane Young",
+      "bio": "SharePoint & PowerApps MVP - SharePoint, O365, Flow, PowerApps consulting? @PowerApps911 | Pure Snark? You found it.",
+      "location": "Cincinnati, OH",
+      "website": "https://t.co/91p5BQ3pUe",
+      "twitter": {
+        "username": "ShanesCows",
+        "url": "https://twitter.com/ShanesCows",
+        "followers": 16820
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/cincyshane"
+      },
+      "topics": [
+        "Power Apps"
+      ],
+      "heat": 133,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/713100007398883329/qUzvsvQ3_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Shane Young",
           "isCached": true
         }
       ],
@@ -242,7 +242,7 @@
       "topics": [
         "Power Apps"
       ],
-      "heat": 79,
+      "heat": 78,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/378800000719674009/a36fe7ddfab1778b76e5793772e43798_400x400.jpeg",
