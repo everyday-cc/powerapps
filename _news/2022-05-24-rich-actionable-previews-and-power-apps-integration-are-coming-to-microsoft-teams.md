@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/rich-actionable-previews-and-power-apps-i
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/rich-actionable-previews-and-power-apps-integration-are-coming-to-microsoft-teams/"
 type: article
 quality: 124
-heat: 124
+heat: 125
 published: true
 
 provider:
