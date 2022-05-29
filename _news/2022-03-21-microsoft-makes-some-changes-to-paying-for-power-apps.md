@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/news/microsoft-power-apps-pricing-change
 webUrl: "https://www.techradar.com/news/microsoft-power-apps-pricing-change"
 type: article
 quality: 77
-heat: 77
+heat: 78
 published: true
 
 provider:
