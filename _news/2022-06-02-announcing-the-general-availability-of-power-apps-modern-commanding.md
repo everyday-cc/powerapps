@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/announcing-the-general-
 webUrl: "https://powerapps.microsoft.com/en-us/blog/announcing-the-general-availability-of-power-apps-modern-commanding/"
 type: article
 quality: 87
-heat: 92
+heat: 94
 published: true
 
 provider:
