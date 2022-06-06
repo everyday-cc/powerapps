@@ -2,6 +2,57 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-03-21-microsoft-dataverse-custom-api-general-availability.md",
+      "title": "Microsoft Dataverse Custom API General Availability",
+      "excerpt": "Dataverse Custom API has reached general availability status. Dataverse Custom API is a new code-first approach that provides developers a better way to create APIs in Dataverse to perform operations on the server.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/microsoft-dataverse-custom-api-general-availability/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/microsoft-dataverse-custom-api-general-availability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-21T09:23:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2021-03-11-more-environments-more-places-and-more-capabilities-when-you-need-them.md",
       "title": "More Environments, More Places, and More Capabilities When You Need Them",
       "excerpt": "In response to strong customer demand, Dataverse for Teams is dramatically increasing the number of potential entitlements, making it available from more places, and has enabled an easy, in place upgrade to Dataverse.",
@@ -1204,57 +1255,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-01-21T00:00:02-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-announcing-the-general-availability-of-geospatial-features-in-power-apps.md",
-      "title": "Announcing the General Availability of Geospatial Features in Power Apps",
-      "excerpt": "Announcing the general availability of geospatial features in Power Apps",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-the-general-availability-of-geospatial-features-in-power-apps/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-the-general-availability-of-geospatial-features-in-power-apps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-20T05:16:40-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
