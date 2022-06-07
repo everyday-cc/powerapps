@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-08-25-microsoft-power-apps-misconfiguration-exposes-data-from-38-million-records.md",
+      "title": "Microsoft Power Apps misconfiguration exposes data from 38 million records",
+      "excerpt": "Microsoft Power Apps is a low-code development tool designed to help people with little programming experience build web and mobile apps for their organizations. As part of the process, Microsoft ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/microsoft-power-apps-misconfiguration-exposes-data-from-38-million-records/",
+      "originalUrl": "https://www.techrepublic.com/article/microsoft-power-apps-misconfiguration-exposes-data-from-38-million-records/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/08/24/d5577d86-e3dd-4c33-94d3-62ed7272396e/resize/1200x/4d230a46a46ce17d8548ee4b858c4b0e/microsoft-power-apps.jpg",
+          "width": 1200,
+          "height": 703,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-power-apps-misconfiguration-exposes-data-from-38-million-records/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-power-apps-misconfiguration-exposes-data-from-38-million-records/",
+      "publishedDateTime": "2021-08-24T22:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2021-08-24-researchers-found-a-misconfiguration-in-web-apps-using-power-apps-portals-exposed-38-million-records.md",
       "title": "Researchers found a misconfiguration in web apps using Power Apps portals exposed 38 million records",
       "excerpt": "The growing trend of large-scale security blunders is far from over, as evidenced by research that shows around 38 million records from over a thousand web",
@@ -1213,58 +1264,6 @@
       ],
       "topics": [
         "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-power-apps-portals-and-power-bi-integration-enhancements.md",
-      "title": "Power Apps portals and Power BI integration enhancements",
-      "excerpt": "Power Apps portals has native support for Power BI reports and dashboard. With recent portal releases, we are adding support for more Power BI functionalities.",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-portals-and-power-bi-integration-enhancements/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-portals-and-power-bi-integration-enhancements/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T15:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps",
-        "Portals"
       ]
     }
   ],
