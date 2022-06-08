@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/announcing-general-avai
 webUrl: "https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-of-our-new-dataverse-experiences-on-power-apps/"
 type: article
 quality: 83
-heat: 85
+heat: 86
 published: true
 
 provider:
