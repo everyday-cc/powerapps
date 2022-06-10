@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/05/24/microsofts-new-power-apps-feature-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/24/microsofts-new-power-apps-feature-turns-sketches-into-apps/amp/"
 type: article
 quality: 97
-heat: 98
+heat: 97
 published: true
 
 provider:
