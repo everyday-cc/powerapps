@@ -2,21 +2,29 @@
 category: news
 title: "Alithya unveils Microsoft Healthcare Power Apps"
 excerpt: "CNW Telbec/ - Alithya Group inc. (NASDAQ: ALYA) (TSX: ALYA) (\"Alithya\") today announced details of its Alithya 365 Power Apps for Healthcare which further strengthen Alithya's position as a go-to partner for the Microsoft Cloud for Healthcare."
-publishedDateTime: 2022-06-06T13:27:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/06/06/9615293.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/06/06/9615293.htm"
+publishedDateTime: 2022-06-06T15:30:00Z
+originalUrl: "https://www.barrons.com/articles/alithya-unveils-microsoft-healthcare-power-apps-01654515320"
+webUrl: "https://www.barrons.com/articles/alithya-unveils-microsoft-healthcare-power-apps-01654515320"
+ampWebUrl: "https://www.barrons.com/amp/articles/alithya-unveils-microsoft-healthcare-power-apps-01654515320"
+cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/alithya-unveils-microsoft-healthcare-power-apps-01654515320"
 type: article
-quality: 17
-heat: 17
+quality: 57
+heat: 57
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Barron's
+  domain: barrons.com
 
 topics:
   - Power Apps
 
-secured: "3a7TTPyzSoK/kessvFnKs6FNgAcxVT238VvR1WkUVbs1JPVZIh1goVznJl/LuNFO7dHbaVr+dkGExBB2hkzBgxcmltbha0Tui1QCtpBllWhCAihdhJsmWbSQBicUAZumwHmdf75WsFHrWm79/dSHfirh3dSuKvqztZGJRPCfOPsfMsNNxs2lO1Q0DZb7b+JKZfe5V4u9hrvKSu4Zx6IvB/AQFusrYG40iDEW8JvuxTT8vnxyg9pvJPoCP5/S6TPc0loU8F3ZdcWQAAoE9WOosgtL0Q0z6zsoh+U3tUUS/zrXKOeZxIfmD9N1GtO7oa+AGZHw/jsVgOba+8cA43INKDKsr3M3YEokhKF0HqWxEE4=;pSpqBEr6N3e7lLAbDpbJxQ=="
+images:
+  - url: "https://www.barrons.com/asset/barrons/images/social_highres.jpg"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "SZDbDpDwfQhS2Spm6whHxEs6XyQ+Ym6tAkwoXQreIdZkels+WuEuI1hORP+1i0Dea+L/6a4CxtR0347J6ylOp68sOvDaavUZuMBhBCsjUNCGbNaRq11BEuaz/V4irdjx65T9UgrwwwkFPTiFUQ3Yk8GHZA+l08Zhv6oMVbIHlj/v1uIycTTIsnCUVHyAAGaXh9swZBNc0KvfQqDN6oHZZXE1/uRY3EQ6AfIPAK6bKAShVSIn3fmG/3hpXiMMe98MBdy/3q28AO8WWVFmSyvQ+HYUDYMZXdfcXSCArXfQHoAn7aG32Vdo92VjvGiXcuR4wo5IYJ7pvnnKJtZaOzWD6nOMaaXlyZ3+u6jR6fVifH4=;L5EVR3/M99lSfDZiPL2qYg=="
 ---
 
