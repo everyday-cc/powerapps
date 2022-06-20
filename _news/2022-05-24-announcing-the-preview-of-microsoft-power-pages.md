@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/announcing-the-preview-
 webUrl: "https://powerapps.microsoft.com/en-us/blog/announcing-the-preview-of-microsoft-power-pages/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:
