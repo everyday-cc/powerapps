@@ -1,30 +1,22 @@
 ---
 category: news
 title: "Alithya unveils Microsoft Healthcare Power Apps"
-excerpt: "CNW Telbec/ - Alithya Group inc. (NASDAQ: ALYA) (TSX: ALYA) (\"Alithya\") today announced details of its Alithya 365 Power Apps for Healthcare which further strengthen Alithya's position as a go-to partner for the Microsoft Cloud for Healthcare."
-publishedDateTime: 2022-06-06T15:30:00Z
-originalUrl: "https://www.barrons.com/articles/alithya-unveils-microsoft-healthcare-power-apps-01654515320"
-webUrl: "https://www.barrons.com/articles/alithya-unveils-microsoft-healthcare-power-apps-01654515320"
-ampWebUrl: "https://www.barrons.com/amp/articles/alithya-unveils-microsoft-healthcare-power-apps-01654515320"
-cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/alithya-unveils-microsoft-healthcare-power-apps-01654515320"
+excerpt: "ALPHARETTA, Ga., June 6, 2022 /PRNewswire/ - Alithya Group inc. (NASDAQ: ALYA) (TSX: ALYA) (\"Alithya\") today announced details of its Alithya 365 Power Apps for Healthcare which further strengthen ..."
+publishedDateTime: 2022-06-06T11:55:00Z
+originalUrl: "https://fox4kc.com/business/press-releases/cision/20220606MO79361/alithya-unveils-microsoft-healthcare-power-apps/"
+webUrl: "https://fox4kc.com/business/press-releases/cision/20220606MO79361/alithya-unveils-microsoft-healthcare-power-apps/"
 type: article
-quality: 57
-heat: 57
+quality: 17
+heat: 17
 published: false
 
 provider:
-  name: Barron's
-  domain: barrons.com
+  name: FOX4 Kansas City
+  domain: fox4kc.com
 
 topics:
   - Power Apps
 
-images:
-  - url: "https://www.barrons.com/asset/barrons/images/social_highres.jpg"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "lSL3i9LLq/wq144px21NrJBHHbYSlL1vS3L/SuQRWcM3PYsmODR5cJK3ANPYKnW3GJoVrDXJuhLnfHd5m4x/wQT1hwV/S9jnyM5Q7EBReDDTzB6k7AHPgFWfeUj+NJMor8lbgDQUmKDELgi6TgH3NoSXe/TtWP4afI582VTDMXJ9H98RQEkz+0ZjdtCThaIcIkCozBPLZoeDsk8bf14ZOVh0Hp8piB8nC84bGWEQHcCccT/yfwxDmROoe8baoH4cNbtD70nf/1QjtcpIu4RPGWWiD6holSXEVmZSwrVxCO/+VsiBx3/qvl9gigfGIztATxzA0ztjziWbhVFwL+oaQZzUuRFUynUR2uHC5nbK1k4=;nDPTUVss9pITwVFRdaAnog=="
+secured: "jofzTCti0JtIBJl7z7wdgOyA7fvKD3sV7Mvp8yzbvffHZVmo2LhF+Ol4hc7/m9uzs7Ngo0QuCQYHaYRT4yQlkzm4deDqe6Vti0SkFT9lRnLEvq4uZzYVhKqa9ur8ZLAc+8flrwOE0vEsaZ6oz9c7OeLtYdfWOOhzYC3wS7I52XLr5dbahXOwymd28i1FRDJzRYQrHW8b/r8lXgXTJlGRZAa25FgpY+v7Yoo4mobv0ivDa8CGQt4qnP/U+wkZeylCpt8EglcluBiapVksdkzEbzcbwZMDBntXE0AvNRk0EdwOL0GUZhgZ6N5MKgV5fOjb7+zk9oKzFcw3aPc9p4T6jpsJGpwy2radxzXQ1/o7Ot0=;u0Fjs4L5ONK5Vs4xFwXFSQ=="
 ---
 
