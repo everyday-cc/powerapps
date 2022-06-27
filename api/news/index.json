@@ -53,6 +53,58 @@
       ]
     },
     {
+      "path": "_news/2022-06-16-introducing-hebrew-and-arabic-languages-for-power-apps-portals.md",
+      "title": "Introducing Hebrew and Arabic languages for Power Apps portals",
+      "excerpt": "We are excited to announce Hebrew and Arabic language support for Power Apps portals",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/introducing-hebrew-and-arabic-language-in-power-apps-portals/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/introducing-hebrew-and-arabic-language-in-power-apps-portals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/04/Arabic-Localization-1000x1024.png",
+          "width": 1000,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-16T13:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Portals"
+      ]
+    },
+    {
       "path": "_news/2022-06-14-announcing-general-availability-of-wrap-for-power-apps.md",
       "title": "Announcing general availability of wrap for Power Apps",
       "excerpt": "Wrap for Power Apps is the next step, integrating low-code enterprise apps with Power Apps mobile technology to produce secure enterprise mobile apps with rich native mobile experiences and seamless end-to-end branding suitable for customer-facing frontline worker scenarios.",
@@ -1196,57 +1248,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-04-05T18:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2022-04-04-monitor-all-your-dataflow-refreshes-with-a-power-bi-dashboard.md",
-      "title": "Monitor all your Dataflow refreshes with a Power BI dashboard",
-      "excerpt": "Enhanced Dataflow Refresh History allows you to leverage the managed dataverse tables to view and monitor your dataflow refreshes in your environment.  ",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/monitor-all-your-dataflow-refreshes-with-a-power-bi-dashboard/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/monitor-all-your-dataflow-refreshes-with-a-power-bi-dashboard/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/03/Refresh-History-PBI-Dashboard-1024x573.png",
-          "width": 1024,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-04T01:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
