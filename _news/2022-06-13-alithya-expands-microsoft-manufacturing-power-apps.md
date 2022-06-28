@@ -1,24 +1,22 @@
 ---
 category: news
 title: "Alithya Expands Microsoft Manufacturing Power Apps"
-excerpt: "ALPHARETTA, Ga., June 13, 2022 /PRNewswire/ - Alithya Group inc. ALYA ALYA (\"Alithya\") today announced details of its Alithya 365 Power Apps for Manufacturing which further strengthen Alithya's ..."
-publishedDateTime: 2022-06-13T12:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/06/n27667616/alithya-expands-microsoft-manufacturing-power-apps"
-webUrl: "https://www.benzinga.com/pressreleases/22/06/n27667616/alithya-expands-microsoft-manufacturing-power-apps"
-ampWebUrl: "https://www.benzinga.com/amp/content/27667616"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27667616"
+excerpt: "Alpharetta, GA /PRNewswire/ - Alithya Group inc. (NASDAQ: ALYA) (TSX: ALYA) (\"Alithya\") today announced details of its Alithya 365 Power Apps for Manufacturing which further strengthen Alithya's position as a go-to partner for the Microsoft Cloud for ..."
+publishedDateTime: 2022-06-13T00:00:00Z
+originalUrl: "https://www.fieldtechnologiesonline.com/doc/alithya-expands-microsoft-manufacturing-power-apps-0001"
+webUrl: "https://www.fieldtechnologiesonline.com/doc/alithya-expands-microsoft-manufacturing-power-apps-0001"
 type: article
-quality: 37
-heat: 37
+quality: 17
+heat: 17
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Field Technologies Online
+  domain: fieldtechnologiesonline.com
 
 topics:
   - Power Apps
 
-secured: "rqIiOaYFfQq+qb4A/is/75Twjyvuia6S+d/GBI5j8Ud22cW9EX6guupvN5FGa2MKBR8yoqGW6QNE58GtJP1H1sCbBjG5y9Vmgrmv2BBS4OroFb/A60FmbGtuSQ0zfmhrJUSLlrlQCH5VDcjkrQDD7GLLclsSy4uhSoFNRLtNN+lTvVpJMpL9fyUyYsChFJLWC9TO562oO2Vauwk/VViTnHOo6ld332NGnw7jCSEbn7+YS+fdLT9aonO72nHXI5nVaBGSoOly0efEY+wzc6hanD4Xxq82xCkuYd+XQs/bkWvbJnTGIVvoK0Ftze6gL1hWzx8kZte+BhY6J7lvOZuNxyZTasmp0gOABFR+P+AVmEw=;SFd+qfbbiJ7nWYqCIajN2w=="
+secured: "D1UsrXIPQH4sYJoMNZeAjJQIkO9hYBeRyIlvp7jD9sRLBU+3pR4ow5qBcHLNb2upy+xYgroACAkyw1FYDpTlgFpfURToTwrSOWKC8kOR3K5GyLwb3mij6KcOY1KrvlpkQ0nE/oS8aqe7Mbqfx4uGbG7085mSYBYUG/Fx3BqKnRjS8PP0M9Uff3gS2eg7njFH89jjTiIZvln9WCPO97r3DfcRX9u7ed8Jwi+6ZN15t92bKso3KsxbcQEYtWJAt7Ups6VnzHEsEC187WW7n/v0m6ewVtwSJSlkH55tpW1tpVMPGBxL9py0TGzwnn48unQ7/5PUgt5CQ0jBldYRqg8oIyQhkftOJbQJ7+NIlXGFiic=;DbmprpDMvCEyUk6zrYYiBQ=="
 ---
 
