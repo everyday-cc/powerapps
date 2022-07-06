@@ -2,6 +2,57 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-05-25-power-automate-and-power-apps-get-new-tools-and-insights.md",
+      "title": "Power Automate and Power Apps get new tools and insights",
+      "excerpt": "A new process mining capability for Power Automate enables paves the path for automation insights, while new professional development tools lead the way for Power Apps in the Power Platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/power-automate-and-power-apps-get-new-tools-and-insights/",
+      "originalUrl": "https://www.neowin.net/news/power-automate-and-power-apps-get-new-tools-and-insights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2021/05/1621941219_power_apps_and_power_automate_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-power-apps-portals-introducing-power-virtual-agents-integration-using-chatbot-component-public-preview.md",
       "title": "Power Apps portals: Introducing Power Virtual Agents integration using “Chatbot” component (public preview)",
       "excerpt": "Power Apps portals allows you to add a Power Virtual Agents chatbot to answer questions posted by a visitor on your portal page. A chatbot (bot) configured with different topics, and trigger phrases, can automatically respond to questions posted by a visitor in a chat conversation.",
@@ -1232,58 +1283,6 @@
       "topics": [
         "Power Apps",
         "Canvas apps"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-announcing-general-availability-ga-of-power-apps-portals-web-api-support.md",
-      "title": "Announcing General Availability (GA) of Power Apps portals Web API support",
-      "excerpt": "We are excited to announce the generally availability (GA) of Power Apps portals Web API support with portal version 9.3.3.x that was introduced in August 2020 release as a preview feature.",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-ga-of-power-apps-portals-web-api-support/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-ga-of-power-apps-portals-web-api-support/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-30T02:38:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps",
-        "Portals"
       ]
     }
   ],
