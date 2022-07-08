@@ -38,7 +38,7 @@
       "topics": [
         "Power Apps"
       ],
-      "heat": 179,
+      "heat": 176,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1326986540329918465/W_IJ6Ih2_400x400.jpg",
@@ -64,12 +64,12 @@
       "twitter": {
         "username": "rezadorrani",
         "url": "https://twitter.com/rezadorrani",
-        "followers": 7131
+        "followers": 7132
       },
       "topics": [
         "Power Apps"
       ],
-      "heat": 130,
+      "heat": 138,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1063114045270777856/qeT-jpWr_400x400.jpg",
@@ -103,7 +103,7 @@
       "topics": [
         "Power Apps"
       ],
-      "heat": 115,
+      "heat": 121,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/713100007398883329/qUzvsvQ3_400x400.jpg",
@@ -128,7 +128,7 @@
       "twitter": {
         "username": "clamanna",
         "url": "https://twitter.com/clamanna",
-        "followers": 4554
+        "followers": 4555
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/charleslamanna"
@@ -149,13 +149,59 @@
       "topics": [
         "Power Apps"
       ],
-      "heat": 82,
+      "heat": 78,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1263202626922876928/g6qGbHZ-_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Charles Lamanna",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/ryan-cunningham.md",
+      "title": "Ryan Cunningham",
+      "excerpt": "Product Lead for Microsoft PowerApps",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/people/ryan-cunningham/index.json",
+      "webUrl": "https://everyday.cc/powerapps/people/ryan-cunningham/",
+      "type": "profile",
+      "name": "Ryan Cunningham",
+      "bio": "Product Lead for Microsoft PowerApps",
+      "location": "Seattle, WA",
+      "twitter": {
+        "username": "rc_says",
+        "url": "https://twitter.com/rc_says",
+        "followers": 2880
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/rycu"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power Apps"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/459747717862805504/CJIGZejd_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Ryan Cunningham",
           "isCached": true
         }
       ],
@@ -196,59 +242,13 @@
       "topics": [
         "Power Apps"
       ],
-      "heat": 42,
+      "heat": 50,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/378800000719674009/a36fe7ddfab1778b76e5793772e43798_400x400.jpeg",
           "width": 400,
           "height": 400,
           "title": "Sameer Bhangar",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/ryan-cunningham.md",
-      "title": "Ryan Cunningham",
-      "excerpt": "Product Lead for Microsoft PowerApps",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/people/ryan-cunningham/index.json",
-      "webUrl": "https://everyday.cc/powerapps/people/ryan-cunningham/",
-      "type": "profile",
-      "name": "Ryan Cunningham",
-      "bio": "Product Lead for Microsoft PowerApps",
-      "location": "Seattle, WA",
-      "twitter": {
-        "username": "rc_says",
-        "url": "https://twitter.com/rc_says",
-        "followers": 2880
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/rycu"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power Apps"
-      ],
-      "heat": 32,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/459747717862805504/CJIGZejd_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Ryan Cunningham",
           "isCached": true
         }
       ],
