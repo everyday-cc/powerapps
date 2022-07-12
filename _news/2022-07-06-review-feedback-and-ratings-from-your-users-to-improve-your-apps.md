@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/review-feedback-and-rat
 webUrl: "https://powerapps.microsoft.com/en-us/blog/review-feedback-and-ratings-from-your-users-to-improve-your-apps/"
 type: article
 quality: 72
-heat: 75
+heat: 72
 published: true
 
 provider:
