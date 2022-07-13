@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/improve-monitoring-of-d
 webUrl: "https://powerapps.microsoft.com/en-us/blog/improve-monitoring-of-dataverse-plugins-using-application-insights/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:
