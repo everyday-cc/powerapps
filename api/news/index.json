@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-13-improve-monitoring-of-dataverse-plugins-using-application-insights.md",
+      "title": "Improve monitoring of Dataverse plugins using Application insights",
+      "excerpt": "Announcing General Availability of Application Insights for plugins",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/improve-monitoring-of-dataverse-plugins-using-application-insights/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/improve-monitoring-of-dataverse-plugins-using-application-insights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/07/appinsightslinkedtoenvironment-1-1.gif",
+          "width": 1448,
+          "height": 848,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-13T03:58:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2022-07-12-announcing-public-preview-of-auto-updates-for-power-apps-dynamics-ce.md",
       "title": "Announcing public preview of Auto Updates for Power Apps  Dynamics CE",
       "excerpt": "The public preview for app auto updates",
@@ -1189,57 +1240,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-04-25T00:34:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2022-04-18-introducing-the-new-power-automate-pane-in-power-apps.md",
-      "title": "Introducing the new Power Automate pane in Power Apps!",
-      "excerpt": "The new Power Automate Pane offers improved integration between Power Automate and Power Apps canvas apps. Create, edit, and refresh flows directly inline with the canvas app authoring experience. ",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/introducing-the-new-power-automate-pane-in-power-apps/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/introducing-the-new-power-automate-pane-in-power-apps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/04/a-screen-capture-of-a-power-apps-canvas-app-in-edi.png",
-          "width": 1865,
-          "height": 914,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-18T01:33:14-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
