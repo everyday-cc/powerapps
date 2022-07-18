@@ -2,6 +2,57 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-04-05-power-apps-mixed-reality-components-general-availability.md",
+      "title": "Power Apps Mixed Reality Components General Availability",
+      "excerpt": "Power Apps Mixed Reality components are now generally available! Communicate better with 3D models / images, take measurements, and validate fit before work begins leveraging the native capabilities of your mobile device within the context of your Power Apps apps",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-mixed-reality-components-general-availability/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-mixed-reality-components-general-availability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-05T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-search-quick-actions-are-now-customizable-in-model-driven-power-apps.md",
       "title": "Search quick actions are now customizable in model-driven Power Apps",
       "excerpt": "With the addition of quick actions to the new global search experience, discovering and acting on information in model-driven apps is a lot easier. Quick actions are evolving to be configurable, so you can extend them in ways that is useful for your unique scenarios.",
@@ -1204,57 +1255,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-02-09T22:46:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-new-search-experience-and-quick-actions-in-power-apps.md",
-      "title": "New search experience and quick actions in Power Apps",
-      "excerpt": "With Power Apps 2021 release wave 1, new search is available for all relevance search customers in model-driven Power Apps. The new search is easy to use, fast, accurate and includes usability improvements that bring some of the most used actions closer to search results to help you complete your task",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/new-search-experience-and-quick-actions-in-power-apps/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/new-search-experience-and-quick-actions-in-power-apps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-08T22:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
