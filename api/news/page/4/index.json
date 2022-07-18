@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-11-02-announcing-power-apps-microsoft-access-security-mobility-new-experiences.md",
+      "title": "Announcing: Power Apps + Microsoft Access = Security, Mobility, New Experiences.",
+      "excerpt": "Today we are announcing the Public Preview for the new Microsoft Access connector for the Power Platform. The new connector to Dataverse and the Power Platform enables new scenarios and unlocks further benefits for MS Access developers who can now create custom apps, automations, and chatbots built with",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-power-apps-microsoft-access-security-mobility-new-experiences/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-power-apps-microsoft-access-security-mobility-new-experiences/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-default-image.png",
+          "width": 1600,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-02T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-low-code-with-low-risk-announcing-pay-as-you-go-for-power-apps-public-preview.md",
       "title": "Low-code with low risk: Announcing pay-as-you-go for Power Apps (Public Preview)",
       "excerpt": "We are pleased to introduce a new way to pay for Power Apps and related Power Platform services which is designed to provide you with more flexible options to meet a variety of scenarios.",
@@ -1206,57 +1257,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-09-15T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-09-13-september-power-apps-community-call-power-platform-integration-and-value-proposition-design.md",
-      "title": "September Power Apps community call: Power Platform Integration and Value Proposition Design",
-      "excerpt": "For the September Power Apps community call we have two of the Power Platform MVPs: Reza Dorrani and May Alhajri covering two of the hottest Power Platform topics: Power Apps design and Power Platform integration.\r\n",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/september-power-apps-community-call-power-platform-integration-and-value-proposition-design/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/september-power-apps-community-call-power-platform-integration-and-value-proposition-design/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-default-image.png",
-          "width": 1600,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-13T06:51:39-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
