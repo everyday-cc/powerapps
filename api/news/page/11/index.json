@@ -2,6 +2,57 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-11-09-update-your-bookmarks-for-webpowerappscom.md",
+      "title": "Update your bookmarks for web.powerapps.com",
+      "excerpt": "Please update your bookmarks; content and services hosted at web.powerapps.com is moving to either make.powerapps.com or apps.powerapps.com",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/retiring-web-powerapps-com/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/retiring-web-powerapps-com/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-09T03:43:05-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2020-11-04-unified-interface-transition-starts-december-4th-2020.md",
       "title": "Unified Interface transition starts December 4th 2020",
       "excerpt": "As announced on September 10, 2019, the time is now to prepare for the move to Unified Interface for Model-driven apps if you are still using the legacy web client.  With less than 1 month to go, you should make the move as soon as possible to Unified Interface. ",
@@ -1230,58 +1281,6 @@
       "topics": [
         "Power Apps",
         "Canvas apps"
-      ]
-    },
-    {
-      "path": "_news/2020-08-21-power-apps-portals-web-api-support-public-preview.md",
-      "title": "Power Apps portals Web API support (public preview)",
-      "excerpt": "Portals Web API enables building a richer user experience inside Power Apps portals pages. You can use Web API to create, update, and delete operations across Common Data Service entities (excluding configuration entities) from your portal pages.",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-portals-web-api-support-public-preview/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-portals-web-api-support-public-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-default-image.png",
-          "width": 1600,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-21T12:46:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps",
-        "Portals"
       ]
     }
   ],

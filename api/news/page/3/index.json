@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-01-31-microsoft-promises-quicker-business-app-development-with-power-apps.md",
+      "title": "Microsoft promises quicker business app development with Power Apps",
+      "excerpt": "Microsoft promises quicker business app development with Power Apps Your email has been sent An enterprise that can create and deploy business applications quickly has a definite advantage over ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/microsoft-promises-quicker-business-app-development-with-power-apps/",
+      "originalUrl": "https://www.techrepublic.com/article/microsoft-promises-quicker-business-app-development-with-power-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2015/05/appsistock000053308722small.jpg",
+          "width": 849,
+          "height": 565,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/microsoft-promises-quicker-business-app-development-with-power-apps/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/microsoft-promises-quicker-business-app-development-with-power-apps/amp/",
+      "publishedDateTime": "2022-01-30T23:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2022-01-23-power-apps-portals-announcing-general-availability-ga-of-power-virtual-agents-integration-using-chatbot-component.md",
       "title": "Power Apps portals: Announcing General Availability (GA) of Power Virtual Agents integration using “Chatbot” component",
       "excerpt": "We are excited to announce the General Availability (GA) of Power Virtual Agents integration using “Chatbot” component that was introduced in May 2021 release as a preview feature.",
@@ -1226,58 +1277,6 @@
       ],
       "topics": [
         "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-power-apps-sees-updates-from-microsoft-including-tight-teams-integration.md",
-      "title": "Power Apps sees updates from Microsoft, including tight Teams integration",
-      "excerpt": "Microsoft has introduced updates throughout its Power Apps platform, including new Power Apps mobile apps for iOS and Android.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/02/power-apps-sees-updates-from-microsoft-including-tight-teams-integration/",
-      "originalUrl": "https://venturebeat.com/2021/11/02/power-apps-sees-updates-from-microsoft-including-tight-teams-integration/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/10/Screen-Shot-2016-10-19-at-5.17.03-PM.png?w=1200&strip=all",
-          "width": 1136,
-          "height": 703,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/02/power-apps-sees-updates-from-microsoft-including-tight-teams-integration/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/02/power-apps-sees-updates-from-microsoft-including-tight-teams-integration/amp/",
-      "publishedDateTime": "2021-11-02T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps",
-        "Teams integration"
       ]
     }
   ],
