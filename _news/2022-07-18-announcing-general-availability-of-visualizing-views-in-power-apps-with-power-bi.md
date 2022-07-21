@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/announcing-general-avai
 webUrl: "https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-of-visualizing-views-in-power-apps-with-power-bi/"
 type: article
 quality: 82
-heat: 82
+heat: 85
 published: true
 
 provider:
