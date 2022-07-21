@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/announcing-public-previ
 webUrl: "https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-of-auto-updates-for-power-apps/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:
