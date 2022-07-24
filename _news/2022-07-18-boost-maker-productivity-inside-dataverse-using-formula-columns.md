@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/boost-maker-productivit
 webUrl: "https://powerapps.microsoft.com/en-us/blog/boost-maker-productivity-inside-dataverse-using-formula-columns/"
 type: article
 quality: 72
-heat: 74
+heat: 72
 published: true
 
 provider:
