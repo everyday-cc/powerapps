@@ -2,6 +2,57 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-06-04-important-new-feature-relationship-validation-for-solutions.md",
+      "title": "Important New Feature: Relationship Validation for Solutions",
+      "excerpt": "Until now it was all too easy to create and publish a solution and overlook the backing relationships needed for the lookups that are present in the tables.  A new feature will help eliminate this issue. Before October, you will need to validate your existing solutions now to make sure you have included",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/important-new-feature-relationship-validation-for-solutions/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/important-new-feature-relationship-validation-for-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-04T04:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2021-06-03-power-platform-extension-for-vs-code.md",
       "title": "Power Platform Extension for VS Code",
       "excerpt": "On May 25th, we announced the public preview of the Power Platform Extension for VS Code. This helps organizations that continue to strive bridging the &#8220;collaboration&#8221; gap between with code-first developers and citizen developers.  This public preview is available for developers on MacOS",
@@ -1208,57 +1259,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-04-14T05:52:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-announcing-data-source-environment-variables.md",
-      "title": "Announcing data source environment variables",
-      "excerpt": "Today we&#8217;re excited to announce a vast new set of capabilities that provide enterprise grade application lifecycle management for the data sources used within canvas apps and cloud flows. Environment variables are now natively built into authoring experiences across canvas apps and flows as well",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-data-source-environment-variables/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-data-source-environment-variables/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-14T01:00:23-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

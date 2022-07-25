@@ -2,6 +2,57 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-04-14-announcing-data-source-environment-variables.md",
+      "title": "Announcing data source environment variables",
+      "excerpt": "Today we&#8217;re excited to announce a vast new set of capabilities that provide enterprise grade application lifecycle management for the data sources used within canvas apps and cloud flows. Environment variables are now natively built into authoring experiences across canvas apps and flows as well",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-data-source-environment-variables/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-data-source-environment-variables/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-14T01:00:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-now-available-coe-starter-kit-in-dataverse-for-teams-and-other-improvements.md",
       "title": "Now available: CoE Starter Kit in Dataverse for Teams (and other improvements)",
       "excerpt": "We are excited to announce that the CoE Starter Kit can now be installed in Dataverse for Teams environments. You can now make the Admin, Governance and Nurture templates in the kit a core part of your collaboration with admins, makers and end users in Teams.",
@@ -1206,57 +1257,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-02-18T11:56:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-next-on-premise-update-brings-the-latest-version-of-unified-interface.md",
-      "title": "Next on-premise update brings the latest version of Unified Interface",
-      "excerpt": "The next update to Microsoft Dynamics 365 Customer Engagement On-premises is coming in Q2 2021. This release contains major updates to the Unified Interface with improved performance and a host of new and updated usability features. Now is a great time to start planning and preparing to transition to",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/next-on-premise-update-brings-the-latest-version-of-unified-interface/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/next-on-premise-update-brings-the-latest-version-of-unified-interface/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-17T23:20:27-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
