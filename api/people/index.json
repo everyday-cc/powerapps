@@ -17,7 +17,7 @@
       "twitter": {
         "username": "aprildunnam",
         "url": "https://twitter.com/aprildunnam",
-        "followers": 12383
+        "followers": 12384
       },
       "linkedin": {
         "url": "https://www.linkedin.com/public-profile/in/april-dunnam"
@@ -38,7 +38,7 @@
       "topics": [
         "Power Apps"
       ],
-      "heat": 135,
+      "heat": 124,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1326986540329918465/W_IJ6Ih2_400x400.jpg",
@@ -84,41 +84,10 @@
       "topics": [
         "Power Apps"
       ],
-      "heat": 117,
+      "heat": 124,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1263202626922876928/g6qGbHZ-_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Charles Lamanna",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/reza-dorrani.md",
-      "title": "Charles Lamanna",
-      "excerpt": "Father | Speaker | Trainer | MVP | #PowerApps & #PowerAutomate Community Super User | YouTuber Right-pointing triangle http://youtube.com/c/rezadorrani | Learn - Share - Clockwise rightwards and leftwards open circle arrows",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/people/reza-dorrani/index.json",
-      "webUrl": "https://everyday.cc/powerapps/people/reza-dorrani/",
-      "type": "profile",
-      "name": "Charles Lamanna",
-      "bio": "Father | Speaker | Trainer | MVP | #PowerApps & #PowerAutomate Community Super User | YouTuber Right-pointing triangle http://youtube.com/c/rezadorrani | Learn - Share - Clockwise rightwards and leftwards open circle arrows",
-      "location": "Houston, TX",
-      "website": "https://t.co/tAcqSdqguf",
-      "twitter": {
-        "username": "rezadorrani",
-        "url": "https://twitter.com/rezadorrani",
-        "followers": 7337
-      },
-      "topics": [
-        "Power Apps"
-      ],
-      "heat": 106,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1063114045270777856/qeT-jpWr_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Charles Lamanna",
@@ -149,7 +118,7 @@
       "topics": [
         "Power Apps"
       ],
-      "heat": 78,
+      "heat": 114,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/713100007398883329/qUzvsvQ3_400x400.jpg",
@@ -162,47 +131,31 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/sameer-bhangar.md",
-      "title": "Sameer Bhangar",
-      "excerpt": "Principal Program Manager - Power Platform CAT team",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/people/sameer-bhangar/index.json",
-      "webUrl": "https://everyday.cc/powerapps/people/sameer-bhangar/",
+      "path": "_people/reza-dorrani.md",
+      "title": "Charles Lamanna",
+      "excerpt": "Father | Speaker | Trainer | MVP | #PowerApps & #PowerAutomate Community Super User | YouTuber Right-pointing triangle http://youtube.com/c/rezadorrani | Learn - Share - Clockwise rightwards and leftwards open circle arrows",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/people/reza-dorrani/index.json",
+      "webUrl": "https://everyday.cc/powerapps/people/reza-dorrani/",
       "type": "profile",
-      "name": "Sameer Bhangar",
-      "bio": "Principal Program Manager - Power Platform CAT team",
-      "location": "Seattle, WA",
-      "website": "https://t.co/nrTQtfl3ll",
+      "name": "Charles Lamanna",
+      "bio": "Father | Speaker | Trainer | MVP | #PowerApps & #PowerAutomate Community Super User | YouTuber Right-pointing triangle http://youtube.com/c/rezadorrani | Learn - Share - Clockwise rightwards and leftwards open circle arrows",
+      "location": "Houston, TX",
+      "website": "https://t.co/tAcqSdqguf",
       "twitter": {
-        "username": "sameerbhangar",
-        "url": "https://twitter.com/sameerbhangar",
-        "followers": 1096
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/sameerbhangar"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "username": "rezadorrani",
+        "url": "https://twitter.com/rezadorrani",
+        "followers": 7338
       },
       "topics": [
         "Power Apps"
       ],
-      "heat": 65,
+      "heat": 106,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/378800000719674009/a36fe7ddfab1778b76e5793772e43798_400x400.jpeg",
+          "url": "https://pbs.twimg.com/profile_images/1063114045270777856/qeT-jpWr_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Sameer Bhangar",
+          "title": "Charles Lamanna",
           "isCached": true
         }
       ],
@@ -249,6 +202,53 @@
           "width": 400,
           "height": 400,
           "title": "Ryan Cunningham",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/sameer-bhangar.md",
+      "title": "Sameer Bhangar",
+      "excerpt": "Principal Program Manager - Power Platform CAT team",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/people/sameer-bhangar/index.json",
+      "webUrl": "https://everyday.cc/powerapps/people/sameer-bhangar/",
+      "type": "profile",
+      "name": "Sameer Bhangar",
+      "bio": "Principal Program Manager - Power Platform CAT team",
+      "location": "Seattle, WA",
+      "website": "https://t.co/nrTQtfl3ll",
+      "twitter": {
+        "username": "sameerbhangar",
+        "url": "https://twitter.com/sameerbhangar",
+        "followers": 1096
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/sameerbhangar"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power Apps"
+      ],
+      "heat": 41,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/378800000719674009/a36fe7ddfab1778b76e5793772e43798_400x400.jpeg",
+          "width": 400,
+          "height": 400,
+          "title": "Sameer Bhangar",
           "isCached": true
         }
       ],
