@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/new-express-design-in-p
 webUrl: "https://powerapps.microsoft.com/en-us/blog/new-express-design-in-power-apps-converts-images-and-designs-to-apps-in-seconds/"
 type: article
 quality: 72
-heat: 73
+heat: 72
 published: true
 
 provider:
