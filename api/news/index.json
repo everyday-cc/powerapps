@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-09-creating-canvas-apps-as-dataverse-solutions-by-default-preview.md",
+      "title": "Creating canvas apps as Dataverse solutions by default (preview)",
+      "excerpt": "We are excited to announce the release of Canvas apps creation as Dataverse solutions by default in public preview",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/creating-canvas-apps-as-dataverse-solutions-by-default-preview/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/creating-canvas-apps-as-dataverse-solutions-by-default-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/07/SolnbyDefault-Demo.gif",
+          "width": 2250,
+          "height": 1390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-09T09:33:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
       "path": "_news/2022-08-04-bring-microsoft-365-collaboration-to-your-model-driven-apps.md",
       "title": "Bring Microsoft 365 collaboration to your model-driven apps",
       "excerpt": "Collaboration controls (Preview) enable you to easily add M365 capabilities to your Power Apps line of business custom applications to simplify user workflows when collaborating on business processes in Teams or Power Apps.",
@@ -62,7 +114,7 @@
       "originalUrl": "https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-july-2022-feature-update/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1189,57 +1241,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-05-04T00:55:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-announcing-new-data-sources-for-the-virtual-connection-provider.md",
-      "title": "Announcing New Data Sources for the Virtual Connection Provider",
-      "excerpt": "I am happy to announce that we are adding Excel and SharePoint to the Virtual Connection Providers for Virtual Tables. You may have used the SQL virtual connection provider during its public preview and now we are happy to respond to you requests for more data sources by enabling this functionality for",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-new-data-sources-for-the-virtual-connection-provider/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-new-data-sources-for-the-virtual-connection-provider/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/04/logos.jpg",
-          "width": 905,
-          "height": 321,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-03T04:26:17-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-01-05-editing-related-records-on-a-main-form-in-a-model-driven-app.md",
+      "title": "Editing related records on a main form in a model driven app",
+      "excerpt": "We are pleased to announce a new preview feature that extends multi-entity experiences and provide the capability for a maker to add a related table main form as a component directly onto another table main form.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/editing-related-records-on-a-main-form-in-a-model-driven-app/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/editing-related-records-on-a-main-form-in-a-model-driven-app/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-05T00:00:23-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Model-driven apps"
+      ]
+    },
+    {
       "path": "_news/2021-01-04-new-model-driven-apps-controls-deprecation-of-old-controls.md",
       "title": "New Model Driven Apps controls, deprecation of old controls",
       "excerpt": "We&#8217;re working hard here to deliver some new controls for everyone which are more in line with modern web and mobile in mind.  The first two we&#8217;ve been able to deliver as a platform are the Toggle control and Activities calendar.",
@@ -1212,57 +1264,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-11-12T10:34:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-email-usability-enhancements-for-2020.md",
-      "title": "Email usability enhancements for 2020",
-      "excerpt": "Email enhancements for 2020",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/email-usability-enhancements-for-2020/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/email-usability-enhancements-for-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-12T10:33:41-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

@@ -2,6 +2,57 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-11-12-email-usability-enhancements-for-2020.md",
+      "title": "Email usability enhancements for 2020",
+      "excerpt": "Email enhancements for 2020",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/email-usability-enhancements-for-2020/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/email-usability-enhancements-for-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-12T10:33:41-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-ai-builder-receipt-scanning.md",
       "title": "AI Builder: Receipt scanning",
       "excerpt": "In this feature overview video series, we highlight new capabilities included in the latest update to AI Builder.  Receipt scanning is a new AI Builder feature that processes receipts to identify and extract information. The AI model identifies receipt data, merchant information, total price, and taxes",
@@ -1207,57 +1258,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-09-22T00:56:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-microsoft-power-platform-learning-resources.md",
-      "title": "Microsoft Power Platform: Learning Resources",
-      "excerpt": "As members of the PowerApps Customer &amp; Partner Success team, we often get asked for resources to aid our customers on their PowerApps journey. Below is a set of links we&#8217;ve curated to help novice,…",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/microsoft-powerapps-learning-resources/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/microsoft-powerapps-learning-resources/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-default-image.png",
-          "width": 1600,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-15T05:00:37-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
