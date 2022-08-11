@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/creating-canvas-apps-as
 webUrl: "https://powerapps.microsoft.com/en-us/blog/creating-canvas-apps-as-dataverse-solutions-by-default-preview/"
 type: article
 quality: 104
-heat: 104
+heat: 105
 published: true
 
 provider:
