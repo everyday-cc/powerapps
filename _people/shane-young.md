@@ -3,7 +3,7 @@ name: "Shane Young"
 bio: "SharePoint & PowerApps MVP - SharePoint, O365, Flow, PowerApps consulting? @PowerApps911 | Pure Snark? You found it."
 location: Cincinnati, OH
 type: "profile"
-heat: 77
+heat: 57
 
 website: https://t.co/91p5BQ3pUe
 
@@ -25,6 +25,6 @@ images:
     isCached: true
     title: "Shane Young"
 
-secured: "iEWbDKECp3H+vnqa2mH6EuUxnmzYF2rhCbU9cw/7AWXuWydw/8IRzQz4E4Zo5hdaW6W42Ngz5vKvhi2jkx6ASvM4TQIj7SP6L7AZ6e2ElOT88Kc2lAxNmDpq+e05gw4S2i9dsu2g4dKvuQDeLgluzg9aC73q/d8QkfFT2Qehue9ItASJJMZFTzoy1wBD8ePluDQuwmw8MnqAyfHIL3AHvYkCdRT4BY6jvjZryarAton/8uxvGUXFJEdpKVb9c8kt1jm+qBHoKmFnuhuI5UcGoODJga/WRCyv5h7evtvtp/fTxlnR1ezPpvrNaq4Df+3IeFrKW9T+Howq3LVq5RELGHa5jVZGTgCUWILJI8WP4EtsA+ZzEIM251+EJNJ1j57Y6wiHvRMZee6RokWLqMmIlJnilSGormaeC1IiExrCOfA=;SJif9LN+Gh2t8r8yPUvv/Q=="
+secured: "dM3jad6FlM/B6abAgusv1hYsn8QYPqSqFD3QxbcN0CiwpuMFMeftp6fnDOx74C+BhoTslKon8992zzF9S42ulqxzYNXItPTHcS9QW3yHG6Nm4DqxpRTzh7/QaC6PUq9d//8qlouivfXv/IZlJm05Fls/n+GxgarqxLNLxrSeN1Fe7Og72t4LpUgWjAt4Zd7d5IajET3gjhyhN8zXonlNHzlX6E86MXWTUqyfNUCYRFcMiTyfInyAt6w9eork3QjJlPSEUL3MpAca6ijSVbbhz7r0UPFnuWZOY829HWQLZ2bC08U12NHtXgx96M7DJZsRU//XgfIq1BkujUuWv2GLqyePhUbSM8VLkYPZtVONXPOMcnAkAKAuZ4x6CZ33prEZTgaPpELB05lQqaIjGeSKuw5efbsUH3jaUvegm5k83Aw=;3ey60iy/qbNM/hNyJ5bWtg=="
 ---
 
