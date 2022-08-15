@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/inline-editing-modern-b
 webUrl: "https://powerapps.microsoft.com/en-us/blog/inline-editing-modern-browsing-and-more-with-the-new-power-apps-grid-control/"
 type: article
 quality: 83
-heat: 84
+heat: 83
 published: true
 
 provider:
