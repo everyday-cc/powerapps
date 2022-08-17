@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-09-22-now-in-preview-customize-teams-with-built-in-power-platform-capabilities.md",
+      "title": "Now in preview: customize Teams with built-in Power Platform capabilities",
+      "excerpt": "The public preview of fully embedded Power Platform capabilities in Microsoft Teams is now open. Starting today, millions of Teams users can make and use custom tabs, personal apps, chat bots, and more using a powerful onboard database and approachable low-code tools from the Power Platform. \r\n\r\nAs the",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/now-in-preview-customize-teams-with-built-in-power-platform-capabilities/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/now-in-preview-customize-teams-with-built-in-power-platform-capabilities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2020/09/Power-Apps-Home-in-Teams-vP.png",
+          "width": 2255,
+          "height": 1382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-22T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Teams integration"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-achieve-your-app-development-goals-with-power-platform-and-azure.md",
       "title": "Achieve your app development goals with Power Platform and Azure",
       "excerpt": "This year at Microsoft Ignite, I&#8217;m continuing the conversation about how Microsoft Power Platform and Microsoft Azure work together to enable professional developers to build and deliver applications faster and more cost effectively. Today we’re announcing a set of new capabilities across Power",
