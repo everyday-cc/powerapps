@@ -2,6 +2,57 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-01-07-announcing-the-general-availability-ga-of-monitor-in-power-apps.md",
+      "title": "Announcing the General Availability (GA) of Monitor in Power Apps",
+      "excerpt": "Since its early announcement back in October, 2019, Monitor has helped thousands of Citizen and professional developers to efficiently troubleshoot and more rapidly solve issues they come across while building their Power apps and solutions. Now, we are excited to announce this tool is generally available",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-the-general-availability-ga-of-monitor-in-power-apps/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-the-general-availability-ga-of-monitor-in-power-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-07T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-you-can-now-share-dataverse-for-teams-apps-beyond-a-team.md",
       "title": "You can now share Dataverse for Teams apps beyond a team",
       "excerpt": "With broad distribution apps, you can now take an app that was built within a Teams team and share it with others inside of your company. This means you and a centralized development team can now build an app on top of Dataverse for Teams and then share it with a bunch of users who don’t belong to the",
@@ -1238,57 +1289,6 @@
       "topics": [
         "Power Apps",
         "Teams integration"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-whats-new-in-power-query-and-dataflows-in-power-apps-november-2020.md",
-      "title": "Whats New in Power Query and Dataflows in Power Apps  November 2020",
-      "excerpt": "We have recently released lots of new capabilities within Power Query &amp; Dataflows in Power Apps, enabling users to seamlessly ingest data into the Common Data Service.",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/whats-new-in-power-query-and-dataflows-in-power-apps-november-2020/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/whats-new-in-power-query-and-dataflows-in-power-apps-november-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-12T18:57:06-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
       ]
     }
   ],
