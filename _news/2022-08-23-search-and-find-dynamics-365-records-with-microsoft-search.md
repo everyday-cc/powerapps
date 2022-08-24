@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/search-and-find-dynamic
 webUrl: "https://powerapps.microsoft.com/en-us/blog/search-and-find-dynamics-365-records-with-microsoft-search/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:
