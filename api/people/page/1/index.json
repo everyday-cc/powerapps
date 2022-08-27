@@ -22,7 +22,7 @@
       "topics": [
         "Power Apps"
       ],
-      "heat": 182,
+      "heat": 151,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1063114045270777856/qeT-jpWr_400x400.jpg",
@@ -48,7 +48,7 @@
       "twitter": {
         "username": "aprildunnam",
         "url": "https://twitter.com/aprildunnam",
-        "followers": 12833
+        "followers": 12832
       },
       "linkedin": {
         "url": "https://www.linkedin.com/public-profile/in/april-dunnam"
@@ -69,7 +69,7 @@
       "topics": [
         "Power Apps"
       ],
-      "heat": 157,
+      "heat": 127,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1326986540329918465/W_IJ6Ih2_400x400.jpg",
@@ -95,7 +95,7 @@
       "twitter": {
         "username": "ShanesCows",
         "url": "https://twitter.com/ShanesCows",
-        "followers": 17322
+        "followers": 17323
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/cincyshane"
@@ -103,60 +103,13 @@
       "topics": [
         "Power Apps"
       ],
-      "heat": 101,
+      "heat": 92,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/713100007398883329/qUzvsvQ3_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Shane Young",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/sameer-bhangar.md",
-      "title": "Sameer Bhangar",
-      "excerpt": "Principal Program Manager - Power Platform CAT team",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/people/sameer-bhangar/index.json",
-      "webUrl": "https://everyday.cc/powerapps/people/sameer-bhangar/",
-      "type": "profile",
-      "name": "Sameer Bhangar",
-      "bio": "Principal Program Manager - Power Platform CAT team",
-      "location": "Seattle, WA",
-      "website": "https://t.co/nrTQtfl3ll",
-      "twitter": {
-        "username": "sameerbhangar",
-        "url": "https://twitter.com/sameerbhangar",
-        "followers": 1103
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/sameerbhangar"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power Apps"
-      ],
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/378800000719674009/a36fe7ddfab1778b76e5793772e43798_400x400.jpeg",
-          "width": 400,
-          "height": 400,
-          "title": "Sameer Bhangar",
           "isCached": true
         }
       ],
@@ -196,7 +149,7 @@
       "topics": [
         "Power Apps"
       ],
-      "heat": 50,
+      "heat": 71,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1263202626922876928/g6qGbHZ-_400x400.jpg",
@@ -242,13 +195,60 @@
       "topics": [
         "Power Apps"
       ],
-      "heat": 50,
+      "heat": 42,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/459747717862805504/CJIGZejd_400x400.png",
           "width": 400,
           "height": 400,
           "title": "Ryan Cunningham",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/sameer-bhangar.md",
+      "title": "Sameer Bhangar",
+      "excerpt": "Principal Program Manager - Power Platform CAT team",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/people/sameer-bhangar/index.json",
+      "webUrl": "https://everyday.cc/powerapps/people/sameer-bhangar/",
+      "type": "profile",
+      "name": "Sameer Bhangar",
+      "bio": "Principal Program Manager - Power Platform CAT team",
+      "location": "Seattle, WA",
+      "website": "https://t.co/nrTQtfl3ll",
+      "twitter": {
+        "username": "sameerbhangar",
+        "url": "https://twitter.com/sameerbhangar",
+        "followers": 1103
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/sameerbhangar"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power Apps"
+      ],
+      "heat": 42,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/378800000719674009/a36fe7ddfab1778b76e5793772e43798_400x400.jpeg",
+          "width": 400,
+          "height": 400,
+          "title": "Sameer Bhangar",
           "isCached": true
         }
       ],
