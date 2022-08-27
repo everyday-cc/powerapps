@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/announcing-public-previ
 webUrl: "https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-of-ip-based-cookie-binding-in-dataverse/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:
