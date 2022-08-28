@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/automatically-create-a-
 webUrl: "https://powerapps.microsoft.com/en-us/blog/automatically-create-a-power-app-from-a-rest-api/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:
