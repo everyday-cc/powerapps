@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-19-announcing-the-general-availability-of-the-power-apps-modern-app-designer.md",
+      "title": "Announcing the general availability of the Power Apps modern app designer",
+      "excerpt": "Power apps is excited to announce the general availability of the modern app designer, which enables a seamless, intuitive way to build robust model-driven apps.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-the-general-availability-of-the-modern-app-designer/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-the-general-availability-of-the-modern-app-designer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/05/Openmodern.gif",
+          "width": 2421,
+          "height": 1152,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-19T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2022-05-11-access-migration-to-power-apps-and-dataverse-is-released-to-general-availability.md",
       "title": "Access Migration to Power Apps and Dataverse is released to General Availability",
       "excerpt": "Beginning today, Microsoft Access users can migrate their data into Power Apps and Dataverse.  Customers who have the current or monthly channel for Microsoft 365 and Office can update their Microsoft Access to make use of the Dataverse Connector and migration tool. The Access migration tool and connector",
@@ -1219,58 +1270,6 @@
       ],
       "topics": [
         "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-announcing-general-availability-ga-of-power-apps-portals-as-mobile-apps.md",
-      "title": "Announcing General Availability (GA) of Power Apps portals as mobile apps",
-      "excerpt": "We are excited to announce that you can now enable your functional portal as a progressive web app with native app like look and feel right from portal studio in low code-no code fashion in just few steps.",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-ga-of-power-apps-portals-as-mobile-apps/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-ga-of-power-apps-portals-as-mobile-apps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2021/11/PWA-endcust-endtoend-contoso.gif",
-          "width": 1902,
-          "height": 896,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-14T21:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps",
-        "Portals"
       ]
     }
   ],
