@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-31-whats-new-power-apps-august-2022-feature-update.md",
+      "title": "What’s new: Power Apps August 2022 Feature Update",
+      "excerpt": "Welcome to the Power Apps monthly feature update! We will use this blog to share a summary of product, community, and learning updates from throughout the month so you can access it in one easy place. A variety of new and highly anticipated features are now available which we are very excited to share:",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-august-2022-feature-update/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-august-2022-feature-update/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/08/image-4.png",
+          "width": 920,
+          "height": 494,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-31T03:38:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2022-08-29-announcing-public-preview-for-power-platform-app-install-api-tools-support.md",
       "title": "Announcing Public Preview for Power Platform App Install API  Tools Support",
       "excerpt": "We are pleased to announce the Public Preview of Power Platform Application Install API! This capability enables automation of install and update experiences that are offered only through the Power Platform Admin Center experience today. Installs can also be automated for applications available from",
@@ -1219,58 +1270,6 @@
       ],
       "topics": [
         "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-announcing-rich-text-editor-for-power-apps-portals.md",
-      "title": "Announcing rich text editor for Power Apps portals",
-      "excerpt": "We are happy to announce the Rich text Editor support in Power Apps portals is now available with portals version 9.4.3.x.",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-rich-text-editor-for-power-apps-portals/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-rich-text-editor-for-power-apps-portals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/05/RTEDemo.gif",
-          "width": 1710,
-          "height": 1241,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-23T19:44:24-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps",
-        "Portals"
       ]
     }
   ],
