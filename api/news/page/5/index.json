@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-10-06-does-how-you-submit-date-and-time-data-matter.md",
+      "title": "Does how you submit date and time data matter?",
+      "excerpt": "Does how you submit date and time data matter? The answer is &#8220;Yes&#8221; if you are using Canvas apps, User Local data and direct oData API calls.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/does-how-you-submit-date-and-time-data-matter/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/does-how-you-submit-date-and-time-data-matter/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-default-image.png",
+          "width": 1600,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-06T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2021-10-05-goodbye-relevance-search-hello-dataverse-search.md",
       "title": "Goodbye Relevance search, hello Dataverse search!",
       "excerpt": "Relevance search is now Dataverse search to emphasize that all data within Dataverse is searchable. The same powerful capabilities of Relevance search will continue and we are committed to make Dataverse search even better, starting with a new configuration experience in the maker portal.",
@@ -1230,49 +1281,6 @@
       ],
       "topics": [
         "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-companies-using-microsoft-power-apps-portals-got-their-records-exposed.md",
-      "title": "Companies using Microsoft Power Apps portals got their records exposed",
-      "excerpt": "More than 38 million records got leaked online because of people using default configurations in Microsoft Power Apps portals.",
-      "sourceUrl": null,
-      "webUrl": "https://windowsreport.com/microsoft-powerapps-record-exposed/",
-      "originalUrl": "https://windowsreport.com/microsoft-powerapps-record-exposed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.windowsreport.com/wp-content/uploads/2021/08/powerapps-leak.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://windowsreport.com/microsoft-powerapps-record-exposed/?amp",
-      "cdnAmpWebUrl": "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-powerapps-record-exposed/?amp",
-      "publishedDateTime": "2021-08-24T01:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "windowsreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps",
-        "Portals"
       ]
     }
   ],
