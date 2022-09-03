@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/extend-modern-commands-
 webUrl: "https://powerapps.microsoft.com/en-us/blog/extend-modern-commands-with-custom-pages-and-geospatial-mapping/"
 type: article
 quality: 72
-heat: 72
+heat: 74
 published: true
 
 provider:
