@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-24-rich-actionable-previews-and-power-apps-integration-are-coming-to-microsoft-teams.md",
+      "title": "Rich actionable previews and Power Apps integration are coming to Microsoft Teams",
+      "excerpt": "This feature will hit preview in summer. During the same time period, low-code developers will be able to take advantage of collaboration controls in Power Apps to integrate Teams and Microsoft 365 collaboration features such as Chat, Meetings, Tasks ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/rich-actionable-previews-and-power-apps-integration-are-coming-to-microsoft-teams/",
+      "originalUrl": "https://www.neowin.net/news/rich-actionable-previews-and-power-apps-integration-are-coming-to-microsoft-teams/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2022/05/1653236335_hexagon_prototype_of_live_share_in_teams_story.jpg",
+          "width": 760,
+          "height": 439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/rich-actionable-previews-and-power-apps-integration-are-coming-to-microsoft-teams/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/rich-actionable-previews-and-power-apps-integration-are-coming-to-microsoft-teams/",
+      "publishedDateTime": "2022-05-24T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Teams integration"
+      ]
+    },
+    {
       "path": "_news/2022-05-24-new-turn-images-and-designs-into-apps-using-ai-powered-express-design.md",
       "title": "New: turn images and designs into apps using AI-powered express design",
       "excerpt": "The growth of low code right now is staggering. Gartner believes that over the next three years 70 percent of new applications inside of companies are going to be developed using low code. ",
@@ -1196,57 +1248,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-03-08T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2022-03-03-behind-the-scenes-what-it-takes-to-teach-gpt-3-how-to-build-low-code-apps.md",
-      "title": "Behind the Scenes – What it Takes to Teach GPT-3 How to Build Low-Code Apps",
-      "excerpt": "Last year, we announced the public preview of Power Apps Ideas, which enables Power Apps makers to take advantage of Microsoft AI technologies that make it easy to write Power Fx formulas with no-code. In this article, we’re going to go behind the scenes to share what it took for the Power Apps engineering",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/behind-the-scenes-what-it-takes-to-teach-gpt-3-how-to-build-low-code-apps/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/behind-the-scenes-what-it-takes-to-teach-gpt-3-how-to-build-low-code-apps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/03/Final-Result.png",
-          "width": 288,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-03T07:23:53-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

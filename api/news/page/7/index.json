@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-06-29-canvas-app-layout-containers-are-now-generally-available.md",
+      "title": "Canvas app layout containers are now generally available",
+      "excerpt": "We are excited to announce the general availability of the container, horizontal container and vertical container layout controls in canvas apps! These controls help you automatically reflow and resize controls within them to enable easy, no expression layouts in canvas apps.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/canvas-app-layout-containers-are-now-generally-available/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/canvas-app-layout-containers-are-now-generally-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-29T13:30:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
       "path": "_news/2021-06-18-read-nfc-tags-with-power-apps-on-ios-and-android.md",
       "title": "Read NFC tags with Power Apps on iOS and Android",
       "excerpt": "Power Apps adds support for reading NFC and HF-RFID tags in Canvas apps.",
@@ -1209,57 +1261,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-05-18T03:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-05-08-2021-power-apps-demo-extravaganza-open-for-submission-may-10.md",
-      "title": "2021 Power Apps demo extravaganza open for submission May 10",
-      "excerpt": " &#8220;Demo Extravaganza&#8221; is an incredibly fun community event where the contributors submits samples,  community votes on which samples they want to see more of and have the top three authors show how their sample were built, best practices employed and challenges they overcame!\r\n\r\nIf you want",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/2021-power-apps-demo-extravaganza-open-for-submission-may-10/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/2021-power-apps-demo-extravaganza-open-for-submission-may-10/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-08T01:55:57-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

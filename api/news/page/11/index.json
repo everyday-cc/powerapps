@@ -2,6 +2,57 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-11-19-transforming-compliance-evaluation-process-with-microsoft-power-platform.md",
+      "title": "Transforming compliance evaluation process with Microsoft Power Platform",
+      "excerpt": "How Microsoft Power Platform streamlined the SOX scope evaluation process to boost productivity and deliver significant cost savings.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/compliance-evaluation-process/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/compliance-evaluation-process/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-19T00:00:56-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-manage-microsoft-dataverse-for-teams-environments.md",
       "title": "Manage Microsoft Dataverse for Teams environments",
       "excerpt": "Microsoft Dataverse for Teams empowers users to build custom apps, bots, and flows in Teams. When a team owner adds this capability to their team, a Power Platform environment with a Microsoft Dataverse for Teams database is created and linked to their team. With limited capacity of Dataverse for Teams",
@@ -1207,57 +1258,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-09-29T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-power-apps-and-automate-architecture-series.md",
-      "title": "Power Apps and Automate Architecture Series",
-      "excerpt": "We are excited to launch the Power Apps and Automate Architecture Series content, presented by Power CAT, which will prepare you for upcoming complex projects involving our app and automation platform. This series of videos will cover L300-400 content and will provide your architects and developers with",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-and-automate-architecture-series/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-and-automate-architecture-series/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-default-image.png",
-          "width": 1600,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-28T21:27:24-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
