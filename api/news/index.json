@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-08-power-platform-administration-planning.md",
+      "title": "Power Platform Administration Planning",
+      "excerpt": "Behind the scenes, your IT and Center of Excellence team spends time configuring, managing and nurturing the adoption of the Power Platform.  In this post, learn about a new tool to help you plan who you need on your team and find the highest-impact opportunities to streamline your administrative effort.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/power-platform-administration-planning/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/power-platform-administration-planning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/09/admin-planner.png",
+          "width": 1008,
+          "height": 574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-08T02:00:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2022-09-07-announcing-public-preview-of-content-security-policy-for-power-apps.md",
       "title": "Announcing public preview of Content Security Policy for Power Apps",
       "excerpt": "We&#8217;re excited to announce the public preview of Content Security Policy (CSP) configuration for Power Apps. CSP can be configured using the settings under the Privacy + Security settings section of an environment in Power Platform Admin Center.",
@@ -1195,57 +1246,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-06-06T03:39:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-announcing-the-general-availability-of-power-apps-modern-commanding.md",
-      "title": "Announcing the general availability of Power Apps modern commanding",
-      "excerpt": "We’re very excited to announce General Availability for modern commanding. Commanding (formerly known as the Ribbon in Model-driven apps) has been re-imagined from the ground up and many new capabilities are available with this GA release. ",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-the-general-availability-of-power-apps-modern-commanding/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-the-general-availability-of-power-apps-modern-commanding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/06/Commanding-GA-Blog-main2.gif",
-          "width": 1890,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-02T00:01:31-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
