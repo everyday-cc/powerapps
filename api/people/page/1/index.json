@@ -38,7 +38,7 @@
       "topics": [
         "Power Apps"
       ],
-      "heat": 192,
+      "heat": 160,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1326986540329918465/W_IJ6Ih2_400x400.jpg",
@@ -64,52 +64,18 @@
       "twitter": {
         "username": "rezadorrani",
         "url": "https://twitter.com/rezadorrani",
-        "followers": 8048
+        "followers": 8049
       },
       "topics": [
         "Power Apps"
       ],
-      "heat": 183,
+      "heat": 140,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1063114045270777856/qeT-jpWr_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Charles Lamanna",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/shane-young.md",
-      "title": "Shane Young",
-      "excerpt": "SharePoint & PowerApps MVP - SharePoint, O365, Flow, PowerApps consulting? @PowerApps911 | Pure Snark? You found it.",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/people/shane-young/index.json",
-      "webUrl": "https://everyday.cc/powerapps/people/shane-young/",
-      "type": "profile",
-      "name": "Shane Young",
-      "bio": "SharePoint & PowerApps MVP - SharePoint, O365, Flow, PowerApps consulting? @PowerApps911 | Pure Snark? You found it.",
-      "location": "Cincinnati, OH",
-      "website": "https://t.co/91p5BQ3pUe",
-      "twitter": {
-        "username": "ShanesCows",
-        "url": "https://twitter.com/ShanesCows",
-        "followers": 17387
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/cincyshane"
-      },
-      "topics": [
-        "Power Apps"
-      ],
-      "heat": 122,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/713100007398883329/qUzvsvQ3_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Shane Young",
           "isCached": true
         }
       ],
@@ -149,13 +115,47 @@
       "topics": [
         "Power Apps"
       ],
-      "heat": 77,
+      "heat": 65,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1263202626922876928/g6qGbHZ-_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Charles Lamanna",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/shane-young.md",
+      "title": "Shane Young",
+      "excerpt": "SharePoint & PowerApps MVP - SharePoint, O365, Flow, PowerApps consulting? @PowerApps911 | Pure Snark? You found it.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/people/shane-young/index.json",
+      "webUrl": "https://everyday.cc/powerapps/people/shane-young/",
+      "type": "profile",
+      "name": "Shane Young",
+      "bio": "SharePoint & PowerApps MVP - SharePoint, O365, Flow, PowerApps consulting? @PowerApps911 | Pure Snark? You found it.",
+      "location": "Cincinnati, OH",
+      "website": "https://t.co/91p5BQ3pUe",
+      "twitter": {
+        "username": "ShanesCows",
+        "url": "https://twitter.com/ShanesCows",
+        "followers": 17388
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/cincyshane"
+      },
+      "topics": [
+        "Power Apps"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/713100007398883329/qUzvsvQ3_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Shane Young",
           "isCached": true
         }
       ],
@@ -242,7 +242,7 @@
       "topics": [
         "Power Apps"
       ],
-      "heat": 42,
+      "heat": 50,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/378800000719674009/a36fe7ddfab1778b76e5793772e43798_400x400.jpeg",
