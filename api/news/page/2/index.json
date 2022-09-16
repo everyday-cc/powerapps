@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-06-06-announcing-general-availability-of-our-new-dataverse-experiences-on-power-apps.md",
+      "title": "Announcing general availability of our new Dataverse experiences on Power Apps",
+      "excerpt": "When building apps, data is the core of your experience &#8211; and Dataverse is a natural solution for Power Apps. Dataverse gives us a huge breadth of features to work with so we&#8217;ve been investing in familiar and intuitive experiences for our users so that they can get the best out of Dataverse.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-of-our-new-dataverse-experiences-on-power-apps/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-of-our-new-dataverse-experiences-on-power-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/05/SortFilterSearch.gif",
+          "width": 2055,
+          "height": 908,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-06T03:39:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2022-06-02-announcing-the-general-availability-of-power-apps-modern-commanding.md",
       "title": "Announcing the general availability of Power Apps modern commanding",
       "excerpt": "We’re very excited to announce General Availability for modern commanding. Commanding (formerly known as the Ribbon in Model-driven apps) has been re-imagined from the ground up and many new capabilities are available with this GA release. ",
@@ -1220,57 +1271,6 @@
       "topics": [
         "Power Apps",
         "Canvas apps"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-microsoft-makes-some-changes-to-paying-for-power-apps.md",
-      "title": "Microsoft makes some changes to paying for Power Apps",
-      "excerpt": "Microsoft has announced a new payment option for its Power Apps. The move means that along with its current user-based model, in which businesses rent out the services for each individual user ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/sg/news/microsoft-power-apps-pricing-change",
-      "originalUrl": "https://www.techradar.com/sg/news/microsoft-power-apps-pricing-change",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/cAewSdXkrLEUsD8muVzGX9-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-21T15:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
       ]
     }
   ],

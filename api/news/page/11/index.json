@@ -2,6 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-11-27-power-apps-portals-manage-page-permissions-from-portals-studio.md",
+      "title": "Power Apps portals: Manage page permissions from portals Studio",
+      "excerpt": "An new experience allowing you to create and manage page permissions right within portals Studio is now generally available. ",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-portals-manage-page-permissions-from-portals-studio/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-portals-manage-page-permissions-from-portals-studio/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-26T21:04:23-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Portals"
+      ]
+    },
+    {
       "path": "_news/2020-11-23-november-26th-vancouver-power-apps-user-group-exception-handling-and-integrating-the-power-platform-with-microsoft-teams.md",
       "title": "November 26th Vancouver Power Apps User Group:  Exception Handling and integrating the Power Platform with Microsoft Teams",
       "excerpt": "November brings us several exciting topics and two amazing community presenters for the Vancouver Power Apps User Group. Our presenters are Microsoft Technical Specialist Ali Sharifi covering the integration of the Power Platform into Microsoft Teams namely Power Automate, Dataverse and Power Virtual",
@@ -1208,57 +1260,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-10-13T08:51:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-announcing-app-usage-analytics-in-isv-studio.md",
-      "title": "Announcing app usage analytics in ISV Studio",
-      "excerpt": "View the usage analytics of your published apps in ISV Studio.",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-app-usage-analytics-in-isv-studio/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-app-usage-analytics-in-isv-studio/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-13T02:47:32-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
