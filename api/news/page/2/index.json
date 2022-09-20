@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-06-14-announcing-general-availability-of-wrap-for-power-apps.md",
+      "title": "Announcing general availability of wrap for Power Apps",
+      "excerpt": "Wrap for Power Apps is the next step, integrating low-code enterprise apps with Power Apps mobile technology to produce secure enterprise mobile apps with rich native mobile experiences and seamless end-to-end branding suitable for customer-facing frontline worker scenarios.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-of-wrap-for-power-apps/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-of-wrap-for-power-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/04/wrap.png",
+          "width": 369,
+          "height": 296,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T07:51:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2022-06-06-announcing-general-availability-of-our-new-dataverse-experiences-on-power-apps.md",
       "title": "Announcing general availability of our new Dataverse experiences on Power Apps",
       "excerpt": "When building apps, data is the core of your experience &#8211; and Dataverse is a natural solution for Power Apps. Dataverse gives us a huge breadth of features to work with so we&#8217;ve been investing in familiar and intuitive experiences for our users so that they can get the best out of Dataverse.",
@@ -1219,58 +1270,6 @@
       ],
       "topics": [
         "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-runtime-localization-support-for-code-components-on-custom-pages-and-canvas-apps.md",
-      "title": "Runtime localization support for Code components on Custom pages and Canvas apps",
-      "excerpt": "Runtime localization support for Code Components on Custom pages and Canvas apps",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/runtime-localization-support-for-code-components-on-custom-pages-and-canvas-apps/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/runtime-localization-support-for-code-components-on-custom-pages-and-canvas-apps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/03/AddLocalizationComponentCustomPage.gif",
-          "width": 1800,
-          "height": 1032,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-30T04:31:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps",
-        "Canvas apps"
       ]
     }
   ],

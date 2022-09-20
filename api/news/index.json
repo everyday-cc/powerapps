@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-20-power-apps-brings-collaboration-to-center-stage-with-3-big-announcements.md",
+      "title": "Power Apps brings collaboration to center stage with 3 big announcements",
+      "excerpt": "As we kick off the first ever Microsoft Power Platform Conference to a sold-out crowd buzzing with energy, the power of a thriving and collaborative low code community has never been clearer. Our major product announcements today reflect that truth. We’re excited to share three important new ways to",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-brings-collaboration-to-center-stage-with-3-big-announcements/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-brings-collaboration-to-center-stage-with-3-big-announcements/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/09/Low-Code-Designer-for-Power-Apps-Cards.png",
+          "width": 1579,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-19T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2022-09-16-power-fx-introducing-named-formulas.md",
       "title": "Power Fx: Introducing Named Formulas",
       "excerpt": "Simplify your app&#8217;s initialization, reduce app load time, reuse logic, and improve the maintainability of your apps with an old and very powerful concept form Excel.",
@@ -1218,57 +1269,6 @@
       "topics": [
         "Power Apps",
         "Portals"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-announcing-general-availability-of-wrap-for-power-apps.md",
-      "title": "Announcing general availability of wrap for Power Apps",
-      "excerpt": "Wrap for Power Apps is the next step, integrating low-code enterprise apps with Power Apps mobile technology to produce secure enterprise mobile apps with rich native mobile experiences and seamless end-to-end branding suitable for customer-facing frontline worker scenarios.",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-of-wrap-for-power-apps/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-of-wrap-for-power-apps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/04/wrap.png",
-          "width": 369,
-          "height": 296,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T07:51:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
       ]
     }
   ],
