@@ -18,7 +18,7 @@ website: https://t.co/nrTQtfl3ll
 twitter:
   username: sameerbhangar
   url: https://twitter.com/sameerbhangar
-  followers: 1118
+  followers: 1117
 
 linkedin:
   url: https://www.linkedin.com/in/sameerbhangar
