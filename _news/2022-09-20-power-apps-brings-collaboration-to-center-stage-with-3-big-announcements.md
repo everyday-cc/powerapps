@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/power-apps-brings-colla
 webUrl: "https://powerapps.microsoft.com/en-us/blog/power-apps-brings-collaboration-to-center-stage-with-3-big-announcements/"
 type: article
 quality: 86
-heat: 87
+heat: 86
 published: true
 
 provider:
