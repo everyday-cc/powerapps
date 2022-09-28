@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/power-platform-administ
 webUrl: "https://powerapps.microsoft.com/en-us/blog/power-platform-administration-planning/"
 type: article
 quality: 72
-heat: 73
+heat: 72
 published: true
 
 provider:
