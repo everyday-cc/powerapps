@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-se
 webUrl: "https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-september-2022-feature-update/"
 type: article
 quality: 87
-heat: 91
+heat: 87
 published: true
 
 provider:
