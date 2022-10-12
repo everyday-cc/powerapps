@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-04-06-announcing-public-preview-of-a-new-power-apps-application-on-windows.md",
+      "title": "Announcing Public Preview of a new Power Apps application on Windows",
+      "excerpt": "If you want a fast and modern way to get to your apps on Windows devices, this is your week! We&#8217;re thrilled to announce the release of Power Apps (Preview) for Windows.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-of-a-new-power-apps-application-on-windows/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-of-a-new-power-apps-application-on-windows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/04/Applist.png",
+          "width": 789,
+          "height": 526,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-05T18:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2022-04-04-monitor-all-your-dataflow-refreshes-with-a-power-bi-dashboard.md",
       "title": "Monitor all your Dataflow refreshes with a Power BI dashboard",
       "excerpt": "Enhanced Dataflow Refresh History allows you to leverage the managed dataverse tables to view and monitor your dataflow refreshes in your environment.  ",
@@ -1232,58 +1283,6 @@
       ],
       "topics": [
         "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-12-12-power-apps-portals-support-for-microsoft-dataverse-choices-columns-preview.md",
-      "title": "Power Apps portals : Support for Microsoft Dataverse choices columns (preview)",
-      "excerpt": "We are excited to announce the support for choices columns on portals is now available for public preview. ",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-portals-support-for-microsoft-dataverse-choices-columns-preview/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-portals-support-for-microsoft-dataverse-choices-columns-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-default-image.png",
-          "width": 1600,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-12T13:01:55-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps",
-        "Portals"
       ]
     }
   ],

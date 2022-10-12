@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-12-12-power-apps-portals-support-for-microsoft-dataverse-choices-columns-preview.md",
+      "title": "Power Apps portals : Support for Microsoft Dataverse choices columns (preview)",
+      "excerpt": "We are excited to announce the support for choices columns on portals is now available for public preview. ",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-portals-support-for-microsoft-dataverse-choices-columns-preview/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-portals-support-for-microsoft-dataverse-choices-columns-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-default-image.png",
+          "width": 1600,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-12T13:01:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Portals"
+      ]
+    },
+    {
       "path": "_news/2021-12-09-visualize-data-in-model-driven-apps-with-power-bi-preview.md",
       "title": "Visualize data in model-driven apps with Power BI (preview)",
       "excerpt": "Visualizing data in a view to get to interactive insights is a lot faster and easier, with Power BI quick reports available on model-driven apps’ view pages.",
@@ -1201,57 +1253,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-11-01T23:00:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-11-01-experimental-co-authoring-for-power-apps-studio.md",
-      "title": "Experimental Co-authoring for Power Apps Studio",
-      "excerpt": "As an experimental feature, two makers can now work on the same app at the same time.  This is a first step, seeking your feedback, as we continue to build co-authoring features across Power Apps.",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/experimental-co-authoring-for-power-apps-studio/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/experimental-co-authoring-for-power-apps-studio/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-default-image.png",
-          "width": 1600,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-01T11:00:54-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
