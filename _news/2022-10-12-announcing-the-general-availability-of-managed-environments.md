@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/announcing-the-general-
 webUrl: "https://powerapps.microsoft.com/en-us/blog/announcing-the-general-availability-of-managed-environments/"
 type: article
 quality: 72
-heat: 73
+heat: 72
 published: true
 
 provider:

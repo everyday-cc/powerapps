@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/3-primary-reasons-to-le
 webUrl: "https://powerapps.microsoft.com/en-us/blog/3-primary-reasons-to-learn-dataverse/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:
