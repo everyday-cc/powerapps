@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/power-platform-develope
 webUrl: "https://powerapps.microsoft.com/en-us/blog/power-platform-developer-tools-monthly-release-september-refresh/"
 type: article
 quality: 72
-heat: 74
+heat: 75
 published: true
 
 provider:
