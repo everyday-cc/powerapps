@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/power-fx-introducing-na
 webUrl: "https://powerapps.microsoft.com/en-us/blog/power-fx-introducing-named-formulas/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:
