@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-11-02-announcing-public-preview-for-modernize-business-units.md",
+      "title": "Announcing Public Preview for modernize business units",
+      "excerpt": "Dataverse security concepts &#8211; Modernize Business Units",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-for-modernize-business-units/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-for-modernize-business-units/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-default-image.png",
+          "width": 1600,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-01T23:30:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-power-fx-open-source-now-available.md",
       "title": "Power Fx: Open source now available",
       "excerpt": "The preview release of Microsoft Power Fx is now available as open source on GitHub  You can now freely integrate this Excel-like, low code programming language in all of your own projects.",
@@ -1230,57 +1281,6 @@
       "topics": [
         "Power Apps",
         "Model-driven apps"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-power-apps-developer-resources.md",
-      "title": "Power Apps Developer resources",
-      "excerpt": "As makers grow their solutions and go beyond no-code/low-code, there are key pieces of information that makers need to connect to the Power Platform through the SDK, service endpoints or developer tools&#8230; this information is now readily available on the maker portal.",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/developer-resources/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/developer-resources/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-03T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
       ]
     }
   ],

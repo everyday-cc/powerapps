@@ -2,6 +2,57 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-10-30-mobile-offline-for-power-apps.md",
+      "title": "Mobile Offline for Power Apps",
+      "excerpt": "Model driven apps can be made available offline for users of Power Apps. Maker and end users enhancements are in the Power Platform thus, accruing to Power Apps and Dynamics 365",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/mobile-offline-for-power-apps/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/mobile-offline-for-power-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-30T05:10:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-power-apps-managing-form-settings.md",
       "title": "Power Apps: Managing form settings",
       "excerpt": "In this feature overview video series, we highlight new capabilities included in the latest update to Microsoft Power Apps.  Improvements to Microsoft Power Apps for managing form settings and events allow users to set various features on a form in the new modern designer.   Get the most out of Power",
@@ -1232,58 +1283,6 @@
       ],
       "topics": [
         "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-microsoft-power-apps-ai-builder-ready-to-use-models-2020-release-wave-1-overview.md",
-      "title": "Microsoft Power Apps: AI Builder ready to use models | 2020 release wave 1 overview",
-      "excerpt": "In this overview video, we highlight some of the new capabilities included in the latest update to Microsoft Power Apps, AI Builder ready to use models.     Here are the capabilities covered:   • Entity extraction helps you by identifying and extracting people, dates, places, locations, etc. from text",
-      "sourceUrl": null,
-      "webUrl": null,
-      "originalUrl": "https://youtube.com/watch?v=h70jOr56EKs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/h70jOr56EKs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/h70jOr56EKs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-18T16:26:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps",
-        "AI Builder"
       ]
     }
   ],
