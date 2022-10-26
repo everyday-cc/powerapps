@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/introducing-test-engine
 webUrl: "https://powerapps.microsoft.com/en-us/blog/introducing-test-engine-an-open-platform-for-automated-testing-of-canvas-apps/"
 type: article
 quality: 100
-heat: 103
+heat: 104
 published: true
 
 provider:
