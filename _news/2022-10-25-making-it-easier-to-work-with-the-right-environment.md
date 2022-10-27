@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/making-it-easier-to-wor
 webUrl: "https://powerapps.microsoft.com/en-us/blog/making-it-easier-to-work-with-the-right-environment/"
 type: article
 quality: 72
-heat: 74
+heat: 72
 published: true
 
 provider:
