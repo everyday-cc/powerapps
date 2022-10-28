@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/announcing-general-avai
 webUrl: "https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-of-power-apps-ideas/"
 type: article
 quality: 87
-heat: 90
+heat: 89
 published: true
 
 provider:
