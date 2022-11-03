@@ -2,6 +2,57 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-08-03-log-plug-in-telemetry-to-your-application-insights-resource.md",
+      "title": "Log plug-in telemetry to your Application Insights resource",
+      "excerpt": "Use the new ILogger Interface in your plug-in code together with Application Insights integration to capture the complete view of telemetry events in your environment.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/log-plug-in-telemetry-to-your-application-insights-resource/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/log-plug-in-telemetry-to-your-application-insights-resource/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-03T12:02:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-announcing-vnet-connectivity-for-power-platform-dataflows-public-preview.md",
       "title": "Announcing VNet Connectivity for Power Platform Dataflows (Public Preview)",
       "excerpt": "VNet Connectivity for Power Platform Dataflows (Public Preview)",
@@ -1233,57 +1284,6 @@
       "topics": [
         "Power Apps",
         "Canvas apps"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-important-new-feature-relationship-validation-for-solutions.md",
-      "title": "Important New Feature: Relationship Validation for Solutions",
-      "excerpt": "Until now it was all too easy to create and publish a solution and overlook the backing relationships needed for the lookups that are present in the tables.  A new feature will help eliminate this issue. Before October, you will need to validate your existing solutions now to make sure you have included",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/important-new-feature-relationship-validation-for-solutions/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/important-new-feature-relationship-validation-for-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-04T04:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
       ]
     }
   ],
