@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/formula-repair-now-in-p
 webUrl: "https://powerapps.microsoft.com/en-us/blog/formula-repair-now-in-preview/"
 type: article
 quality: 72
-heat: 75
+heat: 72
 published: true
 
 provider:
