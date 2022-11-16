@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/new-ways-to-share-power
 webUrl: "https://powerapps.microsoft.com/en-us/blog/new-ways-to-share-power-apps-community-forum-ideas/"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:
