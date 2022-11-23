@@ -2,6 +2,57 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-04-19-updates-to-the-azure-file-storage-and-excel-online-business-connectors.md",
+      "title": "Updates to the Azure File Storage and Excel Online (Business) connectors",
+      "excerpt": "Azure File Storage and Excel Online (Business) Connector upgrade",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/updates-to-the-azure-file-storage-and-excel-online-business-connectors/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/updates-to-the-azure-file-storage-and-excel-online-business-connectors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-19T08:53:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2021-04-18-april-2021-power-apps-community-call-persistent-apps-in-teams-tabs-custom-functions-libraries-and-gestalt-design-principles.md",
       "title": "April 2021 Power Apps Community Call: persistent apps in Teams tabs, custom functions libraries and gestalt design principles",
       "excerpt": "The April Power Apps community call will be covering: &#8216;Make your Power Apps sessions persistent when switching Teams tabs!&#8217;. Power Apps custom Functions Library and Rory Neary will deliver the final technical session on Make your Power Apps user experience awesome with Gestalt design principles.",
@@ -1207,57 +1258,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-02-22T09:58:28-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-azure-active-directory-group-membership.md",
-      "title": "Azure Active Directory group membership",
-      "excerpt": "In this feature overview video series, we highlight new capabilities included in the latest update to Microsoft Power Apps.  Power Apps Dataverse provides record level security to Azure Active Directory group membership types. Admins can easily set up and assign permissions to different Azure AD users,",
-      "sourceUrl": null,
-      "webUrl": null,
-      "originalUrl": "https://youtube.com/watch?v=GW2Rz53BX6o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GW2Rz53BX6o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GW2Rz53BX6o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-22T08:00:26-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
