@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/power-platform-develope
 webUrl: "https://powerapps.microsoft.com/en-us/blog/power-platform-developers-tool-october-update/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:
