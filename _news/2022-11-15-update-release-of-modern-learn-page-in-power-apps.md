@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/update-release-of-moder
 webUrl: "https://powerapps.microsoft.com/en-us/blog/update-release-of-modern-learn-page-in-power-apps/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:
