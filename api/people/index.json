@@ -38,7 +38,7 @@
       "topics": [
         "Power Apps"
       ],
-      "heat": 78,
+      "heat": 153,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1326986540329918465/W_IJ6Ih2_400x400.jpg",
@@ -64,7 +64,7 @@
       "twitter": {
         "username": "ShanesCows",
         "url": "https://twitter.com/ShanesCows",
-        "followers": 17814
+        "followers": 17815
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/cincyshane"
@@ -72,13 +72,44 @@
       "topics": [
         "Power Apps"
       ],
-      "heat": 78,
+      "heat": 135,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/713100007398883329/qUzvsvQ3_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Shane Young",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/reza-dorrani.md",
+      "title": "Charles Lamanna",
+      "excerpt": "Father | Speaker | Trainer | MVP | #PowerApps & #PowerAutomate Community Super User | YouTuber Right-pointing triangle http://youtube.com/c/rezadorrani | Learn - Share - Clockwise rightwards and leftwards open circle arrows",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/people/reza-dorrani/index.json",
+      "webUrl": "https://everyday.cc/powerapps/people/reza-dorrani/",
+      "type": "profile",
+      "name": "Charles Lamanna",
+      "bio": "Father | Speaker | Trainer | MVP | #PowerApps & #PowerAutomate Community Super User | YouTuber Right-pointing triangle http://youtube.com/c/rezadorrani | Learn - Share - Clockwise rightwards and leftwards open circle arrows",
+      "location": "Houston, TX",
+      "website": "https://t.co/tAcqSdqguf",
+      "twitter": {
+        "username": "rezadorrani",
+        "url": "https://twitter.com/rezadorrani",
+        "followers": 8967
+      },
+      "topics": [
+        "Power Apps"
+      ],
+      "heat": 115,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1063114045270777856/qeT-jpWr_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Charles Lamanna",
           "isCached": true
         }
       ],
@@ -97,7 +128,7 @@
       "twitter": {
         "username": "clamanna",
         "url": "https://twitter.com/clamanna",
-        "followers": 5121
+        "followers": 5120
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/charleslamanna"
@@ -118,7 +149,7 @@
       "topics": [
         "Power Apps"
       ],
-      "heat": 50,
+      "heat": 77,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1263202626922876928/g6qGbHZ-_400x400.jpg",
@@ -165,7 +196,7 @@
       "topics": [
         "Power Apps"
       ],
-      "heat": 50,
+      "heat": 57,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/378800000719674009/a36fe7ddfab1778b76e5793772e43798_400x400.jpeg",
@@ -190,7 +221,7 @@
       "twitter": {
         "username": "rc_says",
         "url": "https://twitter.com/rc_says",
-        "followers": 3008
+        "followers": 3007
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/rycu"
@@ -211,44 +242,13 @@
       "topics": [
         "Power Apps"
       ],
-      "heat": 18,
+      "heat": 42,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/459747717862805504/CJIGZejd_400x400.png",
           "width": 400,
           "height": 400,
           "title": "Ryan Cunningham",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/reza-dorrani.md",
-      "title": "Charles Lamanna",
-      "excerpt": "Father | Speaker | Trainer | MVP | #PowerApps & #PowerAutomate Community Super User | YouTuber Right-pointing triangle http://youtube.com/c/rezadorrani | Learn - Share - Clockwise rightwards and leftwards open circle arrows",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/people/reza-dorrani/index.json",
-      "webUrl": "https://everyday.cc/powerapps/people/reza-dorrani/",
-      "type": "profile",
-      "name": "Charles Lamanna",
-      "bio": "Father | Speaker | Trainer | MVP | #PowerApps & #PowerAutomate Community Super User | YouTuber Right-pointing triangle http://youtube.com/c/rezadorrani | Learn - Share - Clockwise rightwards and leftwards open circle arrows",
-      "location": "Houston, TX",
-      "website": "https://t.co/tAcqSdqguf",
-      "twitter": {
-        "username": "rezadorrani",
-        "url": "https://twitter.com/rezadorrani",
-        "followers": 8968
-      },
-      "topics": [
-        "Power Apps"
-      ],
-      "heat": 0,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1063114045270777856/qeT-jpWr_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Charles Lamanna",
           "isCached": true
         }
       ],
