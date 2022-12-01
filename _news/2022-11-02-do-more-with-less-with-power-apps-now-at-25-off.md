@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/do-more-with-less-with-
 webUrl: "https://powerapps.microsoft.com/en-us/blog/do-more-with-less-with-power-apps-now-at-25-off/"
 type: article
 quality: 87
-heat: 87
+heat: 90
 published: true
 
 provider:
