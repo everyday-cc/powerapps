@@ -2,6 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-01-06-you-can-now-share-dataverse-for-teams-apps-beyond-a-team.md",
+      "title": "You can now share Dataverse for Teams apps beyond a team",
+      "excerpt": "With broad distribution apps, you can now take an app that was built within a Teams team and share it with others inside of your company. This means you and a centralized development team can now build an app on top of Dataverse for Teams and then share it with a bunch of users who don’t belong to the",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/you-can-now-share-dataverse-for-teams-apps-beyond-a-team/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/you-can-now-share-dataverse-for-teams-apps-beyond-a-team/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-06T00:00:30-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Teams integration"
+      ]
+    },
+    {
       "path": "_news/2021-01-05-simple-image-control-for-model-driven-apps.md",
       "title": "Simple Image control for model driven apps",
       "excerpt": "Today we&#8217;re pleased to announce the addition of the simple image control for model driven apps.",
@@ -1214,57 +1266,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-11-12T18:57:06-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-making-the-timeline-maker-more-productive.md",
-      "title": "Making the timeline maker more productive",
-      "excerpt": "Making the timeline maker more productive",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/making-the-timeline-maker-more-productive/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/making-the-timeline-maker-more-productive/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-12T10:35:05-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
