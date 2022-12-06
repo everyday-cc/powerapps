@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/delegate-the-mailbox-ap
 webUrl: "https://powerapps.microsoft.com/en-us/blog/delegate-the-mailbox-approval-process/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:
