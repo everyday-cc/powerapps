@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/automate-deployments-wi
 webUrl: "https://powerapps.microsoft.com/en-us/blog/automate-deployments-with-power-platform-pipelines-now-in-preview/"
 type: article
 quality: 72
-heat: 75
+heat: 72
 published: true
 
 provider:
