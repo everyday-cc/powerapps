@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/virtual-tables-creation
 webUrl: "https://powerapps.microsoft.com/en-us/blog/virtual-tables-creation-wizard-now-in-public-preview/"
 type: article
 quality: 72
-heat: 73
+heat: 74
 published: true
 
 provider:
