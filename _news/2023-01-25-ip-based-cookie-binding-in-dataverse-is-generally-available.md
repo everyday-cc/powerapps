@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/ip-based-cookie-binding
 webUrl: "https://powerapps.microsoft.com/en-us/blog/ip-based-cookie-binding-in-dataverse-is-generally-available/"
 type: article
 quality: 72
-heat: 74
+heat: 72
 published: true
 
 provider:
