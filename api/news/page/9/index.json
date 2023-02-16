@@ -2,6 +2,57 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-05-24-three-new-power-apps-solutions-to-enhance-information-discovery-and-create-more-inclusive-organizations.md",
+      "title": "Three new Power Apps Solutions to enhance information discovery and create more inclusive organizations",
+      "excerpt": "We are excited to announce the preview release of three new Power Apps Solutions on Dataverse for Teams: Profile+, Boards, and Perspectives. These apps are an addition to the series of extendable sample apps such as Employee Ideas, Inspections, Issue Reporting, Bulletins, and Milestones. These template",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/enhance-information-discovery-and-create-more-inclusive-organizations-with-three-new-power-apps-solutions/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/enhance-information-discovery-and-create-more-inclusive-organizations-with-three-new-power-apps-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-24T15:41:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2021-05-23-spanish-business-apps-summit-june-4th-and-5th.md",
       "title": "Spanish Business Apps Summit June 4th and 5th",
       "excerpt": "The Spanish Business Apps Summit is the collaboration of Power Platform and Dynamics community members, Microsoft Staff, 65 Community Speakers and local user groups to offer two days of bilingual Spanish content. https://bizzsummit.es/",
@@ -1209,57 +1260,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-03-24T23:00:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-power-apps-makers-fix-your-solution-woes-with-smart-xml-diffing.md",
-      "title": "Power Apps makers fix your solution woes with Smart XML Diffing",
-      "excerpt": "New to Power Apps, Smart XML Diffing can be a real time saver for you and your development team. The tool is a quick gateway to review the changes between component solution layers.",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-makers-fix-your-solution-woes-with-smart-xml-diffing/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-makers-fix-your-solution-woes-with-smart-xml-diffing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-24T04:50:52-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
