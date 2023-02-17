@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-03-31-introducing-microsoft-power-platform-api-preview.md",
+      "title": "Introducing Microsoft Power Platform API (preview)",
+      "excerpt": "Power Platform API acts as a gateway or a single API surface that harmonizes the internal APIs from feature areas of the platform.  This results in a single endpoint (ex. api.powerplatform.com) for customers to use along with a unified set of Permissions and claims that can be requested from Azure Active",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/introducing-microsoft-power-platform-api-preview/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/introducing-microsoft-power-platform-api-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/03/ppapi-blog-1.png",
+          "width": 2096,
+          "height": 1051,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-30T20:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2022-03-30-runtime-localization-support-for-code-components-on-custom-pages-and-canvas-apps.md",
       "title": "Runtime localization support for Code components on Custom pages and Canvas apps",
       "excerpt": "Runtime localization support for Code Components on Custom pages and Canvas apps",
@@ -1234,57 +1285,6 @@
       "topics": [
         "Power Apps",
         "Model-driven apps"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-14-year-old-boy-digitally-transforms-a-child-daycare-facility-through-microsoft-power-apps.md",
-      "title": "14 year-old boy digitally transforms a child daycare facility through Microsoft Power Apps",
-      "excerpt": "Today, we share a story of a 14 year old boy, Kazuki from Japan who empowers others through Power Apps.",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/boy-digitally-transforms-a-child-daycare-facility/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/boy-digitally-transforms-a-child-daycare-facility/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-default-image.png",
-          "width": 1600,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-03T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
       ]
     }
   ],
