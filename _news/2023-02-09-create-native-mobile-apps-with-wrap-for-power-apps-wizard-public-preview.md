@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/create-native-mobile-ap
 webUrl: "https://powerapps.microsoft.com/en-us/blog/create-native-mobile-apps-with-wrap-for-power-apps-wizard-public-preview/"
 type: article
 quality: 85
-heat: 85
+heat: 86
 published: true
 
 provider:
