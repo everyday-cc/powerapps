@@ -17,7 +17,7 @@
       "twitter": {
         "username": "aprildunnam",
         "url": "https://twitter.com/aprildunnam",
-        "followers": 15796
+        "followers": 15870
       },
       "linkedin": {
         "url": "https://www.linkedin.com/public-profile/in/april-dunnam"
@@ -38,13 +38,59 @@
       "topics": [
         "Power Apps"
       ],
-      "heat": 121,
+      "heat": 128,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1326986540329918465/W_IJ6Ih2_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "April Dunnam",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/charles-lamanna.md",
+      "title": "Charles Lamanna",
+      "excerpt": "CVP at Microsoft, Founder @ MetricsHub. Works on Power Apps, Power Automate, Power Virtual Agent, Common Data Service and Dynamics 365.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/people/charles-lamanna/index.json",
+      "webUrl": "https://everyday.cc/powerapps/people/charles-lamanna/",
+      "type": "profile",
+      "name": "Charles Lamanna",
+      "bio": "CVP at Microsoft, Founder @ MetricsHub. Works on Power Apps, Power Automate, Power Virtual Agent, Common Data Service and Dynamics 365.",
+      "location": "Bellevue, WA",
+      "twitter": {
+        "username": "clamanna",
+        "url": "https://twitter.com/clamanna",
+        "followers": 5360
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/charleslamanna"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power Apps"
+      ],
+      "heat": 99,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1263202626922876928/g6qGbHZ-_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Charles Lamanna",
           "isCached": true
         }
       ],
@@ -64,12 +110,12 @@
       "twitter": {
         "username": "rezadorrani",
         "url": "https://twitter.com/rezadorrani",
-        "followers": 9529
+        "followers": 9555
       },
       "topics": [
         "Power Apps"
       ],
-      "heat": 117,
+      "heat": 89,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1063114045270777856/qeT-jpWr_400x400.jpg",
@@ -95,7 +141,7 @@
       "twitter": {
         "username": "ShanesCows",
         "url": "https://twitter.com/ShanesCows",
-        "followers": 18309
+        "followers": 18336
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/cincyshane"
@@ -103,105 +149,13 @@
       "topics": [
         "Power Apps"
       ],
-      "heat": 117,
+      "heat": 87,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/713100007398883329/qUzvsvQ3_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Shane Young",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/charles-lamanna.md",
-      "title": "Charles Lamanna",
-      "excerpt": "CVP at Microsoft, Founder @ MetricsHub. Works on Power Apps, Power Automate, Power Virtual Agent, Common Data Service and Dynamics 365.",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/people/charles-lamanna/index.json",
-      "webUrl": "https://everyday.cc/powerapps/people/charles-lamanna/",
-      "type": "profile",
-      "name": "Charles Lamanna",
-      "bio": "CVP at Microsoft, Founder @ MetricsHub. Works on Power Apps, Power Automate, Power Virtual Agent, Common Data Service and Dynamics 365.",
-      "location": "Bellevue, WA",
-      "twitter": {
-        "username": "clamanna",
-        "url": "https://twitter.com/clamanna",
-        "followers": 5325
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/charleslamanna"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power Apps"
-      ],
-      "heat": 106,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1263202626922876928/g6qGbHZ-_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Charles Lamanna",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/ryan-cunningham.md",
-      "title": "Ryan Cunningham",
-      "excerpt": "Product Lead for Microsoft PowerApps",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/people/ryan-cunningham/index.json",
-      "webUrl": "https://everyday.cc/powerapps/people/ryan-cunningham/",
-      "type": "profile",
-      "name": "Ryan Cunningham",
-      "bio": "Product Lead for Microsoft PowerApps",
-      "location": "Seattle, WA",
-      "twitter": {
-        "username": "rc_says",
-        "url": "https://twitter.com/rc_says",
-        "followers": 3014
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/rycu"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power Apps"
-      ],
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/459747717862805504/CJIGZejd_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Ryan Cunningham",
           "isCached": true
         }
       ],
@@ -249,6 +203,52 @@
           "width": 400,
           "height": 400,
           "title": "Sameer Bhangar",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/ryan-cunningham.md",
+      "title": "Ryan Cunningham",
+      "excerpt": "Product Lead for Microsoft PowerApps",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/people/ryan-cunningham/index.json",
+      "webUrl": "https://everyday.cc/powerapps/people/ryan-cunningham/",
+      "type": "profile",
+      "name": "Ryan Cunningham",
+      "bio": "Product Lead for Microsoft PowerApps",
+      "location": "Seattle, WA",
+      "twitter": {
+        "username": "rc_says",
+        "url": "https://twitter.com/rc_says",
+        "followers": 3011
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/rycu"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power Apps"
+      ],
+      "heat": 47,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/459747717862805504/CJIGZejd_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Ryan Cunningham",
           "isCached": true
         }
       ],
