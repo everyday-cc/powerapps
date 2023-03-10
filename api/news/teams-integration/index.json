@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-08-easily-design-and-automatically-send-actionable-data-driven-cards-in-teams.md",
+      "title": "Easily design and automatically send actionable, data-driven cards in Teams",
+      "excerpt": "Cards for Power Apps is a recent addition to the low code lineup, announced as public preview in September, that empowers business users and developers alike to create interactive, embeddable, data-driven, lightweight mini-apps that bring context and actions directly into Teams conversations. Today we",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/easily-design-and-automatically-send-actionable-data-driven-cards-in-teams/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/easily-design-and-automatically-send-actionable-data-driven-cards-in-teams/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/03/cards-intelligent-suggestions.png",
+          "width": 715,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-08T02:36:25-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Teams integration"
+      ]
+    },
+    {
       "path": "_news/2022-05-24-rich-actionable-previews-and-power-apps-integration-are-coming-to-microsoft-teams.md",
       "title": "Rich actionable previews and Power Apps integration are coming to Microsoft Teams",
       "excerpt": "This feature will hit preview in summer. During the same time period, low-code developers will be able to take advantage of collaboration controls in Power Apps to integrate Teams and Microsoft 365 collaboration features such as Chat, Meetings, Tasks ...",

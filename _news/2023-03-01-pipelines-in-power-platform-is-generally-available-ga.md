@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/pipelines-in-power-plat
 webUrl: "https://powerapps.microsoft.com/en-us/blog/pipelines-in-power-platform-is-generally-available-ga/"
 type: article
 quality: 72
-heat: 73
+heat: 72
 published: true
 
 provider:
