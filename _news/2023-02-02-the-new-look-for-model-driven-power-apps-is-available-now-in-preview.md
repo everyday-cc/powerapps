@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/the-new-look-for-model-
 webUrl: "https://powerapps.microsoft.com/en-us/blog/the-new-look-for-model-driven-power-apps-is-available-now-in-preview/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

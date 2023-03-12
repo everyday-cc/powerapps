@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/kao-uses-power-apps-to-
 webUrl: "https://powerapps.microsoft.com/en-us/blog/kao-uses-power-apps-to-boost-frontline-worker-efficiency-by-480-hours-every-month/"
 type: article
 quality: 82
-heat: 83
+heat: 82
 published: true
 
 provider:
