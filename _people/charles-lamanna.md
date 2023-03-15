@@ -3,7 +3,7 @@ name: "Charles Lamanna"
 bio: "CVP at Microsoft, Founder @ MetricsHub. Works on Power Apps, Power Automate, Power Virtual Agent, Common Data Service and Dynamics 365."
 location: Bellevue, WA
 type: "profile"
-heat: 89
+heat: 58
 
 affiliation:
   name: Microsoft
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Charles Lamanna"
 
-secured: "m0kjhOJUyz4qssnqE/doQka7qZpOkU7Tl7FZoOdBXL1jyeqMXo0TWcWGolDF1igGD2k7FgsCeHhKGJ+ZWKBOyCmjtuCGgk9WooOalqHDejlT1cXSWizSnP7enLu/6A1EaBNKMNESpdDyx7X9SWNY8q4+iW75VtYhvf+bv3wfWACINvjKQu6yd12Wa8RNz6eBlFAEGBOOUcM1PtY8tm95vZYyV+OMz1n4pZKOT1UKHTcoAr7//h8gyqyffARGiwKouhDU99+3MQCyg5AjNuwpZEzxAm0bi5Ca+YebhSSlpekgoMdnHV1/9/VVI1Req/o7865fx3ZMiFJG4/fFRRvEb+XqqYfDXG3OX3uINd1jIvcW61oyHKOlTgUFnfPIYyVFMCcuNX0dzyznhbropRKrfKadVMYDETlxiqke6QKehs0=;EcimmUa6Ywp5iu5JrolcGA=="
+secured: "WKAV/KQB/fm1qgc0m2JSjw2D5Akz2OT4iv0nH+J9t9Nhmc1cvbAM4+AdJFora8SEKq3L3tVzfyfrofmM/5SsAZmJocnmLdzE4kRBPJn3YiJ5JShuHg4nylTkboWreAfIcqv61HEkkU6kIbjoG4kzqcGqc1KxZJiKUeD0TOTjcpRT+EGwHM8lYG/Jzuc6/ooMECPO7UlmJ931dmC4DgPWyEGCheELDpSoiggDM5svroM1f3sZNVYy1/76e+Z2dwOtCTNafDSDYoq4QUR9Nx0jBXD1bPOBoKgQ95HFrnUZ0BQZ+7s8MXDgmJ8Y7KHTSzxSbVCvLG1LSdZul0ikZFi3ZJ1dfiTvB7YxcoSQgUobNsa/no2NVl9LHu+boBx3DQRXLwnNuWMdWxe636VmgoZuP8WHmTNb3X89h7mxRGtMgiU=;opT4kzaniwUbmO3fB6nKyw=="
 ---
 
