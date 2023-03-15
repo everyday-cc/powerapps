@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-10-26-announcing-general-availability-of-power-apps-ideas.md",
+      "title": "Announcing general availability of Power Apps Ideas",
+      "excerpt": "We&#8217;re pleased to announce that Power Apps Ideas are now generally available. Now you can easily write a Power Fx formula using natural language or examples. ",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-of-power-apps-ideas/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-of-power-apps-ideas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/10/nl2fx_ga_blog.gif",
+          "width": 1915,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-26T02:49:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2022-10-25-making-it-easier-to-work-with-the-right-environment.md",
       "title": "Making it easier to work with the right environment",
       "excerpt": "We are pleased to announce the general availability of the enhanced environment picking experience. The enhanced environment picking experience makes it easier to find the right environment to work with. For example, makers can now directly tell environments with Dataverse apart from those without Dataverse,",
@@ -1203,57 +1254,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-07-17T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2022-07-13-improve-monitoring-of-dataverse-plugins-using-application-insights.md",
-      "title": "Improve monitoring of Dataverse plugins using Application insights",
-      "excerpt": "Announcing General Availability of Application Insights for plugins",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/improve-monitoring-of-dataverse-plugins-using-application-insights/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/improve-monitoring-of-dataverse-plugins-using-application-insights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/07/appinsightslinkedtoenvironment-1-1.gif",
-          "width": 1448,
-          "height": 848,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-13T03:58:55-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
