@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/switch-directories-in-p
 webUrl: "https://powerapps.microsoft.com/en-us/blog/switch-directories-in-power-apps-mobile/"
 type: article
 quality: 87
-heat: 88
+heat: 89
 published: true
 
 provider:
