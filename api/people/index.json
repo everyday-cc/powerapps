@@ -4,52 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_people/charles-lamanna.md",
-      "title": "Charles Lamanna",
-      "excerpt": "CVP at Microsoft, Founder @ MetricsHub. Works on Power Apps, Power Automate, Power Virtual Agent, Common Data Service and Dynamics 365.",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/people/charles-lamanna/index.json",
-      "webUrl": "https://everyday.cc/powerapps/people/charles-lamanna/",
-      "type": "profile",
-      "name": "Charles Lamanna",
-      "bio": "CVP at Microsoft, Founder @ MetricsHub. Works on Power Apps, Power Automate, Power Virtual Agent, Common Data Service and Dynamics 365.",
-      "location": "Bellevue, WA",
-      "twitter": {
-        "username": "clamanna",
-        "url": "https://twitter.com/clamanna",
-        "followers": 5427
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/charleslamanna"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power Apps"
-      ],
-      "heat": 178,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1263202626922876928/g6qGbHZ-_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Charles Lamanna",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_people/april-dunnam.md",
       "title": "April Dunnam",
       "excerpt": "Partner Technical Architect @Microsoft | Blogger-Speaker | #PowerApps, #PowerAutomate, #Office365, #SharePoint | #WIT | #Karaoke Queen",
@@ -63,7 +17,7 @@
       "twitter": {
         "username": "aprildunnam",
         "url": "https://twitter.com/aprildunnam",
-        "followers": 16014
+        "followers": 16016
       },
       "linkedin": {
         "url": "https://www.linkedin.com/public-profile/in/april-dunnam"
@@ -97,37 +51,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/reza-dorrani.md",
-      "title": "Charles Lamanna",
-      "excerpt": "Father | Speaker | Trainer | MVP | #PowerApps & #PowerAutomate Community Super User | YouTuber Right-pointing triangle http://youtube.com/c/rezadorrani | Learn - Share - Clockwise rightwards and leftwards open circle arrows",
-      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/people/reza-dorrani/index.json",
-      "webUrl": "https://everyday.cc/powerapps/people/reza-dorrani/",
-      "type": "profile",
-      "name": "Charles Lamanna",
-      "bio": "Father | Speaker | Trainer | MVP | #PowerApps & #PowerAutomate Community Super User | YouTuber Right-pointing triangle http://youtube.com/c/rezadorrani | Learn - Share - Clockwise rightwards and leftwards open circle arrows",
-      "location": "Houston, TX",
-      "website": "https://t.co/tAcqSdqguf",
-      "twitter": {
-        "username": "rezadorrani",
-        "url": "https://twitter.com/rezadorrani",
-        "followers": 9617
-      },
-      "topics": [
-        "Power Apps"
-      ],
-      "heat": 116,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1063114045270777856/qeT-jpWr_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Charles Lamanna",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_people/shane-young.md",
       "title": "Shane Young",
       "excerpt": "SharePoint & PowerApps MVP - SharePoint, O365, Flow, PowerApps consulting? @PowerApps911 | Pure Snark? You found it.",
@@ -141,7 +64,7 @@
       "twitter": {
         "username": "ShanesCows",
         "url": "https://twitter.com/ShanesCows",
-        "followers": 18381
+        "followers": 18382
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/cincyshane"
@@ -149,13 +72,90 @@
       "topics": [
         "Power Apps"
       ],
-      "heat": 99,
+      "heat": 115,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/713100007398883329/qUzvsvQ3_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Shane Young",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/reza-dorrani.md",
+      "title": "Charles Lamanna",
+      "excerpt": "Father | Speaker | Trainer | MVP | #PowerApps & #PowerAutomate Community Super User | YouTuber Right-pointing triangle http://youtube.com/c/rezadorrani | Learn - Share - Clockwise rightwards and leftwards open circle arrows",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/people/reza-dorrani/index.json",
+      "webUrl": "https://everyday.cc/powerapps/people/reza-dorrani/",
+      "type": "profile",
+      "name": "Charles Lamanna",
+      "bio": "Father | Speaker | Trainer | MVP | #PowerApps & #PowerAutomate Community Super User | YouTuber Right-pointing triangle http://youtube.com/c/rezadorrani | Learn - Share - Clockwise rightwards and leftwards open circle arrows",
+      "location": "Houston, TX",
+      "website": "https://t.co/tAcqSdqguf",
+      "twitter": {
+        "username": "rezadorrani",
+        "url": "https://twitter.com/rezadorrani",
+        "followers": 9619
+      },
+      "topics": [
+        "Power Apps"
+      ],
+      "heat": 112,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1063114045270777856/qeT-jpWr_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Charles Lamanna",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/charles-lamanna.md",
+      "title": "Charles Lamanna",
+      "excerpt": "CVP at Microsoft, Founder @ MetricsHub. Works on Power Apps, Power Automate, Power Virtual Agent, Common Data Service and Dynamics 365.",
+      "sourceUrl": "https://everyday-cc.github.io/powerapps/api/people/charles-lamanna/index.json",
+      "webUrl": "https://everyday.cc/powerapps/people/charles-lamanna/",
+      "type": "profile",
+      "name": "Charles Lamanna",
+      "bio": "CVP at Microsoft, Founder @ MetricsHub. Works on Power Apps, Power Automate, Power Virtual Agent, Common Data Service and Dynamics 365.",
+      "location": "Bellevue, WA",
+      "twitter": {
+        "username": "clamanna",
+        "url": "https://twitter.com/clamanna",
+        "followers": 5428
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/charleslamanna"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power Apps"
+      ],
+      "heat": 108,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1263202626922876928/g6qGbHZ-_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Charles Lamanna",
           "isCached": true
         }
       ],
@@ -195,7 +195,7 @@
       "topics": [
         "Power Apps"
       ],
-      "heat": 57,
+      "heat": 64,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/459747717862805504/CJIGZejd_400x400.png",
@@ -242,7 +242,7 @@
       "topics": [
         "Power Apps"
       ],
-      "heat": 42,
+      "heat": 50,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/378800000719674009/a36fe7ddfab1778b76e5793772e43798_400x400.jpeg",
