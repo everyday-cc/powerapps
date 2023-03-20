@@ -2,6 +2,161 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-09-15-power-apps-at-microsoft-ignite-virtual-conference.md",
+      "title": "Power Apps at Microsoft Ignite Virtual Conference",
+      "excerpt": "As has been the case this entire year due to these unprecedented circumstances, we will be delivering Microsoft Ignite virtually this year September 22-24.  If you have not registered already, there’s still time so we hope you take a few minutes and Register Here.  Power Apps will be featured prominently",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-at-microsoft-ignite-virtual-conference/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-at-microsoft-ignite-virtual-conference/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-default-image.png",
+          "width": 1600,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-15T03:32:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-september-16th-power-apps-community-call-canvas-app-design-components-themes-and-connecting-power-virtual-agents-to-ms-graph.md",
+      "title": "September 16th Power Apps community call: Canvas App Design, components, themes and connecting Power Virtual Agents to MS Graph",
+      "excerpt": "For the September Power Apps community call hosted by Todd Baginski has guest speakers Geetha Sivasailam walking through a collection of Power Apps tips and tricks for incredible designs. Emmanuel Gallis will then share his component and theming tools for making Power Apps application creation even faster",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/september-16th-power-apps-community-call-canvas-app-design-components-themes-and-connecting-power-virtual-agents-to-ms-graph/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/september-16th-power-apps-community-call-canvas-app-design-components-themes-and-connecting-power-virtual-agents-to-ms-graph/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-default-image.png",
+          "width": 1600,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-14T02:11:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_news/2020-08-21-power-apps-portals-web-api-support-public-preview.md",
+      "title": "Power Apps portals Web API support (public preview)",
+      "excerpt": "Portals Web API enables building a richer user experience inside Power Apps portals pages. You can use Web API to create, update, and delete operations across Common Data Service entities (excluding configuration entities) from your portal pages.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-portals-web-api-support-public-preview/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-portals-web-api-support-public-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-default-image.png",
+          "width": 1600,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-21T12:46:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Portals"
+      ]
+    },
+    {
       "path": "_news/2020-08-19-troubleshoot-forms-in-a-model-driven-app.md",
       "title": "Troubleshoot Forms in a Model Driven App",
       "excerpt": "You can now troubleshoot forms in model driven apps using the new monitoring tool.",
