@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/call-dataverse-actions-
 webUrl: "https://powerapps.microsoft.com/en-us/blog/call-dataverse-actions-directly-in-power-fx-experimental-preview/"
 type: article
 quality: 72
-heat: 73
+heat: 72
 published: true
 
 provider:
