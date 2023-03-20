@@ -2,6 +2,57 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-08-02-try-out-the-power-apps-october-2021-release-wave-2-updates-today.md",
+      "title": "Try out the Power Apps October 2021 Release Wave 2 updates today!",
+      "excerpt": "The Power Apps October release wave 2 makes discovering data much easier and comes with enhanced UI experiences that are modern; take advantage of these now for your Model-driven apps.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/try-out-the-power-apps-october-2021-release-wave-2-updates-today/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/try-out-the-power-apps-october-2021-release-wave-2-updates-today/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-02T04:00:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2021-08-02-empowering-everyone-how-an-educator-became-a-power-apps-champion.md",
       "title": "Empowering everyone: How an educator became a Power Apps champion",
       "excerpt": "A high school assistant principal, Lauren, has no formal IT background or training. But she knew enough about technology to know that it could help her preserve valuable data about her students—data that was being lost due to outmoded collection techniques. While exploring what was possible with Microsoft",
@@ -1233,58 +1284,6 @@
       ],
       "topics": [
         "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-table-permissions-in-portals-studio.md",
-      "title": "Table Permissions in portals Studio",
-      "excerpt": "Introducing table permissions to portals Studio.",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/table-permissions-in-portals-studio/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/table-permissions-in-portals-studio/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-02T09:12:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps",
-        "Portals"
       ]
     }
   ],
