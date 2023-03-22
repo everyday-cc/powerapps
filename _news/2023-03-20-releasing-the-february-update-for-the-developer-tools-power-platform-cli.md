@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/releasing-the-february-
 webUrl: "https://powerapps.microsoft.com/en-us/blog/releasing-the-february-update-for-the-developer-tools-power-platform-cli/"
 type: article
 quality: 70
-heat: 70
+heat: 71
 published: true
 
 provider:
