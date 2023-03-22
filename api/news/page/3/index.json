@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-11-inline-editing-modern-browsing-and-more-with-the-new-power-apps-grid-control.md",
+      "title": "Inline editing, modern browsing, and more with the new Power Apps grid control",
+      "excerpt": "The new Power Apps grid control in model-driven apps is officially in public preview! This control can be used for both read-only and editable scenarios, supports infinite scrolling for a modern browsing experience, and allows pro-dev makers to customize the appearance of cells. Try it out today! ",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/inline-editing-modern-browsing-and-more-with-the-new-power-apps-grid-control/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/inline-editing-modern-browsing-and-more-with-the-new-power-apps-grid-control/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/07/gridEditing-07-12-2022.gif",
+          "width": 2110,
+          "height": 1090,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-11T06:38:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2022-08-09-creating-canvas-apps-as-dataverse-solutions-by-default-preview.md",
       "title": "Creating canvas apps as Dataverse solutions by default (preview)",
       "excerpt": "We are excited to announce the release of Canvas apps creation as Dataverse solutions by default in public preview",
@@ -1213,57 +1264,6 @@
       "topics": [
         "Power Apps",
         "Portals"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-thank-you-to-the-microsoft-power-platform-community.md",
-      "title": "Thank you to the Microsoft Power Platform community",
-      "excerpt": "Microsoft Power Apps and Microsoft Power Platform have come a long way since we announced four years ago, and we’re excited to share some significant milestones that we have recently achieved.",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/thank-you-to-the-microsoft-power-platform-community/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/thank-you-to-the-microsoft-power-platform-community/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/05/WIN22_Productivity_117.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-04T00:55:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
       ]
     }
   ],

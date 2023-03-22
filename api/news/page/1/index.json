@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-22-celebrating-the-first-graduates-of-the-microsoft-power-up-program.md",
+      "title": "Celebrating the first graduates of the Microsoft Power Up Program",
+      "excerpt": "Microsoft is a leader in enterprise low-code application platforms. We’re excited to announce that our first 18 learners have successfully graduated from the Microsoft Power Up Program, a 12-week skilling program designed to enable non-technical professionals to successfully advance their careers with",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/celebrating-the-first-graduates-of-the-microsoft-power-up-program/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/celebrating-the-first-graduates-of-the-microsoft-power-up-program/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/03/GraduationBadge.png",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T04:01:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2023-03-22-explore-new-capabilities-in-microsoft-power-apps-at-the-microsoft-business-applications-launch-event.md",
       "title": "Explore new capabilities in Microsoft Power Apps at the Microsoft Business Applications Launch Event",
       "excerpt": "Businesses today are constantly facing new and bigger challenges. Technology is diversifying and evolving faster than ever to address these issues, giving industries across the board a growing number of solutions to sift through.",
@@ -61,7 +112,7 @@
       "originalUrl": "https://sdtimes.com/microsoft/microsoft-introduces-ai-copilot-in-power-apps-to-improve-low-code-development/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -112,7 +163,7 @@
       "originalUrl": "https://powerapps.microsoft.com/en-us/blog/try-the-new-power-fx-formula-bar-in-power-apps-studio/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -163,7 +214,7 @@
       "originalUrl": "https://powerapps.microsoft.com/en-us/blog/powerapps-request-license/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1201,57 +1252,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-12-02T02:07:31-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2022-11-23-power-platform-developers-tool-october-update.md",
-      "title": "Power Platform Developers tool  October update  ",
-      "excerpt": "We are delighted to share our October update for the Power Platform Developer tools. With this update, we are releasing some capabilities that have been in high demand by the developer community. So let us get into it. Power platform Command line updates Model builder We are bringing the ability to generate",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/power-platform-developers-tool-october-update/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/power-platform-developers-tool-october-update/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/11/text-description-automatically-generated-2.png",
-          "width": 2455,
-          "height": 1416,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-23T01:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

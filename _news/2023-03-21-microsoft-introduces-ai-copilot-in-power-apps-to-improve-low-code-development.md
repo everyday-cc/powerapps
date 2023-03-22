@@ -7,7 +7,7 @@ originalUrl: "https://sdtimes.com/microsoft/microsoft-introduces-ai-copilot-in-p
 webUrl: "https://sdtimes.com/microsoft/microsoft-introduces-ai-copilot-in-power-apps-to-improve-low-code-development/"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

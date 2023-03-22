@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/try-the-new-power-fx-fo
 webUrl: "https://powerapps.microsoft.com/en-us/blog/try-the-new-power-fx-formula-bar-in-power-apps-studio/"
 type: article
 quality: 87
-heat: 88
+heat: 89
 published: true
 
 provider:
