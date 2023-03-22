@@ -2,6 +2,57 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-06-08-introducing-the-modern-app-designer-preview.md",
+      "title": "Introducing the Modern App Designer (Preview)",
+      "excerpt": "We are excited to introduce the modern app designer, a new authoring experience now available in Preview worldwide. It is now easier and faster than ever to build model-driven apps. With just a few clicks, you can get robust, powerful grids and forms on top of Dataverse, and preview your app changes",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/introducing-the-modern-app-designer-preview/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/introducing-the-modern-app-designer-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-08T02:00:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2021-06-04-canvas-app-settings-have-a-fresh-new-look.md",
       "title": "Canvas app settings have a fresh new look",
       "excerpt": "Canvas app settings have been updated to a modern look, recategorized according to feedback, and streamlined to help you find and set what&#8217;s important.",
@@ -1231,58 +1282,6 @@
       ],
       "topics": [
         "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-04-18-april-2021-power-apps-community-call-persistent-apps-in-teams-tabs-custom-functions-libraries-and-gestalt-design-principles.md",
-      "title": "April 2021 Power Apps Community Call: persistent apps in Teams tabs, custom functions libraries and gestalt design principles",
-      "excerpt": "The April Power Apps community call will be covering: &#8216;Make your Power Apps sessions persistent when switching Teams tabs!&#8217;. Power Apps custom Functions Library and Rory Neary will deliver the final technical session on Make your Power Apps user experience awesome with Gestalt design principles.",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/april-2021-power-apps-community-call-persistent-apps-in-teams-tabs-custom-functions-libraries-and-gestalt-design-principles/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/april-2021-power-apps-community-call-persistent-apps-in-teams-tabs-custom-functions-libraries-and-gestalt-design-principles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-18T02:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps",
-        "Teams integration"
       ]
     }
   ],
