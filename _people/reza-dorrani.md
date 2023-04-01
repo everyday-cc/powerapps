@@ -3,14 +3,14 @@ name: "Charles Lamanna"
 bio: "Father | Speaker | Trainer | MVP | #PowerApps & #PowerAutomate Community Super User | YouTuber Right-pointing triangle http://youtube.com/c/rezadorrani | Learn - Share - Clockwise rightwards and leftwards open circle arrows"
 location: Houston, TX
 type: "profile"
-heat: 91
+heat: 105
 
 website: https://t.co/tAcqSdqguf
 
 twitter:
   username: rezadorrani
   url: https://twitter.com/rezadorrani
-  followers: 9695
+  followers: 9694
 
 topics:
   - Power Apps
@@ -22,6 +22,6 @@ images:
     isCached: true
     title: "Charles Lamanna"
 
-secured: "1VF7KZcvEN4V9YdxV8kxInZiK0HJTfaBVMFJYijUXJmc98wOB87C5+2wZIYHZwH4f4bn4PfSM+cxYJwsShj1Qs3fb2FSuLZP/buGJP/RI9IlfIvqBa1rLO2px0B6VduIqagyU0dr/T0HjFRHlt6gAm0nxeNaGxGzVxIlvp3nvkNR2Mb797MzHzLEttD282CCkD0jIi8PYO4z3v/PmVMsI5jTEvg/n56UePWJU08N/YPsLaLTpPPC4K5M9Zv1WB+DGESpiQStrc2vAI9/COL4KKaJjIn0VST0xihbiR5sIpL9mgI0vPV0EkVzLEzohv/I7vd9ohf6K0w+Gv9jznnik2HWXBcy0jOaK3fQe1e3/IKiGlWU8mSKwcYIzUzQF3O1BO8hdeSCuDcMCX+EHufrqEzPFrmYU5KrRN8E9VAZ9hY=;ZTTHLelPJCsJxXJDEX2zPw=="
+secured: "bclRyc0vSFhHcggcZ7gK+Osec5COQlNS/ORvQvfql4YjKuDyw/jmq+659JHDVV4pFtmnF8xTL1WNqCMgFmgFXB7/YYVzMDM+QSc+QqnUUkZN56XDfqO5YfifR/Ayl4FZ4beFSHyyKJ2Paoe4phnqpPadArp6VyW57LnM1PtjiNsNZTsCRhc2hlIe9GxwHNplSGBB+Ft6oiEI7LS3cFkkHxAzRibxNJY+raSHWnHr3d12A3JBy/QAFYxcuVVMcQp0ZlBXNs6Re1gBFY2OVZzgfgwsa4K5vUEO54bBvgwdWSxov/rU2rGVFhdiLBu2ANHBTJyCCBZ48M4aGaWlwT21oLkg5f8/8buFPywki0ceBl2p7/y1GFZHjU0L5kgA4JypIIqkR1CMVVSUhksMnJq/MPKUn5UAQXfIdo4SuU6UANQ=;NCMmzqwqZixY7XGA/PyBcQ=="
 ---
 
