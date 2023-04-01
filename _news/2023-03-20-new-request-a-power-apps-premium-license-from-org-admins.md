@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/powerapps-request-licen
 webUrl: "https://powerapps.microsoft.com/en-us/blog/powerapps-request-license/"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:
