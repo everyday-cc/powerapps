@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/modern-controls-coming-
 webUrl: "https://powerapps.microsoft.com/en-us/blog/modern-controls-coming-to-canvas-apps/"
 type: article
 quality: 104
-heat: 106
+heat: 107
 published: true
 
 provider:
