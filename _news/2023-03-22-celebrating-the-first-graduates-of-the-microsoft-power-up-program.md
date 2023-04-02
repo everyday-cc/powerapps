@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/celebrating-the-first-g
 webUrl: "https://powerapps.microsoft.com/en-us/blog/celebrating-the-first-graduates-of-the-microsoft-power-up-program/"
 type: article
 quality: 72
-heat: 74
+heat: 73
 published: true
 
 provider:
