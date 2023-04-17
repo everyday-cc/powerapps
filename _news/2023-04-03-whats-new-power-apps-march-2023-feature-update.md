@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-ma
 webUrl: "https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-march-2023-feature-update/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:
