@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/create-a-custom-connect
 webUrl: "https://powerapps.microsoft.com/en-us/blog/create-a-custom-connector-for-your-web-api-from-within-visual-studio/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:

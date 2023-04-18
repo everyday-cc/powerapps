@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/power-apps-on-windows-u
 webUrl: "https://powerapps.microsoft.com/en-us/blog/power-apps-on-windows-updates/"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:
