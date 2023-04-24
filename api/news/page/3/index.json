@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-09-02-extend-modern-commands-with-custom-pages-and-geospatial-mapping.md",
+      "title": "Extend modern commands with custom pages and geospatial mapping",
+      "excerpt": "As a developer, learn how to extend Power Apps modern commanding by leveraging geospatial mapping with custom pages, and sending a notification about the map.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/extend-modern-commands-with-custom-pages-and-geospatial-mapping/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/extend-modern-commands-with-custom-pages-and-geospatial-mapping/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/08/image011.gif",
+          "width": 1463,
+          "height": 813,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-01T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2022-09-01-introducing-the-creator-kit-efficiently-create-performant-fluent-ui-based-power-apps.md",
       "title": "Introducing the Creator Kit – Efficiently create performant Fluent UI based Power Apps",
       "excerpt": "Today, we are proud to formally introduce the first stable release of the Power Platform Creator Kit – a free toolkit that optimizes development in Power Apps.",
@@ -1219,57 +1270,6 @@
       "topics": [
         "Power Apps",
         "Teams integration"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-new-turn-images-and-designs-into-apps-using-ai-powered-express-design.md",
-      "title": "New: turn images and designs into apps using AI-powered express design",
-      "excerpt": "The growth of low code right now is staggering. Gartner believes that over the next three years 70 percent of new applications inside of companies are going to be developed using low code. ",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/new-express-design-in-power-apps-converts-images-and-designs-to-apps-in-seconds/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/new-express-design-in-power-apps-converts-images-and-designs-to-apps-in-seconds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/05/Untitled.png",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T00:55:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
       ]
     }
   ],
