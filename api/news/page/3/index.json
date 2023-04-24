@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-09-06-3-primary-reasons-to-learn-dataverse.md",
+      "title": "3 Primary Reasons to Learn Dataverse",
+      "excerpt": "If you&#8217;ve been on the fence about learning Dataverse for your Power Platform solutions, then this blog is for you. We will explore proven motivators for learning, as well as using, Dataverse. It&#8217;s not only for Power Apps solutions; you will see that it can also facilitate data stewardship",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/3-primary-reasons-to-learn-dataverse/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/3-primary-reasons-to-learn-dataverse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/08/ALERTBordered.png",
+          "width": 671,
+          "height": 386,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-06T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2022-09-02-extend-modern-commands-with-custom-pages-and-geospatial-mapping.md",
       "title": "Extend modern commands with custom pages and geospatial mapping",
       "excerpt": "As a developer, learn how to extend Power Apps modern commanding by leveraging geospatial mapping with custom pages, and sending a notification about the map.",
@@ -1218,58 +1269,6 @@
       ],
       "topics": [
         "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-rich-actionable-previews-and-power-apps-integration-are-coming-to-microsoft-teams.md",
-      "title": "Rich actionable previews and Power Apps integration are coming to Microsoft Teams",
-      "excerpt": "This feature will hit preview in summer. During the same time period, low-code developers will be able to take advantage of collaboration controls in Power Apps to integrate Teams and Microsoft 365 collaboration features such as Chat, Meetings, Tasks ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/rich-actionable-previews-and-power-apps-integration-are-coming-to-microsoft-teams/",
-      "originalUrl": "https://www.neowin.net/news/rich-actionable-previews-and-power-apps-integration-are-coming-to-microsoft-teams/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2022/05/1653236335_hexagon_prototype_of_live_share_in_teams_story.jpg",
-          "width": 760,
-          "height": 439,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/rich-actionable-previews-and-power-apps-integration-are-coming-to-microsoft-teams/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/rich-actionable-previews-and-power-apps-integration-are-coming-to-microsoft-teams/",
-      "publishedDateTime": "2022-05-24T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps",
-        "Teams integration"
       ]
     }
   ],
