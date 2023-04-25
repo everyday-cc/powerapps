@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/updates-to-simplify-usi
 webUrl: "https://powerapps.microsoft.com/en-us/blog/updates-to-simplify-using-json/"
 type: article
 quality: 72
-heat: 74
+heat: 72
 published: true
 
 provider:
