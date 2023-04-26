@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-03-21-microsoft-makes-some-changes-to-paying-for-power-apps.md",
+      "title": "Microsoft makes some changes to paying for Power Apps",
+      "excerpt": "Microsoft has announced a new payment option for its Power Apps. The move means that along with its current user-based model, in which businesses rent out the services for each individual user, Microsoft is offering a pay-as-you-go plan,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/microsoft-power-apps-pricing-change",
+      "originalUrl": "https://www.techradar.com/news/microsoft-power-apps-pricing-change",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/cAewSdXkrLEUsD8muVzGX9-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-21T02:52:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2022-03-08-announcing-the-general-availability-of-pay-as-you-go-for-power-apps.md",
       "title": "Announcing the general availability of pay-as-you-go for Power Apps",
       "excerpt": "Pay-as-you-go for Power Apps is a new way to pay for Power Apps using an Azure subscription. Pay-as-you-go allows you to share a Power Apps app with any user in your organization and then only pay if and when they use that app. ",
@@ -1235,58 +1286,6 @@
       "topics": [
         "Power Apps",
         "Portals"
-      ]
-    },
-    {
-      "path": "_news/2021-11-14-november-2021-power-apps-community-call-power-apps-christmas-calendars-and-provisiongenie-an-open-source-provisioning-engine-for-microsoft.md",
-      "title": "November 2021 Power Apps community call:  Power Apps Christmas Calendars and ProvisionGenie an open-source provisioning engine for Microsoft Teams",
-      "excerpt": "The November Power Apps community call brings us two exciting topics: How to create calendaring applications (in this case a Christmas Advent calendar for the Holidays) and one of the hottest topics for the year: integrating the Power Platform and Microsoft Teams, specifically how to automate the deployment",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/november-2021-power-apps-community-call-power-apps-christmas-calendars-and-provisiongenie-an-open-source-provisioning-engine-for-microsoft-teams/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/november-2021-power-apps-community-call-power-apps-christmas-calendars-and-provisiongenie-an-open-source-provisioning-engine-for-microsoft-teams/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-default-image.png",
-          "width": 1600,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-14T01:00:50-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps",
-        "Teams integration"
       ]
     }
   ],
