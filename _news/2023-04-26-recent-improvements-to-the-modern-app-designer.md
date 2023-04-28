@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/recent-improvements-to-
 webUrl: "https://powerapps.microsoft.com/en-us/blog/recent-improvements-to-the-modern-app-designer/"
 type: article
 quality: 72
-heat: 73
+heat: 74
 published: true
 
 provider:
