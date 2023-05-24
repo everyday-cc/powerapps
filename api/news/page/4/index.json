@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-06-21-announcing-general-availability-of-power-apps-for-windows.md",
+      "title": "Announcing general availability of Power Apps for Windows",
+      "excerpt": "This week we are happy to announce the general availability (GA) of our new Power Apps application for Windows. This builds on the public preview announced April 2022 in Announcing Public Preview of a new Power Apps application on Windows.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-of-power-apps-for-windows/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-of-power-apps-for-windows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/06/PA-for-Windows.png",
+          "width": 494,
+          "height": 251,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-20T23:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2022-06-16-introducing-hebrew-and-arabic-languages-for-power-apps-portals.md",
       "title": "Introducing Hebrew and Arabic languages for Power Apps portals",
       "excerpt": "We are excited to announce Hebrew and Arabic language support for Power Apps portals",
@@ -1197,57 +1248,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-04-05T18:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2022-04-04-monitor-all-your-dataflow-refreshes-with-a-power-bi-dashboard.md",
-      "title": "Monitor all your Dataflow refreshes with a Power BI dashboard",
-      "excerpt": "Enhanced Dataflow Refresh History allows you to leverage the managed dataverse tables to view and monitor your dataflow refreshes in your environment.  ",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/monitor-all-your-dataflow-refreshes-with-a-power-bi-dashboard/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/monitor-all-your-dataflow-refreshes-with-a-power-bi-dashboard/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/03/Refresh-History-PBI-Dashboard-1024x573.png",
-          "width": 1024,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-04T01:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
