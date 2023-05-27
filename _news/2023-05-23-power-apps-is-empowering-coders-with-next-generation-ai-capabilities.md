@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/power-apps-is-empowerin
 webUrl: "https://powerapps.microsoft.com/en-us/blog/power-apps-is-empowering-coders-with-next-generation-ai-capabilities/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/safely-hyperscale-low-c
 webUrl: "https://powerapps.microsoft.com/en-us/blog/safely-hyperscale-low-code-apps-with-ease-using-microsoft-dataverse/"
 type: article
 quality: 72
-heat: 73
+heat: 72
 published: true
 
 provider:
