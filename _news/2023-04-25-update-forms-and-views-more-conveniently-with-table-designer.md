@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/update-forms-and-views-
 webUrl: "https://powerapps.microsoft.com/en-us/blog/update-forms-and-views-more-conveniently-with-table-designer/"
 type: article
 quality: 72
-heat: 73
+heat: 72
 published: true
 
 provider:
