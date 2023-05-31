@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-31-more-power-with-pipelines-in-power-platform.md",
+      "title": "More power with pipelines in Power Platform",
+      "excerpt": "It has been amazing to see how pipelines in Power Platform have been used over the past few months since the general availability (GA) release in March, saving companies like Lumen time and providing more accessibility to ALM. We are excited to announce that new features are now available in Pipelines!",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/more-power-with-pipelines-in-power-platform/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/more-power-with-pipelines-in-power-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/05/Blog-GIF-Overview-4.gif",
+          "width": 1822,
+          "height": 837,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-31T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2023-05-24-safely-hyperscale-low-code-apps-with-ease-using-microsoft-dataverse.md",
       "title": "Safely hyperscale low-code apps with ease using Microsoft Dataverse",
       "excerpt": "Microsoft Dataverse is saving development teams time and money by accelerating data-driven application development and streamlining data insights on an enterprise-grade low code data platform you can trust.",
@@ -1202,57 +1253,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-03-06T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2023-03-01-pipelines-in-power-platform-is-generally-available-ga.md",
-      "title": "Pipelines in Power Platform is Generally Available (GA)",
-      "excerpt": "We are pleased to announce that pipelines within Power Platform is generally available. Pipelines within Power Platform aim to democratize application lifecycle management (ALM) for Power Platform and Dynamics 365 customers by bringing deployment automation capabilities into the product in a manner that&#8217;s",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/pipelines-in-power-platform-is-generally-available-ga/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/pipelines-in-power-platform-is-generally-available-ga/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/02/Pipelines-Feature-Image-e1677641332448.png",
-          "width": 487,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-28T23:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
