@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/more-power-with-pipelin
 webUrl: "https://powerapps.microsoft.com/en-us/blog/more-power-with-pipelines-in-power-platform/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:
