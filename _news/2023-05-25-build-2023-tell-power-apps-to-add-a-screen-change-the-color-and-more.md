@@ -1,13 +1,13 @@
 ---
 category: news
-title: "Build 2023: Tell Power Apps to 'Add a Screen,' Change the Color' and More"
+title: "Build 2023: Tell Power Apps to 'Add a Screen,' 'Change the Color' and More"
 excerpt: "Could there be a better fit for an AI coding assistant than Microsoft's low-code Power Apps? The low code/no code movement was designed from the start to democratize software development, helping \"ordinary business users\" create their own business apps via ..."
-publishedDateTime: 2023-05-24T18:48:00Z
-originalUrl: "https://visualstudiomagazine.com/articles/2023/05/24/build-power-apps.aspx"
-webUrl: "https://visualstudiomagazine.com/articles/2023/05/24/build-power-apps.aspx"
+publishedDateTime: 2023-05-24T18:58:00Z
+originalUrl: "https://visualstudiomagazine.com/Articles/2023/05/24/build-power-apps.aspx?p=1"
+webUrl: "https://visualstudiomagazine.com/Articles/2023/05/24/build-power-apps.aspx?p=1"
 type: article
-quality: 36
-heat: 36
+quality: 35
+heat: 35
 published: false
 
 provider:
@@ -23,6 +23,6 @@ images:
     height: 450
     isCached: true
 
-secured: "hV8dwumQ60E8/dwKLED8LUtfB0jN6b2T/YzbuWbbedTak3fA+xgZlr0W6cTCYCKuyJe4jxOKkhAd1zj6pFRjfdXp7Q93OdcYZxnltCUF76bdwKL6pBGzKNhPX9I5s5vLHIkgUH44MvVTpE3M2UzdC06AKH5gQExnJxijaTFata4tIvGWGVAVHKEiNZilistNGbsmjHZ9UdFt3FoOpdMprxeDt7NJk60Bie+g3zOZj6GPGofPup1JXRc6Wzx4PHGeIFf35ufa0u0drtHJr2NyJZNtI7fwN71npHgQnc6xQhCWHcTiGkv1zL6x81wabr6JjHZDIWxWmCRH9ZfZiBkag1i6d4CDadpggRVFaiQeixU=;H7lsKgGrIx4lb1rXtyx9Jg=="
+secured: "itZU6dBm3l0x4wfq+TpeZSA8rt22nrN1dPyfYIKJRuUlG6K1QeAy25Wwsjbzz9NSvZfoq6OXCXuveHEhiztPcF8HZDeRz4nDoZ4vU1Ll72O5AVFE73354jh9qqAYQb8HQlFzJGS3wz+vO+LUXq+njw+MeYOmQCdAHEkh5QQiihuSY221bWYylQ1zW2fLAM3GnITcgeAcg8gowmEgHHwPSppkWx5LXt8eJ+5VJ5VsmNyO+6OWOTAqN1dqXRuf7PpwJjO6DlOTwpAdImhdrfF3fVpicTnVTmrt6QyvgB6y7s3kJuRoEJwYAIW0ewGiD6cKJGC709z4N2YtsMps0+Rc1TPkC1KTIojvpMnscgJ4a70=;dyZXipB5+roydojGJWusig=="
 ---
 
