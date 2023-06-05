@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-08-easily-design-and-automatically-send-actionable-data-driven-cards-in-teams.md",
+      "title": "Easily design and automatically send actionable, data-driven cards in Teams",
+      "excerpt": "Cards for Power Apps is a recent addition to the low code lineup, announced as public preview in September, that empowers business users and developers alike to create interactive, embeddable, data-driven, lightweight mini-apps that bring context and actions directly into Teams conversations. Today we",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/easily-design-and-automatically-send-actionable-data-driven-cards-in-teams/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/easily-design-and-automatically-send-actionable-data-driven-cards-in-teams/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/03/cards-intelligent-suggestions.png",
+          "width": 715,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-08T02:36:25-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Teams integration"
+      ]
+    },
+    {
       "path": "_news/2023-03-06-announcing-admin-configured-maker-welcome-experience-in-power-apps.md",
       "title": "Announcing admin-configured maker welcome experience in Power Apps",
       "excerpt": "We are pleased to announce that admin-configured maker welcome content is now available for the Power Apps maker portal. Today, admins rely on sending welcome emails, creating wikis, and setting up internal portals to educate makers. Since this information can be presented in so many different places,",
@@ -1200,57 +1252,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-10-26T02:49:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-making-it-easier-to-work-with-the-right-environment.md",
-      "title": "Making it easier to work with the right environment",
-      "excerpt": "We are pleased to announce the general availability of the enhanced environment picking experience. The enhanced environment picking experience makes it easier to find the right environment to work with. For example, makers can now directly tell environments with Dataverse apart from those without Dataverse,",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/making-it-easier-to-work-with-the-right-environment/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/making-it-easier-to-work-with-the-right-environment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/10/env-picker-GA-demo.gif",
-          "width": 1853,
-          "height": 1006,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-25T02:16:10-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

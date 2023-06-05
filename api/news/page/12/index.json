@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-02-08-ecolab-uses-microsoft-power-platform-to-create-a-unified-hub-for-sales-and-service-teams.md",
+      "title": "Ecolab uses Microsoft Power Platform to create a unified HUB for Sales and Service teams",
+      "excerpt": "The story of how Ecolab created a unified &#8220;HUB&#8221; experience for its sales and service staff to stay informed, view insights and complete tasks while on the go. The solution was created with Power Apps, Power Automate, Power BI, and Microsoft Dataverse. It integrates with Dynamics 365 and Azure",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/ecolab/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/ecolab/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2021/02/Ecolab_Banner_JPG.jpg",
+          "width": 2000,
+          "height": 925,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-08T00:00:05-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Teams integration"
+      ]
+    },
+    {
       "path": "_news/2021-02-07-january-2021-updates-for-microsoft-powerapps.md",
       "title": "January 2021 Updates for Microsoft PowerApps",
       "excerpt": "The January Power Apps feature recap for the Power Platform Global Bootcamp session: &#8220;What is new and exciting in Power Apps&#8221;: https://www.powerplatformbootcamp.com/",
@@ -1232,58 +1284,6 @@
       "topics": [
         "Power Apps",
         "Model-driven apps"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-power-apps-portals-capacity-consumption-reporting-is-now-available.md",
-      "title": "Power Apps portals capacity consumption reporting is now available",
-      "excerpt": "Administrators can now get visibility of their Power Apps portals logins and page views being consumed from the Power Platform Admin Center.",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-portals-capacity-consumption-reporting-is-now-available/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-portals-capacity-consumption-reporting-is-now-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-14T12:06:12-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps",
-        "Portals"
       ]
     }
   ],
