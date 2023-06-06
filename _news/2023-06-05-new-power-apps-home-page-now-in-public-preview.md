@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/new-power-apps-home-pag
 webUrl: "https://powerapps.microsoft.com/en-us/blog/new-power-apps-home-page-now-in-public-preview/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
