@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-10-31-whats-new-power-apps-october-2022-feature-update.md",
+      "title": "What’s new: Power Apps October 2022 Feature Update",
+      "excerpt": "Welcome to the Power Apps monthly feature update! We will use this blog to share a summary of product, community, and learning updates from throughout the month so you can access it in one easy place. A variety of new and highly anticipated features are now available which we are very excited to share.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-october-2022-feature-update/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-october-2022-feature-update/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/10/CELA-coauthoring-demo-1920-1.gif",
+          "width": 1920,
+          "height": 970,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-31T03:53:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2022-10-27-announcing-public-preview-of-coauthoring-in-modern-app-designer.md",
       "title": "Announcing public preview of coauthoring in Modern app designer ",
       "excerpt": "We are happy to announce that Coauthoring is now available in most of the regions allowing fusion teams to build better apps faster. With coauthoring you can see who is working on the same app at the same time, and you can see their applied changes in real-time. You don&#8217;t need to worry anymore",
@@ -1203,57 +1254,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-07-20T00:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-boost-maker-productivity-inside-dataverse-using-formula-columns.md",
-      "title": "Boost maker productivity inside Dataverse using formula columns!",
-      "excerpt": "Boost your productivity inside Dataverse using formula columns! ",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/boost-maker-productivity-inside-dataverse-using-formula-columns/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/boost-maker-productivity-inside-dataverse-using-formula-columns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/07/formulawalkthrough.gif",
-          "width": 1448,
-          "height": 848,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-18T05:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

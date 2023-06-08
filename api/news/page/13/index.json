@@ -2,6 +2,58 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-12-16-new-ai-builder-capabilities-are-now-generally-available.md",
+      "title": "New AI Builder capabilities are now generally available",
+      "excerpt": "Two AI builder preview capabilities are now generally available. Both new capabilities can be found under the Prediction model card in AI Builder. One of them is prediction of multiple outcomes, and the other is prediction of a numerical field. Features that are generally available are considered production",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/new-ai-builder-capabilities-are-now-generally-available/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/new-ai-builder-capabilities-are-now-generally-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-16T03:13:19-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-announcing-dataflows-power-automate-connector-public-preview.md",
       "title": "Announcing Dataflows Power Automate Connector public preview",
       "excerpt": "Power Automate Dataflow connector along with templates and sample scenarios you can get started with right away. The new connector provides a new way to react to dataflow events to take action on dataflows. Combined with other Power Platform Products connectors and the 400+ connectors available in Power",
@@ -1211,57 +1263,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-11-09T03:43:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-unified-interface-transition-starts-december-4th-2020.md",
-      "title": "Unified Interface transition starts December 4th 2020",
-      "excerpt": "As announced on September 10, 2019, the time is now to prepare for the move to Unified Interface for Model-driven apps if you are still using the legacy web client.  With less than 1 month to go, you should make the move as soon as possible to Unified Interface. ",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/unified-interface-transition-starts-december-4th-2020/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/unified-interface-transition-starts-december-4th-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-03T23:26:11-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
