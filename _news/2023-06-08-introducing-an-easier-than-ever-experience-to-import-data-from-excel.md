@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/introducing-an-easier-t
 webUrl: "https://powerapps.microsoft.com/en-us/blog/introducing-an-easier-than-ever-experience-to-import-data-from-excel/"
 type: article
 quality: 72
-heat: 76
+heat: 72
 published: true
 
 provider:
