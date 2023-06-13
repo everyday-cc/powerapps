@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-20-new-request-a-power-apps-premium-license-from-org-admins.md",
+      "title": "New: Request a Power Apps premium license from org admins",
+      "excerpt": "Power Apps is excited to share that users can now request a license from their admin &#8211; directly in product! If a user is trying to run an app that requires a license, they will see the option to &#8216;Request a license&#8217;, in addition to the buy a license or start a trial option (if&hellip;",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/powerapps-request-license/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/powerapps-request-license/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/03/LCC-Blog-3.jpg",
+          "width": 678,
+          "height": 268,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-20T03:18:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2023-03-20-releasing-the-february-update-for-the-developer-tools-power-platform-cli.md",
       "title": "Releasing the February Update for the  Developer Tools (Power Platform CLI)",
       "excerpt": "We are happy to finally release our February update for the Power Platform CLI. For those of you who are new, our pattern has been that we release an update for the work done in the last month, in the current month. Usually, we each include some new capabilities, along with the usual fixes that&hellip;",
@@ -1201,57 +1252,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-11-02T08:04:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2022-11-01-formula-repair-now-in-preview.md",
-      "title": "Formula repair now in preview",
-      "excerpt": "We&#8217;re glad to announce that formula repair is now available for you in preview. We know when writing formulas, errors are unavoidable, and troubleshooting could be time-consuming and cumbersome even for tiny errors like a missing parenthesis. With formula repair, now you may skip some of the troubleshooting",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/formula-repair-now-in-preview/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/formula-repair-now-in-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/11/repair_typo.png",
-          "width": 688,
-          "height": 279,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-01T04:01:21-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

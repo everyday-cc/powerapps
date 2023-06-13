@@ -2,6 +2,57 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-09-15-power-fx-formula-columns-in-dataverse.md",
+      "title": "Power Fx Formula Columns in Dataverse",
+      "excerpt": "Use Power Fx to create calculated columns in Dataverse, with expanded functionality and real time results.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/power-fx-formula-columns-in-dataverse/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/power-fx-formula-columns-in-dataverse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-default-image.png",
+          "width": 1600,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2021-09-13-september-power-apps-community-call-power-platform-integration-and-value-proposition-design.md",
       "title": "September Power Apps community call: Power Platform Integration and Value Proposition Design",
       "excerpt": "For the September Power Apps community call we have two of the Power Platform MVPs: Reza Dorrani and May Alhajri covering two of the hottest Power Platform topics: Power Apps design and Power Platform integration.\r\n",
@@ -1189,57 +1240,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-08-03T12:02:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-announcing-vnet-connectivity-for-power-platform-dataflows-public-preview.md",
-      "title": "Announcing VNet Connectivity for Power Platform Dataflows (Public Preview)",
-      "excerpt": "VNet Connectivity for Power Platform Dataflows (Public Preview)",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-vnet-connectivity-for-power-platform-dataflows-public-preview/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-vnet-connectivity-for-power-platform-dataflows-public-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-03T02:00:13-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

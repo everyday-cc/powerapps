@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-13-govern-your-business-applications-data-with-microsoft-purview.md",
+      "title": "Govern your business applications data with Microsoft Purview",
+      "excerpt": "Today we are excited to announce the private preview of the Microsoft Purview integration with Microsoft Dataverse. Microsoft Purview Data Map will enable automated data discovery and sensitive data classification.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/govern-your-business-applications-data-with-microsoft-purview/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/govern-your-business-applications-data-with-microsoft-purview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/05/MSC16_slalom_028_1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-13T03:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2023-06-08-introducing-an-easier-than-ever-experience-to-import-data-from-excel.md",
       "title": "Introducing an easier than ever experience to import data from Excel",
       "excerpt": "We are excited to announce the public preview of an easier than ever import from Excel experience. You can now upload your Excel files and turn them into full functional Dataverse tables as well as responsive canvas apps in a one-stop experience. Moreover, when Copilot is enabled, it will assist with",
@@ -1201,57 +1252,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-03-20T03:27:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2023-03-20-new-request-a-power-apps-premium-license-from-org-admins.md",
-      "title": "New: Request a Power Apps premium license from org admins",
-      "excerpt": "Power Apps is excited to share that users can now request a license from their admin &#8211; directly in product! If a user is trying to run an app that requires a license, they will see the option to &#8216;Request a license&#8217;, in addition to the buy a license or start a trial option (if&hellip;",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/powerapps-request-license/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/powerapps-request-license/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/03/LCC-Blog-3.jpg",
-          "width": 678,
-          "height": 268,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-20T03:18:03-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

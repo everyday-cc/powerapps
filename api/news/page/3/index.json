@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-11-01-formula-repair-now-in-preview.md",
+      "title": "Formula repair now in preview",
+      "excerpt": "We&#8217;re glad to announce that formula repair is now available for you in preview. We know when writing formulas, errors are unavoidable, and troubleshooting could be time-consuming and cumbersome even for tiny errors like a missing parenthesis. With formula repair, now you may skip some of the troubleshooting",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/formula-repair-now-in-preview/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/formula-repair-now-in-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/11/repair_typo.png",
+          "width": 688,
+          "height": 279,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-01T04:01:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2022-10-31-whats-new-power-apps-october-2022-feature-update.md",
       "title": "What’s new: Power Apps October 2022 Feature Update",
       "excerpt": "Welcome to the Power Apps monthly feature update! We will use this blog to share a summary of product, community, and learning updates from throughout the month so you can access it in one easy place. A variety of new and highly anticipated features are now available which we are very excited to share.",
@@ -1203,57 +1254,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-07-25T03:06:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-announcing-public-preview-of-eslint-rules-for-power-apps-and-dynamics-365.md",
-      "title": "Announcing public preview of ESLint rules for Power Apps and Dynamics 365",
-      "excerpt": "We are excited to announce the public preview of ESLint rules for Power Apps model-driven apps and Dynamics 365 CE. This will help you find and fix issues in your JavaScript code before being packaged into a solution.",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-of-eslint-rules-for-power-apps-and-dynamics-365/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-of-eslint-rules-for-power-apps-and-dynamics-365/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/07/eslintrc.png",
-          "width": 775,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-20T00:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
