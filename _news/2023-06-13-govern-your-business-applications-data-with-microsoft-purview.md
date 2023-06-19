@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/govern-your-business-ap
 webUrl: "https://powerapps.microsoft.com/en-us/blog/govern-your-business-applications-data-with-microsoft-purview/"
 type: article
 quality: 72
-heat: 74
+heat: 72
 published: true
 
 provider:
