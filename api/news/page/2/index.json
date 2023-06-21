@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-20-try-the-new-power-fx-formula-bar-in-power-apps-studio.md",
+      "title": "Try the new Power Fx Formula Bar in Power Apps Studio",
+      "excerpt": "A new Power Fx editing experience Today we are announcing a new Power Fx formula editing experience in Power Apps Studio.&nbsp; The new formula editor is available an experimental feature that we encourage you to turn on in your apps and try out!&nbsp; The new editor is based on the powerful Monaco shared",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/try-the-new-power-fx-formula-bar-in-power-apps-studio/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/try-the-new-power-fx-formula-bar-in-power-apps-studio/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/03/image-8.png",
+          "width": 975,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-20T03:27:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2023-03-20-new-request-a-power-apps-premium-license-from-org-admins.md",
       "title": "New: Request a Power Apps premium license from org admins",
       "excerpt": "Power Apps is excited to share that users can now request a license from their admin &#8211; directly in product! If a user is trying to run an app that requires a license, they will see the option to &#8216;Request a license&#8217;, in addition to the buy a license or start a trial option (if&hellip;",
@@ -1201,57 +1252,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-11-14T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-do-more-with-less-with-power-apps-now-at-25-off.md",
-      "title": "Do more with less, with Power Apps. Now at 25% off",
-      "excerpt": "Per user licenses are now available at 25% off for new customers of Power Apps.",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/do-more-with-less-with-power-apps-now-at-25-off/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/do-more-with-less-with-power-apps-now-at-25-off/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/11/DMWL-offer-1024x538.png",
-          "width": 1024,
-          "height": 538,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-02T08:04:30-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

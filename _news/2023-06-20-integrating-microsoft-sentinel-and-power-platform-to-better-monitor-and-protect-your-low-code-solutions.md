@@ -3,8 +3,8 @@ category: news
 title: "Integrating Microsoft Sentinel and Power Platform to better monitor and protect your low-code solutions"
 excerpt: "Microsoft Power Platform admins can monitor certain types of security vulnerabilities using the static analysis tools and reports provided in the platform. Having an early and more holistic threat detection and the ability to apply preventative guardrails is crucial to enable frictionless productivity"
 publishedDateTime: 2023-06-20T13:00:00Z
-originalUrl: "https://powerapps.microsoft.com/en-us/blog/integrating-dataverse-microsoft-sentinel-and-power-platform-to-enable-more-with-less/"
-webUrl: "https://powerapps.microsoft.com/en-us/blog/integrating-dataverse-microsoft-sentinel-and-power-platform-to-enable-more-with-less/"
+originalUrl: "https://powerapps.microsoft.com/en-us/blog/integrating-microsoft-sentinel-and-power-platform-to-better-monitor-and-protect-your-low-code-solutions/"
+webUrl: "https://powerapps.microsoft.com/en-us/blog/integrating-microsoft-sentinel-and-power-platform-to-better-monitor-and-protect-your-low-code-solutions/"
 type: article
 quality: 56
 heat: 56
@@ -27,6 +27,6 @@ images:
     height: 800
     isCached: true
 
-secured: "C3O2dCwgAlmeucKbm2nAQL8AhnNY0TfU33I73mIYJ9PA0pdaFIMa5W2TNiu3yOPNe7deKJluuyLtHw4PTYDSTZy5SXohBBUvx/vFDygVfT7mY8+scCgN5NA8W8EDkda8/XoFqiSoONCLT8eiuS2L+nT/JVaiA+hkFBV0XZ5iHdSTDLYlq6ZC/zxakCcqkKLaPA4m+UIEXlMYGKetnhOUXAZVBu9pfbt2lrlnqmQm2r7KCQJjpkTJvEmv9o/rVP2UpIu1RGc7YrE0uXf7sWiffid/OZLuURxlZjW1DT1QuS+8JaZWrQUzFTVpaEN2eYUeuuwLwLe+azGHfaFfcwJZBlrIzIztUQcWoQxuEDADoCA=;5ONDCEhvzjKWxi4l3ApkWA=="
+secured: "0p9RwjS7TDrowxR7O7qbVn5BJv/VUZq9JRh8pBK4AmnoSSQaljfkJB9mR1q7UjwXcPIf7iWvjIr72AWjzhXbSvocxWKWzAhSYLNUdeyCBUySQJoq1+o6pswyofRpv44cbRVthXg5E99epQ4ZuQQsg7C1/X0q/ocePQ1PYBpV/4zH5A3KAGDbQ2mC4y20Ob+x8oAw+otIPMt5/gBeEPLio9hY0foAj2HPxc8qp7qnwXd0zYl3DEPdGOoD499FvZrmJpba30rPWpYi5A5fkCXzEwV1rruSLP073GUi7b4JQwGNcPD8JuM0jQ7gpSoLw9YMFYRCCVy2pi40nSSRJ+oIb+K90GzwR2Y1zs2M/u9vOC0=;kKVMgp2loXG9WheLphR+FQ=="
 ---
 
