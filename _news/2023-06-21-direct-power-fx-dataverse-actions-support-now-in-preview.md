@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/direct-power-fx-dataver
 webUrl: "https://powerapps.microsoft.com/en-us/blog/direct-power-fx-dataverse-actions-support-now-in-preview-default-on/"
 type: article
 quality: 72
-heat: 72
+heat: 74
 published: true
 
 provider:
