@@ -2,6 +2,57 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-11-02-microsoft-power-apps-gets-pay-as-you-go-licensing-dynamics-365-gets-more-new-modules.md",
+      "title": "Microsoft Power Apps gets pay-as-you-go licensing; Dynamics 365 gets more new modules",
+      "excerpt": "Microsoft is continuing to reposition, repackage and modify its licensing for pieces of its five-year-old Dynamics 365 and related Power Platform families of products.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/power-apps-gets-pay-as-you-go-licensing-dynamics-365-gets-more-new-modules/",
+      "originalUrl": "https://www.zdnet.com/article/power-apps-gets-pay-as-you-go-licensing-dynamics-365-gets-more-new-modules/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/fc54c600daa011479178ba5876f98cd637c8a4db/2021/11/01/16bdd8fb-4cee-4cae-a4de-4d28dfb9fcb3/dynamicspowerplatformignite.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 770,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/power-apps-gets-pay-as-you-go-licensing-dynamics-365-gets-more-new-modules/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/power-apps-gets-pay-as-you-go-licensing-dynamics-365-gets-more-new-modules/",
+      "publishedDateTime": "2021-11-02T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-power-apps-mobile-apps-now-available-other-services-receive-enhancements-as-well.md",
       "title": "Power Apps mobile apps now available, other services receive enhancements as well",
       "excerpt": "Both iOS and Android now host Power Apps mobile apps in preview. Aside from this, a bunch of updates for other services in the Power Platform such as Power Automate have been announced as well.",
@@ -1229,58 +1280,6 @@
       ],
       "topics": [
         "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-09-17-vancouver-user-group-september-23rd-controls-in-canvas-apps-and-power-automate-cloud-flows.md",
-      "title": "Vancouver User Group September 23rd: Controls in canvas apps and Power Automate Cloud Flows",
-      "excerpt": "September the Vancouver User Group brings us two great topics by two great Power Platform MVPs with the entire event hosted by icon of the MVP world: Scott Durow!\r\n\r\nUse and understand Controls in a canvas app in Power Apps by May Alhajri\r\nHow to build better Power Automate Cloud Flows &#8211; tips,",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/vancouver-user-group-september-23rd-controls-in-canvas-apps-and-power-automate-cloud-flows/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/vancouver-user-group-september-23rd-controls-in-canvas-apps-and-power-automate-cloud-flows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-default-image.png",
-          "width": 1600,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-17T06:33:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps",
-        "Canvas apps"
       ]
     }
   ],

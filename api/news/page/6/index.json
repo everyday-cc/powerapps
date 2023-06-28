@@ -2,6 +2,57 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-02-02-localizing-content-on-a-custom-page.md",
+      "title": "Localizing content on a custom page",
+      "excerpt": "Add localized content to a Power Apps custom page.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/localizing-content-on-a-custom-page/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/localizing-content-on-a-custom-page/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/02/LocResXToSol.gif",
+          "width": 1384,
+          "height": 661,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-02T02:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2022-01-31-power-platform-developer-tools-decjan-refresh-sovereign-cloud-support.md",
       "title": "Power Platform Developer Tools Dec/Jan Refresh (Sovereign Cloud support)",
       "excerpt": "The Sovereign Cloud support for Power Platform Command Line tool",
@@ -1226,57 +1277,6 @@
       "topics": [
         "Power Apps",
         "Portals"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-microsoft-power-apps-gets-pay-as-you-go-licensing-dynamics-365-gets-more-new-modules.md",
-      "title": "Microsoft Power Apps gets pay-as-you-go licensing; Dynamics 365 gets more new modules",
-      "excerpt": "Microsoft is continuing to reposition, repackage and modify its licensing for pieces of its five-year-old Dynamics 365 and related Power Platform families of products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/power-apps-gets-pay-as-you-go-licensing-dynamics-365-gets-more-new-modules/",
-      "originalUrl": "https://www.zdnet.com/article/power-apps-gets-pay-as-you-go-licensing-dynamics-365-gets-more-new-modules/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/fc54c600daa011479178ba5876f98cd637c8a4db/2021/11/01/16bdd8fb-4cee-4cae-a4de-4d28dfb9fcb3/dynamicspowerplatformignite.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 770,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/power-apps-gets-pay-as-you-go-licensing-dynamics-365-gets-more-new-modules/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/power-apps-gets-pay-as-you-go-licensing-dynamics-365-gets-more-new-modules/",
-      "publishedDateTime": "2021-11-02T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
       ]
     }
   ],
