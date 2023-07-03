@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-02-08-modern-advanced-find-with-enhanced-view-management-in-model-driven-apps.md",
+      "title": "Modern advanced find with enhanced view management in model-driven apps",
+      "excerpt": "We are announcing the availability of a modern advanced find in model-driven apps, including usability improvements to view management, all of which enable you to be more productive with data exploration. Now available for admins to enable with 2022 Release wave 1.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/modern-advanced-find-with-enhanced-view-management-in-model-driven-apps/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/modern-advanced-find-with-enhanced-view-management-in-model-driven-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/02/AF-Table-picker.gif",
+          "width": 1424,
+          "height": 753,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-07T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Model-driven apps"
+      ]
+    },
+    {
       "path": "_news/2022-02-02-localizing-content-on-a-custom-page.md",
       "title": "Localizing content on a custom page",
       "excerpt": "Add localized content to a Power Apps custom page.",
@@ -1201,58 +1253,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-11-03T09:00:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps",
-        "Portals"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-announcing-general-availability-ga-of-power-apps-portals-support-for-microsoft-power-platform-cli.md",
-      "title": "Announcing General Availability (GA) of Power Apps portals support for Microsoft Power Platform CLI",
-      "excerpt": "We are excited to announce the General Availability (GA) of Power Apps portals support for Microsoft Power Platform CLI with version 1.9.8 that was introduced in May 2021 release as a preview feature.",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-ga-of-power-apps-portals-support-for-microsoft-power-platform-cli/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-ga-of-power-apps-portals-support-for-microsoft-power-platform-cli/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-default-image.png",
-          "width": 1600,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-03T02:00:52-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
