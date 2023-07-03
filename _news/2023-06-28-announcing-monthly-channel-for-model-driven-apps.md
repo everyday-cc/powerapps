@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/announcing-monthly-chan
 webUrl: "https://powerapps.microsoft.com/en-us/blog/announcing-monthly-channel-for-model-driven-apps/"
 type: article
 quality: 104
-heat: 105
+heat: 104
 published: true
 
 provider:
