@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-05-whats-new-power-apps-june-2023-feature-update.md",
+      "title": "What’s new: Power Apps June 2023 Feature Update",
+      "excerpt": "Welcome to the Power Apps monthly feature update! We will use this blog to share a summary of product, community, and learning updates from throughout the month so you can access it in one easy place. A variety of new and highly anticipated features are now available which we are very excited to share",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-june-2023-feature-update/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-june-2023-feature-update/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/07/Coauth.png",
+          "width": 624,
+          "height": 335,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-05T09:03:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2023-07-03-announcing-general-availability-for-shared-device-mode-for-power-apps-on-android.md",
       "title": "Announcing General Availability for Shared Device Mode for Power Apps on Android",
       "excerpt": "Shared Device Mode (SDM) is now supported in General Availability for Power Apps Mobile App on Android devices.",
@@ -10,7 +61,7 @@
       "originalUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-for-shared-device-mode-for-power-apps-on-android/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -113,7 +164,7 @@
       "originalUrl": "https://powerapps.microsoft.com/en-us/blog/direct-power-fx-dataverse-actions-support-now-in-preview-default-on/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -1202,57 +1253,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-03-29T01:09:24-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-celebrating-the-first-graduates-of-the-microsoft-power-up-program.md",
-      "title": "Celebrating the first graduates of the Microsoft Power Up Program",
-      "excerpt": "Microsoft is a leader in enterprise low-code application platforms. We’re excited to announce that our first 18 learners have successfully graduated from the Microsoft Power Up Program, a 12-week skilling program designed to enable non-technical professionals to successfully advance their careers with",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/celebrating-the-first-graduates-of-the-microsoft-power-up-program/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/celebrating-the-first-graduates-of-the-microsoft-power-up-program/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/03/GraduationBadge.png",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-22T04:01:53-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

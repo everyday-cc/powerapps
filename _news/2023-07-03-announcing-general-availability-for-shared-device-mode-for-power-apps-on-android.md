@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/announcing-general-avai
 webUrl: "https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-for-shared-device-mode-for-power-apps-on-android/"
 type: article
 quality: 82
-heat: 82
+heat: 83
 published: true
 
 provider:
