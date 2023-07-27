@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/june-2023-updates-for-m
 webUrl: "https://powerapps.microsoft.com/en-us/blog/june-2023-updates-for-modernization-in-power-apps/"
 type: article
 quality: 72
-heat: 75
+heat: 77
 published: true
 
 provider:
