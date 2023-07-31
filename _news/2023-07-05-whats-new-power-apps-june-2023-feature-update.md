@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-ju
 webUrl: "https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-june-2023-feature-update/"
 type: article
 quality: 87
-heat: 90
+heat: 89
 published: true
 
 provider:
