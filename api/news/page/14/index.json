@@ -2,6 +2,58 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-11-17-new-layout-containers-in-canvas-apps-make-responsive-apps-easier.md",
+      "title": "New Layout containers in canvas apps make responsive apps easier",
+      "excerpt": "We are excited to announce the preview of the horizontal container and vertical container layout controls that help automatically reflow and resize controls within them to enable easy, no expression responsive layouts in canvas apps. These are available in mainline and Teams authoring experiences.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/new-layout-containers-in-canvas-apps-make-responsive-apps-easier/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/new-layout-containers-in-canvas-apps-make-responsive-apps-easier/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-17T00:00:58-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-microsoft-announces-general-availability-of-new-power-apps-and-dataverse-for-teams.md",
       "title": "Microsoft announces general availability of new Power Apps and Dataverse for Teams",
       "excerpt": "You can now build apps and chatbots using minimal code directly within Microsoft Teams, thanks to the general availability of Power Apps and Power Virtual Agents apps, as well as Dataverse for Teams.",
@@ -1229,58 +1281,6 @@
       "topics": [
         "Power Apps",
         "Model-driven apps"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-deprecation-of-time-zone-entities-in-common-data-service.md",
-      "title": "Deprecation of time zone entities in Common Data Service",
-      "excerpt": "The internal time zone service in Common Data Service is being deprecated in favor of using the Windows API for all time zone calculations. This means that we are restructuring the time zone entities in Common Data Service and changing the way things work.",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/deprecation-of-time-zone-entities-in-common-data-service/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/deprecation-of-time-zone-entities-in-common-data-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-default-image.png",
-          "width": 1600,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-24T02:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps",
-        "Common Data Service"
       ]
     }
   ],

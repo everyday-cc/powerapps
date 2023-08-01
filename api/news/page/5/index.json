@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-05-24-announcing-rich-text-editor-for-power-apps-portals.md",
+      "title": "Announcing rich text editor for Power Apps portals",
+      "excerpt": "We are happy to announce the Rich text Editor support in Power Apps portals is now available with portals version 9.4.3.x.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-rich-text-editor-for-power-apps-portals/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-rich-text-editor-for-power-apps-portals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/05/RTEDemo.gif",
+          "width": 1710,
+          "height": 1241,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-23T19:44:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Portals"
+      ]
+    },
+    {
       "path": "_news/2022-05-19-announcing-the-general-availability-of-the-power-apps-modern-app-designer.md",
       "title": "Announcing the general availability of the Power Apps modern app designer",
       "excerpt": "Power apps is excited to announce the general availability of the modern app designer, which enables a seamless, intuitive way to build robust model-driven apps.",
@@ -1196,57 +1248,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-02-24T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2022-02-22-power-platform-cli-january-update.md",
-      "title": "Power Platform CLI January update",
-      "excerpt": "New updates for PAC CLI in January Refresh",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/power-platform-cli-january-update/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/power-platform-cli-january-update/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/02/graphical-user-interface-description-automaticall-3.png",
-          "width": 797,
-          "height": 497,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-22T02:43:48-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
