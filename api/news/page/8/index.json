@@ -2,6 +2,57 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-10-05-goodbye-relevance-search-hello-dataverse-search.md",
+      "title": "Goodbye Relevance search, hello Dataverse search!",
+      "excerpt": "Relevance search is now Dataverse search to emphasize that all data within Dataverse is searchable. The same powerful capabilities of Relevance search will continue and we are committed to make Dataverse search even better, starting with a new configuration experience in the maker portal.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/goodbye-relevance-search-hello-dataverse-search/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/goodbye-relevance-search-hello-dataverse-search/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-default-image.png",
+          "width": 1600,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-04T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2021-10-04-power-apps-portals-create-deployment-profile-for-devtestprod-environment-using-power-apps-cli.md",
       "title": "Power Apps portals: Create deployment profile for dev/test/prod environment using Power Apps CLI",
       "excerpt": "You can now upload portal customization in different environment with different set of properties using portals deployment profile. You can also create multiple deployment profiles and upload portal customization to an environment by applying the profile you want.",
@@ -1222,48 +1273,6 @@
       "topics": [
         "Power Apps",
         "Portals"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-microsoft-power-apps-misconfiguration-exposes-38-million-data-records.md",
-      "title": "Microsoft Power Apps misconfiguration exposes 38 million data records",
-      "excerpt": "The data leaks impacted American Airlines, Microsoft, J.B. Hunt and governments of Indiana, Maryland and New York City, says Upguard.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-power-apps-misconfiguration-exposes-38-million-data-records/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-power-apps-misconfiguration-exposes-38-million-data-records/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-power-apps-misconfiguration-exposes-38-million-data-records/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-power-apps-misconfiguration-exposes-38-million-data-records/",
-      "publishedDateTime": "2021-08-23T04:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
       ]
     }
   ],

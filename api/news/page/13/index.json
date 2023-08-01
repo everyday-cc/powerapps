@@ -2,6 +2,57 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-01-14-3-low-code-trends-why-low-code-will-be-big-in-your-2021-tech-strategy.md",
+      "title": "3 low-code trends: why low-code will be big in your 2021 tech strategy",
+      "excerpt": "Whether you’re a software developer or someone who uses technology for their job, the way we work has fundamentally changed this year. Much of the workforce was spread out and working remotely. Serving customers became a challenge. Organizations needed to transform basic pen and paper processes, like",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/3-low-code-trends-why-low-code-will-be-big-in-your-2021-tech-strategy/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/3-low-code-trends-why-low-code-will-be-big-in-your-2021-tech-strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-14T00:55:42-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-now-available-model-driven-app-push-notifications.md",
       "title": "Now available: model-driven app push notifications",
       "excerpt": "With our updated push notification connector, you can now send push notifications to model-driven apps with Power Automate. These notifications can direct users straight to a specific page or section of your app &#8211; like the relevant entity view or form. Use any of the hundreds of pre-built connectors",
@@ -1236,57 +1287,6 @@
       "topics": [
         "Power Apps",
         "Teams integration"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-using-the-power-platform-to-track-customer-interactions.md",
-      "title": "Using the Power Platform to track customer interactions",
-      "excerpt": "Using power apps to tack customer interactions",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/using-the-power-platform-to-track-customer-interactions/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/using-the-power-platform-to-track-customer-interactions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-18T00:00:37-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
       ]
     }
   ],

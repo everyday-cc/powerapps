@@ -53,6 +53,57 @@
       ]
     },
     {
+      "path": "_news/2023-08-01-copilot-now-powers-deployment-notes-for-pipelines-in-power-platform.md",
+      "title": "Copilot now powers deployment notes for pipelines in Power Platform",
+      "excerpt": "Now announcing the Public Preview of Copilot-generated deployment notes for pipelines in Power Platform. Copilot comes to the pipelines deployment experience to help makers generate useful solution descriptions with AI, saving valuable time and providing accurate information in seconds.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/copilot-now-powers-deployment-notes-for-pipelines-in-power-platform/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/copilot-now-powers-deployment-notes-for-pipelines-in-power-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/07/pipeline-AI-deployment-notes.gif",
+          "width": 1920,
+          "height": 964,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-01T01:07:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2023-07-31-whats-new-power-apps-july-2023-feature-update.md",
       "title": "What’s new: Power Apps July 2023 Feature Update",
       "excerpt": "Welcome to the Power Apps monthly feature update! We will use this blog to share a summary of product, community, and learning updates from throughout the month so you can access it in one easy place. We&#8217;ve got a great set of updates across security, Power Fx, Collaboration and modernization of",
@@ -1201,57 +1252,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-04-24T03:02:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2023-04-13-updates-to-simplify-using-json.md",
-      "title": "Updates to simplify using JSON",
-      "excerpt": "We&#8217;re pleased to announce some exciting updates to how makers can use untyped objects. ParseJSON() and untyped objects are very flexible, but we&#8217;ve heard your feedback that improvements are needed to require less code and make untyped objects easier to use. So today&#8217;s announcement is",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/updates-to-simplify-using-json/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/updates-to-simplify-using-json/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/04/image-15.png",
-          "width": 733,
-          "height": 298,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-13T08:50:03-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
