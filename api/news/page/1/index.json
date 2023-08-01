@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-31-whats-new-power-apps-july-2023-feature-update.md",
+      "title": "What’s new: Power Apps July 2023 Feature Update",
+      "excerpt": "Welcome to the Power Apps monthly feature update! We will use this blog to share a summary of product, community, and learning updates from throughout the month so you can access it in one easy place. We&#8217;ve got a great set of updates across security, Power Fx, Collaboration and modernization of",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-july-2023-feature-update/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-july-2023-feature-update/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/07/Copresence.png",
+          "width": 1248,
+          "height": 699,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-31T11:29:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2023-07-24-microsoft-power-apps-and-generative-ai-helps-citizen-maker-upskill-and-transform-career.md",
       "title": "Microsoft Power Apps and generative AI helps citizen maker upskill and transform career",
       "excerpt": "Miyu Takai from Tokyo, Japan, began her career with zero IT experience and is now in a technical specialist role that she never imagined possible for herself, thanks to the Power Platform and the power of AI. Miyu leveraged her existing Excel skills and used the GPT-powered Power Apps Ideas capabilities",
@@ -1201,57 +1252,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-04-12T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-power-apps-on-windows-updates.md",
-      "title": "Power Apps on Windows updates",
-      "excerpt": "We built Power Apps on Windows (General Available since June 2022) so that your apps can take advantage of advanced device capabilities and offline support from your PC or tablet. We&#8217;ve added some great new features that we&#8217;d like to share with you. What&#8217;s new? Recent and pinned apps.",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-on-windows-updates/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-on-windows-updates/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/01/Windows-jump-list-1.png",
-          "width": 482,
-          "height": 376,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T23:50:46-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
