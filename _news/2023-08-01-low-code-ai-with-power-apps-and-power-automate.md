@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3703131/low-code-ai-with-power-app
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3703131/low-code-ai-with-power-apps-and-power-automate.amp.html"
 type: article
 quality: 97
-heat: 97
+heat: 99
 published: true
 
 provider:
