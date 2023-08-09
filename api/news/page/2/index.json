@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-24-streamline-collaboration-with-the-general-availability-of-comments-in-power-apps-and-power-automate.md",
+      "title": "Streamline collaboration with the General Availability of comments in Power Apps and Power Automate",
+      "excerpt": "If you are a Power Platform user, you know how important collaboration is when it comes to building custom solutions with your fusion team. We continue to hear from our customers about the need for additional capabilities that improve maker collaboration, and we are dedicated to meeting this need. That&#8217;s",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/streamline-collaboration-with-the-general-availability-of-comments-in-power-apps-and-power-automate/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/streamline-collaboration-with-the-general-availability-of-comments-in-power-apps-and-power-automate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/04/graphical-user-interface-description-automaticall-2.png",
+          "width": 2152,
+          "height": 843,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-24T06:36:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2023-04-24-improved-variables-and-collections-experience-in-canvas-designer.md",
       "title": "Improved variables and collections experience in Canvas Designer",
       "excerpt": "Creating variables and collections is an essential part of the app building process. Therefore, we are excited to announce the general availability of an improved, seamless experience that enables makers to see variables and collections directly in-line with the canvas designer! Gone are the days of",
@@ -1202,57 +1253,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-01-26T08:34:03-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2023-01-25-ip-based-cookie-binding-in-dataverse-is-generally-available.md",
-      "title": "IP based cookie binding in Dataverse is Generally Available.",
-      "excerpt": "We are pleased to announce that IP based cookie binding in Dataverse is Generally Available (GA) for all our customers. This security feature will&nbsp;allow the administrators to safeguard Dataverse platform by blocking the cookie replay attack . IP cookie binding in Dataverse IP based cookie binding",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/ip-based-cookie-binding-in-dataverse-is-generally-available/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/ip-based-cookie-binding-in-dataverse-is-generally-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/01/image-1024x645.png",
-          "width": 1024,
-          "height": 645,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-24T19:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

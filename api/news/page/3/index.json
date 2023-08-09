@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-01-25-ip-based-cookie-binding-in-dataverse-is-generally-available.md",
+      "title": "IP based cookie binding in Dataverse is Generally Available.",
+      "excerpt": "We are pleased to announce that IP based cookie binding in Dataverse is Generally Available (GA) for all our customers. This security feature will&nbsp;allow the administrators to safeguard Dataverse platform by blocking the cookie replay attack . IP cookie binding in Dataverse IP based cookie binding",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/ip-based-cookie-binding-in-dataverse-is-generally-available/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/ip-based-cookie-binding-in-dataverse-is-generally-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/01/image-1024x645.png",
+          "width": 1024,
+          "height": 645,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-24T19:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2023-01-12-easily-share-devices-between-multiple-frontline-workers-using-power-apps-shared-device-mode.md",
       "title": "Easily share devices between multiple frontline workers using Power Apps Shared Device Mode",
       "excerpt": "Here at the National Retail Federation 2023 conference, we are excited to share the immediate availability of Shared Device Mode (SDM) Public Preview for Power Apps on Android. Frontline workers will now be able to quickly, easily, and securely log in and out of their devices when handing off mobile",
@@ -1201,57 +1252,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-09-07T01:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2022-09-06-3-primary-reasons-to-learn-dataverse.md",
-      "title": "3 Primary Reasons to Learn Dataverse",
-      "excerpt": "If you&#8217;ve been on the fence about learning Dataverse for your Power Platform solutions, then this blog is for you. We will explore proven motivators for learning, as well as using, Dataverse. It&#8217;s not only for Power Apps solutions; you will see that it can also facilitate data stewardship",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/3-primary-reasons-to-learn-dataverse/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/3-primary-reasons-to-learn-dataverse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/08/ALERTBordered.png",
-          "width": 671,
-          "height": 386,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-06T01:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
