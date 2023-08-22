@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-09-07-announcing-public-preview-of-content-security-policy-for-power-apps.md",
+      "title": "Announcing public preview of Content Security Policy for Power Apps",
+      "excerpt": "We&#8217;re excited to announce the public preview of Content Security Policy (CSP) configuration for Power Apps. CSP can be configured using the settings under the Privacy + Security settings section of an environment in Power Platform Admin Center.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-of-content-security-policy-for-power-apps/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-of-content-security-policy-for-power-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/08/image-14.png",
+          "width": 778,
+          "height": 373,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-07T01:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2022-09-06-3-primary-reasons-to-learn-dataverse.md",
       "title": "3 Primary Reasons to Learn Dataverse",
       "excerpt": "If you&#8217;ve been on the fence about learning Dataverse for your Power Platform solutions, then this blog is for you. We will explore proven motivators for learning, as well as using, Dataverse. It&#8217;s not only for Power Apps solutions; you will see that it can also facilitate data stewardship",
@@ -1202,57 +1253,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-microsofts-new-power-apps-feature-turns-sketches-into-apps.md",
-      "title": "Microsoft’s new Power Apps feature turns sketches into apps",
-      "excerpt": "Showcasing its investments in AI, Microsoft today announced Power Apps Express Design, a new feature in the company’s no-code/low-code Power Apps service that can convert an uploaded PDF ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/24/microsofts-new-power-apps-feature-turns-sketches-into-apps/",
-      "originalUrl": "https://techcrunch.com/2022/05/24/microsofts-new-power-apps-feature-turns-sketches-into-apps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/05/ezgif-4-e0fc2c5a69.gif?w=600",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/24/microsofts-new-power-apps-feature-turns-sketches-into-apps/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/24/microsofts-new-power-apps-feature-turns-sketches-into-apps/amp/",
-      "publishedDateTime": "2022-05-24T09:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
