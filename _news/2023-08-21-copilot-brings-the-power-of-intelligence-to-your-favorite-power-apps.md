@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/copilot-brings-the-powe
 webUrl: "https://powerapps.microsoft.com/en-us/blog/copilot-brings-the-power-of-intelligence-to-your-favorite-power-apps/"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:
