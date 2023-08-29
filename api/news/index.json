@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-29-introducing-new-ways-of-creating-tables.md",
+      "title": "Introducing new ways of creating tables",
+      "excerpt": "We are excited to share with you the updated tables page experience, which is now generally available for all makers. With the new tables page experience, you will be able to create tables with the versatile options we recently introduced to the new home page, including conversation-based table creation",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/introducing-new-ways-of-creating-tables/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/introducing-new-ways-of-creating-tables/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/08/image-5.png",
+          "width": 2554,
+          "height": 1273,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-29T01:30:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2023-08-21-copilot-brings-the-power-of-intelligence-to-your-favorite-power-apps.md",
       "title": "Copilot brings the power of intelligence to your favorite Power Apps",
       "excerpt": "Today, we are announcing the availability of Copilot for users of model-driven apps and a major expansion of Copilot control’s capabilities in canvas apps. Now, all Power Apps can be intelligent apps.",
@@ -1201,57 +1252,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-05-02T11:11:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-recent-improvements-to-the-modern-app-designer.md",
-      "title": "Recent improvements to the Modern App Designer",
-      "excerpt": "The Modern App Designer has been generally available since May 2022, and since then we’ve have been closely monitoring feedback from makers. Therefore, we are pleased to announce the release of a series of significant improvements to improve maker productivity when building in the Modern App Designer.",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/recent-improvements-to-the-modern-app-designer/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/recent-improvements-to-the-modern-app-designer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/04/ImprovedMakerNavigationMAD.gif",
-          "width": 2332,
-          "height": 1177,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-26T06:34:49-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
