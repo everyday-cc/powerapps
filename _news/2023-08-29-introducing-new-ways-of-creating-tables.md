@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/introducing-new-ways-of
 webUrl: "https://powerapps.microsoft.com/en-us/blog/introducing-new-ways-of-creating-tables/"
 type: article
 quality: 72
-heat: 73
+heat: 74
 published: true
 
 provider:
