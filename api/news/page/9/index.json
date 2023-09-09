@@ -2,6 +2,57 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-08-25-a-sample-custom-connector-for-servicenow-using-oauth-authentication.md",
+      "title": "A sample custom connector for ServiceNow using OAuth authentication",
+      "excerpt": "Sample custom connector for ServiceNow. ",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/a-sample-custom-connector-for-servicenow-using-oauth-authentication/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/a-sample-custom-connector-for-servicenow-using-oauth-authentication/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-25T02:00:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2021-08-25-microsoft-power-apps-misconfiguration-exposes-data-from-38-million-records.md",
       "title": "Microsoft Power Apps misconfiguration exposes data from 38 million records",
       "excerpt": "Microsoft Power Apps is a low-code development tool designed to help people with little programming experience build web and mobile apps for their organizations. As part of the process, Microsoft ...",
@@ -1190,57 +1241,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-07-20T03:00:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-07-17-2021-power-apps-community-call-demo-extravaganza-july-21st.md",
-      "title": "2021 Power Apps community call Demo Extravaganza July 21st",
-      "excerpt": "The community has spoken, and the Top Entries have been chosen!  The July 2021 Power Apps community call is your chance to see these Power Apps artisans show off their creations and discuss how they built these amazing samples!",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/2021-power-apps-community-call-demo-extravaganza-july-21st/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/2021-power-apps-community-call-demo-extravaganza-july-21st/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-17T01:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

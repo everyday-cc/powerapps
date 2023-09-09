@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-15-announcing-public-preview-of-canvas-built-in-offline.md",
+      "title": "Announcing Public Preview of canvas built-in offline",
+      "excerpt": "We are pleased to announce the Public Preview of the canvas offline feature for mobile application on iOS, Android and Windows devices. With this experimental feature, you can easily enable your Dataverse-centric canvas Power Apps for offline scenarios with simple switches and a simple canvas control.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-of-canvas-built-in-offline/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-of-canvas-built-in-offline/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/04/Offline-first-architecture-1024x1014.png",
+          "width": 1024,
+          "height": 1014,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-15T00:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2023-05-02-whats-new-power-apps-april-2023-feature-update.md",
       "title": "What’s new: Power Apps April 2023 Feature Update",
       "excerpt": "Welcome to the Power Apps monthly feature update! We will use this blog to share a summary of product, community, and learning updates from throughout the month so you can access it in one easy place. A variety of new and highly anticipated features are now available which we are very excited to share",
@@ -1202,57 +1253,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-02-16T03:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-create-native-mobile-apps-with-wrap-for-power-apps-wizard-public-preview.md",
-      "title": "Create native mobile apps with wrap for Power Apps wizard (Public Preview)",
-      "excerpt": "Turn your Power Apps app into a native mobile app with our new wrap for Power Apps step-by-step wizard.",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/create-native-mobile-apps-with-wrap-for-power-apps-wizard-public-preview/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/create-native-mobile-apps-with-wrap-for-power-apps-wizard-public-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/01/wrap.png",
-          "width": 369,
-          "height": 296,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-09T01:54:50-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

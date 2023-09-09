@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-07-august-2023-updates-for-modernization-and-theming-in-power-apps.md",
+      "title": "August 2023 updates for modernization and theming in Power Apps",
+      "excerpt": "Note: This blog is in continuation of the announcement of modern controls coming to canvas apps &amp; new look for model driven apps. You can find the July 2023 updates here. Modern controls updates in canvas apps In the month of August, there was critical progress made on the journey to modernize Power",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/august-2023-updates-for-modernization-and-theming-in-power-apps/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/august-2023-updates-for-modernization-and-theming-in-power-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/08/Screenshot-2023-08-28-at-10.58.20-PM.png",
+          "width": 514,
+          "height": 325,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-07T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2023-09-05-whats-new-power-apps-august-2023-feature-update.md",
       "title": "What’s new: Power Apps August 2023 Feature Update",
       "excerpt": "Welcome to the Power Apps monthly feature update! We will use this blog to share a summary of product, community, and learning updates from throughout the month so you can access it in one easy place. We&#8217;ve got a great set of updates across for our makers, security and monitor improvements, and",
@@ -1201,57 +1252,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-05-23T00:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2023-05-15-announcing-public-preview-of-canvas-built-in-offline.md",
-      "title": "Announcing Public Preview of canvas built-in offline",
-      "excerpt": "We are pleased to announce the Public Preview of the canvas offline feature for mobile application on iOS, Android and Windows devices. With this experimental feature, you can easily enable your Dataverse-centric canvas Power Apps for offline scenarios with simple switches and a simple canvas control.",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-of-canvas-built-in-offline/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-of-canvas-built-in-offline/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/04/Offline-first-architecture-1024x1014.png",
-          "width": 1024,
-          "height": 1014,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-15T00:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
