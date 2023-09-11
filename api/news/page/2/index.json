@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-23-power-apps-is-empowering-coders-with-next-generation-ai-capabilities.md",
+      "title": "Power Apps is empowering coders with next-generation AI capabilities",
+      "excerpt": "Every year at Microsoft Build, Microsoft returns to its roots and puts developers at center stage. This year, Microsoft Power Apps is announcing a powerful set of next-generation AI capabilities and developer-focused features that improve productivity for all developers—including those who code.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-is-empowering-coders-with-next-generation-ai-capabilities/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-is-empowering-coders-with-next-generation-ai-capabilities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/05/img-5use.png",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-23T00:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2023-05-15-announcing-public-preview-of-canvas-built-in-offline.md",
       "title": "Announcing Public Preview of canvas built-in offline",
       "excerpt": "We are pleased to announce the Public Preview of the canvas offline feature for mobile application on iOS, Android and Windows devices. With this experimental feature, you can easily enable your Dataverse-centric canvas Power Apps for offline scenarios with simple switches and a simple canvas control.",
@@ -1202,57 +1253,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-02-23T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2023-02-16-call-dataverse-actions-directly-in-power-fx.md",
-      "title": "Call Dataverse actions directly in Power Fx",
-      "excerpt": "We are excited to announce direct access to Dataverse actions in Power Fx formulas as an Experimental release. As a part of the Power Fx language, authors can now directly invoke a Dataverse action within a formula. A new Power Fx &#8216;Environment&#8217; language object that authors can add to their",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/call-dataverse-actions-directly-in-power-fx-experimental-preview/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/call-dataverse-actions-directly-in-power-fx-experimental-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/02/hooking-up-an-action-to-a-button-1.png",
-          "width": 648,
-          "height": 284,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-16T03:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

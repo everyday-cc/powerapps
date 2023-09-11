@@ -2,6 +2,58 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-01-22-power-apps-portals-improvements.md",
+      "title": "Power Apps portals improvements",
+      "excerpt": "In this feature overview video series, we highlight new capabilities included in the latest update to Microsoft Power Apps.  Power Apps portals improvements bring new capabilities for makers and developers by providing a new identity management configuration experience with enhanced functionality to",
+      "sourceUrl": null,
+      "webUrl": null,
+      "originalUrl": "https://youtube.com/watch?v=1z2GLm3xzTs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1z2GLm3xzTs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1z2GLm3xzTs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-22T10:12:14-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Portals"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-introducing-intelligence-in-relevance-search.md",
       "title": "Introducing intelligence in relevance search",
       "excerpt": "Relevance search is becoming more intelligent through the infusion of machine learning. Learn more about the capabilities being introduced today.",
@@ -1233,58 +1285,6 @@
       ],
       "topics": [
         "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-considerations-for-optimized-performance-in-power-apps.md",
-      "title": "Considerations for optimized performance in Power Apps",
-      "excerpt": "Recommendations on how to maximize performance of your Power Apps ",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/considerations-for-optimized-performance-in-power-apps/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/considerations-for-optimized-performance-in-power-apps/",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jcKoqC9Vfmo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-02T23:40:36-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps",
-        "Model-driven apps"
       ]
     }
   ],

@@ -2,6 +2,57 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-05-25-power-fx-coming-to-model-driven-power-apps-dataverse-and-more.md",
+      "title": "Power Fx coming to Model-driven Power Apps, Dataverse, and more",
+      "excerpt": "Announcing Power Fx integration with Model-driven Power Apps commanding and Dataverse calculated columns and rollups.  We have also partnered with Acumatica to evaluate how Power Fx can be leveraged with the low code/no code experience they offer to their customers.  And finally we have an update on",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/power-fx-coming-to-model-driven-power-apps-dataverse-and-more/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/power-fx-coming-to-model-driven-power-apps-dataverse-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T00:50:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2021-05-24-three-new-power-apps-solutions-to-enhance-information-discovery-and-create-more-inclusive-organizations.md",
       "title": "Three new Power Apps Solutions to enhance information discovery and create more inclusive organizations",
       "excerpt": "We are excited to announce the preview release of three new Power Apps Solutions on Dataverse for Teams: Profile+, Boards, and Perspectives. These apps are an addition to the series of extendable sample apps such as Employee Ideas, Inspections, Issue Reporting, Bulletins, and Milestones. These template",
@@ -1209,57 +1260,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-03-26T08:11:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-key-alm-updates.md",
-      "title": "Key ALM updates",
-      "excerpt": "Placeholder.",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/key-alm-updates/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/key-alm-updates/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-24T23:00:53-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
