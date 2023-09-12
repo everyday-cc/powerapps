@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-12-09-visualize-data-in-model-driven-apps-with-power-bi-preview.md",
+      "title": "Visualize data in model-driven apps with Power BI (preview)",
+      "excerpt": "Visualizing data in a view to get to interactive insights is a lot faster and easier, with Power BI quick reports available on model-driven apps’ view pages.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/visualize-data-in-model-driven-apps-with-power-bi-preview/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/visualize-data-in-model-driven-apps-with-power-bi-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-default-image.png",
+          "width": 1600,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-09T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Model-driven apps"
+      ]
+    },
+    {
       "path": "_news/2021-12-03-14-year-old-boy-digitally-transforms-a-child-daycare-facility-through-microsoft-power-apps.md",
       "title": "14 year-old boy digitally transforms a child daycare facility through Microsoft Power Apps",
       "excerpt": "Today, we share a story of a 14 year old boy, Kazuki from Japan who empowers others through Power Apps.",
@@ -1223,58 +1275,6 @@
       ],
       "topics": [
         "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-power-apps-portals-create-multiple-portals-in-your-dataverse-environment.md",
-      "title": "Power Apps portals: Create multiple portals in your Dataverse environment",
-      "excerpt": "We are excited to announce that with capability makers can create multiple portal of the same type in an environment.",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-portals-create-multiple-portals-in-your-dataverse-environment/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-portals-create-multiple-portals-in-your-dataverse-environment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-default-image.png",
-          "width": 1600,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-25T03:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps",
-        "Portals"
       ]
     }
   ],
