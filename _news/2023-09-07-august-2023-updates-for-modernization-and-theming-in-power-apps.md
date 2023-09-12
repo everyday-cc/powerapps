@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/august-2023-updates-for
 webUrl: "https://powerapps.microsoft.com/en-us/blog/august-2023-updates-for-modernization-and-theming-in-power-apps/"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:
