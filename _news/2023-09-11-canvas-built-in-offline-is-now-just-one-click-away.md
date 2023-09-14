@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/canvas-built-in-offline
 webUrl: "https://powerapps.microsoft.com/en-us/blog/canvas-built-in-offline-is-now-just-one-click-away/"
 type: article
 quality: 72
-heat: 74
+heat: 72
 published: true
 
 provider:
