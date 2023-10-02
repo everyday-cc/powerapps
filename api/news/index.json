@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-02-announcing-pipelines-delegated-deployments-spn.md",
+      "title": "Announcing pipelines delegated deployments (SPN)",
+      "excerpt": "Delegated deployments (preview) for pipelines in Power Platform empowers makers to deploy their business solutions without needing elevated permissions in target environments (like production).  Admins can rest assure their production data and application assets are protected and compliant with organizational",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-pipelines-delegated-deployments-spn/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-pipelines-delegated-deployments-spn/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/10/Delegated-Deployments-Blogv3.gif",
+          "width": 1894,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-01T23:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2023-09-25-public-preview-of-new-custom-connector-enhancements.md",
       "title": "Public preview of new custom connector enhancements",
       "excerpt": "We are announcing the public preview of two new custom connector enhancements including service principal authentication support as well as the ability to use environment variables in policies. ",
@@ -1201,57 +1252,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-06-05T02:12:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-whats-new-power-apps-may-2023-feature-update.md",
-      "title": "What’s new: Power Apps May 2023 Feature Update",
-      "excerpt": "Welcome to the Power Apps monthly feature update! We will use this blog to share a summary of product, community, and learning updates from throughout the month so you can access it in one easy place. A variety of new and highly anticipated features are now available which we are very excited to share",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-may-2023-feature-update/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-may-2023-feature-update/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/05/Wiz_from_Table.gif",
-          "width": 2364,
-          "height": 1209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-01T10:13:48-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
