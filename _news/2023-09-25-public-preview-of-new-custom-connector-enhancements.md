@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/public-preview-of-new-c
 webUrl: "https://powerapps.microsoft.com/en-us/blog/public-preview-of-new-custom-connector-enhancements/"
 type: article
 quality: 72
-heat: 72
+heat: 74
 published: true
 
 provider:
