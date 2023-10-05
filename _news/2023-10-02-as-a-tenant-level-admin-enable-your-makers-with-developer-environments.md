@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/as-a-tenant-level-admin
 webUrl: "https://powerapps.microsoft.com/en-us/blog/as-a-tenant-level-admin-enable-your-makers-with-developer-environments/"
 type: article
 quality: 72
-heat: 76
+heat: 72
 published: true
 
 provider:

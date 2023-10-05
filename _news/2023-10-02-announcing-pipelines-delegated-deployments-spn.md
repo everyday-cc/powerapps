@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/announcing-pipelines-de
 webUrl: "https://powerapps.microsoft.com/en-us/blog/announcing-pipelines-delegated-deployments-spn/"
 type: article
 quality: 72
-heat: 74
+heat: 72
 published: true
 
 provider:
