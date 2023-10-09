@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-09-september-2023-updates-for-modernization-and-theming-in-power-apps.md",
+      "title": "September 2023 updates for modernization and theming in Power Apps",
+      "excerpt": "Note: This blog is in continuation of the announcement of modern controls coming to canvas apps &amp; new look for model driven apps. You can find the August 2023 updates here. Modern controls updates in canvas apps We made additional progress in the month of September on the journey to modernize Power",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/september-2023-updates-for-modernization-and-theming-in-power-apps/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/september-2023-updates-for-modernization-and-theming-in-power-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/10/image-10.png",
+          "width": 756,
+          "height": 358,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-09T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2023-10-02-as-a-tenant-level-admin-enable-your-makers-with-developer-environments.md",
       "title": "As a tenant-level admin, enable your makers with Developer Environments",
       "excerpt": "We are excited to share that tenant-level Global and Power Platform Administrators can now enable their app makers by creating Developer environments on makers&#8217; behalf. This new capability gives your admin the right balance between control and maker empowerment. These developer environments enable",
@@ -1201,57 +1252,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-06-06T03:26:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2023-06-05-may-2023-updates-for-modernization-in-power-apps.md",
-      "title": "May 2023 updates for modernization in Power Apps",
-      "excerpt": "Note: This blog is in continuation of the announcement of modern controls coming to canvas apps &amp; new look for model driven apps. We thank our community and users for the active engagement on the journey to modernize Power Apps. This blog outlines the modernization updates we rolled out or are rolling",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/may-2023-updates-for-modernization-in-power-apps/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/may-2023-updates-for-modernization-in-power-apps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/05/image-9.png",
-          "width": 342,
-          "height": 586,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-05T04:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
