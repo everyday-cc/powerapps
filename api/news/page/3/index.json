@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-03-20-releasing-the-february-update-for-the-developer-tools-power-platform-cli.md",
+      "title": "Releasing the February Update for the  Developer Tools (Power Platform CLI)",
+      "excerpt": "We are happy to finally release our February update for the Power Platform CLI. For those of you who are new, our pattern has been that we release an update for the work done in the last month, in the current month. Usually, we each include some new capabilities, along with the usual fixes that&hellip;",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/releasing-the-february-update-for-the-developer-tools-power-platform-cli/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/releasing-the-february-update-for-the-developer-tools-power-platform-cli/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v59zr1uqaxos5du9x2sd.png",
+          "width": 3712,
+          "height": 1738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-20T00:14:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2023-03-16-announcing-a-next-generation-ai-copilot-in-microsoft-power-apps-that-will-transform-low-code-development.md",
       "title": "Announcing a next-generation AI Copilot in Microsoft Power Apps that will transform low-code development",
       "excerpt": "Today, we’re announcing a next-generation AI Copilot in Microsoft Power Apps that will transform how we build and interact with software applications. With the power of large language models, we are advancing to the next step in the evolution of code abstraction—moving from custom code, to low-code,",
@@ -1201,57 +1252,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-11-01T04:01:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2022-10-31-whats-new-power-apps-october-2022-feature-update.md",
-      "title": "What’s new: Power Apps October 2022 Feature Update",
-      "excerpt": "Welcome to the Power Apps monthly feature update! We will use this blog to share a summary of product, community, and learning updates from throughout the month so you can access it in one easy place. A variety of new and highly anticipated features are now available which we are very excited to share.",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-october-2022-feature-update/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-october-2022-feature-update/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/10/CELA-coauthoring-demo-1920-1.gif",
-          "width": 1920,
-          "height": 970,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-31T03:53:02-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
