@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/modern-refreshed-look-f
 webUrl: "https://powerapps.microsoft.com/en-us/blog/modern-refreshed-look-for-model-driven-apps-is-generally-available-ga/"
 type: article
 quality: 103
-heat: 103
+heat: 104
 published: true
 
 provider:
