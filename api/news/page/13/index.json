@@ -2,6 +2,57 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-02-18-enhanced-component-properties.md",
+      "title": "Enhanced component properties",
+      "excerpt": "Enjoy two new experimental features for formula based components.  Behavior properties enable a component to fire a custom event into its container, such as OnChange.  Property parameters enable the passing of arguments for a property evaluation, providing our first steps toward formula based user defined",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/enhanced-component-properties/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/enhanced-component-properties/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-18T11:56:05-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-next-on-premise-update-brings-the-latest-version-of-unified-interface.md",
       "title": "Next on-premise update brings the latest version of Unified Interface",
       "excerpt": "The next update to Microsoft Dynamics 365 Customer Engagement On-premises is coming in Q2 2021. This release contains major updates to the Unified Interface with improved performance and a host of new and updated usability features. Now is a great time to start planning and preparing to transition to",
@@ -1206,58 +1257,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-01-05T00:00:23-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps",
-        "Model-driven apps"
-      ]
-    },
-    {
-      "path": "_news/2021-01-04-new-model-driven-apps-controls-deprecation-of-old-controls.md",
-      "title": "New Model Driven Apps controls, deprecation of old controls",
-      "excerpt": "We&#8217;re working hard here to deliver some new controls for everyone which are more in line with modern web and mobile in mind.  The first two we&#8217;ve been able to deliver as a platform are the Toggle control and Activities calendar.",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/new-model-driven-apps-controls-deprecation-of-old-controls/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/new-model-driven-apps-controls-deprecation-of-old-controls/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-04T02:00:13-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

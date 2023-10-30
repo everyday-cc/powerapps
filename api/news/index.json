@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-30-solution-checker-enforcement-in-managed-environments-is-generally-available.md",
+      "title": "Solution checker enforcement in Managed Environments is generally available",
+      "excerpt": "Earlier this year, we announced public preview of the solution checker enforcement feature for Managed Environments. With solution checker enforcement, Power Platform admins can ensure solutions are pre-validated for various security, reliability, and performance issues before they&#8217;re imported",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/solution-checker-enforcement-in-managed-environments-is-generally-available/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/solution-checker-enforcement-in-managed-environments-is-generally-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/10/Untitled-video-6.gif",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-30T03:52:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2023-10-19-modern-refreshed-look-for-model-driven-apps-is-generally-available-ga.md",
       "title": "Modern, refreshed look for model-driven apps is generally available (GA)",
       "excerpt": "We are proud to announce that the modern, refreshed look for model-driven apps is now generally available as of 2023 Release Wave 2. Released as part of a preview in February 2023, we&#8217;ve made considerable updates and brought a new opt-in toggle for end users. Improvements since February Updated",
@@ -1224,58 +1275,6 @@
       ],
       "topics": [
         "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-announcing-monthly-channel-for-model-driven-apps.md",
-      "title": "Announcing monthly channel for model-driven apps",
-      "excerpt": "Today we are launching Release Channels for model-driven apps in public and sovereign clouds. Release channels provide more choice for adopting new features in model driven apps and Dynamics 365 apps.  Rather than only being able to receive updates twice a year during the wave releases, you can choose",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-monthly-channel-for-model-driven-apps/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-monthly-channel-for-model-driven-apps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/06/image-5.png",
-          "width": 928,
-          "height": 582,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-28T06:20:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps",
-        "Model-driven apps"
       ]
     }
   ],
