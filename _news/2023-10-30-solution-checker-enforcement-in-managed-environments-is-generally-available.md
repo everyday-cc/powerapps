@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/solution-checker-enforc
 webUrl: "https://powerapps.microsoft.com/en-us/blog/solution-checker-enforcement-in-managed-environments-is-generally-available/"
 type: article
 quality: 70
-heat: 70
+heat: 71
 published: true
 
 provider:
