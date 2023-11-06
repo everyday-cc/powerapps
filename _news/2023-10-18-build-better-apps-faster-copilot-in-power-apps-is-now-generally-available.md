@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/build-better-apps-faste
 webUrl: "https://powerapps.microsoft.com/en-us/blog/build-better-apps-faster-copilot-in-power-apps-is-now-generally-available/"
 type: article
 quality: 85
-heat: 86
+heat: 85
 published: true
 
 provider:
