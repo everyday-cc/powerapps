@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-11-07-expanded-monthly-channel-settings-for-model-driven-apps.md",
+      "title": "Expanded Monthly Channel settings for model-driven apps",
+      "excerpt": "We are excited to announce that release channels can soon be set on the model-driven app or have an admin override for specific users. With this new model-driven app will soon start defaulting to monthly channel.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/expanded-monthly-channel-settings-for-model-driven-apps/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/expanded-monthly-channel-settings-for-model-driven-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/11/app-designer-settings-release-channel-1024x663.png",
+          "width": 1024,
+          "height": 663,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-07T03:53:31-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Model-driven apps"
+      ]
+    },
+    {
       "path": "_news/2023-11-02-cards-for-power-apps-are-now-solution-aware-for-easier-application-lifecycle-management-alm.md",
       "title": "Cards for Power Apps are now solution-aware for easier application lifecycle management (ALM)",
       "excerpt": "Cards for Power Apps are solution-aware for application lifecycle management (ALM).",
@@ -1201,57 +1253,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-07-13T05:15:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-announcing-public-preview-of-ip-firewall-in-dataverse.md",
-      "title": "Announcing Public preview of IP Firewall in Dataverse",
-      "excerpt": "During the BUILD&#8217;23, we announced IP Firewall Public preview for Dataverse. We are pleased to announce that the Global rollout of IP Firewall public preview is completed and is available to all our customers across all the Geos starting July 7th, 2023. By using the IP firewall feature, you can",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-of-ip-internet-protocol-firewall-for-dataverse/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-of-ip-internet-protocol-firewall-for-dataverse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/06/a-screenshot-of-a-computer-description-automatica.png",
-          "width": 940,
-          "height": 946,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-06T18:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
