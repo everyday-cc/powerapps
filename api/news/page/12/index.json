@@ -2,6 +2,57 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-04-29-how-to-run-a-manufacturing-facility-using-the-one-microsoft-cloud.md",
+      "title": "How to Run a Manufacturing Facility Using the One Microsoft Cloud",
+      "excerpt": "A manufacturing plant using Microsoft Power Platform to solve machine monitoring and servicing. ",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/how-to-run-a-manufacturing-facility-using-the-one-microsoft-cloud/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/how-to-run-a-manufacturing-facility-using-the-one-microsoft-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2021/04/manufacturing_demo.png",
+          "width": 886,
+          "height": 505,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-29T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2021-04-28-join-us-for-microsoft-business-applications-summit-may-4th-2021.md",
       "title": "Join us for Microsoft Business Applications Summit! May 4th, 2021",
       "excerpt": "Join CVP, Charles Lamanna, and Ryan Cunningham, and the Power Apps Team on May 4th, 2021 at Microsoft Business Applications Summit!",
@@ -1229,58 +1280,6 @@
       ],
       "topics": [
         "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-the-new-search-experience-for-model-driven-apps-is-now-also-available-on-mobile.md",
-      "title": "The new search experience for model-driven apps is now also available on mobile",
-      "excerpt": "The new search experience based on relevance search is now also available on mobile. Model driven apps now have a discoverable search, zero query results and suggested results as you start to type. Filtering capabilities on search results rounds out the new experience. ",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/the-new-search-experience-for-model-driven-apps-is-now-also-available-on-mobile/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/the-new-search-experience-for-model-driven-apps-is-now-also-available-on-mobile/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-23T03:33:33-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps",
-        "Model-driven apps"
       ]
     }
   ],

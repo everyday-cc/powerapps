@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-11-09-copilot-now-powers-all-app-descriptions.md",
+      "title": "Copilot now powers all app descriptions",
+      "excerpt": "We are excited to announce the Public Preview of Copilot-generated app descriptions in Power Apps. Copilot will now generate a description for every app that is missing a description within Managed Environments.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/copilot-now-powers-all-app-descriptions/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/copilot-now-powers-all-app-descriptions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/11/AppsCardViewDemo.gif",
+          "width": 1920,
+          "height": 1004,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-09T06:10:34-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2023-11-08-october-updates-for-modernization-in-canvas-apps-includes-ga-of-few-modern-controls.md",
       "title": "October updates for modernization in canvas apps (includes GA of few modern controls)",
       "excerpt": "Note: This blog is in continuation of the series of modern controls coming to canvas apps. You can find the September 2023 updates here. Recently, we also announced GA for modern, refreshed look in model apps. In October’23, we continued enhancing modern controls and theming and delivered some key enhancements",
@@ -1203,57 +1254,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-07-31T11:29:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-microsoft-power-apps-and-generative-ai-helps-citizen-maker-upskill-and-transform-career.md",
-      "title": "Microsoft Power Apps and generative AI helps citizen maker upskill and transform career",
-      "excerpt": "Miyu Takai from Tokyo, Japan, began her career with zero IT experience and is now in a technical specialist role that she never imagined possible for herself, thanks to the Power Platform and the power of AI. Miyu leveraged her existing Excel skills and used the GPT-powered Power Apps Ideas capabilities",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/microsoft-power-apps-and-generative-ai-helps-citizen-maker-upskill-and-transform-career/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/microsoft-power-apps-and-generative-ai-helps-citizen-maker-upskill-and-transform-career/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/07/image-12.png",
-          "width": 2315,
-          "height": 1297,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-24T01:29:33-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
