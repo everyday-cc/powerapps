@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/simplified-license-assi
 webUrl: "https://powerapps.microsoft.com/en-us/blog/simplified-license-assignment-for-power-apps/"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:
