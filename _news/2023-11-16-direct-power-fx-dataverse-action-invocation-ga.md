@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/direct-power-fx-dataver
 webUrl: "https://powerapps.microsoft.com/en-us/blog/direct-power-fx-dataverse-action-invocation-ga/"
 type: article
 quality: 72
-heat: 74
+heat: 75
 published: true
 
 provider:
