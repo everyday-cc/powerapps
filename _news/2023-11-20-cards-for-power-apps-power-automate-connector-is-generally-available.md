@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/cards-for-power-apps-po
 webUrl: "https://powerapps.microsoft.com/en-us/blog/cards-for-power-apps-power-automate-connector-is-generally-available/"
 type: article
 quality: 87
-heat: 87
+heat: 90
 published: true
 
 provider:
