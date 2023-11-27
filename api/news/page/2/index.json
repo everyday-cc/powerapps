@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-08-21-copilot-brings-the-power-of-intelligence-to-your-favorite-power-apps.md",
+      "title": "Copilot brings the power of intelligence to your favorite Power Apps",
+      "excerpt": "Today, we are announcing the availability of Copilot for users of model-driven apps and a major expansion of Copilot control’s capabilities in canvas apps. Now, all Power Apps can be intelligent apps.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/copilot-brings-the-power-of-intelligence-to-your-favorite-power-apps/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/copilot-brings-the-power-of-intelligence-to-your-favorite-power-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/08/Model-driven-Copilot-1.png",
+          "width": 1971,
+          "height": 1035,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-21T10:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2023-08-07-july-2023-updates-for-modernization-in-power-apps-theming-and-more.md",
       "title": "July 2023 updates for modernization in Power Apps – theming and more",
       "excerpt": "Note: This blog is in continuation of the announcement of modern controls coming to canvas apps &amp; new look for model driven apps. You can find the June 2023 updates here. Modern controls updates in canvas apps In the month of July, there is critical progress made with exciting updates on theming,",
@@ -1201,57 +1252,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-04-26T13:34:49Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-update-forms-and-views-more-conveniently-with-table-designer.md",
-      "title": "Update forms and views more conveniently with table designer",
-      "excerpt": "We are pleased to announce the public preview of Update forms and views feature in table designer. With this new experience, makers can now add columns to their forms and views on the fly, instead of navigating away from their table to update their forms and views manually. This also means when working",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/update-forms-and-views-more-conveniently-with-table-designer/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/update-forms-and-views-more-conveniently-with-table-designer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/04/Update-forms-and-views-option-247-1.png",
-          "width": 1857,
-          "height": 1006,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T09:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

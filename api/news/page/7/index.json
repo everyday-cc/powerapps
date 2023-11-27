@@ -2,6 +2,57 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-03-08-announcing-the-general-availability-of-pay-as-you-go-for-power-apps.md",
+      "title": "Announcing the general availability of pay-as-you-go for Power Apps",
+      "excerpt": "Pay-as-you-go for Power Apps is a new way to pay for Power Apps using an Azure subscription. Pay-as-you-go allows you to share a Power Apps app with any user in your organization and then only pay if and when they use that app. ",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-the-general-availability-of-pay-as-you-go-for-power-apps/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-the-general-availability-of-pay-as-you-go-for-power-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2021/11/PowerAppsPAYGOAzureTags2.png",
+          "width": 585,
+          "height": 353,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-08T17:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2022-03-03-behind-the-scenes-what-it-takes-to-teach-gpt-3-how-to-build-low-code-apps.md",
       "title": "Behind the Scenes – What it Takes to Teach GPT-3 How to Build Low-Code Apps",
       "excerpt": "Last year, we announced the public preview of Power Apps Ideas, which enables Power Apps makers to take advantage of Microsoft AI technologies that make it easy to write Power Fx formulas with no-code. In this article, we’re going to go behind the scenes to share what it took for the Power Apps engineering",
@@ -1236,57 +1287,6 @@
       "topics": [
         "Power Apps",
         "Teams integration"
-      ]
-    },
-    {
-      "path": "_news/2021-11-10-odata-v20-service-removal-date-announcement.md",
-      "title": "OData v2.0 Service removal date announcement",
-      "excerpt": "We plan to remove the deprecated OData v2.0 endpoint known as the Organization Data Service from Dataverse on November 4, 2022. ",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/odata-v2-0-service-removal-date-announcement/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/odata-v2-0-service-removal-date-announcement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-default-image.png",
-          "width": 1600,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-10T21:13:29Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
       ]
     }
   ],

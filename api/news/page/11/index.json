@@ -2,6 +2,57 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-07-01-apps-for-everyone-updates-to-power-apps-pricing-and-licensing.md",
+      "title": "Apps for everyone: updates to Power Apps pricing and licensing",
+      "excerpt": "This week we’re wrapping up our fiscal year, a year of unprecedented growth for Power Apps. It’s a good moment to reflect on how far we’ve come together as a community and what it means to take the low code movement to the next, even larger scale. Today we announced on the official Microsoft Licensing",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/apps-for-everyone-updates-to-power-apps-pricing-and-licensing/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/apps-for-everyone-updates-to-power-apps-pricing-and-licensing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-01T09:05:44Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2021-06-29-canvas-app-layout-containers-are-now-generally-available.md",
       "title": "Canvas app layout containers are now generally available",
       "excerpt": "We are excited to announce the general availability of the container, horizontal container and vertical container layout controls in canvas apps! These controls help you automatically reflow and resize controls within them to enable easy, no expression layouts in canvas apps.",
@@ -1233,57 +1284,6 @@
         "Power Apps",
         "Canvas apps",
         "Teams integration"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-general-availability-of-the-sap-erp-connector.md",
-      "title": "General availability of the SAP ERP connector",
-      "excerpt": "We are announcing the general availability of the SAP ERP connector for Power Apps and Power Automate. We also plan to release an ODATA connector as well.",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/general-availability-of-the-sap-erp-connector/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/general-availability-of-the-sap-erp-connector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-18T10:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
       ]
     }
   ],
