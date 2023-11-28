@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-11-28-join-microsoft-at-the-devintersection-conference-in-orlando.md",
+      "title": "Join Microsoft at the DEVIntersection Conference in Orlando",
+      "excerpt": "Microsoft warmly invites you to join us in Orlando for the DEVIntersection Conference and the Microsoft Azure + AI Conference. You&#8217;ll hear from some of your favorite Microsoft leaders, including Scott Hanselman, Vice President of Microsoft Development Community, and Scott Hunter, Vice President",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/join-microsoft-the-devintersection-conference-in-orlando/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/join-microsoft-the-devintersection-conference-in-orlando/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/11/CLO24-Azure-Fintech-017_1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-28T08:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2023-11-27-application-modernization-with-power-platform.md",
       "title": "Application modernization with Power Platform",
       "excerpt": "The low-code development capabilities of Microsoft Power Platform make it possible to build and deploy modern applications faster and more cost-effectively than ever before. Whether you’re a citizen developer tinkering around the edges or a professional developer working on a complex customization, you",
@@ -1204,57 +1255,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-09-05T07:02:49Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-introducing-new-ways-of-creating-tables.md",
-      "title": "Introducing new ways of creating tables",
-      "excerpt": "We are excited to share with you the updated tables page experience, which is now generally available for all makers. With the new tables page experience, you will be able to create tables with the versatile options we recently introduced to the new home page, including conversation-based table creation",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/introducing-new-ways-of-creating-tables/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/introducing-new-ways-of-creating-tables/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/08/image-5.png",
-          "width": 2554,
-          "height": 1273,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-29T08:30:34Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

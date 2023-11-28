@@ -2,6 +2,57 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-10-05-gartner-magic-quadrant-names-microsoft-power-apps-a-leader-for-low-code-application-platforms.md",
+      "title": "Gartner Magic Quadrant Names Microsoft Power Apps a Leader for Low Code Application Platforms",
+      "excerpt": "Today, we are announcing that Microsoft is a leader in the Gartner Low Code Application Platform (LCAP) Magic Quadrant. In the report, you’ll learn about Gartner’s assessment of the products in this market and explore their features.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/gartner-magic-quadrant-names-microsoft-power-apps-a-leader-for-low-code-application-platforms/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/gartner-magic-quadrant-names-microsoft-power-apps-a-leader-for-low-code-application-platforms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-05T11:00:52Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-modern-fluent-ui-controls-in-power-apps-preview.md",
       "title": "Modern Fluent UI controls in Power Apps (preview)",
       "excerpt": "We&#8217;re proud to announce the preview of new modern Fluent UI controls for Power Apps. These controls enable makers to create apps which more closely align with modern Microsoft patterns and styles.",
