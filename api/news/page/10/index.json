@@ -2,6 +2,159 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-08-26-how-ipad-iphone-and-mac-users-can-tap-the-power-of-microsofts-power-apps.md",
+      "title": "How iPad, iPhone and Mac users can tap the power of Microsoft's Power Apps",
+      "excerpt": "All the benefits of Microsoft's low-code platform Power Apps, which help refine workflows, improve reporting and encourage collaboration, are available to Apple users.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/how-ipad-iphone-and-mac-users-can-tap-the-power-of-microsofts-power-apps/",
+      "originalUrl": "https://www.techrepublic.com/article/how-ipad-iphone-and-mac-users-can-tap-the-power-of-microsofts-power-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/08/19/977c8ed5-cd39-4e8a-97de-a3e7b21ad2e1/resize/1200x/12ad27a8c4cf60eb4af1bfb11db0ca57/fig-a-power-apps-iphone-image-main.jpg",
+          "width": 1200,
+          "height": 2523,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-ipad-iphone-and-mac-users-can-tap-the-power-of-microsofts-power-apps/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ipad-iphone-and-mac-users-can-tap-the-power-of-microsofts-power-apps/",
+      "publishedDateTime": "2021-08-25T20:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-a-sample-custom-connector-for-servicenow-using-oauth-authentication.md",
+      "title": "A sample custom connector for ServiceNow using OAuth authentication",
+      "excerpt": "Sample custom connector for ServiceNow. ",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/a-sample-custom-connector-for-servicenow-using-oauth-authentication/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/a-sample-custom-connector-for-servicenow-using-oauth-authentication/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-25T09:00:58Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-microsoft-power-apps-misconfiguration-exposes-data-from-38-million-records.md",
+      "title": "Microsoft Power Apps misconfiguration exposes data from 38 million records",
+      "excerpt": "Microsoft Power Apps is a low-code development tool designed to help people with little programming experience build web and mobile apps for their organizations. As part of the process, Microsoft ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/microsoft-power-apps-misconfiguration-exposes-data-from-38-million-records/",
+      "originalUrl": "https://www.techrepublic.com/article/microsoft-power-apps-misconfiguration-exposes-data-from-38-million-records/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/08/24/d5577d86-e3dd-4c33-94d3-62ed7272396e/resize/1200x/4d230a46a46ce17d8548ee4b858c4b0e/microsoft-power-apps.jpg",
+          "width": 1200,
+          "height": 703,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-power-apps-misconfiguration-exposes-data-from-38-million-records/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-power-apps-misconfiguration-exposes-data-from-38-million-records/",
+      "publishedDateTime": "2021-08-25T05:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2021-08-24-researchers-found-a-misconfiguration-in-web-apps-using-power-apps-portals-exposed-38-million-records.md",
       "title": "Researchers found a misconfiguration in web apps using Power Apps portals exposed 38 million records",
       "excerpt": "The growing trend of large-scale security blunders is far from over, as evidenced by research that shows around 38 million records from over a thousand web",
@@ -1111,160 +1264,6 @@
       "topics": [
         "Power Apps",
         "Model-driven apps"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-july-23rd-vancouver-user-group-data-flows-and-commanding-for-model-driven-power-apps.md",
-      "title": "July 23rd Vancouver User Group: Data Flows and Commanding for Model Driven Power Apps",
-      "excerpt": "The Vancouver Power Apps User group has a very special virtual meeting with Olena Grischenko from Sydney Australia covering Data Flows in Power Apps and Scott Durow offering a sneak peek into what is coming for Commanding model in Power Apps.",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/july-23rd-vancouver-user-group-data-flows-and-commanding-for-model-driven-power-apps/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/july-23rd-vancouver-user-group-data-flows-and-commanding-for-model-driven-power-apps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-20T10:00:05Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-07-17-2021-power-apps-community-call-demo-extravaganza-july-21st.md",
-      "title": "2021 Power Apps community call Demo Extravaganza July 21st",
-      "excerpt": "The community has spoken, and the Top Entries have been chosen!  The July 2021 Power Apps community call is your chance to see these Power Apps artisans show off their creations and discuss how they built these amazing samples!",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/2021-power-apps-community-call-demo-extravaganza-july-21st/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/2021-power-apps-community-call-demo-extravaganza-july-21st/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-17T08:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-power-apps-portals-and-power-bi-integration-enhancements.md",
-      "title": "Power Apps portals and Power BI integration enhancements",
-      "excerpt": "Power Apps portals has native support for Power BI reports and dashboard. With recent portal releases, we are adding support for more Power BI functionalities.",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-portals-and-power-bi-integration-enhancements/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-portals-and-power-bi-integration-enhancements/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T22:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps",
-        "Portals"
       ]
     }
   ],

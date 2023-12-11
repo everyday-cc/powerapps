@@ -2,6 +2,159 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-10-03-whats-new-power-apps-september-2022-feature-update.md",
+      "title": "What’s new: Power Apps September 2022 Feature Update",
+      "excerpt": "Welcome to the Power Apps monthly feature update! We will use this blog to share a summary of product, community, and learning updates from throughout the month so you can access it in one easy place. A variety of new and highly anticipated features are now available which we are very excited to share.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-september-2022-feature-update/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-september-2022-feature-update/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/10/SharePointImage.png",
+          "width": 624,
+          "height": 402,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-03T20:16:37Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-power-apps-brings-collaboration-to-center-stage-with-3-big-announcements.md",
+      "title": "Power Apps brings collaboration to center stage with 3 big announcements",
+      "excerpt": "As we kick off the first ever Microsoft Power Platform Conference to a sold-out crowd buzzing with energy, the power of a thriving and collaborative low code community has never been clearer. Our major product announcements today reflect that truth. We’re excited to share three important new ways to",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-brings-collaboration-to-center-stage-with-3-big-announcements/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-brings-collaboration-to-center-stage-with-3-big-announcements/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/09/Low-Code-Designer-for-Power-Apps-Cards.png",
+          "width": 1579,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T05:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_news/2022-09-16-power-fx-introducing-named-formulas.md",
+      "title": "Power Fx: Introducing Named Formulas",
+      "excerpt": "Simplify your app&#8217;s initialization, reduce app load time, reuse logic, and improve the maintainability of your apps with an old and very powerful concept form Excel.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/power-fx-introducing-named-formulas/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/power-fx-introducing-named-formulas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/09/2022-09-16_09h57_30-1024x509.png",
+          "width": 1024,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-16T11:07:21Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2022-09-08-power-platform-administration-planning.md",
       "title": "Power Platform Administration Planning",
       "excerpt": "Behind the scenes, your IT and Center of Excellence team spends time configuring, managing and nurturing the adoption of the Power Platform.  In this post, learn about a new tool to help you plan who you need on your team and find the highest-impact opportunities to streamline your administrative effort.",
@@ -1092,160 +1245,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-06-21T06:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-introducing-hebrew-and-arabic-languages-for-power-apps-portals.md",
-      "title": "Introducing Hebrew and Arabic languages for Power Apps portals",
-      "excerpt": "We are excited to announce Hebrew and Arabic language support for Power Apps portals",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/introducing-hebrew-and-arabic-language-in-power-apps-portals/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/introducing-hebrew-and-arabic-language-in-power-apps-portals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/04/Arabic-Localization-1000x1024.png",
-          "width": 1000,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-16T20:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps",
-        "Portals"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-announcing-general-availability-of-wrap-for-power-apps.md",
-      "title": "Announcing general availability of wrap for Power Apps",
-      "excerpt": "Wrap for Power Apps is the next step, integrating low-code enterprise apps with Power Apps mobile technology to produce secure enterprise mobile apps with rich native mobile experiences and seamless end-to-end branding suitable for customer-facing frontline worker scenarios.",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-of-wrap-for-power-apps/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-of-wrap-for-power-apps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/04/wrap.png",
-          "width": 369,
-          "height": 296,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T14:51:28Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-announcing-general-availability-of-our-new-dataverse-experiences-on-power-apps.md",
-      "title": "Announcing general availability of our new Dataverse experiences on Power Apps",
-      "excerpt": "When building apps, data is the core of your experience &#8211; and Dataverse is a natural solution for Power Apps. Dataverse gives us a huge breadth of features to work with so we&#8217;ve been investing in familiar and intuitive experiences for our users so that they can get the best out of Dataverse.",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-of-our-new-dataverse-experiences-on-power-apps/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-of-our-new-dataverse-experiences-on-power-apps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/05/SortFilterSearch.gif",
-          "width": 2055,
-          "height": 908,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-06T10:39:29Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/application-modernizati
 webUrl: "https://powerapps.microsoft.com/en-us/blog/application-modernization-with-power-platform/"
 type: article
 quality: 72
-heat: 73
+heat: 72
 published: true
 
 provider:

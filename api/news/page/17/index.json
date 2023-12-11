@@ -1,0 +1,57 @@
+{
+  "page": 17,
+  "value": [
+    {
+      "path": "_news/2019-08-19-microsoft-power-apps-2019-release-wave-2-overview.md",
+      "title": "Microsoft Power Apps | 2019 release wave 2 overview",
+      "excerpt": "In this overview video, we will highlight some of the new capabilities included in the latest update to Microsoft Power Apps that will help you plan and prepare for the upcoming updates with confidence.     Here are the capabilities covered:  • Guest access  • Solution checker enhancements  • Building",
+      "sourceUrl": null,
+      "webUrl": null,
+      "originalUrl": "https://youtube.com/watch?v=WJk-Y8LQlfE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WJk-Y8LQlfE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/WJk-Y8LQlfE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-08-19T21:00:10Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    }
+  ],
+  "nextPage": null
+}
