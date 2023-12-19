@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-05-24-safely-hyperscale-low-code-apps-with-ease-using-microsoft-dataverse.md",
+      "title": "Safely hyperscale low-code apps with ease using Microsoft Dataverse",
+      "excerpt": "Microsoft Dataverse is saving development teams time and money by accelerating data-driven application development and streamlining data insights on an enterprise-grade low code data platform you can trust.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/safely-hyperscale-low-code-apps-with-ease-using-microsoft-dataverse/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/safely-hyperscale-low-code-apps-with-ease-using-microsoft-dataverse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/05/CLO18_manufacturing_018.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-24T09:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2023-05-23-power-apps-is-empowering-coders-with-next-generation-ai-capabilities.md",
       "title": "Power Apps is empowering coders with next-generation AI capabilities",
       "excerpt": "Every year at Microsoft Build, Microsoft returns to its roots and puts developers at center stage. This year, Microsoft Power Apps is announcing a powerful set of next-generation AI capabilities and developer-focused features that improve productivity for all developers—including those who code.",
@@ -1202,57 +1253,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-03-01T07:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2023-02-23-kao-uses-power-apps-to-boost-frontline-worker-efficiency-by-480-hours-every-month.md",
-      "title": "Kao uses Power Apps to boost frontline worker efficiency by 480 hours every month",
-      "excerpt": "Kao Corporation has used Microsoft Power Platform to create digital solutions for frontline workers across their factories in Japan. A single citizen developer project resulted in an efficiency increase of 480 hours per month. This is one of the 250+ apps in use across ten facilities in Japan.",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/kao-uses-power-apps-to-boost-frontline-worker-efficiency-by-480-hours-every-month/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/kao-uses-power-apps-to-boost-frontline-worker-efficiency-by-480-hours-every-month/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/02/image-8.png",
-          "width": 967,
-          "height": 544,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-23T16:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

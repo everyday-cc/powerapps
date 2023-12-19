@@ -2,6 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-07-20-introducing-performance-insights-preview-for-model-driven-apps.md",
+      "title": "Introducing Performance Insights (preview) for Model-driven apps",
+      "excerpt": "Performance Insights, a new feature to help you improve the performance of your Model-driven apps, is now available in public preview!",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/introducing-performance-insights-preview-for-model-driven-apps/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/introducing-performance-insights-preview-for-model-driven-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-20T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Model-driven apps"
+      ]
+    },
+    {
       "path": "_news/2021-07-20-july-23rd-vancouver-user-group-data-flows-and-commanding-for-model-driven-power-apps.md",
       "title": "July 23rd Vancouver User Group: Data Flows and Commanding for Model Driven Power Apps",
       "excerpt": "The Vancouver Power Apps User group has a very special virtual meeting with Olena Grischenko from Sydney Australia covering Data Flows in Power Apps and Scott Durow offering a sneak peek into what is coming for Commanding model in Power Apps.",
@@ -1232,57 +1284,6 @@
       "topics": [
         "Power Apps",
         "Portals"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-introducing-power-apps-ideas-ai-powered-assistance-now-helps-anyone-create-apps-using-natural-language.md",
-      "title": "Introducing Power Apps Ideas: AI-powered assistance now helps anyone create apps using natural language",
-      "excerpt": "The ultimate low-code app building experience is one where you describe in plain language what you want an app to do, and in an instant that app is created for you.",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/introducing-power-apps-ideas-ai-powered-assistance-now-helps-anyone-create-apps-using-natural-language/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/introducing-power-apps-ideas-ai-powered-assistance-now-helps-anyone-create-apps-using-natural-language/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-25T07:55:46Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
       ]
     }
   ],

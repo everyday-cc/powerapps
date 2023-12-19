@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-19-maker-uses-power-platform-to-help-his-daughter-manage-diabetes.md",
+      "title": "Maker uses Power Platform to help his daughter manage diabetes",
+      "excerpt": "An application built using Power Apps and Power Automate helps log and calculate data for managing diabetes. \n",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/maker-uses-power-platform-to-help-his-daughter-manage-diabetes/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/maker-uses-power-platform-to-help-his-daughter-manage-diabetes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogmedia.azureedge.net/powerappsblog/2023/12/Haniel_image3.jpg",
+          "width": 331,
+          "height": 230,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-19T07:53:25Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2023-12-07-building-new-apps-and-tables-with-maker-copilot-is-now-available-worldwide.md",
       "title": "Building new apps and tables with Maker Copilot is now available worldwide",
       "excerpt": "We are excited to announce that the Build apps through conversation capability is now available globally on make.powerapps.com.\n",
@@ -1204,57 +1255,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-09-25T09:28:52Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-simplifying-license-management-with-auto-claim-for-power-apps-and-licensing-insights-for-power-automate.md",
-      "title": "Simplifying license management with auto-claim for Power Apps and licensing insights for Power Automate",
-      "excerpt": " It is with great pleasure that we introduce the public preview of Auto-claim for Power Apps licenses, a feature that empowers administrators to effortlessly set up policies within the Microsoft 365 admin center. These policies enable automatic license assignments to unlicensed users when they engage",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/simplifying-license-management-with-auto-claim-for-power-apps-and-licensing-insights-for-power-automate/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/simplifying-license-management-with-auto-claim-for-power-apps-and-licensing-insights-for-power-automate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/09/Ofc17_small_business_female.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-12T07:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

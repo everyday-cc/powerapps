@@ -2,6 +2,57 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-03-26-formula-bar-changes.md",
+      "title": "Formula Bar Changes",
+      "excerpt": "The standard Canvas formula bar is better than ever, including more natural Enter and Tab key behavior and a scrollbar.  The previously experimental formula bar is being retired.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/formula-bar-changes/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/formula-bar-changes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-26T15:11:02Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2021-03-25-key-alm-updates.md",
       "title": "Key ALM updates",
       "excerpt": "Placeholder.",
@@ -1203,57 +1254,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-02-01T16:00:24Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-adh-clinic-adopts-microsoft-power-platform-a-small-business-survival-story.md",
-      "title": "ADH Clinic adopts Microsoft Power Platform  a small business survival story",
-      "excerpt": "The incredible story of how small business owner Andrea Douthwaite-Hodges partnered with two dear friends who implemented a technology solution that enabled her to safely re-open her clinic during the COVID-19 pandemic. The solution includes Microsoft Bookings, Outlook, Microsoft Forms, Power Apps, Power",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/adh-clinic/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/adh-clinic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2021/01/ADHClinic_BannerJPG.jpg",
-          "width": 2006,
-          "height": 923,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-27T08:00:43Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

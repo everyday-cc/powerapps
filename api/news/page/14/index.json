@@ -2,6 +2,57 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-01-27-adh-clinic-adopts-microsoft-power-platform-a-small-business-survival-story.md",
+      "title": "ADH Clinic adopts Microsoft Power Platform  a small business survival story",
+      "excerpt": "The incredible story of how small business owner Andrea Douthwaite-Hodges partnered with two dear friends who implemented a technology solution that enabled her to safely re-open her clinic during the COVID-19 pandemic. The solution includes Microsoft Bookings, Outlook, Microsoft Forms, Power Apps, Power",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/adh-clinic/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/adh-clinic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2021/01/ADHClinic_BannerJPG.jpg",
+          "width": 2006,
+          "height": 923,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-27T08:00:43Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2021-01-22-power-apps-portals-improvements.md",
       "title": "Power Apps portals improvements",
       "excerpt": "In this feature overview video series, we highlight new capabilities included in the latest update to Microsoft Power Apps.  Power Apps portals improvements bring new capabilities for makers and developers by providing a new identity management configuration experience with enhanced functionality to",
@@ -1234,57 +1285,6 @@
       "topics": [
         "Power Apps",
         "Portals"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-electrolock-simplifies-inventory-management-with-microsoft-power-platform.md",
-      "title": "Electrolock simplifies inventory management with Microsoft Power Platform",
-      "excerpt": "Electrolock is a premiere provider of insulation products and solutions for various manufacturing and repair industries. They partnered with a Microsoft Gold Partner, Confluent, to build an inventory management solution that uses Power Apps and Power Automate, with data being stored in Microsoft Dataverse.",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/electrolock/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/electrolock/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2020/12/Electrolock_banner2.jpg",
-          "width": 2000,
-          "height": 923,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-04T07:00:28Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
       ]
     }
   ],
