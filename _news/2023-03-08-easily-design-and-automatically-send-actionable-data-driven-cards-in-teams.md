@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/easily-design-and-autom
 webUrl: "https://powerapps.microsoft.com/en-us/blog/easily-design-and-automatically-send-actionable-data-driven-cards-in-teams/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:
