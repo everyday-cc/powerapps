@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/maker-uses-power-platfo
 webUrl: "https://powerapps.microsoft.com/en-us/blog/maker-uses-power-platform-to-help-his-daughter-manage-diabetes/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:
