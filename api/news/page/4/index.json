@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-03-01-pipelines-in-power-platform-is-generally-available-ga.md",
+      "title": "Pipelines in Power Platform is Generally Available (GA)",
+      "excerpt": "We are pleased to announce that pipelines within Power Platform is generally available. Pipelines within Power Platform aim to democratize application lifecycle management (ALM) for Power Platform and Dynamics 365 customers by bringing deployment automation capabilities into the product in a manner that&#8217;s",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/pipelines-in-power-platform-is-generally-available-ga/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/pipelines-in-power-platform-is-generally-available-ga/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/02/Pipelines-Feature-Image-e1677641332448.png",
+          "width": 487,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-01T07:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2023-02-23-kao-uses-power-apps-to-boost-frontline-worker-efficiency-by-480-hours-every-month.md",
       "title": "Kao uses Power Apps to boost frontline worker efficiency by 480 hours every month",
       "excerpt": "Kao Corporation has used Microsoft Power Platform to create digital solutions for frontline workers across their factories in Japan. A single citizen developer project resulted in an efficiency increase of 480 hours per month. This is one of the 250+ apps in use across ten facilities in Japan.",
@@ -1200,57 +1251,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-10-19T10:32:20Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-announcing-the-general-availability-of-managed-environments.md",
-      "title": "Announcing the general availability of Managed Environments",
-      "excerpt": "Dive deeper in our Managed Environments general availability announcement and learn how you can gain more visibility and control over your application ecosystem today.",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-the-general-availability-of-managed-environments/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-the-general-availability-of-managed-environments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/10/WIN23_PRO_HP_Elite_Folio_Office_003.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-12T08:55:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

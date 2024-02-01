@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-25-public-preview-of-new-custom-connector-enhancements.md",
+      "title": "Public preview of new custom connector enhancements",
+      "excerpt": "We are announcing the public preview of two new custom connector enhancements including service principal authentication support as well as the ability to use environment variables in policies. ",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/public-preview-of-new-custom-connector-enhancements/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/public-preview-of-new-custom-connector-enhancements/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/09/EnableServicePrincipalAuth.png",
+          "width": 780,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-25T09:28:52Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2023-09-12-simplifying-license-management-with-auto-claim-for-power-apps-and-licensing-insights-for-power-automate.md",
       "title": "Simplifying license management with auto-claim for Power Apps and licensing insights for Power Automate",
       "excerpt": " It is with great pleasure that we introduce the public preview of Auto-claim for Power Apps licenses, a feature that empowers administrators to effortlessly set up policies within the Microsoft 365 admin center. These policies enable automatic license assignments to unlicensed users when they engage",
@@ -1201,57 +1252,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-06-01T17:13:48Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-more-power-with-pipelines-in-power-platform.md",
-      "title": "More power with pipelines in Power Platform",
-      "excerpt": "It has been amazing to see how pipelines in Power Platform have been used over the past few months since the general availability (GA) release in March, saving companies like Lumen time and providing more accessibility to ALM. We are excited to announce that new features are now available in Pipelines!",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/more-power-with-pipelines-in-power-platform/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/more-power-with-pipelines-in-power-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/05/Blog-GIF-Overview-4.gif",
-          "width": 1822,
-          "height": 837,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-31T08:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
