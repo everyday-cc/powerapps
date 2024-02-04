@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-ja
 webUrl: "https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-january-2024-feature-update/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:
