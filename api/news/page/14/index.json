@@ -2,6 +2,57 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-02-07-january-2021-updates-for-microsoft-powerapps.md",
+      "title": "January 2021 Updates for Microsoft PowerApps",
+      "excerpt": "The January Power Apps feature recap for the Power Platform Global Bootcamp session: &#8220;What is new and exciting in Power Apps&#8221;: https://www.powerplatformbootcamp.com/",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/january-2021-updates-for-microsoft-powerapps/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/january-2021-updates-for-microsoft-powerapps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-07T09:00:18Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2021-02-01-governing-at-scale.md",
       "title": "Governing at scale",
       "excerpt": "In this feature overview video series, we highlight new capabilities included in the latest update to Microsoft Power Apps.  Microsoft's Power Platform is a rich ecosystem of more than three hundred Microsoft and non-Microsoft connectors that can be leveraged by apps and flows. We are proud to introduce",
@@ -1233,57 +1284,6 @@
       "topics": [
         "Power Apps",
         "Portals"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-power-apps-community-call-closing-out-2020-with-amazing-holiday-themed-apps-december-16th.md",
-      "title": "Power Apps Community call closing out 2020 with amazing holiday themed Apps December 16th",
-      "excerpt": "December 16th 8:00 AM PST we will have an amazing Power Apps holiday themed community call with Clarissa Gillingham, Jese Navaranjan and Sharon Sumner all hosted by our very own Todd Baginski!",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-community-call-closing-out-2020-with-amazing-holiday-themed-apps-december-16th/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-community-call-closing-out-2020-with-amazing-holiday-themed-apps-december-16th/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-11T08:00:56Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
       ]
     }
   ],

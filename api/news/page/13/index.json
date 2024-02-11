@@ -2,6 +2,58 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-03-30-announcing-general-availability-ga-of-power-apps-portals-web-api-support.md",
+      "title": "Announcing General Availability (GA) of Power Apps portals Web API support",
+      "excerpt": "We are excited to announce the generally availability (GA) of Power Apps portals Web API support with portal version 9.3.3.x that was introduced in August 2020 release as a preview feature.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-ga-of-power-apps-portals-web-api-support/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-ga-of-power-apps-portals-web-api-support/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-30T09:38:21Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Portals"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-power-apps-code-review-tool.md",
       "title": "Power Apps Code Review Tool",
       "excerpt": " I am happy to share the Power Apps Code Review tool which uses the Power Apps Language Library to process an canvas app in order to extract many useful information used in an app review",
@@ -1226,57 +1278,6 @@
       "topics": [
         "Power Apps",
         "Teams integration"
-      ]
-    },
-    {
-      "path": "_news/2021-02-07-january-2021-updates-for-microsoft-powerapps.md",
-      "title": "January 2021 Updates for Microsoft PowerApps",
-      "excerpt": "The January Power Apps feature recap for the Power Platform Global Bootcamp session: &#8220;What is new and exciting in Power Apps&#8221;: https://www.powerplatformbootcamp.com/",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/january-2021-updates-for-microsoft-powerapps/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/january-2021-updates-for-microsoft-powerapps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-07T09:00:18Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
       ]
     }
   ],
