@@ -2,6 +2,57 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-05-25-microsoft-uses-gpt-3-to-add-ai-features-to-power-apps.md",
+      "title": "Microsoft uses GPT-3 to add AI features to Power Apps",
+      "excerpt": "Microsoft says it's bringing OpenAI's language model, GPT-3, to its Power Apps platform for the purpose of generating formulas.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/25/microsoft-uses-gpt-3-to-add-ai-features-to-power-apps/",
+      "originalUrl": "https://venturebeat.com/2021/05/25/microsoft-uses-gpt-3-to-add-ai-features-to-power-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/25/microsoft-uses-gpt-3-to-add-ai-features-to-power-apps/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/25/microsoft-uses-gpt-3-to-add-ai-features-to-power-apps/amp/",
+      "publishedDateTime": "2021-05-25T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-power-automate-and-power-apps-get-new-tools-and-insights.md",
       "title": "Power Automate and Power Apps get new tools and insights",
       "excerpt": "A new process mining capability for Power Automate enables paves the path for automation insights, while new professional development tools lead the way for Power Apps in the Power Platform.",
@@ -1231,58 +1282,6 @@
       ],
       "topics": [
         "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-print-screens-in-your-canvas-app.md",
-      "title": "Print() screens in your canvas app",
-      "excerpt": "Power Apps canvas apps can now use the Print() function in order to print a screen using the default browser print dialog. ",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/print-screens-in-your-canvas-app/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/print-screens-in-your-canvas-app/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-31T10:22:55Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps",
-        "Canvas apps"
       ]
     }
   ],

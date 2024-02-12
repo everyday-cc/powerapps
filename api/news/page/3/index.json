@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-06-05-new-power-apps-home-page-now-in-public-preview.md",
+      "title": "New Power Apps home page now in public preview ",
+      "excerpt": "Our latest update features a modern design that offers an intuitive and user-friendly experience. The new layout showcases the latest AI Copilot app creation flow, plus simplified &#8220;Start from&#8221; options, making it easier than ever for you to start creating apps to solve your business needs.&nbsp;",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/new-power-apps-home-page-now-in-public-preview/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/new-power-apps-home-page-now-in-public-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/05/Home-Page-Pic_1.png",
+          "width": 3825,
+          "height": 1938,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-05T09:12:23Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2023-06-01-whats-new-power-apps-may-2023-feature-update.md",
       "title": "What’s new: Power Apps May 2023 Feature Update",
       "excerpt": "Welcome to the Power Apps monthly feature update! We will use this blog to share a summary of product, community, and learning updates from throughout the month so you can access it in one easy place. A variety of new and highly anticipated features are now available which we are very excited to share",
@@ -1224,58 +1275,6 @@
       ],
       "topics": [
         "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2023-03-08-easily-design-and-automatically-send-actionable-data-driven-cards-in-teams.md",
-      "title": "Easily design and automatically send actionable, data-driven cards in Teams",
-      "excerpt": "Cards for Power Apps is a recent addition to the low code lineup, announced as public preview in September, that empowers business users and developers alike to create interactive, embeddable, data-driven, lightweight mini-apps that bring context and actions directly into Teams conversations. Today we",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/easily-design-and-automatically-send-actionable-data-driven-cards-in-teams/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/easily-design-and-automatically-send-actionable-data-driven-cards-in-teams/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/03/cards-intelligent-suggestions.png",
-          "width": 715,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-08T10:36:25Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps",
-        "Teams integration"
       ]
     }
   ],

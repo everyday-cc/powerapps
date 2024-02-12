@@ -2,6 +2,57 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-07-12-announcing-public-preview-of-auto-updates-for-power-apps-dynamics-ce.md",
+      "title": "Announcing public preview of Auto Updates for Power Apps  Dynamics CE",
+      "excerpt": "The public preview for app auto updates",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-of-auto-updates-for-power-apps/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-of-auto-updates-for-power-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/07/auto-app-update-2-1024x419.jpg",
+          "width": 1024,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T08:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2022-07-06-review-feedback-and-ratings-from-your-users-to-improve-your-apps.md",
       "title": "Review feedback and ratings from your users to improve your apps",
       "excerpt": "Highly sought-after feature from our community and a step towards improving quality of apps built on Power Platform. ",
@@ -1189,57 +1240,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-04-18T08:33:14Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-announcing-public-preview-of-wrap-for-power-apps.md",
-      "title": "Announcing Public Preview of wrap for Power Apps",
-      "excerpt": "Introducing wrap &#8211; the brand new feature to create mobile apps with Power Apps. Power Apps is now officially a Mobile Application Development Platform (MADP/MXDP).",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-of-wrap-for-power-apps/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-of-wrap-for-power-apps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/04/wrap.png",
-          "width": 369,
-          "height": 296,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-11T09:37:02Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
