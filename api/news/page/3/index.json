@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-06-05-may-2023-updates-for-modernization-in-power-apps.md",
+      "title": "May 2023 updates for modernization in Power Apps",
+      "excerpt": "Note: This blog is in continuation of the announcement of modern controls coming to canvas apps &amp; new look for model driven apps. We thank our community and users for the active engagement on the journey to modernize Power Apps. This blog outlines the modernization updates we rolled out or are rolling",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/may-2023-updates-for-modernization-in-power-apps/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/may-2023-updates-for-modernization-in-power-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/05/image-9.png",
+          "width": 342,
+          "height": 586,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-05T11:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2023-06-05-new-power-apps-home-page-now-in-public-preview.md",
       "title": "New Power Apps home page now in public preview ",
       "excerpt": "Our latest update features a modern design that offers an intuitive and user-friendly experience. The new layout showcases the latest AI Copilot app creation flow, plus simplified &#8220;Start from&#8221; options, making it easier than ever for you to start creating apps to solve your business needs.&nbsp;",
@@ -1201,57 +1252,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-03-16T07:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-announcing-tenant-switcher-in-power-apps-mobile.md",
-      "title": "Announcing Tenant Switcher in Power Apps Mobile",
-      "excerpt": "Projects can cross company boundaries. Users need to be able to access all the apps shared to them from any tenant on all of their devices. For these scenarios, Power Apps lets users share apps with guest users from other tenants. I&#8217;m happy to announce that now it is very easy for guest users to&hellip;",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/switch-directories-in-power-apps-mobile/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/switch-directories-in-power-apps-mobile/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/01/ezgif-3-cfa2270e81-take-2.gif",
-          "width": 574,
-          "height": 1110,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-15T05:33:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
