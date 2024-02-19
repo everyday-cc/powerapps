@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/january-2024-updates-fo
 webUrl: "https://powerapps.microsoft.com/en-us/blog/january-2024-updates-for-modernization-and-theming-in-power-apps/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
