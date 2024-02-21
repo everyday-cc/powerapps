@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/copilot-now-helps-users
 webUrl: "https://powerapps.microsoft.com/en-us/blog/copilot-now-helps-users-draft-text-input-in-canvas-apps/"
 type: article
 quality: 104
-heat: 105
+heat: 106
 published: true
 
 provider:
