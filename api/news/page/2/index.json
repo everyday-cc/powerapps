@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-16-unblocking-your-path-to-build-apps-with-dataverse.md",
+      "title": "Unblocking your path to build apps with Dataverse",
+      "excerpt": "We are happy to announce public preview of Just-in-Time (JIT) Developer Environments, a smart routing that will be a game-changer for building premium apps with Dataverse. It will assess whether the app you want to build demands more permissions than what your current environment provides. In cases of",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/unblocking-your-path-to-build-apps-with-dataverse/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/unblocking-your-path-to-build-apps-with-dataverse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/10/Home-page-6.gif",
+          "width": 1902,
+          "height": 936,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-16T09:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2023-10-10-dataverse-low-code-plug-ins-now-in-public-preview.md",
       "title": "­­Dataverse Low Code Plug-ins now in public preview",
       "excerpt": "Earlier this year at Build, we launched the experimental preview of Microsoft Dataverse low code plug-ins, a new capability at forefront of the low code and extensibility story trend in modern business workflows. Today, we&#8217;re thrilled to announce that low code plug-ins are now available in public",
@@ -1201,57 +1252,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-06-13T10:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2023-06-08-introducing-an-easier-than-ever-experience-to-import-data-from-excel.md",
-      "title": "Introducing an easier than ever experience to import data from Excel",
-      "excerpt": "We are excited to announce the public preview of an easier than ever import from Excel experience. You can now upload your Excel files and turn them into full functional Dataverse tables as well as responsive canvas apps in a one-stop experience. Moreover, when Copilot is enabled, it will assist with",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/introducing-an-easier-than-ever-experience-to-import-data-from-excel/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/introducing-an-easier-than-ever-experience-to-import-data-from-excel/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/06/Excel2DV-table-preview.png",
-          "width": 1853,
-          "height": 952,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-08T09:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
