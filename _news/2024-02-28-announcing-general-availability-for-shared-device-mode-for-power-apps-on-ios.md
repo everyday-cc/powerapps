@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/announcing-general-avai
 webUrl: "https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-for-shared-device-mode-for-power-apps-on-ios/"
 type: article
 quality: 84
-heat: 84
+heat: 85
 published: true
 
 provider:
