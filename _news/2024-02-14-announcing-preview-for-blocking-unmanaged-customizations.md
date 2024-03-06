@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/announcing-public-previ
 webUrl: "https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-of-capability-to-block-unmanaged-customizations/"
 type: article
 quality: 72
-heat: 73
+heat: 72
 published: true
 
 provider:
