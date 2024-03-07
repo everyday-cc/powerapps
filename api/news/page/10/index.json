@@ -2,6 +2,57 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-09-22-microsoft-utilizes-power-platform-to-automate-a-leadership-training-program.md",
+      "title": "Microsoft utilizes Power Platform to automate a leadership training program",
+      "excerpt": "This article describes how management of the program was transformed to save time, and holistically track and monitor the program and drive actionable insights using Power Platform and Dynamics 365.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/microsoft-utilizes-power-platform-to-automate-a-leadership-training-program/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/microsoft-utilizes-power-platform-to-automate-a-leadership-training-program/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-default-image.png",
+          "width": 1600,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-22T12:00:55Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2021-09-21-generating-power-fx-formulas-from-examples.md",
       "title": "Generating Power Fx formulas from examples",
       "excerpt": "We&#8217;re thrilled to announce a new feature under Power Apps Ideas, example to formula or also known as programming by example, is now available in public preview!",
@@ -1212,57 +1263,6 @@
       "topics": [
         "Power Apps",
         "Teams integration"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-power-fx-int-trunc-weeknum-and-isoweeknum-functions.md",
-      "title": "Power Fx: Int, Trunc, WeekNum, and ISOWeekNum functions",
-      "excerpt": "Excel&#8217;s Int, Trunc, WeekNum, and ISOWeekNum functions are now available for use in Power Fx formulas.",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/power-fx-int-trunc-weeknum-and-isoweeknum-functions/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/power-fx-int-trunc-weeknum-and-isoweeknum-functions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-11T09:57:55Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
       ]
     }
   ],

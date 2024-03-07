@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-06-11-announcing-the-general-availability-of-power-apps-component-framework-for-canvas-apps.md",
+      "title": "Announcing the general availability of Power Apps component framework for Canvas apps",
+      "excerpt": "Today we are happy to announce the general availability (GA) of Power Apps component framework for canvas apps. This release marks a significant milestone for Power Apps to bridge the gap between code-first and citizen developers and offer true no-cliffs extensibility.    ",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-the-general-availability-of-the-power-apps-component-framework-for-canvas-apps/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-the-general-availability-of-the-power-apps-component-framework-for-canvas-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2021/06/PCFImportViaGetMoreComponents.gif",
+          "width": 2492,
+          "height": 1376,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-11T10:00:24Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
       "path": "_news/2021-06-10-microsoft-power-platform-stories.md",
       "title": "Microsoft Power Platform Stories",
       "excerpt": "As we wrap up the year, we would like to share with you a set of stories curated by the Power CAT team. These stories showcase the ingenuity of a wide breadth of organizations and users that have adopted low-code and Microsoft Power Platform along with Microsoft 365, Azure, and Dynamics 365. Makers of",
@@ -1230,58 +1282,6 @@
       ],
       "topics": [
         "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-improve-data-density-with-high-density-headers-in-model-driven-apps.md",
-      "title": "Improve data density with High-Density Headers in model-driven apps.",
-      "excerpt": "Build high productive forms with High-Density form headers.",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/improve-data-density-with-high-density-headers-in-model-driven-apps/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/improve-data-density-with-high-density-headers-in-model-driven-apps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-27T11:59:27Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps",
-        "Model-driven apps"
       ]
     }
   ],
