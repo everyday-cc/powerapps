@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-fe
 webUrl: "https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-february-2024-feature-update/"
 type: article
 quality: 87
-heat: 87
+heat: 90
 published: true
 
 provider:

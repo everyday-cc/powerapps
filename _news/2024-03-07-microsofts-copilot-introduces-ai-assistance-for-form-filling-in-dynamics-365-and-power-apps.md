@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsofts-copilot-introduces-ai-assistan
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsofts-copilot-introduces-ai-assistance-for-form-filling-in-dynamics-365-and-power-apps/"
 type: article
 quality: 86
-heat: 86
+heat: 87
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 428
     isCached: true
 
-secured: "X6RST/AfefdbGTBHX+6UveNKQOujhYtIBSecl4f0JkuB8Ev0QkhfOI1p9ZnVNwXRdiMfKkpZ49J//hqrQu7bk/adnRGvGHAlkFXPZp1KPvY9KofHjj0/tRGwQHENO3Z0V+6qcFDbOSQdRNV2kU56Z5hT52G+PobIGCVeFiWKqRu/o8GDBeIjY1HE7/wY3VHFnGwhNjiCpwKtCqEugVgFsm9526gFCATO4qeiR8XToiLhUrlJrIuFlxjr+7j2pF4HvHfpIEtgzrccm28Auo99iwQ4KrFZMYFgKjDHoh7/ai/Q8K4lDq3WppdLL8+zyRIGqfl/LOK1U/UTYEOCAH8Cq6MmuQu+wh9kNYNidz49StA=;NLUD6J3+xhOU8Ln1kq17WA=="
+secured: "nSTlKAsVkBoziM5lNCnOC0m5RfedK+5CdGVkpaae+qBwYLuJekyIWzIt7DL4+zmYCF7UfH9WOB7uB7ZXnDi0M4xBPR14V/OsU3YB4yZMG1YZM9wjzuSoGTbzQApyYK1dLaH+StG36/wLwsccq2Pnn9uQNljZytRr5bcmCZXcEdPKxNNPharZJWnSWEqQuyz6hP/2QA0U5P1awJ0JVAtK8YaCxdi2dpDtojq4ntY1gO5i7irznFct6EG7iwnqGlKXCnEcQx7Um/436G/VlD4pyNSWNAlLFNYupEAXSGkdg+F/ATkaQhBmTeBMF65aGUz8bDjnCqEgWZUAr4zfAvUsEFxhSpeF5Cz8DmdJOAv0gCRMJbdioH+79m0rOH3QoMkqXtAxJG1CgyQ0+uZw7Jovt8xuzJrKaBjFUtKJJ/yAlAexrQs7elkocWhnL4Qca1bcF91wge59cbsSoj8jf6Ps/nwO5uxenUV4qXNzlegLlLf8CvY7vZ9Vbw0t4p2M0mpxGGQBGRq1gKaZ/6n7G9PGxA==;aJwl8UVpuP6V3PyPipndzg=="
 ---
 
