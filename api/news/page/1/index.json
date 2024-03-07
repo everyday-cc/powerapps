@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-07-microsofts-copilot-introduces-ai-assistance-for-form-filling-in-dynamics-365-and-power-apps.md",
+      "title": "Microsoft's Copilot introduces AI assistance for form filling in Dynamics 365 and Power Apps",
+      "excerpt": "Microsoft’s Copilot has landed on a new frontier: model-driven apps in Dynamics 365 and Power Apps. With the latest update, Microsoft said it’s adding Copilot assistance to help users with tedious form filling. While the feature is still rolling out to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsofts-copilot-introduces-ai-assistance-for-form-filling-in-dynamics-365-and-power-apps/",
+      "originalUrl": "https://www.neowin.net/news/microsofts-copilot-introduces-ai-assistance-for-form-filling-in-dynamics-365-and-power-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2024/03/1709764265_dynamics-365_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/microsofts-copilot-introduces-ai-assistance-for-form-filling-in-dynamics-365-and-power-apps/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsofts-copilot-introduces-ai-assistance-for-form-filling-in-dynamics-365-and-power-apps/",
+      "publishedDateTime": "2024-03-06T22:48:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2024-03-06-copilot-assistance-for-filling-forms-is-now-in-all-model-driven-apps.md",
       "title": "Copilot assistance for filling forms is now in all model-driven apps",
       "excerpt": "We’re excited to announce Copilot assistance for form filling is now available for all model-driven apps – across Power Apps and your favorite Dynamics 365 model-driven apps!\n",
@@ -1229,57 +1280,6 @@
       "topics": [
         "Power Apps",
         "Model-driven apps"
-      ]
-    },
-    {
-      "path": "_news/2023-11-02-cards-for-power-apps-are-now-solution-aware-for-easier-application-lifecycle-management-alm.md",
-      "title": "Cards for Power Apps are now solution-aware for easier application lifecycle management (ALM)",
-      "excerpt": "Cards for Power Apps are solution-aware for application lifecycle management (ALM).",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/cards-for-power-apps-are-now-solution-aware-for-easier-application-lifecycle-management-alm/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/cards-for-power-apps-are-now-solution-aware-for-easier-application-lifecycle-management-alm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/10/solution-new-card-1.png",
-          "width": 490,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-02T06:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
       ]
     }
   ],
