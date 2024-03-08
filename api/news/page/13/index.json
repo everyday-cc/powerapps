@@ -2,6 +2,57 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-04-28-join-us-for-microsoft-business-applications-summit-may-4th-2021.md",
+      "title": "Join us for Microsoft Business Applications Summit! May 4th, 2021",
+      "excerpt": "Join CVP, Charles Lamanna, and Ryan Cunningham, and the Power Apps Team on May 4th, 2021 at Microsoft Business Applications Summit!",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/join-us-for-microsoft-business-applications-summit-may-4th-2021/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/join-us-for-microsoft-business-applications-summit-may-4th-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-28T07:03:06Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2021-04-27-improve-data-density-with-high-density-headers-in-model-driven-apps.md",
       "title": "Improve data density with High-Density Headers in model-driven apps.",
       "excerpt": "Build high productive forms with High-Density form headers.",
@@ -1230,58 +1281,6 @@
       "topics": [
         "Power Apps",
         "Model-driven apps"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-use-edit-in-excel-in-dataverse-for-teams.md",
-      "title": "Use Edit in Excel in Dataverse for Teams",
-      "excerpt": "Customers can now use &#8220;Edit in Excel&#8221; to move data between Excel and Dataverse for Teams.  ",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/use-edit-in-excel-in-dataverse-for-teams/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/use-edit-in-excel-in-dataverse-for-teams/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-22T18:34:22Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps",
-        "Teams integration"
       ]
     }
   ],

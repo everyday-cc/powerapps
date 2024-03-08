@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-09-28-western-states-caterpillar-fusion-teams-use-microsoft-power-platform-to-build-mobile-apps-for-field-staff.md",
+      "title": "Western States Caterpillar – fusion teams use Microsoft Power Platform to build mobile apps for field staff",
+      "excerpt": "Western States Caterpillar Equipment Company is an authorized Caterpillar dealer with over thousand employees and seventeen stores across five mountain states in the United States. They found creative ways to use a combination of low code and code-first solutions, with IT and business working in fusion",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/western-states-caterpillar-fusion-teams-use-microsoft-power-platform-to-build-mobile-apps-for-field-staff/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/western-states-caterpillar-fusion-teams-use-microsoft-power-platform-to-build-mobile-apps-for-field-staff/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-default-image.png",
+          "width": 1600,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-28T08:00:08Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Teams integration"
+      ]
+    },
+    {
       "path": "_news/2021-09-22-microsoft-utilizes-power-platform-to-automate-a-leadership-training-program.md",
       "title": "Microsoft utilizes Power Platform to automate a leadership training program",
       "excerpt": "This article describes how management of the program was transformed to save time, and holistically track and monitor the program and drive actionable insights using Power Platform and Dynamics 365.",
@@ -1211,58 +1263,6 @@
       ],
       "topics": [
         "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-administer-application-users-security-roles-teams-and-users-in-the-power-platform-admin-center.md",
-      "title": "Administer Application Users, Security roles, Teams, and Users in the Power Platform admin center",
-      "excerpt": "Power Platform user and team management",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/administer-application-users-security-roles-teams-and-users-in-the-power-platform-admin-center/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/administer-application-users-security-roles-teams-and-users-in-the-power-platform-admin-center/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-12T11:50:42Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps",
-        "Teams integration"
       ]
     }
   ],

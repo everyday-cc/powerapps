@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-08-prompt-engineering-made-easier-with-ai-builder.md",
+      "title": "Prompt engineering made easier with AI Builder",
+      "excerpt": "Today we are excited to launch a new set of prebuilt AI functions that can be easily added to a low-code solution without having to engineer a custom prompt. These prebuilt functions provide a great starting point to combine the power of LLMs and power of low-code, but they are just scratching the surface",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/prompt-engineering-made-easier-with-ai-builder/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/prompt-engineering-made-easier-with-ai-builder/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogmedia.azureedge.net/powerappsblog/2024/03/featured-image-3.1.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-08T08:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-new-ai-builder-capabilities-are-now-generally-available.md",
       "title": "New AI Builder capabilities are now generally available",
       "excerpt": "Two AI builder preview capabilities are now generally available. Both new capabilities can be found under the Prediction model card in AI Builder. One of them is prediction of multiple outcomes, and the other is prediction of a numerical field. Features that are generally available are considered production",
