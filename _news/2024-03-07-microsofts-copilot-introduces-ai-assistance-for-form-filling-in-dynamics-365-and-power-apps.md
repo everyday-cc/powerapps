@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsofts-copilot-introduces-ai-assistan
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsofts-copilot-introduces-ai-assistance-for-form-filling-in-dynamics-365-and-power-apps/"
 type: article
 quality: 86
-heat: 87
+heat: 86
 published: true
 
 provider:
