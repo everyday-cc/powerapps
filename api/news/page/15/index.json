@@ -2,6 +2,58 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-01-11-january-power-apps-community-call-portals-monitoring-and-azure-integration.md",
+      "title": "January Power Apps Community Call: Portals, Monitoring and Azure Integration!",
+      "excerpt": "Bring in the new year with an amazing set of Power Apps community all stars:  Brian Knighting showing how to get started with Power Apps Portals and creating anonymous access solutions with the Power Platform.  Demo Extravaganza all-star Deepak Shrivastava demystifying how to use Azure API management",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/january-power-apps-community-call-portals-monitoring-and-azure-integration/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/january-power-apps-community-call-portals-monitoring-and-azure-integration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-11T09:01:01Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Portals"
+      ]
+    },
+    {
       "path": "_news/2021-01-10-stroke-sufferer-uses-power-apps-to-help-other-survivors.md",
       "title": "Stroke sufferer uses Power Apps to help other survivors",
       "excerpt": "Modern day hero, Paul Burns shows how Power Apps can be used to help Stroke survivors regain hand and eye coordination",
@@ -1236,58 +1288,6 @@
       "topics": [
         "Power Apps",
         "Canvas apps"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-microsoft-announces-general-availability-of-new-power-apps-and-dataverse-for-teams.md",
-      "title": "Microsoft announces general availability of new Power Apps and Dataverse for Teams",
-      "excerpt": "You can now build apps and chatbots using minimal code directly within Microsoft Teams, thanks to the general availability of Power Apps and Power Virtual Agents apps, as well as Dataverse for Teams.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/microsoft-announces-general-availability-of-new-power-apps-and-dataverse-for-teams",
-      "originalUrl": "https://www.neowin.net/news/microsoft-announces-general-availability-of-new-power-apps-and-dataverse-for-teams",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/05/1590781855_microsoft_teams_4_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-announces-general-availability-of-new-power-apps-and-dataverse-for-teams/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-announces-general-availability-of-new-power-apps-and-dataverse-for-teams/",
-      "publishedDateTime": "2020-11-17T01:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps",
-        "Teams integration"
       ]
     }
   ],
