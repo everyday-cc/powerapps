@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-04-12-create-a-custom-connector-for-your-web-api-from-within-visual-studio.md",
+      "title": "Create a Custom Connector for your Web API from within Visual Studio",
+      "excerpt": "I&#8217;m excited to announce that Power Platform is now a connected service in Visual Studio 2022 Preview! Code-first developers will now be able to create both APIs and connectors from within Microsoft Visual Studio, thereby minimizing context switching when developing custom connectors for Microsoft",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/create-a-custom-connector-for-your-web-api-from-within-visual-studio/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/create-a-custom-connector-for-your-web-api-from-within-visual-studio/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/04/VS-Project.gif",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-12T08:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2023-04-05-power-apps-on-windows-updates.md",
       "title": "Power Apps on Windows updates",
       "excerpt": "We built Power Apps on Windows (General Available since June 2022) so that your apps can take advantage of advanced device capabilities and offline support from your PC or tablet. We&#8217;ve added some great new features that we&#8217;d like to share with you. What&#8217;s new? Recent and pinned apps.",
@@ -1202,57 +1253,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-01-10T08:56:58Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-power-platform-developer-tools-november-update.md",
-      "title": "Power Platform Developer Tools November update",
-      "excerpt": "We are glad to announce the release of our final 2022 deliverable, the November update for Power Platform CLI, Azure DevOps, and GitHub actions. Once again, this month’s update has some great new features available, and I am happy to share them with you. Support for Managed Identities in Azure DevOps",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/power-platform-developer-tools-november-update/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/power-platform-developer-tools-november-update/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/12/graphical-user-interface-application-description.png",
-          "width": 394,
-          "height": 491,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-14T09:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

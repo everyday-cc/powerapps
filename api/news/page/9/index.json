@@ -2,6 +2,58 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-11-08-new-dataverse-videos-currency-date-and-time-migrating-access-to-dataverse-and-dataverse-for-teams.md",
+      "title": "New Dataverse Videos! Currency, Date and Time, Migrating Access to Dataverse and Dataverse for Teams",
+      "excerpt": "Four new videos in the Dataverse series to help users better understand some of the more complex data types: Currency and Date Time. Also available: videos covering the new Access Migration feature for Dataverse and Dataverse for Teams.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/new-dataverse-videos-currency-date-and-time-migrating-access-to-dataverse-and-dataverse-for-teams/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/new-dataverse-videos-currency-date-and-time-migrating-access-to-dataverse-and-dataverse-for-teams/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-default-image.png",
+          "width": 1600,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-08T09:48:09Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Teams integration"
+      ]
+    },
+    {
       "path": "_news/2021-11-08-new-ways-to-add-intelligence-to-your-power-apps.md",
       "title": "New ways to add intelligence to your Power Apps",
       "excerpt": "Check out the new enhancements to AI Builder we announced at Microsoft Ignite to help bring AI into your Power Platform solutions.",
@@ -1222,58 +1274,6 @@
       ],
       "topics": [
         "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-power-apps-portals-create-deployment-profile-for-devtestprod-environment-using-power-apps-cli.md",
-      "title": "Power Apps portals: Create deployment profile for dev/test/prod environment using Power Apps CLI",
-      "excerpt": "You can now upload portal customization in different environment with different set of properties using portals deployment profile. You can also create multiple deployment profiles and upload portal customization to an environment by applying the profile you want.",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-portals-create-deployment-profile-for-dev-test-prod-environment-using-power-apps-cli/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-portals-create-deployment-profile-for-dev-test-prod-environment-using-power-apps-cli/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-default-image.png",
-          "width": 1600,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-04T20:41:36Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps",
-        "Portals"
       ]
     }
   ],

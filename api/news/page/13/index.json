@@ -2,6 +2,57 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-05-04-increased-alternate-key-limits.md",
+      "title": "Increased Alternate Key Limits",
+      "excerpt": "Dataverse is increasing the limits for Alternate Keys (previously known as Entity Keys). Prior to this change, each table was limited to 5 alternate keys. ",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/increased-alternate-key-limits/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/increased-alternate-key-limits/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-04T10:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2021-05-04-better-together-introducing-custom-pages-and-the-modern-app-designer.md",
       "title": "Better together: introducing Custom Pages and the Modern App Designer",
       "excerpt": "Today at the Microsoft Business Applications Summit, we&#8217;re showing off a big step forward for the unification of the platform. Bring the full flexibility of the Power Apps canvas &#8211; from unlimited UX control to hundreds of data sources &#8211; directly into model-driven applications as a custom",
@@ -1206,57 +1257,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-03-01T08:01:23Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-02-28-user-on-boarding-walkthrough-powerapps-portal-way.md",
-      "title": "User on boarding Walkthrough: PowerApps Portal way",
-      "excerpt": "On boarding users to a tenant have always been a challenge. Various solutions exist in the market and needs to be customized as per business processes.  Customizing will add to the problem of maintenance of Code.\r\n\r\nIn the blog, we are going to cover &#8220;No Code Solution&#8221; Design. Covering up",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/on-boarding-user-external-user-to-tenant-through-powerapps-portal/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/on-boarding-user-external-user-to-tenant-through-powerapps-portal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-28T10:30:51Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

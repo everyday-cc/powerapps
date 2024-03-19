@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-19-announcing-general-availability-of-built-in-dataverse-offline-for-canvas-apps.md",
+      "title": "Announcing General Availability of built-in Dataverse offline for canvas apps",
+      "excerpt": "Announcing General Availability of built-in Dataverse offline for canvas apps. Learn how to enable a Dataverse centric app for offline, how to support files and images in offline and how to optimize the user experience in offline mode \n",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-of-built-in-dataverse-offline-for-canvas-apps/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-of-built-in-dataverse-offline-for-canvas-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogmedia.azureedge.net/powerappsblog/2024/03/App-Screenahots.png",
+          "width": 3894,
+          "height": 3736,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-19T03:11:32Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
       "path": "_news/2024-02-20-copilot-now-helps-users-draft-text-input-in-canvas-apps.md",
       "title": "Copilot now helps users draft text input in canvas apps",
       "excerpt": "We&#8217;re excited to announce Copilot assistance for inputting text when using Canvas apps. This new feature leverages the power of AI to help users craft well-written text, simplifying and speeding up the process of entering text in an app.\n",

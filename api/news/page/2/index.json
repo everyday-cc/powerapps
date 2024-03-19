@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-11-15-power-apps-accelerates-the-shift-toward-modern-ai-infused-apps-with-governance-at-scale.md",
+      "title": "Power Apps accelerates the shift toward modern, AI-infused apps with governance at scale",
+      "excerpt": "In this era of AI, organizations are presented with both an opportunity and a challenge. They must quickly transform all their solutions to better meet business needs to remain relevant and competitive.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-accelerates-the-shift-toward-modern-ai-infused-apps-with-governance-at-scale/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-accelerates-the-shift-toward-modern-ai-infused-apps-with-governance-at-scale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/11/CLO23_WorkAnywhere_021_1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-15T08:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2023-11-09-simplified-license-assignment-for-power-apps.md",
       "title": "Simplified License Assignment for Power Apps",
       "excerpt": "Introducing Easier License Management for Power Apps Starting in December 2023 we are introducing a set of changes which will make it easier for admins to manage license assignments for Power Apps per-user licenses. We understand the complexities admins face when identifying users in need of Power Apps",
@@ -1210,57 +1261,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2023-08-01-copilot-now-powers-deployment-notes-for-pipelines-in-power-platform.md",
-      "title": "Copilot now powers deployment notes for pipelines in Power Platform",
-      "excerpt": "Now announcing the Public Preview of Copilot-generated deployment notes for pipelines in Power Platform. Copilot comes to the pipelines deployment experience to help makers generate useful solution descriptions with AI, saving valuable time and providing accurate information in seconds.",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/copilot-now-powers-deployment-notes-for-pipelines-in-power-platform/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/copilot-now-powers-deployment-notes-for-pipelines-in-power-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/07/pipeline-AI-deployment-notes.gif",
-          "width": 1920,
-          "height": 964,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-01T08:07:58Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
