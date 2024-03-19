@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/pipelines-for-all-publi
 webUrl: "https://powerapps.microsoft.com/en-us/blog/pipelines-for-all-public-preview-easily-set-up-pipelines-in-power-platform/"
 type: article
 quality: 70
-heat: 70
+heat: 71
 published: true
 
 provider:
