@@ -105,6 +105,58 @@
       ]
     },
     {
+      "path": "_news/2024-03-14-modern-refreshed-look-and-feel-for-model-driven-apps-on-by-default.md",
+      "title": "Modern, refreshed look and feel for model-driven apps on by default",
+      "excerpt": "Modern, refreshed look and feel for model-driven apps on by default\n",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/modern-refreshed-look-and-feel-for-model-driven-apps-on-by-default/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/modern-refreshed-look-and-feel-for-model-driven-apps-on-by-default/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogmedia.azureedge.net/powerappsblog/2024/03/DateTimeEntryUpdates.gif",
+          "width": 661,
+          "height": 255,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-14T11:11:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Model-driven apps"
+      ]
+    },
+    {
       "path": "_news/2024-03-14-introducing-inline-actions.md",
       "title": "Introducing inline actions",
       "excerpt": "Speed up your canvas app creation using new inline actions. \n",
@@ -1206,57 +1258,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-11-20T09:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2023-11-16-direct-power-fx-dataverse-action-invocation-ga.md",
-      "title": "Direct Power Fx Dataverse action invocation GA",
-      "excerpt": "We are pleased to announce the general availability of the direct invocation of Dataverse actions in Power Fx Canvas apps. As a part of the Power Fx language, authors can now directly invoke a Dataverse action within a formula. A new Power Fx &#8216;Environment&#8217; language object that authors can",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/direct-power-fx-dataverse-action-invocation-ga/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/direct-power-fx-dataverse-action-invocation-ga/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/02/hooking-up-an-action-to-a-button-1.png",
-          "width": 648,
-          "height": 284,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-16T10:36:52Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
