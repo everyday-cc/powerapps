@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/announcing-general-avai
 webUrl: "https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-of-built-in-dataverse-offline-for-canvas-apps/"
 type: article
 quality: 101
-heat: 101
+heat: 102
 published: true
 
 provider:
