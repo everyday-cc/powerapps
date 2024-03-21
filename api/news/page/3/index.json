@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-08-03-new-power-apps-home-page-now-generally-available-with-expanded-copilot-access.md",
+      "title": "New Power Apps home page now generally available with expanded Copilot access",
+      "excerpt": "We are excited to announce that the new Power Apps home page is now generally available for all users. The new home page features a modern design that offers an intuitive and user-friendly experience. The new layout showcases the latest AI Copilot app creation flow, plus simplified “Start from” options,",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/new-power-apps-home-page-now-generally-available-with-expanded-copilot-access/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/new-power-apps-home-page-now-generally-available-with-expanded-copilot-access/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/07/New_NL2table_e2e.gif",
+          "width": 2250,
+          "height": 1205,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-03T08:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2023-08-01-low-code-ai-with-power-apps-and-power-automate.md",
       "title": "Low code AI with Power Apps and Power Automate",
       "excerpt": "Microsoft's AI Builder introduces low-code generative AI capabilities to Power Apps and Power Automate. Let's see how the preview features stack up.",
@@ -1201,57 +1252,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-04-24T13:36:52Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-improved-variables-and-collections-experience-in-canvas-designer.md",
-      "title": "Improved variables and collections experience in Canvas Designer",
-      "excerpt": "Creating variables and collections is an essential part of the app building process. Therefore, we are excited to announce the general availability of an improved, seamless experience that enables makers to see variables and collections directly in-line with the canvas designer! Gone are the days of",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/improved-variables-and-collections-experience-in-canvas-designer/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/improved-variables-and-collections-experience-in-canvas-designer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/04/8-3.png",
-          "width": 1468,
-          "height": 826,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-24T10:02:37Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
