@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-25-redeploy-past-solution-versions-using-pipelines.md",
+      "title": "Redeploy past solution versions using pipelines",
+      "excerpt": "Need to roll back to a previous solution version in your production environment? Now you can with pipelines! Pipelines have guard rails in place to ensure that solutions are rolled back in a safe way that follows ALM best practices.\n",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/redeploy-past-solution-versions-using-pipelines/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/redeploy-past-solution-versions-using-pipelines/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogmedia.azureedge.net/powerappsblog/2024/03/pipeline-redeploy.png",
+          "width": 2558,
+          "height": 1292,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-25T09:00:17Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2024-03-20-control-access-to-dataverse-with-ip-firewall-secure-your-data-with-ease.md",
       "title": "Control Access to Dataverse with IP Firewall: Secure Your Data with Ease",
       "excerpt": "Key Benefits:\nAccess Control: With the IP firewall, Power Platform administrators can configure IP restrictions on each environment. This means you can allow access to Dataverse only from specific IP ranges, ensuring that your data remains secure.\nRisk Mitigation: By restricting access to authorized",
@@ -1229,58 +1280,6 @@
       ],
       "topics": [
         "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2023-11-22-announcing-general-availability-for-model-driven-apps-offline-for-maker.md",
-      "title": "Announcing General Availability for model-driven apps offline for maker",
-      "excerpt": "Do your users need to work on the go with spotty connectivity? With model-driven apps offline for makers experience in general availability, it is now easier than before to set up an app to work offline. After enabling your model-driven apps for offline, people in your organization can work seamlessly",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-for-model-driven-apps-offline-for-maker/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-for-model-driven-apps-offline-for-maker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/07/OfflineForMaker-1024x669.jpg",
-          "width": 1024,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-22T05:24:13Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps",
-        "Model-driven apps"
       ]
     }
   ],
