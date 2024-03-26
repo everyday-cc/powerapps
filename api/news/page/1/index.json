@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-26-working-with-solution-dependencies-for-objects-made-easier.md",
+      "title": "Working with solution dependencies for objects made easier",
+      "excerpt": "We are super excited to announce the refreshed look of solution dependencies for component. The solution dependencies page for component is better organized, easy to understand and loaded with essential actions that helps to identify the dependencies and take appropriate actions.\n",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/working-with-solution-dependencies-for-components-made-easier/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/working-with-solution-dependencies-for-components-made-easier/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogmedia.azureedge.net/powerappsblog/2024/03/componentdependencies.png",
+          "width": 1295,
+          "height": 830,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-26T08:00:23Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2024-03-25-redeploy-past-solution-versions-using-pipelines.md",
       "title": "Redeploy past solution versions using pipelines",
       "excerpt": "Need to roll back to a previous solution version in your production environment? Now you can with pipelines! Pipelines have guard rails in place to ensure that solutions are rolled back in a safe way that follows ALM best practices.\n",
@@ -1206,57 +1257,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-11-28T08:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2023-11-27-application-modernization-with-power-platform.md",
-      "title": "Application modernization with Power Platform",
-      "excerpt": "The low-code development capabilities of Microsoft Power Platform make it possible to build and deploy modern applications faster and more cost-effectively than ever before. Whether you’re a citizen developer tinkering around the edges or a professional developer working on a complex customization, you",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/application-modernization-with-power-platform/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/application-modernization-with-power-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/11/appmod.jpeg",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-27T13:10:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

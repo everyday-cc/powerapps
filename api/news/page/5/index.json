@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-01-26-making-dataverse-available-for-all-makers.md",
+      "title": "Making Dataverse available for all makers",
+      "excerpt": "Working with Dataverse is now becoming easier with &#8216;Developer environment&#8217; that comes with premium capabilities, without any additional cost. You can work on Power Platform using Dataverse for building applications where now you can work with relationship modeling in Canvas applications,",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/making-it-easier-to-work-with-dataverse/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/making-it-easier-to-work-with-dataverse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/01/PreviewDemo-7.gif",
+          "width": 1924,
+          "height": 1014,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-26T16:34:03Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2023-01-25-ip-based-cookie-binding-in-dataverse-is-generally-available.md",
       "title": "IP based cookie binding in Dataverse is Generally Available.",
       "excerpt": "We are pleased to announce that IP based cookie binding in Dataverse is Generally Available (GA) for all our customers. This security feature will&nbsp;allow the administrators to safeguard Dataverse platform by blocking the cookie replay attack . IP cookie binding in Dataverse IP based cookie binding",
@@ -1201,57 +1252,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-09-08T09:00:08Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2022-09-07-announcing-public-preview-of-content-security-policy-for-power-apps.md",
-      "title": "Announcing public preview of Content Security Policy for Power Apps",
-      "excerpt": "We&#8217;re excited to announce the public preview of Content Security Policy (CSP) configuration for Power Apps. CSP can be configured using the settings under the Privacy + Security settings section of an environment in Power Platform Admin Center.",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-of-content-security-policy-for-power-apps/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-of-content-security-policy-for-power-apps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2022/08/image-14.png",
-          "width": 778,
-          "height": 373,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-07T08:01:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
