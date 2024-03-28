@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/working-with-solution-d
 webUrl: "https://powerapps.microsoft.com/en-us/blog/working-with-solution-dependencies-for-components-made-easier/"
 type: article
 quality: 72
-heat: 73
+heat: 72
 published: true
 
 provider:
