@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-04-26-recent-improvements-to-the-modern-app-designer.md",
+      "title": "Recent improvements to the Modern App Designer",
+      "excerpt": "The Modern App Designer has been generally available since May 2022, and since then we’ve have been closely monitoring feedback from makers. Therefore, we are pleased to announce the release of a series of significant improvements to improve maker productivity when building in the Modern App Designer.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/recent-improvements-to-the-modern-app-designer/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/recent-improvements-to-the-modern-app-designer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/04/ImprovedMakerNavigationMAD.gif",
+          "width": 2332,
+          "height": 1177,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-26T13:34:49Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2023-04-25-update-forms-and-views-more-conveniently-with-table-designer.md",
       "title": "Update forms and views more conveniently with table designer",
       "excerpt": "We are pleased to announce the public preview of Update forms and views feature in table designer. With this new experience, makers can now add columns to their forms and views on the fly, instead of navigating away from their table to update their forms and views manually. This also means when working",
@@ -1202,57 +1253,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-02-02T08:12:29Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2023-02-02-the-new-look-for-model-driven-power-apps-is-available-now-in-preview.md",
-      "title": "The new look for model driven Power Apps is available now in preview",
-      "excerpt": "Today, we’re announcing a public preview of the new model driven app experience and providing an update on new controls coming to canvas apps in the spring timeframe. Before driving into the details on what the new model driven app experience brings, I want to provide some context about the enhancements",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/the-new-look-for-model-driven-power-apps-is-available-now-in-preview/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/the-new-look-for-model-driven-power-apps-is-available-now-in-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/02/image-1.png",
-          "width": 975,
-          "height": 589,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-02T08:08:45Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
