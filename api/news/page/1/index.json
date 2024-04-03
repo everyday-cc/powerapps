@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-04-03-introducing-new-copilot-answer-control-public-preview.md",
+      "title": "Introducing new copilot answer control (Public Preview)",
+      "excerpt": "Frontline workers using their phone to access Power Apps  need access to AI-synthesized information inline.    This control enables makers to set predefined prompt that end users can quickly use to get insights using a single click, powered by Microsoft Copilot. This control has been optimized for mobile",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/introducing-new-copilot-answer-control-public-preview/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/introducing-new-copilot-answer-control-public-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogmedia.azureedge.net/powerappsblog/2024/04/CPA04.png",
+          "width": 779,
+          "height": 342,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-04-03T08:00:02Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2024-04-02-microsoft-copilot-and-power-apps-transforming-how-people-engage-with-apps.md",
       "title": "Microsoft Copilot and Power Apps transforming how people engage with apps",
       "excerpt": "App Copilot features boosting end-user app productivity\n",
@@ -1206,57 +1257,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-12-07T08:59:59Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-accelerate-developer-productivity-with-microsoft-power-platform.md",
-      "title": "Accelerate developer productivity with Microsoft Power Platform",
-      "excerpt": "Microsoft Power Platform developer tools are enabling professional developers to create more effective business solutions using Power Platform. Learn more.\n",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/accelerate-developer-productivity-with-microsoft-power-platform/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/accelerate-developer-productivity-with-microsoft-power-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogmedia.azureedge.net/powerappsblog/2023/12/MSC24-India-business-Adobe-550638570-rgb_1200.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T05:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
