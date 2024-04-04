@@ -3,8 +3,8 @@ category: news
 title: "Easier than ever experience to import data from SharePoint List"
 excerpt: "Announcing public preview of SharePoint List to table and app\n"
 publishedDateTime: 2024-04-04T11:43:58Z
-originalUrl: "https://powerapps.microsoft.com/en-us/blog/__trashed-2/"
-webUrl: "https://powerapps.microsoft.com/en-us/blog/__trashed-2/"
+originalUrl: "https://powerapps.microsoft.com/en-us/blog/easier-than-ever-experience-to-import-data-from-sharepoint-list/"
+webUrl: "https://powerapps.microsoft.com/en-us/blog/easier-than-ever-experience-to-import-data-from-sharepoint-list/"
 type: article
 quality: 72
 heat: 72
@@ -27,6 +27,6 @@ images:
     height: 1325
     isCached: true
 
-secured: "kq1DQsnD3cUB3EHy1GYybc6maWMkA/aMI0KK4TtEETLefmHko0DQ46RabgIzNAcR1gBHiCRma2yOxJ8TpaKbRGEHFd06X2E+2AaxhTqoy7PXNTXxfYOUTVtwhe2pOVc2Lq1fJEtj3yNLZg7xv9YdIfH8JvNWWNfhTwIPEpbvfRLaGbmPXP2cYtmn74q10jvQWxbXwgYt0hdxyAtX4aMeqTvDU7B3ocWbZ6AAJDzbS0G6EJy43QD8d0JI7kegbCJE9+mDDC900vaETfl4blIw/fEWZ686BZEpGs35vOr9vkuM2IWv44KtQQX8twJOfa7t2qVbSUiOyZSPiIYOU0pdK8d9uaBc9i5l8uhFL4Huhhw=;8HGIJv0LQ+PhNdcIG8hODQ=="
+secured: "jiENVeOVKw1BlD597vjzcxN2b9UlDgebNfQ3YPRV7aRG2VIADHNs4szvcPZBgoeTO53vmHnAOFzOnUtg7h0e/rQ8hrlGmLnPvsVVGuaJgMkGcFcZEMUTRicS1+hsRLBcKWp9S/+1hgKpjIyukkfFVPtZeGhUW63KhT5KGtVN49lRXQ+xn5BZPPZRmG0CoKgBNNZb5Y9PPA1Mu6Qa5GtgszSCHxffsxrAQQmxRa/NYZlAvxHZuH8cmj08bWtQm49OXuqefmEjRbqI5HNuLk7Q7WYoyV03i1IoRKBFlypD/SGLbWEc8GrjxIqyc1DsxSZ9wwfGXOxunB5yKgdMqIumvEcXXOAUnFQVjsUfIlMNWps=;D/CE+SWreEJwDSr33XzjWQ=="
 ---
 
