@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-12-07-building-new-apps-and-tables-with-maker-copilot-is-now-available-worldwide.md",
+      "title": "Building new apps and tables with Maker Copilot is now available worldwide",
+      "excerpt": "We are excited to announce that the Build apps through conversation capability is now available globally on make.powerapps.com.\n",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/build-apps-through-conversation-copilot-capability-now-available-worldwide/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/build-apps-through-conversation-copilot-capability-now-available-worldwide/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogmedia.azureedge.net/powerappsblog/2023/12/NewNL2table.gif",
+          "width": 2199,
+          "height": 1242,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-07T08:59:59Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2023-12-05-accelerate-developer-productivity-with-microsoft-power-platform.md",
       "title": "Accelerate developer productivity with Microsoft Power Platform",
       "excerpt": "Microsoft Power Platform developer tools are enabling professional developers to create more effective business solutions using Power Platform. Learn more.\n",
@@ -1204,57 +1255,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-09-12T07:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-canvas-built-in-offline-is-now-just-one-click-away.md",
-      "title": "Canvas built-in offline is now just one click away!",
-      "excerpt": "We are pleased to announce the Public preview of mobile offline for canvas apps on iOS, Android and Windows devices. Mobile offline has been available in Experimental Preview since May 2023. We&#8217;ve been listening to your feedback and we&#8217;re excited to make this feature available by default",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/canvas-built-in-offline-is-now-just-one-click-away/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/canvas-built-in-offline-is-now-just-one-click-away/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2023/09/Offline-First-3.png",
-          "width": 1024,
-          "height": 1014,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-11T06:58:30Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
