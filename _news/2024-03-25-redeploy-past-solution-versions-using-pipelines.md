@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/redeploy-past-solution-
 webUrl: "https://powerapps.microsoft.com/en-us/blog/redeploy-past-solution-versions-using-pipelines/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:
