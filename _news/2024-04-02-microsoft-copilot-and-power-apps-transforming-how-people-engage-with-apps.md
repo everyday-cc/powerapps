@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/microsoft-copilot-and-p
 webUrl: "https://powerapps.microsoft.com/en-us/blog/microsoft-copilot-and-power-apps-transforming-how-people-engage-with-apps/"
 type: article
 quality: 86
-heat: 87
+heat: 86
 published: true
 
 provider:
