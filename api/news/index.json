@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-04-11-april-2024-alm-blog-whats-new-and-what-it-means-for-you.md",
+      "title": "April 2024 ALM blog: What’s new and what it means for you",
+      "excerpt": "This post captures a large number of new and recent updates in context of the broader vision and user journey for ALM in Power Platform. Learn about these capabilities, how they work together, and how to align your organization’s ALM strategy for the next generation of growth.\n",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/alm-for-your-entire-organization-april-2024-update/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/alm-for-your-entire-organization-april-2024-update/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogmedia.azureedge.net/powerappsblog/2024/04/cross-geo-deployments.png",
+          "width": 697,
+          "height": 272,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-04-11T08:00:16Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2024-04-08-march-2024-updates-for-modernization-and-theming-in-power-apps.md",
       "title": "March 2024 updates for modernization and theming in Power Apps",
       "excerpt": "March update to modern controls in canvas apps, including a new control, table enhancements and updates to authoring in Power Apps.\n",
@@ -10,7 +61,7 @@
       "originalUrl": "https://powerapps.microsoft.com/en-us/blog/march-2024-updates-for-modernization-and-theming-in-power-apps/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1206,57 +1257,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2024-02-05T10:19:07Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerapps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-whats-new-power-apps-january-2024-feature-update.md",
-      "title": "What’s new: Power Apps January 2024 Feature Update",
-      "excerpt": "Welcome to the Power Apps monthly feature update! We will use this blog to share a summary of product, community, and learning updates from throughout the month so you can access it in one easy place.\n",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-january-2024-feature-update/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-january-2024-feature-update/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerappsblogmedia.azureedge.net/powerappsblog/2024/01/NL2TableCrossGeo2d.gif",
-          "width": 2062,
-          "height": 1220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-31T18:35:15Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
