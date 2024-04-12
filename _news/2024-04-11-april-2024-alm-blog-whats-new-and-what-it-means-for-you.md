@@ -7,7 +7,7 @@ originalUrl: "https://powerapps.microsoft.com/en-us/blog/alm-for-your-entire-org
 webUrl: "https://powerapps.microsoft.com/en-us/blog/alm-for-your-entire-organization-april-2024-update/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:
